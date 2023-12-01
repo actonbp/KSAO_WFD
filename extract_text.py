@@ -3,6 +3,7 @@ import fitz  # PyMuPDF
 import matplotlib.pyplot as plt
 from collections import Counter
 import re
+# Load packages above
 
 
 def extract_text_from_pdf(pdf_path):
