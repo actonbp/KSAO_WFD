@@ -1,7 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*pip-wheel-metadata/
+.Python
+env/
+venv/
+ENV/
+# Conda
+.conda/
+# macOS
+.DS_Store
+# Jupyter Notebook
+.ipynb_checkpoints
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+# Data & Output (Consider if these should be versioned if small/critical)
+# embeddings/
+# text_output/
+# Scan/
+# images/ # If images are very large raw inputs, consider ignoring
+# Temp files
+*.tmp
+*.bak
+# Logs
+*.log
+# Cache files
+.cache/
+.pytest_cache/
+.mypy_cache/
+# Distribution / packaging
+.eggs/
+*.egg-info/
+dist/
+build/
+*.tar.gz
+*.zip
+# Original AL Project Ignores (Retained)
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
-.vscode/
+# .vscode/ # Already covered above
 #Cache folder
 .alcache/
 #Symbols folder

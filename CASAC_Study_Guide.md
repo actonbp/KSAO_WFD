@@ -1,0 +1,950 @@
+# CASAC 350 HR Program Study Guide
+
+This study guide is organized by topics automatically detected in the text.
+
+## Topic 0: substance, this, that, with, their
+
+### From Page 1
+
+CHAPTER 1:
+
+SCIENTIFIC PERSPECTIVES
+
+ON SUBSTANCE USE DISORDERS
+AND RECOVERY
+
+
+
+---
+
+### From Page 2
+
+Stages and Cycles in the Development of Substance Use Disorders2”
+
+Substance use disorders are chronic relapsing conditions that evolve through various cycles and a continuum
+
+of stages, each characterized by distinct neurobiological and behavioral changes. Understanding these stages is
+crucial for effective treatment interventions. Historically, there have been differing versions of the Stages that lead to SUDs; however, all show similar stages
+and associated behaviors.
+
+---
+
+### From Page 2
+
+Here are some examples:
+
+» Four stage mode: Use, Misuse, Abuse, Dependency/Addiction
+
+» Five stage model: Experimentation, Regular Use, Risky Use/Abuse, Dependence, Addiction
+
+» Six stage model: Initial use, Abuse, Tolerance, Dependence, Addiction, Relapse
+
+Substance use occurs on a continuum - ranging from no use to beneficial/medicinal use, non~problematic use,
+problematic use, harmful use, and substance use disorder. Consider¢his modern depiction of the continuum. BENEFICIAL NON- PROBLEMATIC POTENTIALLY SUBSTANCE
+
+USE » PROBLEMATIC.
+
+---
+
+### From Page 2
+
+USE HARMFUL USE
+USE USE DISORDER
+Taking a substance for Periodic use without Patterns of risky use Regular patterns ofuse Uncontrolled use of a
+an intended use, such hamful side effects or that threaten a that are leading to substance despite
+as medicinal impacts person’s health or harmful impacts harmful consequences
+
+safety, and the safety
+of others
+
+1. No Use to Beneficial/Medicinal Use: Some individuals never use psychoactive substances, while others
+may use them for medicinal purposes without any harmful effects or addiction. 2.
+
+---
+
+### From Page 2
+
+Non-problematic Use: This involves using substances in ways that are not risky or harmful. For a
+significant number of people, substance use does not lead to addiction or problematic behaviors. 3.
+
+---
+
+### From Page 2
+
+Problematic Use: This stage is characterized by a pattern of use that begins to have negative impacts on a
+person’s life. It includes hazardous or risky use, which can lead to social and personal problems. 4.
+
+---
+
+### From Page 2
+
+Harmful Use: This stage involves repetitive substance use that causes physical or psychiatric harm. It is
+more severe than problematic use and can lead to significant health and social issues. 5.
+
+---
+
+### From Page 2
+
+Substance Use Disorder: This is the most severe stage, where there is a compulsive need to use the
+substance despite harmful consequences. It involves a combination of behavioral, cognitive, and
+
+physiological symptoms indicating that an individual continues using the substance despite significant
+substance-related problems.
+
+---
+
+### From Page 3
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery 19
+
+It is important to look at specific behaviors and biological states that
+
+are central to these stages: impulsivity, positive reinforcement, negative
+reinforcement, tolerance, dependence, craving, withdrawal, compulsivity,
+and recurrence. Initial substance use usually involves an element of impulsivity or
+
+acting without foresight or regard for the consequences. For example, an
+adolescent may impulsively take a first drink, smoke a cigarette, begin
+experimenting with marijuana, or succumb to peer pressure to try a party
+drug.
+
+---
+
+### From Page 3
+
+Likewise, if drinking or
+using drugs with others provides relief from social isolation, substance
+use behavior could be negatively reinforced. oe
+
+4
+The positively reinforcing effects of substances tend to diminish with
+repeated use. This is tolerance which is an alteration of the body’s
+responsiveness to alcohol, drugs, and other substances such that higher
+doses are required to produce the same effect achieved during initial use.
+
+---
+
+### From Page 3
+
+Tolerance refers toa reduced
+response to.a substance due to
+repeated use. It is an alteration
+
+of the body’s responsiveness to
+alcohol, drugs, and other substances
+such that higher doses are required
+to produce the same effect achieved
+during initial use. with a smaller dose.
+
+---
+
+### From Page 3
+
+This physiological change often leads to increased consumption of the substance, which
+can contribute to the risk of developing an SUD. Tolerance is a key component in understanding SUDs and is
+
+indicative of the body’s adaptation to the presence of the substance. Cross-tolerance refers to a phenomenon where tolerance to one substance results in a diminished response to
+a second substance, often due to their similar pharmacological effects or mechanisms of action.
+
+---
+
+### From Page 3
+
+In other words,
+there is a decrease in response to one substance due to exposure to another substance. For example, many
+different drugs in the same class of drugs, such as narcotic painkillers (e.g., Vicodin, OxyContin, morphine,
+heroin, etc.) are very similar in chemical structure and affect the same group of neurons in the brain. Because
+drugs in the same or similar classes work on the same aspects of the central nervous system, it is quite
+possible to develop a cross tolerance to drugs in the same class.
+
+---
+
+### From Page 3
+
+For example, users with a high tolerance to the
+stimulant amphetamine may also exhibit a high tolerance to structurally similar methamphetamine or other
+
+amphetamine-like stimulants. Physical dependence is a body’s natural reaction when certain substances are used for an extended period. It
+encompasses specific physiological and biological changes in the body that occur as it adapts to the continuous
+
+presence of the substance.
+
+---
+
+### From Page 4
+
+10 IC&RE Alcohol and Drug Counselor (adc) Certification Examination Study Guide
+
+INTRODUCTION
+
+At the outset of this study guide it is important to address terminology. Clear language and terminology are
+critically important in communicating current understandings of disease, risk factors, diagnosis, prognosis,
+treatment options, health, and wellness. Historically, the term “addiction” has been used to describe the most
+serious and chronic use of substances.
+
+---
+
+### From Page 4
+
+Today, the term “substance use disorder” is preferred and will be widely
+used in this publication. The term “addiction” is often viewed as less preferable in contemporary discussions due to a few key reasons:
+
+1. Stigmatization: The word “addiction” can carry negative connotations and stigma.
+
+---
+
+### From Page 4
+
+This stigma can be a
+barrier to seeking help, as individuals might fear being judged or labeled negatively. 2. Medical and Psychological Understanding: The understanding of substance use disorders has evolved.
+
+---
+
+### From Page 4
+
+Terms like “substance use disorder” are more precise and reflect a medical and psychological perspective,
+focusing on the condition as a complex interplay of biological, psychological, and social factors. 3. Person-First Language: Current use of person-first language removes the definition of people by their
+condition (“addict”) and uses person-first language (“person with a substance use disorder”) that
+acknowledges their humanity and the complexity of their experience.
+
+---
+
+### From Page 4
+
+4. Recovery and Treatment Focus: Using more neutral and clinical terms can help in focusing on recovery
+and treatment rather than the moral or character implications often associated with the term “addiction.”
+ge
+é
+5. Diversity of Experiences: “Addiction” often fails to capture the diversity and complexity of people’s
+experiences with substances.
+
+---
+
+### From Page 4
+
+Different individuals may have vastly different journeys, and a single term
+may not adequately encompass these variations. oa
+
+6. Public Policy and Funding: Language can influence public perception and policy.
+
+---
+
+### From Page 4
+
+Using terms that reduce
+stigma and emphasize the medical nature of the condition can lead to better support, funding, and
+resources for treatment and research. It is important to note, however, that language and terminology preferences can vary among individuals,
+communities, and professionals. Some people may still use the term “addiction” while others prefer more
+updated terminology.
+
+---
+
+### From Page 4
+
+This study guide will include “addiction” judiciously as research articles and other
+publications cited may use this term. These works have contributed to the history of our modern understanding
+of substance use and substance use disorders. In addition, terminology has shifted from the use of “substance abuse.” Today, it is recommended that
+substance use be used to describe all substances (including alcohol, illegal or prescription drugs, and other
+substances) and that classifications of substance use refer to severity specifiers (e.g., mild, moderate, severe) to
+indicate the severity of use.?
+
+---
+
+### From Page 4
+
+The term, problematic substance use means the use of any substance in a manner, situation, amount, or
+frequency that causes harm to the person using the substance or to those around them. It replaces substance
+misuse. This term generally refers to usage that is considered moderate; however, use at the level of a substance
+use disorder is also problematic.
+
+---
+
+### From Page 4
+
+Substance use disorder (SUD) is on the severe end of the continuum. It is uncontrolled use of a substance
+despite harmful consequences. People with an SUD have an intense focus on using a certain substance(s) to
+the point where the person’s ability to function in day-to-day life becomes impaired.
+
+---
+
+### From Page 4
+
+People keep using the
+substance even when they know it is causing or will cause problems.”
+
+
+
+---
+
+### From Page 5
+
+—
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery
+
+Lastly, we chose to use the term elient in this publication to represent people accessing and using substance
+
+use related services. There has been recent opposition to the use of “client,” as well as the term “patient,” as
+opponents believe it is disempowering and suggests an unequal healthcare relationship. Other terms, such
+
+as “person served,” “consumer,” or “service user,” have been suggested as replacements.
+
+---
+
+### From Page 5
+
+It is widespread
+practice, however, for therapists and counselors in non-medical, behavioral health settings to use “client,”
+while practitioners in other healthcare settings generally use the term “patients.” A search of current practice
+publications related to treating substance use disorders shows the use of “client” in current publications from
+the Substance Abuse and Mental Health Services Administration (SAMHSA.) Given the familiarity with the term,
+current usage, and ease of writing, the term “client” was selected for this publication with the full intent that
+this term represents today’s person-centered healthcare practices. Overall, the commitment of this study guide is to use language that is respectful, non-stigmatizing, and aligns
+with current professional understanding.
+
+---
+
+### From Page 6
+
+12 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+CURRENT SCIENTIFIC PERSPECTIVES
+ON ADDICTION
+
+Scientific breakthroughs have revolutionized the understanding of substance use disorders. For example, severe
+substance use disorders, were once viewed as a moral failing or character flaw but are now understood to be
+chronic illnesses characterized by clinically significant impairments in health, social function, and voluntary
+control over substance use. Although the mechanisms may be different, SUDs have many features in common
+with disorders such as diabetes, asthma, and hypertension.
+
+---
+
+### From Page 6
+
+It is considered as a brain disorder because it involves functional
+changes to brain circuits involved in reward, stress, and self-control. Those changes‘may last a
+
+long time after a person has stopped taking drugs.”
+
+The American Society of Addiction Medicine (ASAM) updated their definition of addiction in 2019 to reflect a
+modern understanding and acceptance of addiction as a chronic brain disease, the possibility of remission and
+recovery, and the roles of prevention and harm reduction in the spectrum of addiction and recovery.‘
+
+“Addiction is a treatable, chronic medical disease involving complex interactions among brain
+circuits, genetics, the environment, and an individyal#tife experiences. People with addiction
+use substances or engage in behaviors that become compulsive and often continue despite
+harmful consequences.
+
+---
+
+### From Page 6
+
+Prevention efforts and treatment approaches for addiction are generally
+as successful as those for other chronic diseases.”
+
+Repeated substance use can lead to brain changes that challenge a person’s self-control and interfere with their
+ability to resist intense urges to take the substance. These brain changes can be persistent, which is why an
+
+SUD is considered a “relapsing” disease. People in recovery from an SUD are at increased risk for returning to
+substance use even after years of not taking the substance.
+
+---
+
+### From Page 6
+
+Theories of Causation and Factors that Influence Addiction
+
+There are many theories about the causes of substance use disorders. Biology, psychology, and social and cultural
+elements all interplay in complex ways that result in SUDs. Varying theories weigh the elements differently.
+
+---
+
+### From Page 6
+
+Together they reflect the fact that there is no one path to an SUD, and no one factor that determines an
+inevitable outcome. Two general and identifiable sets of views about the causation of addiction have persisted itt
+the public domain: biological/disease views and moral views. The moral model views addiction as a result of personal weakness, initiated for self-gratification and continued
+because of an unwillingness or lack of sufficient willpower to stop In this model, problematic behaviors are
+
+seen not as symptoms of a disease or disorder, but rather as the result of bad choices driven by poor character Gr
+ethical weakness.
+
+---
+
+### From Page 6
+
+This perspective often leads to stigmatization and blame placed on the individual rather than
+considering biological, psychological, or socio-environmental factors that might contribute to the substance tne
+Proponents of the moral model believe that people with SUDs can and should be held to moral responsibility for
+
+
+---
+
+### From Page 7
+
+“a
+a
+“=
+“a
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery
+
+their choices and actions - and, by focusing on proper clinical care, SUDs can be addressed with compassion,
+free from blame, negative attitudes, and harsh treatment or punishment.® The moral model, however, has been
+largely criticized and replaced by more scientifically grounded models. Research has revealed more exactly how substances work in the brain, and how SUDs can be successfully
+treated to help people stop and resume their productive lives.’ The initial decision to use substances is mostly
+voluntary; however, when the use progresses to more regular use, a person’s ability to exert self-control can
+become seriously impaired. Today, the disease model of addiction is the prevailing theory - that addiction is an
+illness and comes about because of the impairment of healthy neurochemical or behavioral processes.
+
+---
+
+### From Page 7
+
+The pattern of use of a substance is chardtterized by the loss of control on substance use-
+related behaviors, the pursuance of those behaviors even in the presence of negative consequences, and a strong
+
+motivated activity to continue using. The causation of these behaviors and motivations can be viewed from
+psychological to biological-molecular levels? The disease model has also been criticized.
+
+---
+
+### From Page 7
+
+Opponents to this model often claim that the biological
+understanding removes personal responsibility and moral culpability for problematic use of substances, and
+that individuals will use their “disease” as a “crutch.” Thus, they are neither responsible nor to blame as their
+condition is the result of a disease that has taken hold.° Others oppose addiction being labeled as a disease;
+that it is an unnecessary and negative frame that distracts from the positive and hopeful messages that can
+accompany a full understanding of addiction as a biobehavioral disorder."
+
+Blended model. There is an ongoing debate about whether substance use disorders should be viewed as a moral
+failing or as a disease. Some researchers suggest that neither perspective fully captures the complexity, and
+that a more nuanced and integrated understanding is needed.
+
+---
+
+### From Page 7
+
+We see that scientific advances have contributed
+significantly to our understanding of the neurobiological pathways in the brain and their roles in substance
+reinforcement, dependence, conditioned responses, craving, and loss of behavioral control. Yet, it is known that sustained recovery from substance use comes through the empowerment of an individual
+to be an “agent” in their own life (meaning the degree to which they are able to make decisions and carry out
+actions that they choose for themselves) and the restoration of their belief in their ability to affect change and
+progress. It is argued that individuals must want different goals and make different choices to overcome their
+SUD, thus the elements of choice and personal responsibility cannot be discounted.” Not all interventions that
+help persons with SUDs involve choice - many things will always lie outside of their control - but, choice and
+personal responsibility are nonetheless crucial elements in personal change, growth, and recovery.
+
+---
+
+### From Page 8
+
+IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+FACTORS AFFECTING INDIVIDUAL VARIABILITY AND VULNERABILITY
+
+The development of an SUD involves complex interactions between the drug’s effects, personal factors like
+genetics and health, social relationships, and cultural influences such as attitudes towards alcohol and other
+drugs, and their availability. Examining issues like adverse social conditions, childhood experiences, and genetic
+differences is crucial to understanding why some people develop SUDs and others don’t. As with any other disease, vulnerability to developing an SUD differs from person to person.
+
+---
+
+### From Page 8
+
+In general, the more
+risk factors an individual has, the greater the chance that substances will lead to an SUD. Risk factors can be
+impacted by protective factors which are characteristics associated with a lower likelihood of negative outcomes
+and can help to reduce a risk factor’s impact. For example, negative life events (risk factors) are associated with
+substance use as well as anxiety, depression, and other behavioral health issues.
+
+---
+
+### From Page 8
+
+Prevention efforts targeting a
+set of risk or protective factors have the potential to produce positive effects. Genetic Factors. SUDs are heritable and influenced by complex interactions among multiple genes and
+environmental factors.
+
+---
+
+### From Page 8
+
+Genetic studies have begun to uncover the molecular mechanisms underlying SUDs and
+related traits, including other psychiatric conditions with which SUDs frequently co-occur. Scientists estimate
+that genes account for between 40 and 60 percent of a person’s risk of developing an:SUD.¥
+
+Gender. Gender significantly impacts the risk of developing an SUD.
+
+---
+
+### From Page 8
+
+|
+|
+(
+(
+(
+
+Peer and School. Friends and acquaintances have the greatest influence during adolescence. Substance-using
+peers can sway even those without risk factors to try alcohol, drugs, or other substances (such as inhalants) for
+the first time.
+
+---
+
+### From Page 8
+
+Academic failure or poor social skills can put a child further at risk for problematic use.9
+
+Method of Administration. Smoking a substance or injecting it into a vein increases its addictive potential. Each
+substance and method of administration carries its own set of risks and potential for progression to an SUD.
+
+---
+
+### From Page 8
+
+These
+methods can increase the risk of developing an SUD compared to slower routes like oral ingestion. The intensity
+of the effect can produce a “rush” which can be more reinforcing. Early Use.
+
+---
+
+### From Page 8
+
+Although problematic substance use at any age can lead to an SUD, research shows that the earlier
+a person begins to use alcohol, drugs, or other substances, the more likely they are to progress to more serious
+use. Young people’s brains are growing and developing until they are their mid-20’s. Early substance use
+interferes with ongoing neurodevelopment to trigger neurobiological changes that further augment SUD risk.
+
+---
+
+### From Page 10
+
+16 IC&RC Alcohol and Drug Counselor (A
+
+the spinal cord, and nerves in the
+
+thinking, learning, emotions, and
+
+addiction cycle disrupts the norm
+
+DC) Certification Examination Study Guide
+
+rest of the body (the peripheral nervous system). Others are involved with
+
+al functions of some of these neur
+
+ADDICTIVE SUBSTANCES AND THE BRAIN
+
+disorders:
+
+memory or communicate with muscles, stimulating them into action. The
+
+onal networks.
+
+---
+
+## Topic 1: substance, that, with, substances, brain
+
+### From Page 2
+
+18 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+Over time, the brain of someone who problematicaily uses substances adjusts by producing fewer
+neurotransmitters in the reward circuit, or by reducing the number of receptors that can receive Signals. As a
+
+result, the person’s ability to experience pleasure from naturally rewarding (i.e., reinforcing) activities is also
+reduced. This is why a person with problematic substance use eventually feels flat, without motivation, lifeless, and/or
+depressed, and is unable to enjoy things that were previously pleasurable, Now, the person needs to keep taking
+
+substances to experience even a normal level of reward—which only makes the problem worse, like a vicious
+cycle.
+
+---
+
+### From Page 3
+
+If the experience is pleasurable, this feeling positively reinforces
+the substance use, making the person more likely to take the substance
+again. Another person may take a substance to relieve negative feelings such
+
+as stress, anxiety, or depression. In this case, the temporary relief the
+substance brings from the negative feelings negatively reinforces substance
+use, increasing the likelihood that the person will use it again.
+
+---
+
+### From Page 3
+
+Importantly, positive and negative reinforcement are not solely driven by
+the effects of the substance. Many other environmental and social stimuli
+can reinforce a behavior. For example, the approval of peers positively
+reinforces substance use for some individuals.
+
+---
+
+### From Page 3
+
+When an individual develops tolerance, they require a larger dose of the
+substance to achieve the same effect that they previously experienced
+
+Impulsivity means to act
+without foresight or regard for the
+consequences. Positive reinforcement
+
+refers to the process by which
+presentation of a stimulus such as
+a drug increases the probability of a
+response like drug taking. Negative reinforcement refers
+to the process by which removal of a
+stimulus such as negative feelings or
+
+‘emotions increases the probability
+
+of a response like drug taking.
+
+---
+
+### From Page 3
+
+Craving - an intense and often overwhelming desire or urge to engage in a particular
+behavior or consume a substance ~ often occurs daily or with regular binges. The individual experiences intense
+psychological preoccupation with getting or using the substance and can develop negative emotional states
+
+marked by anxiety, depression, and restlessness. Except for recalling the euphoria of the substance, craving feels
+very bad.
+
+---
+
+### From Page 6
+
+Brain imaging studies of people with an SUD show
+physical changes in areas of the brain that are critical to judgment, decision-making, learning and memory, and
+behavior control. All addictive substances have powerful effects on the brain. These effects account for the euphoric or intensely
+pleasurable feelings that people experience during their initial use of alcohol, drugs or other substances, and
+these feelings motivate people to use those substances repeatedly, despite the risks for significant harms.
+
+---
+
+### From Page 7
+
+Advances
+in neuroscience have helped us understand how substances affect the brain, leading to the recognition that
+addiction is a chronic brain disorder that can be treated. Dr. Nora Volkow, NIDA Director, and colleagues state:
+
+“Neuroscience research has revealed that addiction is a chronic, relapsing disease of the brain
+triggered by repeated exposure to drugs in those who are vulnerable because of genetics and
+developmental or adverse social exposures.
+
+---
+
+### From Page 7
+
+As a result, the reward circuit’s capacity to respond
+to reward and motivate actions that are not drug related is decreased, the sensitivity of the
+emotional circuits to stress is enhanced, and the capacity to self-regulate is impaired. The result
+is compulsive drug seeking and drug taking despite severe harms and an inability to control the
+strong urges to consume the drug, even when there is a strong desire to quit.*”
+
+Simply stated, the disease model emphasizes the brain areas and circuits that encode various functions such
+
+as reward and motivation. Brain imaging studies from individuals with a substance use disorder show physical
+changes in areas of the brain that are critical to judgment, decision making, learning and memory, and
+behavior control.
+
+---
+
+### From Page 8
+
+The
+speed of onset, meaning the faster the substance reaches the brain, the more intense the high and the greater
+the addictive potential. Intravenous injection delivers the substance directly into the bloodstream, providing
+
+an almost immediate effect. Inhalation, as in smoking, also leads to rapid absorption through the lungs.
+
+---
+
+### From Page 10
+
+» The nucleus accumbens, which is involved in motivation and the experience of reward, and
+
+» The dorsal striatum, which is involved in for
+
+The basal ganglia form a key node of the brain’s “
+producing the euphoria of the “high.”
+
+the substance, diminishing its sensitivity and making it har
+
+substance. » The extended amygdala and its sub-regions,
+
+reactions to stress-including behavioral responses like “figh
+unease, anxiety, and irritability. This region also interacts with the hypothalamus, an area of the brain
+
+» The prefrontal cortex is located at the
+
+ming habits and other routine behaviors.
+
+---
+
+### From Page 10
+
+reward circuit.” Substances Over-activate this circuit,
+But with repeated exposure, the circuit adapts to the presence of
+
+d to feel pleasure from anything besides the
+
+located beneath the basal ganglia, regulate the brain’s
+
+t or flight” and negative emotions like
+
+very front of the brain, over the eyes, and is responsible for
+
+complex cognitive processes described as “executive function.” Executive function is the ability to
+
+
+
+---
+
+### From Page 11
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery
+
+Some drugs like opioids also disrupt other parts of the brain, such as the brain stem, which controls basic
+
+functions critical to life, including heart rate, breathing, and sleeping. This interference explains why overdoses
+can cause depressed breathing and death. THE ACTIONS OF NEUROTRANSMITTERS
+
+Simple activities in everyday life can produce small bursts of neurotransmitters in the brain bringing pleasurable
+feelings.
+
+---
+
+### From Page 11
+
+Substance use can hijack that process. Pleasure or euphoria—the high from substances—is still poorly understood but involves surges of chemical
+signaling compounds including the body’s natural opioids (endorphins) and other neurotransmitters in parts
+
+of the basal ganglia (the reward circuit). When some substances are taken, they can cause surges of these
+neurotransmitters much greater than the smaller bursts naturally produced in association with healthy rewards
+like eating, hearing or playing music, creative pursuits, or social interaction.
+
+---
+
+### From Page 11
+
+It was once thought that surges of the neurotransmitter dopamine produced by substantes directly caused the
+euphoria, but scientists now think dopamine has more to do with getting people to repeat pleasurable activities
+(reinforcement) than with producing pleasure directly. The feeling of pleasure is how a healthy brain identifies and reinforces beneficial behaviors, such as eating,
+socializing, and sex. Our brains are wired to increase the odds that we will repeat pleasurable activities.
+
+---
+
+### From Page 11
+
+The
+neurotransmitter dopamine is central to this. Whenever the reward circuit is activated by a healthy, pleasurable
+experience, a burst of dopamine signals that something important is happening that needs to be remembered. This dopamine signal causes changes in neural connectivity that make it easier to repeat the activity repeatedly
+without thinking about it, leading to the formation of habits.
+
+---
+
+### From Page 11
+
+Just as substances produce intense euphoria, they also produce much larger surges of dopamine, powerfully
+reinforcing the connection between consumption of the substance, the resulting pleasure, and all the external
+
+cues linked to the experience. Large surges of dopamine “teach” the brain to seek substances at the expense of
+other, healthier goals and activities. Cues in a person’s daily routine or environment that have become linked with substance use because of changes
+to the reward circuit can trigger uncontrollable cravings whenever the person is exposed to these cues, even if
+the substance itself is not available.
+
+---
+
+### From Page 11
+
+This learned “reflex” can last a long time, even in people who have not used
+substances in many years. For example, people who have been living a sober lifestyle for a decade can experience
+cravings when returning to an old neighborhood or house where they used substances. }
+i
+q
+j
+
+ay
+q
+
+Some drugs target the brain’s pleasure center How drugs
+
+increase dopamine
+
+Dopamine ——wex-"-
+
+Transporter > Cocaine
+
+Dopamine Receptor
+
+Brain reward .
+
+---
+
+### From Page 11
+
+(dopamine pathways)
+
+While eating food While using cocaine
+
+These brain circuits are important for Typically, doparnine:increases in response to natural rewaards such as food. natural rewards such as food, music, and-sex When cocaine is taken, dopamine increases are exaggerated, and communication is denied.
+
+---
+
+## Topic 3: they, cell, that, other, brain
+
+### From Page 9
+
+The brain is an Here’s how
+amazingly complex organ that is constantly at work. brain cells communicate. Within the brain, a mix of chemical and electrical
+processes controls the body’s most basic functions, like
+breathing and digestion.
+
+---
+
+### From Page 9
+
+These processes also control
+how people react to the multitudes of sounds, smells,
+and other sensory stimuli around them. They also ab
+organize and direct individuals’ highest thinking and
+emotive powers so that they can interact with other
+people, carry out daily activities, and make complex
+decisions. Neurotransinitter
+
+Receptor:
+
+The brain is made of an estimated 86 billion nerve
+cells—called neurons—as well as other cell types.
+
+---
+
+### From Page 9
+
+Each
+neuron has a cell body, an axon, and dendrites. The cell
+body and its nucleus control the neuron’s activities. The axon extends out from the cell body and transmits
+messages to other neurons.
+
+---
+
+### From Page 9
+
+Dendrites branch out from
+the cell body and receive messages from the axons of Prefrontal Cortex
+other neurons. Neurons communicate with one another through
+chemical messengers called neurotransmitters. The
+neurotransmitters cross a tiny gap, or synapse, between
+neurons and attach to receptors on the receiving
+neuron.
+
+---
+
+### From Page 9
+
+Some neurotransmitters are inhibitory—they
+make it less likely that the receiving neuron will carry
+out some action. Others are excitatory, meaning that
+they stimulate neuronal function, priming it to send
+signals to other neurons. The brain is comprised of many parts with
+interconnected circuits that all work together as Extended Amygdata
+a team.
+
+---
+
+### From Page 9
+
+Different brain circuits are responsible for
+
+coordinating and performing specific functions. Networks of neurons send signals back and forth to
+
+each other and among different parts of the brain,
+
+
+
+---
+
+## Topic 2: including, substance, trauma, mental, health
+
+### From Page 8
+
+Both men and women show differences in
+their vulnerabilities to various substances and activities, including drugs, sex, food, gambling, internet use, and
+physical exercise.* Hormonal differences, particularly the influence of sex hormones, play a significant role in
+compulsive behaviors. In addition, the responsiveness to stress and other socio-cultural factors contribute to
+sex- and gender-based differences in the development of an SUD. Women experience some issues to a greater
+degree than men which add to their vulnerability, such as intimate partner influences and/or violence, mental
+health conditions, and higher susceptibility to the addictivé properties of substances, craving, and relapse.
+
+---
+
+### From Page 8
+
+Home and Family. The influence of the home environment is usually most important in childhood. Exposure to
+childhood adversity, including family dysfunction, domestic violence, parental substance use, and mental health
+conditions, significantly increases the risk for SUDs.” Early sexual assaultive trauma, especially before age 10,
+alters neurophysiological functioning in adolescents and young adults which influences the risk of SUDs and
+conditions characterized by negative emotion such as depression, anxiety, and phobias.
+
+---
+
+### From Page 8
+
+In addition, risk-taking and subsequent drug experimentation during adolescence increases the likelihood of
+developing an SUD.”°
+
+Survivors of Trauma and Violence: Research has shown that traumatic experiences are associated with both
+behavioral health and chronic physical health conditions, especially when those traumatic events occur durityt
+childhood. Substance use, mental health conditions, and other risky behaviors are linked with traumatic
+experiences.” For example,
+
+
+---
+
+### From Page 9
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery
+
+» Problematic substance use is common among individuals exposed to intimate partner violence, including
+physical, sexual, and psychological violence. Women who have experienced intimate partner violence are
+at-risk for transitioning from moderate use to SUD and demonstrate greater SUD symptom severity.? » In children, the evidence clearly indicates that childhood trauma has profound and long-lasting effects on
+mental health, emotional development, and the risk of substance abuse.
+
+---
+
+### From Page 9
+
+Childhood trauma is a tisk factor
+for a range of psychiatric disorders and adverse outcomes, including impaired social functioning, poor
+physical health, self-injurious behavior, and addiction.?3
+
+» Trauma is associated with neurobiological dysfunction. Cumulative trauma triggers, aggravates, and
+increases the recurrence of mental health symptoms and substance use behaviors. This interplay can
+result in more complex clinical profiles and worse treatment outcomes.”
+
+Addictive Substances, the Brain, and Behavior2>2°
+
+To understand how addictive substances affect the
+
+brain, it is important to first understand the basic
+
+biology of healthy brain function.
+
+---
+
+## Miscellaneous Content
+
+### From Page 6
+
+All of these disorders are chronic, subject to relapse,
+and influenced by genetic, developmental, behavioral, social, and environmental factors. The National Institute of Drug Abuse (NIDA) defines addiction as? “Addiction is a chronic, relapsing disorder characterized by compulsive drug seeking and use
+despite adverse consequences.
+
+---
+
