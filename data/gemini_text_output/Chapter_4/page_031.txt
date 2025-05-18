@@ -1,0 +1,13 @@
+CHAPTER 4: Evidence-based Screening 183
+
+The **Psychiatric Research Interview for Substance and Mental Disorders, DSM-5 Version (PRISM-5)**, is a semi-structured diagnostic interview designed to assess the presence of psychiatric disorders, particularly in individuals with SUDs, according to the criteria set forth in the Diagnostic and Statistical Manual of Mental Disorders (DSM–5). Key aspects of the PRISM-5 include:
+
+1. **Comprehensive Coverage:** It covers a wide range of psychiatric disorders, including mood disorders, anxiety disorders, psychotic disorders, personality disorders, and SUDs. The PRISM-5 is designed to differentiate between primary psychiatric disorders and those that are substance-induced.
+
+2. **Substance Use Disorders:** It provides an in-depth assessment of problematic substance use, and SUDs. It aligns with DSM-5’s criteria for SUDs, emphasizing the continuum of substance use severity.
+
+3. **Co-occurring Disorders:** It is specifically designed to identify and evaluate co-occurring disorders, facilitating a comprehensive understanding of the individual's mental health status.
+
+4. **DSM-5 Alignment:** With its update to reflect DSM-5 criteria, the PRISM-5 includes changes such as the integration of disorders for each substance and the inclusion of newer diagnostic categories.
+
+It is important that the diverse information collected across sources is coherently incorporated into a diagnostic picture. Failure to do so may result in a treatment plan or referral that is irrelevant or inappropriate for the client. Also, assessors need to evaluate the relative validity of the information from different sources and should not assume that the client's self-report is necessarily less valid than other information sources. In addition, the assessment process is likely to be most helpful and informative when a variety of techniques are used. All assessment instruments and methods are tools to guide clinical decision-making.

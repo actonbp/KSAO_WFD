@@ -1,0 +1,58 @@
+CHAPTER 8: Documentation 355
+
+**STORAGE AND RETENTION**
+
+Health information technology is evolving
+very fast with many storage and retention
+options now available. Cloud computing is an
+environment that can store large volumes of
+data and facilitate the sharing of resources
+and services over the internet rather than
+having these services and resources on local
+servers/nodes or personal devices. Cloud-
+based storage options include data security,
+privacy, and interoperability between
+systems, with an increasing use of highly
+secure technologies such as blockchain and
+cryptographic methods for enhanced data
+protection.18
+
+Behavioral health organizations must
+navigate a complex landscape of legal
+requirements when it comes to the storage
+and retention of electronic health records
+(EHRs). They usually consult with legal
+experts and IT professionals specializing in
+healthcare to ensure full compliance with all
+relevant laws and regulations.
+
+Here are some key considerations:19
+
+1.  **Compliance with HIPAA:** HIPAA sets
+    the standard for protecting sensitive
+    patient data. Behavioral health
+    organizations must ensure that their
+    EHR systems are HIPAA compliant. This involves implementing physical, network, and process security
+    measures to protect electronic health information.
+
+2.  **State Regulations:** Along with federal laws like HIPAA, each state may have its own regulations regarding
+    the retention of protected health records. Organizations should be aware of the specific laws in the states
+    where they operate.
+
+3.  **Secure Storage Solutions:** EHRs must be stored in a secure environment. This can be on-premises
+    servers or cloud-based solutions, but in either case, strong security measures must be in place to prevent
+    unauthorized access or data breaches.
+
+4.  **Data Encryption:** Encrypting data, both in transit and at rest, is a critical component of safeguarding
+    electronic health records. Encryption makes it much harder for unauthorized individuals to access or
+    interpret the data.
+
+5.  **Access Controls:** Implementing strict access controls ensures that only authorized personnel can access
+    or modify the EHRs. This often involves role-based access, where individuals only have access to the
+    information necessary for their job functions.
+
+6.  **Retention Policies:** Organizations must adhere to legal requirements for how long medical and behavioral
+    health records must be kept. This varies depending on the type of record and the client’s age, among
+    other factors.
+
+[Image: A black and white, slightly stylized photograph of a server rack (a tall, narrow cabinet containing multiple computer servers) emerging from or surrounded by fluffy white clouds. The server rack is dark, and the clouds are bright, creating a contrast. The image likely symbolizes cloud computing or cloud storage.]

@@ -1,0 +1,29 @@
+268 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**Principles and Skill Sets of Motivational Interviewing¹⁵**
+
+MI is grounded in four central principles that guide the therapeutic process. These principles are not just techniques but represent the philosophical approach to engaging with clients.
+
+**1. Expressing Empathy**
+
+Empathy is the cornerstone of MI, involving a deep understanding of the client’s perspective and feelings without judgment. It requires active listening and reflecting, allowing clients to feel heard and understood. This empathetic engagement helps to build rapport and trust, essential components in the therapeutic relationship.
+
+**2. Developing Discrepancy**
+
+MI proposes that change occurs when individuals perceive a discrepancy (meaning an unexpected difference) between their current behavior and their broader goals or values. Developing discrepancy starts with the counselor listening closely to the individual’s core beliefs, values, and goals; and then, using MI skills, help them explore the discrepancies between what is important to them and their current behavior. Succinctly, counselors help clients explore discrepancies to arrive at motivation for change.
+
+**3. Supporting Self-Efficacy**
+
+MI emphasizes the belief in the client’s ability and right to change. Counselors focus on reinforcing the client’s strengths, past successes, and potential for change, boosting their confidence in their ability to achieve their goals.
+
+**Scaling rulers** are tools used in MI to assess readiness, confidence, and importance of change. They offer a structured method for exploring and resolving ambivalence, thereby enhancing the client’s motivation for change. Regarding self-efficacy, clients are asked to rate their confidence in their ability to make the desired change, on a scale from 0 to 10. This assesses the client’s self-efficacy and can highlight potential obstacles or supports needed to increase confidence in making a change. The counselor can explore the reasons behind the client’s current level of confidence and discuss what resources or strategies might improve it.
+
+[Image: A horizontal scale ranging from 0 to 10. The left end, at 0, is labeled "Not Confident". The right end, at 10, is labeled "Extremely Confident". The scale has tick marks and labels for 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10. The bar is shaded with a gradient from dark on the left to lighter in the middle and then darker again towards the right, with the numbers clearly visible.]
+
+**Not Confident** **Extremely Confident**
+
+**4. Respond to Sustain Talk and Discord**
+
+The fourth principle was initially “Rolling with Resistance”; however, in the 3rd edition of Motivational Interviewing, Miller and Rollnick shifted from the principle of “Rolling with Resistance” to the more closely refined concepts of “Responding to Sustain Talk” and “Discord.” Originally, “Rolling with Resistance” emphasized a non-confrontational approach to client resistance by moving fluidly with the client’s objections or reluctance. However, as MI practitioners gained experience and research in the field expanded, it became clear that the concept of “resistance” could imply a problematic dynamic between the counselor and client, suggesting opposition or combativeness. To address this, MI evolved to focus more on the new principles that offer a more collaborative and empathetic approach to the challenges of change.
+
+» **Sustain Talk** refers to the client’s verbal expressions that favor the status quo or reasons against change. It is a natural part of the ambivalence that many clients experience. Instead of viewing such expressions as resistance to be overcome, MI views them as important information that can guide the therapeutic process.

@@ -1,0 +1,750 @@
+313
+
+CHAPTER 7:
+CASE MANAGEMENT AND
+COLLABORATION314 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**INTRODUCTION**
+
+This chapter addresses the significance of case management skills and practices for SUD counselors. As discussed in previous chapters, substance abuse disorders often coexist with mental health issues, medical conditions, and social challenges. A comprehensive continuum of holistic services is needed for individuals with problematic substance use. The continuum must be designed to provide engagement and motivation, primary treatment services at the appropriate intensity and level, and support services. Treatment must be structured to ensure smooth transitions to the next level of care, avoid gaps in service, and respond rapidly to the threat of relapse. Case management can assist in all areas and is essential for integrating services and transitions across disciplines.
+
+Case management is especially appropriate for individuals with SUDs as they often have special treatment needs, related to such issues as HIV infection or AIDS, MHDs, chronic and acute health problems, poverty, homelessness, and many other needs.
+
+Practically, an SUD counselor should have a foundation of knowledge to successfully link clients to various types of treatment and community and recovery support resources, and the skills actively do so. Counselors should:¹
+» Understand core principles of case management.
+» Understand when a client would benefit from a referral to another healthcare provider.
+» Know the landscape of available health and behavioral health, ancillary, and recovery services as well as mutual-help groups.
+» Be familiar with the required protocols of providers, facilities, and services.
+» Use effective collaboration skills to help ensure continuity of care and integrated services.
+» Make warm handoffs when transferring clients to other providers or recovery communities.
+» Maintain communication with referral and recovery resource partners.
+
+SUD counselors usually have a percentage of their work devoted to case management activities. There is great variability in that percentage, however. It’s not uncommon for case management tasks to take up a substantial part of an SUD counselor’s time, especially in rural settings or settings where clients have complex needs and require coordination across multiple services. Conversely, in other settings, particularly where other team members may take on parts of the case management role, it might be less.
+
+**In this chapter, the SUD counselor is often referred to as the “case manager” with the understanding that this role has great variability.**
+
+[Image: A black and white photograph depicting an indoor scene, likely a counseling session. A woman with dark, shoulder-length hair, wearing a plaid shirt, is seated at a table, smiling gently and looking towards a young blond-haired child. The child, also seated at the table, has a serious expression and is looking off to the side, with hands clasped on the table. Part of another person's hand is visible in the bottom right foreground, resting on the table. The image suggests a supportive interaction between a counselor or caregiver and a child.][Layout: Single column with a header. A sidebar is on the right containing text.]
+
+CHAPTER 7: Case Management and Collaboration 315
+
+**RATIONALE, PURPOSE, AND PROCEDURES OF CASE MANAGEMENT**
+
+Multiple developments in healthcare and behavioral health services are expanding the use of case management. These include:²
+» More emphasis on medical and behavioral health integration, which creates a need for coordination of services—a need that case managers can fulfill.
+» Greater use of screening, brief intervention, and referral to treatment (SBIRT) tools in care settings, which can involve case managers in implementation, follow-up, and coordination of care.
+» Growing adoption of reimbursement for care coordination and case management services by federal and state funders and other insurers.
+» The development of health information technology solutions that facilitate care coordination and client-centered care.
+» Increased use of peer recovery support specialists, who can cost-effectively extend the services of case managers by guiding people in SUD treatment on their journey through recovery-oriented systems of care.
+» Recent changes to the federal regulations governing the confidentiality of SUD client records which make it easier to use information in such records for case management and care coordination activities.
+
+The definition of case management varies by setting, but in general terms it is a coordinated, individualized approach that links clients with appropriate services to address their specific needs and help them achieve their stated goals. Case management for people with SUDs has been found to be effective because it helps them stay in treatment and recovery. Also, by concurrently addressing other needs, it allows them to focus on SUD treatment.³
+
+A more expansive definition is:
+“Case Management is a collaborative process of assessment, planning, facilitation, care coordination, evaluation and advocacy for options and services to meet an individual’s and family’s comprehensive health needs through communication and available resources to promote client safety, quality of care, and cost-effective outcomes.”⁴
+
+Case management as a way of helping people has a long and rich history. Over the last thirty-five years, the term **case management** has been widely applied to describe a process or method of service delivery and a set of roles assumed by service providers. Case management approaches have been used in medical or health care facilities with: individuals with mental health, substance use, and other chronic health conditions; individuals with developmental disabilities; individuals, families and children in the child welfare or criminal justice systems; and other populations at risk.
+
+Case management provides a central contact to coordinate and manage the referrals and resources associated with each case. Case managers coordinate a variety of services designed to improve the client’s overall safety and quality of care.⁶ The client is the central focus with the goal of assisting them with navigating through community-based programs and services. This is achieved through linking the client with resources, providing the client with education and skills, and advocating on the client’s behalf. Case managers work in collaboration with other service providers to identify areas where the client’s resources are not currently meeting their physical, emotional, legal, or financial needs.
+
+[Sidebar]
+**Care Coordination vs. Case Management⁵**
+
+Care coordination also encompasses the activities and tasks included in case management but is seen in a broader programmatic context and frequently is discussed at the population health level as a means for an organization or institution to manage the many needs of a population of patients/clients, often by determining specific, high need sub-groups who should receive case management services.
+[/Sidebar][LLM OCR returned no text for this page]CHAPTER 7: Case Management and Collaboration 317
+
+**Principles and Functions of Case Management**
+
+Case management is a set of social service functions that helps clients access the resources they need to recover from a behavioral health condition. The functions that comprise case management—**assessment, planning, linkage, monitoring, and advocacy**—must always be adapted to fit the particular needs of a treatment or agency setting. This may not be a linear process as there may be some back and forth and returning to certain points.
+
+**PRINCIPLES**
+
+Case managers should comply with a core set of principles to guide their behavior and interaction with clients and their families. This provides a foundation of care and responsibility for decisions and actions taken. There are several principles of effective case management that focus on the following values and practices.⁸
+
+» Case management offers the client a single point of contact with the health and social services system.
+» Case management is client-centered. Each client’s right to self-determination is emphasized. The case manager is familiar with the client’s experiences, understands the client’s hierarchy of needs and concerns, and uses this knowledge to help the client access the chosen services.
+» Case management focuses on how existing strengths can be used and additional strengths can be developed to assist clients in achieving their healthiest state and optimal functioning.
+» Case management addresses current needs while also anticipating future needs. The case manager assists the client with identifying problematic aspects of their life, engaging in problem-solving processes, and in making rational decisions on a course of action.
+» Case management is expected to be flexible to adapt to the fluctuating needs of the client. This includes making modifications to plans and services based on the client’s current symptoms and challenges.
+» Case managers need to be knowledgeable and nonjudgmental about the client’s culture. This enables them to effectively connect with the client and service providers in the client’s community. Case managers also serve as role models in the use of non-stigmatizing language, and demonstrating culturally responsive attitudes, and actions for other service providers.
+» Case managers help the client access and integrate formal and informal care services, overcome barriers to services, and transition between services. They use a community-based approach by assisting the client with accessing and navigating provider services, programs, and other community resources.
+» Case managers advocate for the client’s best interests. Advocacy can take many forms including advocating for a specific client’s needs with a single provider or advocating for systematic change through political and legislative action.
+» Case managers DO NO HARM. This means ensuring that actions and interventions designed to support clients do not expose them to further harm. At each step of the case management process, care must be taken to ensure that no harm comes to clients as a result of case manager conduct, decisions made, or actions taken on behalf of the client.
+
+**CASE MANAGEMENT FUNCTIONS**
+
+Case management generally follows a cycle of steps to identify and respond to the needs of vulnerable individuals. While not always the same for every situation, the case management process generally moves through the phases described below.
+
+» Screening and Assessment (initial & comprehensive levels of assessment)
+» Service Planning
+» Implementation and Coordination of the Service Plan
+» Monitoring
+» Transitioning and Follow Up318 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+The case management functions that assist eligible individuals obtain services include:
+
+1.  **Comprehensive Assessment.** Conduct initial and periodic reassessment of individual needs, to determine the need for any medical, educational, social, or other services. These assessment activities include the following:
+    a.  Taking a client history.
+    b.  Identifying the needs of the individual and completing related documentation.
+    c.  Gathering information from other sources, such as family members, medical providers, social workers, and educators (if necessary) to form a complete assessment of the eligible individual.
+
+2.  **Development (and periodic revision) of a Case Management Service Plan.** Craft a plan based on the information collected through the assessment, that includes the following:
+    a.  Specifies the goals and actions to address the medical, social, educational, and other services needed by the eligible individual.
+    b.  Includes activities such as ensuring the active participation of the eligible individual and working with the individual (or the individual’s authorized health care decision maker) and others to develop those goals.
+    c.  Identifies a course of action to respond to the assessed needs of the eligible individual.
+
+4.  **Referral.** Determine and arrange for needed services, including activities that help link the client with medical, social, and educational providers or other programs and services that can provide needed services to address identified needs and achieve goals specified in the care plans (e.g., treatment, recovery, discharge).
+
+5.  **Client Advocacy.** Support client self-advocacy. Intervene with agencies or persons to help clients receive appropriate benefits or services. Clients may also request assistance with advocacy from their case manager even when they are able to advocate for themselves.
+
+6.  **Crisis Intervention.** Provide short-term crisis intervention in an emergency situation to resolve the immediate problem before a long-term plan is developed or current plan is revised.
+
+[Image: A black and white photograph showing three people in an indoor setting, possibly an office or counseling room. In the center, a woman with dark, shoulder-length hair, wearing a dark blazer over a lighter top, is seated and looking towards her left. To her left, a person (gender unclear, possibly a woman with short, dark, curly hair) is seen from the back and side, seemingly writing on a notepad on a table. To the right, a man with short dark hair, wearing a light-colored collared shirt, is seated and looking towards the central woman. The background includes a brick wall and what appears to be a window or doorway. The overall scene suggests a professional interaction, such as a counseling session or meeting.]CHAPTER 7: Case Management and Collaboration 319
+
+7.  **Monitoring and follow-up activities.** Conduct activities and contacts that are necessary to ensure that the service plan is effectively implemented and adequately addresses the needs of the eligible individual. Follow-ups may include the client, family members, service providers, or other entities or individuals and conducted as frequently as necessary, and including at least one annual monitoring, to help determine whether the following conditions are met:
+    a.  Services are being furnished in accordance with the client’s service plan.
+    b.  Services in the care plan are adequate.
+    c.  There are changes in the needs or status of the client. Monitoring and follow-up activities include making necessary adjustments in the service plan and service arrangements with providers.
+
+**Case Management Knowledge and Skills**
+
+Case management relies strongly on skills related to facilitating linkages to services; however, many other skills need to be employed. Case management requires knowledge of the industry and local community including the ability to relate to and adapt to the needs of the specific client. Here are some important tasks and skills for case managers.⁹
+
+» Build and maintain an alliance with the client to combine resources and work toward common goals. The alliance will help generate an effective working relationship based on trust and rapport. Motivate the client to engage in and sustain healthy change.
+» Use effective interpersonal and communication strategies to elicit information about client strengths, challenges, barriers, resources, and goals. Assist the client in identifying how to maximize current strengths and resources to overcome barriers and challenges and reach his or her goals.
+» Be knowledgeable about local programs to provide appropriate referrals and link the client to suitable community resources.
+» Work collaboratively and use the client’s, case manager’s, and community’s strengths and resources to help the client overcome barriers and challenges to achieve desired goals.
+» Develop and maintain working relationships with community organizations to improve the overall service delivery to the client.
+» Be knowledgeable about relevant laws and policies that impact the client. Embody and demonstrate professionalism.
+
+**CASE MANAGER ROLES**
+
+Case managers play a vital role in coordinating care and services for individuals. To ensure that their clients receive the appropriate services in a timely, efficient, and effective manner, case managers often take on several roles, including:
+
+1.  **Facilitator:** Case managers act as facilitators by coordinating services and resources for their clients. This involves identifying the client’s needs, creating service plans, and ensuring that all service providers (e.g., healthcare professionals, social workers, counselors) are aware of and working towards the client’s goals. They facilitate communication between all parties and ensure that services are delivered seamlessly.
+2.  **Problem Solver:** Case managers are often confronted with complex situations where standard solutions may not be applicable. They need to think critically and creatively to resolve these challenges. This might involve identifying barriers to care, addressing social determinants of health, or finding resources when they are scarce.
+3.  **Negotiator:** Case managers advocate for their clients’ needs and wishes with service providers, insurance companies, and other stakeholders. They negotiate services, treatments, and resources to ensure their clients’ needs are adequately met. This role requires a deep understanding of the system in which they operate, the resources available, and the needs and rights of their clients.320 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+4. **Assessor:** Case managers must continually assess their clients’ situations, needs, and progress. This involves gathering and analyzing information to make informed decisions about the appropriate services and interventions.
+
+5. **Educator:** Case managers educate clients, families, and other stakeholders about the available resources, services, and systems. They provide information that helps clients make informed decisions about their care and advocate for themselves.
+
+6. **Liaison:** Case managers act as a bridge between clients and service providers. They ensure that all parties are informed and that services are coordinated efficiently. This role involves building and maintaining strong professional relationships.
+
+7. **Monitor:** Case managers monitor the services provided to ensure they are effective and meet the client’s needs. They track progress, evaluate outcomes, and adjust service plans as necessary.
+
+In fulfilling these roles, case managers must possess a diverse set of skills, including communication, organization, problem-solving, negotiation, and advocacy. They must be adaptable and able to navigate complex systems to serve the best interests of their clients.
+
+**SERVICE PLANNING**
+
+Case managers guide the development of a personal plan to meet the client’s unique needs. This plan is often referred to as a **Case Management Service Plan** (or Care Plan). The service planning process begins with a review of the strengths and needs identified through case monitoring and through assessments. This also involves acquiring relevant information in a variety of areas, such as medical, functional, social, and emotional status. The case manager, in conjunction with the client, collaborates on the development of the service plan. The involvement of the client and their support network in every step of the process is crucial for the success of the service plan.
+
+[Image: A black and white photograph showing a person, likely a Black man, from the chest up, leaning over a desk and writing on a piece of paper with a pen in his right hand. He is wearing a textured sweater. The image is slightly out of focus, with the foreground (desk and hands) sharper than the background. The lighting creates strong shadows, particularly on the person's face, obscuring some features. The setting appears to be an office or study, with papers and possibly a computer monitor visible in the background.]CHAPTER 7: Case Management and Collaboration 321
+
+As noted earlier, the service plan is generally comprised of the following:
+» Based on information gathered during the assessment, specific, measurable, achievable, relevant, and
+time-bound (SMART) goals are set. These goals should address both immediate needs and long-term
+aspirations of the client.
+» Specific objectives and actions are set to address the medical, social, educational, recovery, and other
+services identified.
+» It identifies a course of action to respond to the assessed needs of the client. Follow-up and monitoring
+activities are set to ensure the active participation of the client and collaborating with the client, the
+client's support network and others to continually assess progress (and make modifications when needed)
+in meeting the goals.
+
+There may be questions about the differences between a case management service plan and a SUD treatment
+plan. Both plans are crucial components in the recovery and support process for individuals dealing with SUDs.
+They generally serve different purposes and functions, although a comprehensive treatment plan may overlap
+with the service plan.
+
+» The **SUD Treatment Plan** is primarily focused on the direct treatment of the substance use disorder. It
+includes a comprehensive approach to address the medical, psychological, and social aspects of addiction.
+It typically includes assessments, therapeutic interventions (individual, group, and possibly family),
+medical treatment, and support for psychological health and recovery.
+» The **Case Management Service Plan** is broader. It goes beyond the treatment components to include
+coordination of various services and resources to support the individual's recovery journey: assistance
+with housing, employment, education, legal issues, and accessing community resources. The main goal
+is to ensure that individuals have the support and resources they need to not only recover from substance
+use but also to reintegrate into society and improve their overall quality of life.
+
+**COLLABORATION**
+
+**Collaboration** occurs when several community organizations, agencies, and individuals make a commitment
+to work together and contribute resources to achieve a common, long-term goal. Collaboration is the most
+intense type of working relationship. Building and sustaining an effective collaboration requires much more
+than a decision to merely work together. Effective collaborations promote team building, a sense of ownership,
+enthusiasm, and an environment that maximizes the chance of collaborative partnerships succeeding. The
+components of an effective collaboration are as follows:
+» Stakeholders with a vested interest in the collaboration
+» Trusting relationships among the partners
+» A shared vision and common goals for the collaboration
+» Expertise
+» Teamwork strategies
+» Open communication
+» Motivated partners
+» Means to implement and sustain the collaborative effort
+» An action plan
+
+Successful collaborations provide its partners with a vehicle to increase and integrate services for the
+persons they serve. By sharing information, pooling resources, and working together to achieve shared goals,
+collaborations can increase access to services, create greater efficiencies in service delivery systems and
+coordination of care, as well as prevent individual partners from having to re-invent the wheel and duplicating
+services.322 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**PRIORITIZATION OF SERVICE NEEDS**
+
+Once presenting issues have been defined, case managers need to estimate their severity. Establishing problem severity is a critical skill that determines how soon the case manager should deal with a client’s needs. Estimating problem severity by acquiring good initial baseline information helps in the evaluation of case management services. It also allows both clients and case managers to track goal attainment over time.¹⁰
+
+The case manager must develop an understanding of the complexity of the client’s overall situation. Increased complexity could arise from the significant impact of one single factor in the client’s life or the totality of the client’s circumstances being greater than the individual factors. Client needs, resources, and barriers are all factors that need to be considered when identifying a strategy to assist the client in meeting his or her goals.
+
+The assessment and management of **risk** is also the responsibility of all case managers. Some clients present complex profiles that have varying levels of risk to safety and well-being for themselves or to the public. Some may have:
+» severe and enduring SUDs and/or MHDs
+» co-occurring diagnoses (e.g., substance use and chronic health conditions)
+» history of violence or self-harm
+» unsettled living accommodations or homelessness
+
+When a client engages in behavior that poses risk to their (or someone else’s) health, safety or well-being an assessment of risk should be completed. This is completed to: evaluate the risk of certain behaviors; document what is being done to educate or protect the individuals effected by the risky behavior and to inform an individual or their guardian (if applicable) of how the individual’s lifestyle might be limited if they continue to engage in the risky behavior or if a particular intervention is utilized. It may or may not lead to a decision to restrict the individual’s rights.
+
+It is important to understand that risk in behavioral health case management may range from low to high or “serious or imminent.” The priority given to needs and services should be determined by the level of risk. Risk is dynamic and can be affected by circumstances that can change over the briefest of timeframes. Therefore, risk assessment needs to include a short-term perspective and frequent review.
+
+Ultimately, the case manager must also determine whether the program or organization can adequately meet the client’s needs. This involves reviewing the information on micro and macro levels. There may be times when the case manager is unable to directly link clients with needed resources due to lack of funding for or availability of specialty services. The case manager can, however, identify the need for further evaluation, educating the client on the importance of following up with another provider or program, and assisting the client with scheduling an appointment.
+
+[Image: A black and white photograph showing a person from the chest up, sitting and leaning forward with their right elbow on their knee and their right hand on their forehead, appearing distressed or deep in thought. The person is wearing a t-shirt. The background is blurry and out of focus.][Layout: Single column of text with a header at the top and a sidebar on the right containing two text boxes. The page number is in the top right corner of the header.]
+
+CHAPTER 7: Case Management and Collaboration 323
+
+LINKING PROFESSIONALS AND RESOURCES
+
+Linkage to services is fundamental to case management. For any case management plan to be successful, an SUD
+counselor/case manager must take a hard, objective look at community resources. What form do they take? What
+are the barriers to access? Who makes the decisions about how they are used, how are these decisions made, and
+how can they be obtained? If housing is a major client concern, for example, a community assessment should
+determine if housing assistance is available and how case management efforts might help clients attain it.
+
+Similarly, a client’s legal status can affect both the number and kinds of services needed (e.g., client involvement
+in the criminal justice system or with child protective services agencies). Thus, depending on the legal needs
+of its clients, a case management program will likely need to identify and forge relationships with such service
+providers as battered women’s shelters, public assistance programs, legal aid, churches, 12–Step groups, and
+other relevant organizations.
+
+SUD counselors/case managers must be aware of the services available in the community, who those services
+are appropriate for, and how to access them. This requires a current and working knowledge of the services and
+resources available at the local, state, and national levels as well as those obtainable online.
+
+Funding Sources
+
+Funding sources can impact who can access services and, in some cases, eligibility criteria. While SUD
+counselors or case managers are not typically involved in determining the kind of funding that is used to
+finance a program or service, it is important to be aware of the funding source when reviewing client needs and
+resources. One of the largest distinctions in funding is whether the program operates on public or private funds.
+
+Public funding is distributed by a branch of local, state, or federal
+government that typically has legislation outlining how the funds can be
+distributed and used. Public funds can be made available to individuals
+or organizations based on specified criteria and may be in the form of
+an established government program. Government programs, such as
+Medicare, Medicaid, and CHIP, have standardized requirements to provide
+assistance to large groups of people on a continued basis. A government
+agency may also use a purchase of service to contract with a non-
+government agency for services.
+
+Private funding is considered any form of financing not stemming from
+government funds. Private funding may originate from a commercial
+insurance plan, organizational grants, or a contract for service. Programs
+receiving private funding are still monitored and regulated, however,
+since it is not tied to legislation private funding does not tend to have the
+same strict parameters as public funding.
+
+Public or private programs may use a sliding fee scale to assist individuals in accessing services. Sliding fee
+scales are income based and provide a lower fee for service for someone with a lower income than someone with
+a higher income. Some clients will pay full price for services while another client may pay only a fraction of the
+cost or, in some cases, not be charged at all.
+
+There may also be specific guidelines for service eligibility and delivery. The funding source of the program
+or the client may determine how services are authorized, delivered, and documented. For example, a
+preauthorization may be required for certain services when the client has commercial insurance or benefits
+through the Veteran’s Administration. Many funders, including most private and public insurances, also require
+that certain elements be present in documentation for reimbursement. Medical necessity for services, modality
+
+[Sidebar Text Box 1]
+**Public funding** is generally set by
+legislation at the state or federal level
+and focuses on delivering services
+to groups based on identified and
+justifiable needs.¹¹
+
+[Sidebar Text Box 2]
+**Private funding** may address
+emerging needs and can be more
+flexible and informal since it is not
+tied to legislation with government
+requirements.324 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+of and response to services, and provider name and credentials are all some of the documentation elements that
+are typically required by funders to authorize payment. Whether payment is authorized may determine if the
+client is financially able to proceed with critical services.
+
+**Resource Directories**
+
+Most communities already have tools to assist SUD counselors/case managers in identifying resources, possible
+provider linkages, and potential gaps in services. This information may come from a variety of sources including
+the following.
+
+» 2-1-1 is a number that can be called throughout the United States (and Puerto Rico) and connects callers
+with a local call center. Operators assist callers with linkage to social services for crisis behavioral health
+needs (i.e. suicidal ideation and domestic violence) as well as basic needs (i.e. housing expenses and food
+banks). By simply dialing 211, those in need of assistance can be referred and sometimes connected to
+appropriate agencies and community organizations.
+» The United Way has information on community programs that can link residents with different needs.
+The United Way has state and regional offices that assist with advocacy, community organization, and
+disaster recovery services.
+» Government websites are available for cities and counties. These sites often have important information
+for residents on local government programs and how to contact government officials.
+» Health and behavioral health professionals that work in hospitals are knowledgeable about the resources
+available in the community.
+» School counselors are often knowledgeable about community services for children and families.
+» Faith-based organizations, including local churches, often have knowledge of community resources as
+well as having their own assistance programs.
+» The internet is always a good place to research local resources and find the most current information.
+
+While directories and other service rosters provide a useful starting point in identifying potential resources and
+service providers, additional work is required to determine which listings will prove fruitful. There are often
+delays in publishing and updating such directories, so that they may be out of date even before dissemination.
+It is critical that they be updated on a consistent, timely basis. Directories may not list all agencies or programs,
+and more than one directory may be necessary because an agency’s focus can shift.
+
+**Professional Networks**
+
+Professional networks are often comprised of individuals who are primary points of contact for types of
+information or services. Networking is a collaborative relationship that fulfills many functions including
+mentoring for job skills, collaborating on interventions, and sharing knowledge. A professional network helps
+individuals and organizations complete tasks by connecting with others to share information and resources.
+Networks can assist SUD counselors/case managers with learning about new resources, receiving contact
+information for programs and resources, and having individuals who can help navigate and problem-solve how
+to access needed services.
+
+The relationships between providers and organizations can also have a direct impact on a client’s care. SUD
+counselors/case managers should cultivate relationships with professionals in different realms. Providers and
+organizations should network with one another to keep abreast of availability and criteria for services. This
+entails identifying the primary person who manages the organization’s referrals. These “gatekeepers” of
+information can be identified in different medical and social service organizations such as hospitals, outpatient
+service agencies, shelters, and schools. This helps with providing accurate information to the client as well as
+having a contact person if there are questions or problems with the referral. Developing and cultivating these
+relationships can assist with keeping up to date on available resources as well as linkage to services that are
+necessary to continually meet the needs of clients.CHAPTER 7: Case Management and Collaboration 325
+
+[Image: A black and white photograph depicting a professional setting. In the foreground, a Black man in a suit is shaking hands with a white woman, also in professional attire. Other individuals are visible in the background, blurred, suggesting a larger gathering or meeting. The focus is on the handshake, symbolizing agreement or collaboration.]
+
+One method that is used to connect within a professional network is using a Memorandum of Understanding. A Memorandum of Understanding, often referred to as an MOU, is a document that defines a formal agreement between two or more parties to collaborate on service delivery or share information. When organizations frequently coordinate care for multiple clients, it may be beneficial to develop an MOU which can provide guidance and outline a structure for how the partnership is expected to occur. MOUs often delineate a purpose or specific goals, roles and responsibilities of each partner, decision-making procedures, and the terms of the agreement.¹² SUD counselors should be knowledgeable about MOUs their organization have with other service provider organizations and how those MOUs impact their professional responsibilities.
+
+**Multidisciplinary Teams**
+
+SUD counselors/case managers should view their clients with the assumption that it is not feasible or effective to provide everything that clients need “under one roof.” A more fruitful approach is to collaborate with other agencies based on client needs and overlapping client caseloads. This approach requires collaboration with a diverse group of service providers to deliver services to a client. This **multidisciplinary team** is composed of members from different service areas (e.g., SUD treatment, vocational rehabilitation, mental health). This method of service can be structured through programs that provide multiple services in-house or through a connected network. In a connected referral network, members of the multidisciplinary team provide their services in different locations. In this case, a multidisciplinary team approach can be fostered by holding regularly scheduled case conferences. These multidisciplinary teams have been shown to improve treatment outcomes for clients.¹³
+
+Multidisciplinary team members have a mutual interest in achieving positive outcomes for the client. The counselor/case manager can help achieve this end by attending to team process issues that build the working relationship and foster collaboration. Research has defined specific characteristics of an effective and efficient multidisciplinary team.¹⁴, ¹⁵
+
+» Multiple agencies work as equal partners with each other and with the client; referring agencies make the initial contact to the referral source and keep abreast of client progress.
+» Team members have identified roles and responsibilities, and are accessible, responsive, and proactive.
+» Relationships among providers are collaborative and flexible in the assumption of multiple job tasks related to client needs.326 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+» The team focus is client-centered with common or intersecting, measurable goals.
+» Clients and agencies have mutual responsibility and trust; interagency accountability and data sharing
+exists.
+» The backgrounds of team members bring different strengths and resources to service recipients and,
+when possible, represent the demographics of the population they are serving.
+» The network is open to new paradigms, approaches, use of technology on behalf of clients, and
+individualization of client treatment plans and services.
+» The team is aware of community resources and how to access them.
+» The actions of the team follow current best practices, legal mandates, and risk management protocols
+with integrated evaluation practices.
+» Accountability is results- and progress-based, with interagency negotiation of shared outcomes.
+» Team members are aware of limitations due to factors such as financial and time constraints.
+
+One of the main components of teamwork is effective communication with all members including the client,
+professionals, and community members. Effective communication creates stronger relationships, promotes trust
+and team building, identifies clear expectations, increases productivity, and improves conflict resolution.¹⁶
+
+**POTENTIAL CONFLICTS**
+
+The potential for conflict exists whenever two agencies or service providers work together. Tension may be
+present from the very onset of the collaboration. Tensions also can develop while delivering services. Interagency
+collaboration may result in a client having two or more counselors, each of whom handles a specialized problem.
+In such instances, SUD counselors/case managers may have competing priorities for the client which can create
+a situation that becomes tense for all involved. Recognizing potential triggers for interagency conflict is a
+necessary first step to dealing with it.
+
+When problems do erupt, SUD counselors, case managers and other agency personnel can use both informal
+and formal communication mechanisms to clarify issues, regain perspective, and refocus the interagency case
+management process. The following list highlights some of the common sources of conflict that may arise.
+» Unrealistic expectations about the services and outcomes that case management linkages can produce
+» Unrealistic expectations of other agencies
+» Disagreements over resources
+» Conflicting loyalty between agency and consortium or partnership
+» Final decision-making and other authority over the management of a case
+» Differences in values, goals, and definitions of the problem, solutions, or roles (e.g., conflict could arise
+when police officers working with social service personnel perceive that they are being asked to function
+as "social workers" and vice versa)
+» Dissatisfaction with case handling or other agency's case management performance
+» Resentment over time spent on documentation, in meetings, or forging and maintaining agency
+relationships rather than on providing client services
+» Differences in counselor credentials and status among agencies
+» Unclear problem resolution protocols for agency personnel¹⁷
+
+The solution to interagency conflict is open, frank communication by personnel at all levels. Frequent meetings
+and other activities that bring people together foster such communication. In the long run, the client's welfare is
+a shared objective, and the difficulties that are likely to arise can be successfully resolved.
+
+Specific communication skills foster more open conversations. It is important for to have good **negotiation**,
+**problem-solving**, and **conflict resolution skills**. These skills can be used to help find common ground and come
+to a mutual agreement. SUD counselors/case managers can help improve the outcome of the discussion by
+engaging in the following actions.¹⁸, ¹⁹
+» Be assertive and clearly communicate ideas and goals
+» Apply a cooperative stance
+» Be flexible and willing to compromiseCHAPTER 7: Case Management and Collaboration 327
+
+» Be empathetic and take time to understand the other’s point of view
+» Describe their personal viewpoint as a perspective, not a fact, with the use of “I” statements
+» Remain practical and realistic by basing communications and decisions on facts instead of emotions
+
+**Negotiation** is about working together to find common ground to an existing challenge or developing
+partnership. This often requires each side to be flexible and compromise to identify mutually agreeable
+approaches and outcomes. Once common ground is identified, each party can explore the practicality and
+feasibility of options based on each parties’ current resources, criteria, and objectives.
+
+Negotiation follows along with shared decision-making. This process can be used to help assess the potential
+benefits and risks of each option based on the purpose of the negotiation and the values of the parties involved.
+Once negotiation begins, shared decision-making can be employed by exploring and comparing available
+options, assessing how each option aligns with the values and priorities of the parties involved then negotiating
+a plan of action that is later evaluated for effectiveness.²⁰
+
+**Problem-solving** is another key skill used in negotiation. There are often different assumptions, expectations,
+and points of view when approaching a task or a problem. SUD counselors/case managers engage routinely in
+problem-solving when assisting clients and working with a multidisciplinary team.
+
+Opening the channels of communication provides invaluable feedback about needs, values, and priorities
+which will help guide the problem-solving and decision-making process. Decisions are often influenced by
+available resources, including time. There are several different methods to evaluate options and reach a final
+decision. There are several aspects to consider when determining the best course of action including not only
+the consequences of the decision but whether the decision is fair, ethical, and legal. Once a decision is made and
+implemented, it is important to monitor and evaluate the results. These outcomes may alter the way the plan is
+being implemented or change the strategy altogether.
+
+[Image: A central, large, bold, slightly distressed word "COLLABORATION" is depicted, with a hand appearing to underline it or write it with a thick marker. Above and below this central word are smaller icons with corresponding labels.
+Above "COLLABORATION", from left to right:
+1. An icon showing two silhouetted human heads facing each other with speech bubbles above them. Labeled "COMMUNICATION".
+2. An icon showing four puzzle pieces, three interlocked and one separate, ready to be fitted. Labeled "TEAMWORK".
+3. An icon showing a clipboard with lines of text and a pen. Labeled "SUPPORT".
+Below "COLLABORATION", from left to right:
+1. An icon showing a stick figure pushing a large gear, which is interlocked with two smaller gears. Labeled "PROMOTION".
+2. An icon showing two hands shaking. Labeled "COOPERATION".
+3. An icon showing a thumbs-up sign. Labeled "MOTIVATION".]328 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**EFFECTIVE REFERRAL PROCESS**
+
+Adopting a holistic view of clients is especially important for the case manager in making referrals to other providers or agencies. Case managers must coordinate services and broker appropriate and effective referrals. An effective referral includes connecting the client in a timely manner to appropriate services that the client agrees to and are accessible.
+
+The case management service plan is the roadmap for referrals needed in each case. The case manager's knowledge of available services and understanding the criteria for those services is essential. Providing a referral to a client who is not eligible to receive the recommended services can make the client feel discouraged and prevent an appropriate referral from taking place. Therefore, it is very important for an applicable referral to be made in the most effective way.
+
+A **formal referral** is provided when seeking an appointment with a professional such as a physician or an occupational therapist. Formal referrals allow the case manager to advocate for the client and are based on specific needs that are currently identified for the client. Some referrals will be **informal** and involve the case manager providing the client with information on community programs and services that the client can access on their own. These programs often do not require an appointment and the client can walk in during operating hours. Informal referrals promote client empowerment and networking.²¹
+
+[Image: A diagram depicting a five-step process, with each step represented by a circular icon and an accompanying text label. The icons are arranged in a cascading, slightly overlapping vertical sequence from top to bottom, left to right.
+1.  Top-left icon: A dark gray circle with a lighter gray inner circle containing a white target symbol with an arrow in the bullseye. Label: "Identify referral needs".
+2.  Second icon from top, slightly to the right of the first: A black circle with a white icon depicting a person at a computer with a speech bubble. Label: "Speak directly to the referral provider (as appropriate)".
+3.  Third icon, below and to the right of the second: A dark gray circle with a white icon of two speech bubbles, one with ellipsis and the other with a checkmark. Label: "Provide a verbal and/or written handoff (with the person's consent)".
+4.  Fourth icon, below and to the right of the third: A lighter gray circle with a white compass rose icon. Label: "Manage difficult situations".
+5.  Bottom-most icon, below and to the right of the fourth: A black circle with a white icon depicting three people sitting around a table, with speech bubbles above two of them. Label: "Follow up with the client to evaluate the outcome of the referral".]
+
+Identify referral needs
+
+Speak directly to the
+referral provider (as appropriate)
+
+Provide a verbal and/or written handoff
+(with the person's consent)
+
+Manage difficult situations
+
+Follow up with the client
+to evaluate the outcome
+of the referralCHAPTER 7: Case Management and Collaboration 329
+
+**Informal referrals** are also used for “natural” support services that are accessed by the client without the
+brokering of the case manager. These can entail referrals or recommendations to community mutual support
+groups, natural supports such as religious or spiritual organizations, or specific community programs for
+socialization.
+
+When providing referrals, it is important to keep in mind client rights as well as your own professional code
+of ethics. These often identify factors such as obtaining informed consent for services and allowing the client
+to engage in self-determination. Remember...**informed consent** involves explaining to the client the potential
+benefits, risks, and alternatives of the proposed intervention before the client participates. Self-determination
+includes discussing with the client preferences for a provider and what kind of service they want to engage in.
+Some clients, for example, may have a preference regarding the gender of the provider and whether family is
+involved in treatment.
+
+**Case conferencing** is another referral mechanism. This is when a multidisciplinary group of service providers
+working with a client come together to: 1. discuss the client’s case; 2. inform the development of the client’s
+service plan, including identifying a range of services and support needed and where services can be accessed,
+and 3. facilitate referrals for services. An example of this is when a case manager convenes a meeting involving
+a child’s special education teacher, school nurse, and mother’s case manager to share perceived needs and
+resources available to the child and the mother. During the case conferencing meeting, participants share ideas
+for addressing needs and maximizing strengths within the child’s and parent’s case plan, and any specific
+services that they themselves or their organizations can provide or that are available through other service
+providers to help achieve the plan.
+
+Case managers must also be aware of potential barriers that the client may encounter. This can include issues
+such as financial concerns, transportation limitations, childcare obligations, or employment responsibilities.
+These issues may help determine which referrals are made. For example, a client without reliable transportation
+who lives near a bus line may need to receive all services from providers who are on the same bus line while
+coordinating appointments with the bus route. Clients may also only be available certain hours due to other
+obligations and responsibilities including employment and childcare.
+
+**Safeguard protected health information.** The client should maintain control over their information. Best
+practice, and many laws, indicates that the client is not only informed of how the information is maintained and
+shared, but integrally involved in the decision-making process of who receives what information. A release of
+information is typically obtained before the case manager will share the client’s information. The release may
+be verbal but is typically written to strengthen documentation and ensure the client understands the parameters
+of the disclosure. In addition, confidentiality requirements vary based on whether the services are for physical
+health, mental health, or substance use.
+
+Laws such as HIPAA and 42 CFR Part 2 protect the client’s information; however, there are also provisions that
+allow for a case manager to share some client information without consent. Case managers most commonly
+encounter this exception in the practice of discharge planning. When a client is unable or unwilling to provide
+consent for a full referral, the case manager can share a minimal amount of information to complete a referral
+for continuity of care. While this is not best practice and only minimal information can be shared, clients should
+be made aware of when and why this referral was made. In addition to federal mandates, some states and payors
+also have laws that address client policies and procedures including those that address how referrals must occur
+when a client is discharged from an inpatient stay in a hospital.[LLM OCR returned no text for this page][Layout: Single column with a header. An image is embedded in the upper right section of the main text.]
+
+CHAPTER 7: Case Management and Collaboration 331
+
+**Monitoring and Evaluation**
+
+SUD counselors/case managers
+are responsible for monitoring
+the client’s progress. Monitoring
+activities can occur through face-
+to-face in person or virtual visits,
+phone calls, email correspondence,
+and a review of documents in the
+client’s record. It is important
+to consider what data is being
+collected. A home visit, for
+example, may provide the most
+information as the SUD counselor/
+case manager can see, hear, and
+smell the environment the client is
+living in.
+
+Monitoring involves identifying any
+changes in the client’s condition,
+needs, and preferences. This
+includes analyzing the client’s
+engagement and access to services,
+progress towards existing goals,
+and barriers to meeting their goals.
+In addition to the identified goals, the SUD counselor/case manager should continue to monitor the client’s
+rights, safety, and satisfaction with services.²⁴
+
+[Image: A close-up illustration of a performance evaluation checklist. The word "EVALUATION" is at the top in large, bold, black capital letters. Below it are five checkboxes, each with a corresponding rating. From top to bottom, the ratings are: "Outstanding", "Very Good", "Satisfactory", "Marginal", and "Unsatisfactory". A black checkmark is in the box next to "Outstanding". A silver pen with a black grip is resting on the paper, its tip pointing towards the lower options. The background is white paper.]
+
+In some cases, new goals or interventions may need to be developed to assist with changing needs, lack of
+progress, or to continue to enhance the client’s overall wellbeing. Monitoring areas such as compliance with
+finances, medications and health care appointments, housing and food security, operating utilities, hygiene,
+education, and employment can assist with this process.²⁵ The SUD counselor/case manager should periodically
+meet with the client as well as review existing documentation, and speak with other providers and members
+of the client’s personal support system when permitted in order to get different perspectives on the client’s
+progress and needs.
+
+Another aspect of regular monitoring relates to the referral system to determine if it is functioning as intended.
+The purpose of referral monitoring is to provide routine information regarding the flow of clients through a
+network of providers. Referral monitoring also allows SUD counselors/case managers to determine whether
+services are integrated successfully, whether clients are receiving comprehensive care, and whether clients can
+access a wide range of services. A good monitoring system will allow decision makers to track data such as:
+»   the number and how often referrals are being provided to the different facilities and services
+»   the total number of referrals made
+»   the number or percent of referral services completed
+»   whether adequate follow-up is provided after the referral is made
+»   the number or percent of clients who reported their needs were met
+»   the number or percent of clients who report satisfaction with the referral process332 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+ADVOCACY
+
+Advocacy is a necessary competency for SUD counselors/case managers. Its foundation is rooted in ethical theory and principles. At its essence, advocacy may be described simply as “wanting, getting, and doing what is in the best interest of preoccupied the client and the family.”²⁶ Advocacy efforts cut across various case management domains to improve the quality of care and the client’s overall satisfaction with services.
+
+Most advocacy actions taken by SUD counselors/case managers occur at the individual client level as they care for their clients and clients’ support systems. Advocacy often focuses on the client’s experience, relationship with the SUD counselor/case manager, and the resources and skills the client acquires. In addition, advocacy strategies may focus on organizational, service, community, or population levels; although, usually at a much lesser degree.
+
+SUD counselors/case managers have a mandate to speak on behalf of the client and about what is in the client’s best interest. This type of advocacy occurs at every step of the case management process while: ²⁷, ²⁸
+» Assessing clients’ needs and those of their support systems.
+» Planning, facilitating, coordinating, managing, and integrating required services and support resources.
+» Monitoring and evaluating the delivery of services and clients’ responses.
+» Transitioning the clients from one level of care/setting or provider to another.
+» Educating clients about and engaging them in: their treatment and other service plans; health and behavioral health care regimens; building self-care and self-management skills; and understanding how to navigate complex service systems.
+» Monitoring and addressing delays in service provision to advance the progression of desired outcomes.
+» Communicating with payers and other entities that cover benefits (e.g., insurance companies, managed care organizations) regarding the clients’ conditions, and service/treatment and transitional plans.
+» Obtaining authorizations for services necessary for providing care to clients.
+» Facilitating shared and informed decision-making concerning service options.
+» Being transparent with the client and support system regarding service/care progression, quality and safety concerns, and cost of services.
+
+The SUD counselor/case manager also may have to speak on behalf of the client in issues related to client rights. They may need to address client’s rights in any one of a number of situations, such as:
+» A client being refused resources because of discrimination, whether discrimination is based on some intrinsic aspect of the client, such as gender or ethnicity, or on the nature of the client’s problems, such as addiction.
+» A client being refused services despite meeting eligibility requirements.
+» A client being discharged from services for reasons outside the rules or guidelines of that service.
+» A client being refused services because they were previously accessed but not utilized.²⁹[Layout: The page has a header at the top. The main content is in a single column on the left, with a sidebar on the right containing two definitions. The page number is in the top right corner. A visual representation of a spiral binding is visible along the left edge of the page.]
+
+CHAPTER 7: Case Management and Collaboration 333
+
+**Self-Advocacy**
+
+SUD counselors/case managers also work with their clients to grow and
+support personal accountability in their lives. This involves teaching
+clients how to advocate for themselves as much as possible and to provide
+immediate assistance as needed, along with education so clients can
+learn incremental skills that increase independence. This is known as
+**self-advocacy** – the ability to speak up for oneself about the things that
+are important. To self-advocate, clients must understand their needs and
+strengths, learn how to get information, know about their rights, be able
+to make decisions about important issues affecting them, and have the
+courage to reach out to others for support and help when its needed.
+
+To effectively achieve this, the SUD counselor/case manager must involve
+the client in the advocacy process. This reinforces individual choice and
+self-determination which are integral rights to upholding an individual’s
+dignity. SUD counselors can empower clients by providing knowledge,
+resources, and skills for self-advocacy.
+
+The SUD counselor/case manager needs to seize opportunities to teach
+skills that are needed for effective self-advocacy, such as problem-
+solving, decision-making, and goal setting. SUD counselors/case
+managers can assist clients in these areas by modeling respectful
+interactions, informing clients of their rights, and encouraging the client
+to voice needs, thoughts, and emotions. Other skills that benefit advocacy
+efforts – such as active listening, stress management, emotion regulation, and conflict resolution skills – can be
+taught. ³²
+
+Involving clients in program planning and evaluation is another way to enable clients to get their voices
+heard. This necessitates: 1) having formal avenues in which clients can participate in organizational decision-
+making and feedback; 2) using established processes for client participation; and 3) ensuring their opinions are
+respected and acted on by decision-makers. Some clients with behavioral health conditions require skill building
+before they can meaningfully participate in these types of activities; therefore, client education should include
+assertiveness training, successful strategies for working in groups, and communicating orally and in writing.
+
+**Self-determination**³⁰, ³¹ identifies
+the amount of independent choice
+an individual has over their own life
+by engaging in problem-solving,
+goal setting, decision-making, and
+self-advocacy based on their needs,
+skills, beliefs, and social context.
+Self-determination can also improve
+safety while reducing the need for
+involuntary examinations.
+
+**Self-advocacy** is the act
+of assertively identifying,
+communicating, and pursuing one's
+own preferences and goals.
+
+**SUMMARY**
+
+The integration of case management skills and practices in SUD treatment is indispensable. It brings a
+structured, holistic, and client-centered approach to treatment, addressing the multifaceted nature of a client’s
+conditions and needs. Through comprehensive assessment, multi-service collaboration and integration, and
+continuous client engagement, case management enhances treatment efficacy, and promotes sustained recovery.
+As such, developing and refining these skills is a priority for SUD counselors/case managers, ensuring that they
+are well-equipped to guide their clients through the complex process of recovery.[Layout: Two columns with a header. The content is a list of endnotes numbered from 1 to 24, split across the two columns.]
+
+334 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**END NOTES**
+
+1 SAMHSA (2021). Comprehensive case management for substance use disorder treatment. Advisory. Publication No. PEP20-02-02-013 https://store.samhsa.gov/prod-uct/advisory-comprehensive-case-management-sub-stance-use-disorder-treatment-based-tip-27/pep20
+
+2 SAMHSA (2021). Comprehensive case management for substance use disorder treatment. Advisory. Publication No. PEP20-02-02-013. https://store.samhsa.gov/sites/default/files/PEP20-02-02-013.pdf
+
+3 Ibid.
+
+4 Case Management Society of America (CMSA)(2016). Standards of practice for case management. Author. https://www.abqaurp.org/DOCS/2016%20CM%20standards%20of%20practice.pdf
+
+5 Giardino, A. P., De Jesus, O. [Updated 2023 Aug 14]. Case management. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK562214/
+
+6 Case Management Society of America (CMSA) (2017). What is a case manager? Author. https://cmsa.org/who-we-are/what-is-a-case-manager/
+
+7 SAMHSA (2021). Comprehensive case management for substance use disorder treatment. Advisory. Publication No. PEP20-02-02-013. https://store.samhsa.gov/sites/default/files/PEP20-02-02-013.pdf
+
+8 SAMHSA (2021). Comprehensive case management for substance use disorder treatment. Advisory. Publication No. PEP20-02-02-013. https://store.samhsa.gov/sites/default/files/PEP20-02-02-013.pdf
+
+9 National Association of Social Workers (NASW). NASW Standards for Social Work Case Management (2013). https://www.socialworkers.org/linkClick.aspx?fileticket=acrzqmEf-hlo%3d&portalid=0
+
+10 Frankel, A. J. (2015). Case Management, Third Edition. Oxford University Press. Kindle Edition.
+
+11 Kent State University (2018). Differences Between Public and Private Sources of Funding. Retrieved from http://liter-acy.kent.edu/Oasis/grants/publicVSprivate.html.
+
+12 Colorado Nonprofit Association (2013). Collaboration tool-kit: Creating an MOU. Retrieved from https://anschutz-familyfoundation.org/wp-content/uploads/2016/04/MOU-toolkit-MAIN.pdf
+
+13 Social Care Institute for Excellence (2018). Delivering in-tegrated care: the role of the multidisciplinary team. https://www.scie.org.uk/integrated-care/workforce/role-multi-disciplinary-team.
+
+14 Singh, S. (2000). Running an effective community men-tal health team. Advances in Psychiatric Treatment, 6(6), 414-422. doi:10.1192/apt.6.6.414. https://www.cam-bridge.org/core/journals/advances-in-psychiatric-treat-ment/article/running-an-effective-community-mental-health-team/02EC9E597E6021F987922079B75BD611D.
+
+15 Center for Substance Abuse Treatment (2000). Integrat-ing substance abuse treatment and vocational Services. Rock-ville (MD): Substance Abuse and Mental Health Services Administration (US); 2000. (Treatment Improvement Protocol (TIP) Series, No. 38. https://www.ncbi.nlm.nih.gov/books/NBK64296/
+
+16 Portland Community College (2019). The 7 benefits of effective communication in personal and professional settings. https://climb.pcc.edu/blog/the-7-benefits-of-effec-tive-communication-in-personal-and-profession-al-settings.
+
+17 Center for Substance Abuse Treatment (2015, revised). Comprehensive case management for substance abuse treatment. Treatment Improvement Protocol (TIP) Series, No. 27. HHS Publication No. (SMA) 15-4215. Rockville, MD: Center for Substance Abuse Treatment.
+
+18 McCarthy, A. and Hay, S. (2015). Advanced negotiation techniques. New York, NY: Springer Science and Business Media.
+
+19 Harvard Law School (2020). Negotiation skills training: De-fine your negotiation style. https://www.pon.harvard.edu/daily/negotiation-skills-daily/in-learning-negotiation-styles-social-skills-should-come-first/.
+
+20 Agency for Healthcare Research and Quality (2016). The SHARE Approach: A model for Shared Decision-making - Fact sheet. https://www.ahrq.gov/health-literacy/curricu-lum-tools/shareddecisionmaking/tools/sharefactsheet/index.html.
+
+21 National Center for Guidance in Education (n.d.). Formal and Informal Referrals. https://www.ncge.ie/fet-guidance/formal-and-informal-referrals.
+
+22 Agency for Healthcare Research and Quality (n.d.) Implementation quick start guide: Warm Handoff. https://www.ahrq.gov/sites/default/files/wysiwyg/professionals/quality-client-safety/client-family-engagement/pfepri-marycare/warm-handoff-qsg-brochure.pdf
+
+23 Ibid.
+
+24 New Mexico Department of Health (2018). Instructions and guidelines for case management monitoring activ-ities. https://www.nmhealth.org/publication/view/guide/4738/.CHAPTER 7: Case Management and Collaboration 335
+
+25 Utah Department of Human Services, Division of Sub-
+stance Abuse & Mental Health (2019). *Training manual*
+*for case management certification.* https://dsamh.utah.
+gov/pdf/case_management/Adult%20Case%20Mgt%20
+Training%20Manual%202019.pdf.
+
+26 Tahan, H. (2004). Advocacy may be a balancing act for
+CMs. Hospital Case Management. https://www.relias-
+media.com/articles/5960-advocacy-may-be-a-balanc-
+ing-act-for-cms.
+
+27 Tahan, H. (2016). Essentials of advocacy in case man-
+agement: Part 1 – Ethical underpinnings of advoca-
+cy – theories, principles, and concepts. *Professional*
+*Case Management, 21*(4), 163–179. https://journals.
+lww.com/professionalcasemanagementjournal/Full-
+text/2016/07000/Essentials_of_Advocacy_in_Case_
+Management_Part_1_.2.aspx.
+
+28 Ibid.
+
+29 Center for Substance Abuse Treatment (2015, revised).
+*Comprehensive case management for substance abuse treat-*
+*ment.* Treatment Improvement Protocol (TIP) Series, No.
+27. HHS Publication No. (SMA) 15-4215. Rockville, MD:
+Center for Substance Abuse Treatment. https://store.
+samhsa.gov/sites/default/files/sma15-4215.pdf
+
+30 A National Gateway to Self-Determination (2010). *Pro-*
+*moting self-determination: A practical guide.* Author. http://
+ngsd.org/sites/default/files/promoting_selfdetermina-
+tion_a_practice_guide.pdf.
+
+31 Australian Department of Health (2013). *Capability 3A:*
+*Promoting autonomy and self-determination.* https://www1.
+health.gov.au/internet/publications/publishing.nsf/Con-
+tent/mental-pubs-n-recovgde-toc~mental-pubs-n-re-
+covgde-app~mental-pubs-n-recovgde-app-3~mental-
+pubs-n-recovgde-app-3-a.
+
+32 Wisconsin Coalition for Advocacy (2005). *Advocacy tool*
+*kit: Skills for effective self and peer advocacy.* https://www.
+disabilityrightswi.org/wp-content/uploads/2018/04/Ad-
+vocacy-Tool-Kit.pdf

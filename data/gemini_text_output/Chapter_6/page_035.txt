@@ -1,0 +1,74 @@
+[Layout: The page has a header, a main single column of text, and a sidebar on the right.]
+
+CHAPTER 6: Evidence-based Practices
+297
+
+**Use of MAT During Pregnancy**¹⁰¹, ¹⁰²
+
+Substance use while pregnant, especially opioid use, has escalated dramatically in recent years, mirroring the
+epidemic observed in the general public. Pregnancy provides an important opportunity to identify and treat
+women with SUDs. Pregnant women who undergo early universal screening and referral to treatment and
+supportive services show improved maternal and infant outcomes. The types of agencies and professionals
+providing treatment and other services to pregnant women with OUDs can vary widely from one community to
+another. Every professional involved needs to understand a pregnant woman’s distinct needs, and those of her
+family members, before implementing the most appropriate and comprehensive plan of care.
+
+Pregnant women who are physically dependent on opioids should
+receive MAT from a physician rather than withdrawal management
+or abstinence, since those approaches may pose a risk to the pregnant
+woman and the fetus. According to the American College of Obstetricians
+and Gynecologists (ACOG), the current standard of care for pregnant
+women with OUDs is referral for MAT with methadone and/or
+buprenorphine since “abrupt discontinuation of opioids in an opioid-
+dependent pregnant woman can result in preterm labor, fetal distress, or
+fetal demise.”¹⁰³
+
+Since the 1970s, opioid agonist pharmacotherapy with methadone in
+combination with counseling and behavioral therapy has been the
+standard treatment of heroin addiction during pregnancy.¹⁰⁴ In later
+years, methadone and buprenorphine are first-line therapy options for
+pregnant people with OUD, recommended by both the ACOG and SAMHSA,
+in conjunction with behavioral therapy and medical services. While
+some treatment centers use naltrexone to treat OUD in pregnant women,
+current information on its safety during pregnancy is limited. ACOG
+recommends that if a woman is stable on naltrexone prior to pregnancy,
+the decision regarding whether to continue naltrexone treatment during
+pregnancy should involve a careful discussion between the provider
+and the client, weighing the limited safety data on naltrexone with the
+potential risk of relapse with discontinuation of treatment.¹⁰⁵
+
+It is important to recognize that **Neonatal Opioid Withdrawal Syndrome (NOWS)** is an expected condition that
+can follow exposure to MAT for an OUD. A concern for NOWS alone should not deter healthcare providers from
+prescribing medication. Close collaboration with the pediatric care team can help ensure that infants born to
+people who used opioids during pregnancy are monitored for NOWS and receive appropriate treatment, as well as
+be referred to needed services.¹⁰⁶
+
+For pregnant women diagnosed with an OUD, there is a chance that their infant may experience withdrawal
+symptoms after birth. Like any medication given during pregnancy, MAT has both risks and benefits to the
+mother and fetus. Therefore, MAT needs careful consideration and coordination from all treatment and medical
+professionals involved.
+
+» NOWS represents the pattern of effects linked to withdrawal for newborns with prenatal exposure to
+certain substances, including opioids. Many factors influence NOWS symptoms, including the type of
+opioid involved, the point in gestation when the mother used the opioid, genetic factors, and exposure to
+multiple substances including tobacco.¹⁰⁷
+
+» NOWS is a treatable condition. According to ACOG, “All infants born to women who use opioids during
+pregnancy should be monitored for neonatal abstinence syndrome and treated if indicated. There are no
+known risks of increased birth defects with pharmacotherapy medications.”¹⁰⁸
+
+[Sidebar]
+SAMHSA, along with the National
+Institute on Drug Abuse (NIDA),
+the American Society of Addiction
+Medicine (ASAM), the Centers for
+Disease Control and Prevention
+(CDC), and the American Medical
+Association (AMA) all recommend
+MAT as a best practice. The
+American College of Obstetricians
+and Gynecologists (ACOG) also
+recommends MAT as best practice
+for treating pregnant women with
+OUDs.
+[/Sidebar]

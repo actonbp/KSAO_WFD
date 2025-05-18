@@ -1,0 +1,1077 @@
+Okay, this is a comprehensive task. I will proceed by meticulously analyzing the provided textbook chapter, "CHAPTER 3: CO-OCCURRING CONDITIONS AND SPECIAL POPULATIONS," to extract KSAOs relevant to SUD counselors.
+
+My thinking process will be as follows:
+
+1.  **First Pass - Reading and Initial Notes:** I'll read through the entire chapter, making initial notes of potential KSAOs. I will highlight phrases like "counselors need to understand," "it's crucial to," "counselors should be adept at," "an important role for the SUD counselor is," "counselors can play an important role in," "implications for treatment," "counselors should," etc.
+2.  **Second Pass - KSAO Identification and Description:** I'll go back through my notes and the text section by section, formally identifying each KSAO. For each, I will draft a name/title and a description based *directly* on the text.
+3.  **Third Pass - Classification and Attributes:** For each identified KSAO, I will:
+    *   Classify it as Knowledge (K), Skill (S), Ability (A), or Other Characteristic (O).
+    *   Determine its Specificity Level (general or specialized for SUD/COD).
+    *   Identify related O*NET categories (primarily focusing on SUD Counselors, but potentially Mental Health Counselors if the KSAO is broader).
+    *   Assess Stability/Malleability (fixed or developable).
+    *   Determine Explicit/Tacit orientation.
+    *   Note any Prerequisites or developmental relationships mentioned or implied by the text.
+4.  **Fourth Pass - Hierarchical Structure and Relationships:** I will analyze the compiled list of KSAOs to identify:
+    *   Dimensions vs. sub-dimensions (broader competencies vs. specific components).
+    *   Developmental sequences (what needs to be learned first).
+    *   Foundational KSAOs.
+5.  **Final Organization and Presentation:** I will organize all findings into a structured report.
+
+Let's begin the detailed thinking process.
+
+**DOCUMENTING THE THINKING PROCESS**
+
+**Step 1: Careful Reading and Noting Key Concepts (First Pass - In Progress)**
+
+I'm reading through Chapter 3, starting from page 85.
+
+*   **Introduction (p.86):**
+    *   "recognizing and addressing this triad" (SUDs, MHDs, physical illness) -> implies knowledge and skill.
+    *   "develop comprehensive, integrated treatment plans and service arrays" -> skill.
+    *   "Understanding the characteristics and special considerations for each special population" -> knowledge.
+    *   "Tailoring services to meet the unique needs" -> skill.
+
+*   **Co-Occurring SUD and MHDs (p.87-88):**
+    *   "Careful assessment and treatment planning to take each disorder into account" -> skill.
+    *   Understanding the bidirectional nature, common risk factors -> knowledge.
+    *   "both need to be treated with equal seriousness" -> principle/attitude.
+    *   "person-centered rather than cookie-cutter approach" -> skill/approach.
+    *   Screening and assessing accurately, choosing appropriate treatments -> skill.
+    *   Understanding diagnostic challenges (overlapping symptoms) -> knowledge.
+
+*   **Mental Health Disorders (p.88-90):**
+    *   "diagnostic impression" vs. "full diagnosis" -> knowledge of scope of practice.
+    *   "familiarity with MHD terminology and criteria" -> knowledge.
+    *   "active member of the treatment team" -> skill (collaboration).
+    *   Knowledge of major MHD categories and those common with SUDs.
+    *   Referencing SAMHSA TIP 42 -> awareness of resources.
+
+*   **Treatment Approaches (p.90-91):**
+    *   Understanding episodic nature of treatment for CODs -> knowledge.
+    *   Knowledge of sequential, simultaneous, integrated treatment models.
+    *   "integrated model is currently regarded as the ‘gold standard’" -> knowledge of best practices.
+    *   Knowledge of integrated intervention examples (screening, dual recovery groups, MI for both, etc.).
+    *   "work as part of or in close collaboration with integrated treatment teams" -> skill (collaboration).
+
+*   **Evidence-Based Treatments (p.91-92):**
+    *   "prepared for a potentially prolonged treatment process" -> attitude (patience).
+    *   "adept at managing these challenges through continuous monitoring and adjustment of treatment plans" -> skill.
+    *   Knowledge and use of EBTs (CBT, DBT, MAT, MI).
+    *   Knowledge of Assertive Community Treatment (ACT) model and features (24/7 availability, personalized plans, integrated services, practical assistance, assertive engagement, outreach).
+    *   Counselor role in ACT (standard counseling, life management, behavioral management).
+
+*   **Medication for MHDs (p.92-93):**
+    *   Knowledge of the role of medications in MHDs, common uses, trial-and-error process.
+    *   Skill in clarifying medication purpose.
+    *   Knowledge of pediatric considerations.
+    *   Counselor's role:
+        *   Education (purpose, benefits, side effects) -> skill.
+        *   Medication Adherence and Monitoring (strategies, monitoring) -> skill.
+        *   Collaboration (with prescribers) -> skill.
+        *   Addressing Barriers (cost, stigma, misconceptions) -> skill.
+        *   Support and Counseling (coping, motivation) -> skill.
+    *   Understanding medication side effects, reporting negative effects -> knowledge & skill.
+
+*   **Issues Regarding Access to Treatment for People with CODs (p.94):**
+    *   Knowledge of barriers (stigma, cultural, financial, systemic, population-specific).
+
+*   **Civil Commitment (p.95-96):**
+    *   Knowledge of civil commitment processes, steps, criteria.
+    *   Knowledge of ethical/legal considerations (liberty vs. state interest).
+
+*   **Physical Health (p.97):**
+    *   Knowledge of impact of SUD/MHD on physical health, "triple jeopardy."
+    *   Knowledge of physiological effects of substance use on organs.
+    *   Skill in connecting clients with healthcare resources (primary care).
+    *   Implication of including treatments for health behaviors -> skill in health promotion.
+
+*   **Alcohol Use (p.98-99):**
+    *   Knowledge of immediate and long-term health effects of alcohol.
+    *   "regular alcohol screening for all clients" -> skill.
+    *   "use brief interventions to raise ... awareness" -> skill.
+
+*   **Tobacco Use (p.100):**
+    *   Knowledge of health consequences.
+    *   Knowledge of high comorbidity with SUD/MHD.
+    *   "necessity for integrated care approaches that address smoking cessation" -> knowledge of need, skill in facilitating.
+
+*   **HIV (p.100-102):**
+    *   Basic knowledge of HIV (transmission, ART).
+    *   Knowledge of HIV risk factors related to SUD.
+    *   Provider roles: HIV risk assessment, testing, counseling, linkage to care, PrEP/PEP knowledge. -> skills and knowledge.
+    *   Universal screening, MOUD, harm reduction education. -> skills and knowledge.
+
+*   **Viral Hepatitis (p.102-103):**
+    *   Knowledge of types (A,B,C,D,E), transmission, consequences.
+    *   Counselor role: Education, Screening/Testing, Vaccination advocacy, Referral, Harm Reduction. -> skills and knowledge.
+
+*   **Sexually Transmitted Diseases (p.104-105):**
+    *   Knowledge of common STDs, disparities, risk factors related to SUD.
+    *   Knowledge of terminology (STD vs. STI).
+    *   Strategies: Screening, Behavioral Sexual Risk-Reduction Counseling (information, risk assessment, motivation, skills training). -> skills and knowledge.
+
+*   **Special Populations - General (p.106):**
+    *   Skill in tailoring treatments to individual needs.
+    *   Importance of: Individualized Treatment, Cultural Competence, Addressing Disparities, Enhanced Outcomes, Ethical Practice, Continuous Learning -> implies KSAOs for each.
+    *   Awareness of resources (SAMHSA TIPs).
+
+*   **Women/Pregnant Women (p.107-115):**
+    *   Knowledge of gender differences in SUDs ("telescoping").
+    *   Knowledge of specific factors for women (stigma, trauma, relationships, co-occurring conditions, socio-economic, treatment seeking barriers).
+    *   Knowledge specific to pregnant women (MHD/SUD effects on fetus, NAS/NOWS).
+    *   Implications for treatment: Knowledge of and skill in applying gender-responsive approaches (childcare, prenatal care, women-only programs, integrated trauma-informed care, EBTs like *Seeking Safety*, relationship focus, holistic services, physical/sexual/reproductive health, family/pregnancy-oriented programs).
+    *   Specific perinatal services: SUD screening, MOUD for OUD, harm reduction, postpartum care.
+
+*   **Adolescents (p.115-123):**
+    *   Knowledge of adolescent development (physical, psychological, social, relational tasks).
+    *   Knowledge of adolescent vulnerability and risk factors for SUD.
+    *   Knowledge of adolescent SUD patterns, consequences (brain development).
+    *   Knowledge of common adolescent MHDs.
+    *   Implications for treatment:
+        *   Skill in providing developmentally appropriate care.
+        *   Skill in engaging adolescents (rapport, tailoring, technology).
+        *   Skill in providing integrated care (collaboration, case management).
+        *   Skill in family involvement.
+        *   Knowledge and skill in trauma-informed care for adolescents.
+        *   Knowledge and skill in applying EBPs for adolescents (e.g., CRAFT).
+        *   Skill in cultural competence with adolescents (pop culture, language, innovative therapies).
+
+*   **Older Adults (p.124-128):**
+    *   Knowledge of age variations and heterogeneity.
+    *   Knowledge of increased SUD risk in baby boomers.
+    *   Knowledge of physiological, psychological, cognitive, social vulnerabilities in older adults.
+    *   Knowledge of SUD/MHD presentation, underrecognition, ageism.
+    *   Implications for treatment:
+        *   Skills in outreach, engagement, case management, age-sensitive strategies.
+        *   Knowledge of developmental issues of aging for treatment.
+        *   Skill in providing person-centered care (accommodating dementia, language/hearing barriers, explaining options clearly).
+        *   Knowledge to distinguish early vs. late-onset SUDs.
+        *   Skills in education, screening, brief treatment for older adults.
+        *   Skills in health risk reduction (nutrition, exercise, fall prevention).
+        *   Skills in building alliances, using social networks, involving family/caregivers.
+        *   Skills in care coordination (Medicare/Medicaid knowledge).
+
+*   **LGBTQI+ (p.128-132):**
+    *   Knowledge of LGBTQI+ terminology, sexual orientation vs. gender identity, diversity within the community.
+    *   Knowledge of health disparities (SUD/MHD rates).
+    *   Knowledge of Minority Stress Model.
+    *   Knowledge of specific risk behaviors (chemsex) and youth issues (conversion therapy harm).
+    *   Service Implications:
+        *   Skill in providing affirming care (terminology, pronouns, cultural humility, trauma-informed, intersectionality).
+        *   Knowledge of gender-affirming care principles.
+        *   Knowledge of addressing minority stress.
+        *   Skill in supporting family/social networks.
+        *   Skill in creating an inclusive environment.
+        *   Skill in tailoring assessment/treatment (e.g., LGB-Affirmative CBT).
+        *   Need for specific training, education, supervision.
+        *   Skill in collaborating with LGBTQI+ organizations.
+
+*   **Criminal Justice-Involved (p.132-135):**
+    *   Knowledge of over-representation of SUD/MHD in justice system.
+    *   Knowledge of adverse consequences of incarceration and reentry barriers.
+    *   Knowledge of PTSD/PICS in this population.
+    *   Knowledge of criminogenic risk factors.
+    *   Implications for Treatment:
+        *   Knowledge of criminal justice procedures, terminology, professionals.
+        *   Skill in tailoring services for justice-involved individuals.
+        *   Skill in addressing criminogenic risk factors.
+        *   Skill in conducting clinical assessments and criminogenic risk/needs assessments for this population.
+
+*   **Active Military and Veterans (p.136-141):**
+    *   Knowledge of military-specific risks/protective factors.
+    *   Knowledge of SUD/MHD prevalence in active duty/veterans.
+    *   Knowledge of veteran demographics and readjustment challenges (combat exposure, PTSD, TBI).
+    *   Knowledge of suicide and homelessness issues among veterans.
+    *   Knowledge of military culture and help-seeking barriers.
+    *   Implications for Treatment (community-based):
+        *   Need for specialized training on military culture, veteran mental health.
+        *   Skill in military cultural competence.
+        *   Skill in integrated treatment for veterans (SUD/MHD/trauma).
+        *   Skill in trauma-informed care for veterans.
+        *   Skill in collaborating with VA/veteran services.
+        *   Skill in facilitating peer support for veterans.
+    *   "Recommended training" list (p.141) is a direct source for many KSAOs for working with veterans.
+
+*   **Summary (p.141):**
+    *   Reiterates need for integrated, holistic care.
+    *   Counselor's role in facilitating integrated approaches.
+
+This first pass gives a good overview. Now for the detailed extraction.
+
+**Step 2 & 3: KSAO Identification, Description, Classification, and Attributes (Iterative - In Progress)**
+
+I will now go through the chapter more systematically, creating the KSAO entries. I will try to group them logically as I go, but the main goal now is to capture them.
+
+*(Self-correction: Instead of strictly section by section for the *final output*, I might group KSAOs by broader competency domains like "Foundational Knowledge," "Assessment Skills," "Intervention Skills," "Special Population Competencies," etc., after extracting them. However, for extraction, I'll follow the chapter flow to ensure nothing is missed.)*
+
+Let's start creating the list. I'll use a temporary numbering for now.
+
+---
+
+Okay, I have gone through the entire chapter meticulously now, drafting initial KSAOs and their attributes. This was a lengthy process involving careful interpretation of phrases and ensuring the KSAOs are directly derived from the text. I've tried to avoid making assumptions beyond what the text provides. The list is extensive.
+
+Example of my thought process for a single point:
+Text: "This chapter emphasizes the importance of recognizing and addressing this triad [SUDs, MHDs, physical illnesses] for healthcare providers, including SUD counselors, to develop comprehensive, integrated treatment plans and service arrays..." (p.86)
+
+*   KSAO 1:
+    *   **Name:** Knowledge of Co-Occurring Disorders (CODs) and Triple Diagnosis
+    *   **Description:** Understanding the frequent coexistence and complex interplay of Substance Use Disorders (SUDs), Mental Health Disorders (MHDs), and physical illnesses, and how they can worsen each other, complicating diagnosis, treatment, and recovery.
+    *   **Classification:** Knowledge
+    *   **Specificity:** Specialized (COD focus)
+    *   **O*NET:** 21-1011.00 (Substance Abuse Counselors), 21-1014.00 (Mental Health Counselors)
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit (taught in curricula like this chapter)
+    *   **Prerequisites:** Basic knowledge of SUDs and MHDs individually.
+*   KSAO 2:
+    *   **Name:** Skill in Integrated Treatment Planning for CODs
+    *   **Description:** Ability to develop comprehensive, integrated treatment plans and service arrays that address the interconnectedness of SUDs, MHDs, and physical health conditions to enhance overall health and quality of life.
+    *   **Classification:** Skill
+    *   **Specificity:** Specialized (COD focus)
+    *   **O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (principles taught explicitly, application refined tacitly)
+    *   **Prerequisites:** Knowledge of CODs, knowledge of treatment modalities, basic treatment planning skills.
+
+I've done this for all relevant points in the text.
+
+**Step 4: Hierarchical Structure and Relationships (In Progress)**
+
+Now I'll review the (very long) list I've generated and start thinking about hierarchies.
+
+*   **Broad Dimensions:**
+    *   Foundational Knowledge (e.g., ethics, SUD basics, MHD basics)
+    *   Assessment and Diagnosis-Related Competencies
+    *   Treatment Planning and Intervention Competencies
+    *   Competencies for Working with Co-Occurring Disorders
+    *   Competencies for Addressing Physical Health and Infectious Diseases
+    *   Competencies for Working with Special Populations (with sub-dimensions for each population)
+    *   Professional Development and Collaboration
+
+*   **Developmental Sequence / Foundations:**
+    *   Basic knowledge of SUDs, MHDs, and human behavior is foundational.
+    *   General counseling skills (e.g., active listening, empathy – though not explicitly detailed in *this chapter*, they are implied for many skills listed) would be foundational for applying specific interventions.
+    *   Knowledge of a concept (e.g., "Knowledge of CBT principles") precedes "Skill in applying CBT."
+    *   Understanding general principles for special populations (e.g., "Knowledge of Cultural Competence Principles") is foundational to specific skills for individual populations.
+    *   Screening skills often precede full assessment skills.
+    *   Knowledge of different treatment models (e.g., integrated care) is foundational to implementing them.
+
+*   **Sub-dimensions example:**
+    *   Dimension: Competencies for Working with Women with SUDs
+        *   Sub-dimension: Knowledge of Unique Factors Affecting Women with SUDs (stigma, trauma, relationships, telescoping, etc.)
+        *   Sub-dimension: Skill in Providing Gender-Responsive Treatment for Women
+        *   Sub-dimension: Knowledge of SUD/MHD Issues in Pregnant and Postpartum Women
+        *   Sub-dimension: Skill in Linking Pregnant Women to Perinatal Care and MOUD
+
+I will make these relationships more explicit in the final output.
+
+**Step 5: Final Organization and Presentation**
+
+I will now structure the KSAOs. Given the chapter's focus, I'll organize them thematically, starting with CODs, then general treatment principles, physical health, and then special populations. Each KSAO will have its full attribute set. I will then provide a separate section on the hierarchical structure.
+
+This is going to be a very long output, as the chapter is dense with information implying counselor competencies. I will try to be concise yet complete for each KSAO based on the text.
+
+I will ensure that the O*NET codes are consistently applied. The primary one will be **21-1011.00 (Substance Abuse, Behavioral Disorder, and Mental Health Counselors)** as O*NET has consolidated these. I will also refer to **21-1014.00 (Mental Health Counselors)** and **21-1022.00 (Mental Health and Substance Abuse Social Workers)** where the skills overlap significantly, as the text often mentions multidisciplinary teams including these roles. However, the core focus is SUD counselors as per the prompt. O*NET recently updated "Substance Abuse and Behavioral Disorder Counselors" and "Mental Health Counselors" into "Substance Abuse, Behavioral Disorder, and Mental Health Counselors" (21-1011.00). I will use this updated consolidated code as primary.
+
+For stability/malleability, "Developable" will be common for most K & S. "Fixed" is rare, usually for some core abilities or ingrained personality traits (though the text doesn't focus on these as much as K&S).
+
+For Explicit/Tacit, many skills are learned explicitly (theory) and refined tacitly (experience). Knowledge is often explicit.
+
+Let's finalize the KSAOs and their attributes. This involves a final review of my extensive draft against the text to ensure accuracy and completeness *within the scope of the provided chapter*.
+
+The list is very long. I will present a selection to demonstrate the method and then summarize how the full list would be constructed, or provide the full list if feasible within a reasonable response length. Given the instruction "Document your COMPLETE thinking process IN DETAIL" and "Show your thinking process step-by-step as you analyze the text... Then present your final findings in a structured format," a comprehensive list is expected.
+
+The chapter is quite prescriptive about what counselors "need to," "should," or "play a role in." This translates well into KSAOs.
+
+I'm now collating and refining the full list. It will be organized based on the chapter's flow:
+1.  Co-Occurring Disorders (SUD/MHD)
+2.  Treatment Approaches and EBTs for CODs
+3.  Medication Management Support
+4.  Access to Treatment & Civil Commitment
+5.  Physical Health, Alcohol, Tobacco
+6.  Infectious Diseases (HIV, Hepatitis, STDs)
+7.  Special Populations (General Principles)
+8.  Women / Pregnant Women
+9.  Adolescents
+10. Older Adults
+11. LGBTQI+ Individuals
+12. Criminal Justice-Involved Individuals
+13. Active Military and Veterans
+
+This structure will help maintain clarity.
+
+Final check: O*NET code 21-1011.00 is "Substance Abuse, Behavioral Disorder, and Mental Health Counselors." This is highly appropriate. I may also list 21-1018.00 "Substance Abuse and Behavioral Disorder Counselors" and 21-1014.00 "Mental Health Counselors" if I want to be more granular based on older O*NET structures or specific nuances, but 21-1011.00 seems to be the current overarching one. The prompt asks for "related O*NET occupational categories," so plural is fine. The text is for "IC&RC Alcohol and Drug Counselor (ADC) Certification," which aligns with SUD counseling roles.
+
+Okay, the detailed KSAO generation is complete. I'm ready to present the structured findings.Okay, I have thoroughly analyzed the provided textbook chapter. Below is my detailed thinking process and the final structured findings, including the KSAOs and their hierarchical relationships.
+
+**My Complete Thinking Process Documented in Detail**
+
+**1. First, carefully read through the textbook content and note key concepts related to KSAOs:**
+
+I read the chapter page by page, from 85 to 141. My initial focus was on identifying action verbs, statements of need/requirement for counselors, descriptions of counselor roles, and explicit mentions of knowledge or skills.
+
+*   **Initial Scan (Keywords & Phrases):** I looked for phrases like "counselors need to understand," "it is important for counselors," "counselors should be adept at," "role of a counselor includes," "SUD counselors can play an important role in," "implications for treatment," "providers should," "counselors should focus on," etc. I also noted headings and subheadings as they often indicate broad areas of competency.
+*   **Content Themes:** The main themes emerging were:
+    *   Co-occurring disorders (SUDs, MHDs, physical health).
+    *   Assessment and diagnosis (specifically diagnostic impressions for MHDs).
+    *   Treatment approaches (sequential, parallel, integrated, EBTs like CBT, DBT, MAT, MI, ACT).
+    *   Medication management support.
+    *   Barriers to treatment (stigma, systemic, etc.) and civil commitment.
+    *   Physical health impacts (alcohol, tobacco).
+    *   Infectious diseases (HIV, Hepatitis, STDs) and harm reduction.
+    *   Special populations: overarching principles, and then specific considerations for women (including pregnant women), adolescents, older adults, LGBTQI+, criminal justice-involved, and veterans.
+
+**2. For each section or chapter, identify explicit and implicit competencies:**
+
+I went through the chapter section by section, meticulously extracting competencies.
+
+*   **Example - Co-Occurring Conditions (p.86-87):**
+    *   *Explicit:* "recognizing and addressing this triad" (SUD, MHD, physical illness) -> K of interconnections, S in recognizing, S in addressing.
+    *   *Explicit:* "develop comprehensive, integrated treatment plans" -> S in integrated treatment planning.
+    *   *Explicit:* "Understanding the characteristics and special considerations for each special population" -> K of special population needs.
+    *   *Explicit:* "Tailoring services to meet the unique needs" -> S in tailoring services.
+    *   *Explicit:* "Careful assessment and treatment planning to take each disorder into account" -> S in COD assessment, S in COD treatment planning.
+    *   *Implicit:* Discussion of bidirectional nature -> K of COD etiology and progression.
+
+*   **Example - Mental Health Disorders (p.88-89):**
+    *   *Explicit:* "Entry level SUD counselors generally do not diagnose MHDs but may be asked to give a 'diagnostic impression.'" -> K of scope of practice, S in forming diagnostic impressions, S in communicating limitations.
+    *   *Explicit:* "familiarity with MHD terminology and criteria" -> K of MHD terminology (DSM).
+    *   *Explicit:* "active member of the treatment team" -> S in interdisciplinary collaboration.
+
+*   **Example - Assertive Community Treatment (ACT) (p.92):**
+    *   *Explicit:* "deliver intensive, personalized, and integrated services...in their natural environments" -> K of ACT model.
+    *   *Explicit:* "assertive engagement with active outreach" -> S in assertive engagement, S in outreach.
+    *   *Explicit:* "role of a counselor in the ACT approach includes standard counseling, but...substantial time also is spent on life management and behavioral management matters" -> S in life skills training, S in behavioral management (within ACT context).
+
+*   **Example - Special Populations - General (p.106):**
+    *   *Explicit:* "tailor treatments to fit the specific needs of each client" -> S in individualizing treatment.
+    *   *Explicit:* "Cultural Competence: Knowledge of different cultural...backgrounds helps counselors build rapport and trust" -> K of cultural factors, S in culturally competent practice.
+    *   *Explicit:* "Ethical Practice: It is part of the ethical responsibility...to understand and respect the diversity of clients." -> O: Commitment to ethical practice and diversity.
+
+This process was repeated for every section, including detailed lists for each special population (e.g., for women: K of telescoping, K of trauma impact, S in gender-responsive EBTs; for adolescents: K of developmental stages, S in engaging youth, S in family involvement).
+
+**3. Categorize each KSAO, considering its nature (K, S, A, or O):**
+
+For each identified competency:
+*   **Knowledge (K):** Factual, procedural, or conceptual information. (e.g., "Knowledge of DSM criteria for SUDs").
+*   **Skill (S):** Proficient application of knowledge to perform a task. (e.g., "Skill in conducting a motivational interview").
+*   **Ability (A):** More general, underlying enduring capabilities. The text provided leans heavily on K and S, with fewer distinct 'Abilities' that aren't better framed as broad skills. I will use 'Ability' for more innate or very broad capacities if they emerge distinct from skills. (e.g., Ability to empathize – though this often manifests as a skill).
+*   **Other Characteristic (O):** Attitudes, values, personality traits, willingness. (e.g., "Commitment to person-centered care," "Patience").
+
+**4. Analyze relationships between KSAOs to identify hierarchies and dependencies:**
+
+*   **Foundational KSAOs:** Identified KSAOs that are prerequisite for others. For instance, "Knowledge of SUDs" is foundational to "Skill in SUD Assessment." "Knowledge of Ethical Principles" underpins all practice.
+*   **Dimensions vs. Sub-dimensions:** Grouped related KSAOs.
+    *   Example Dimension: Competencies for Co-Occurring Disorders.
+        *   Sub-dimension: Knowledge of COD Etiology and Presentation.
+        *   Sub-dimension: Skill in COD Assessment.
+        *   Sub-dimension: Skill in Integrated COD Treatment Planning.
+*   **Developmental Sequence:** Considered the logical order of learning. Generally:
+    1.  Basic Knowledge (e.g., of a disorder).
+    2.  Specialized Knowledge (e.g., of how that disorder co-occurs).
+    3.  Basic Skill (e.g., general interviewing).
+    4.  Applied/Specialized Skill (e.g., MI for ambivalence in CODs).
+    5.  Integration of multiple KSAOs for complex tasks (e.g., developing a comprehensive, integrated, culturally-sensitive treatment plan for a veteran with COD and trauma).
+
+**5. Evaluate each KSAO's specificity, malleability, and how it's typically acquired:**
+
+*   **Specificity Level (General or Specialized):**
+    *   *General:* Applicable across many counseling or helping professions (e.g., ethical conduct, basic communication).
+    *   *Specialized:* Specific to SUD counseling, CODs, or particular populations/interventions discussed in the chapter (e.g., "Knowledge of ASAM criteria," "Skill in administering an AUDIT screen"). The vast majority from this chapter are specialized.
+*   **Stability/Malleability (Fixed or Developable):**
+    *   *Fixed:* Relatively stable traits, harder to change (e.g., certain innate abilities or core personality aspects).
+    *   *Developable:* Can be learned, trained, or improved with experience (most knowledge and skills).
+*   **Explicit/Tacit Orientation:**
+    *   *Explicit:* Formally taught, codified in texts, learned through direct instruction (e.g., "Knowledge of the stages of change").
+    *   *Tacit:* Learned through experience, observation, intuition, often difficult to articulate fully (e.g., the nuanced art of building rapport quickly with a resistant client, "reading the room" in a group session). Many skills have both explicit (learning the steps) and tacit (smooth execution and adaptation) components.
+
+**6. Organize all findings into a systematic framework:**
+
+The final step is to present this in a clear, structured format, which follows below.
+
+---
+
+**Final Findings: KSAOs for SUD Counselors from Chapter 3**
+
+Below is a comprehensive list of KSAOs derived from the provided textbook content.
+
+**I. Foundational Competencies for Addressing Co-Occurring Conditions & Diverse Populations**
+
+1.  **KSAO: Knowledge of Integrated Healthcare Principles**
+    *   **Description:** Understanding the importance of addressing SUDs, MHDs, and physical health issues simultaneously and treating the whole person rather than isolated symptoms for more effective, efficient, and holistic care. Recognizing the high rates of comorbidity and the need for integrated approaches.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized (SUD/COD focus)
+    *   **O*NET Categories:** 21-1011.00 (Substance Abuse, Behavioral Disorder, and Mental Health Counselors)
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic understanding of SUD, MHD, and physical health.
+
+2.  **KSAO: Knowledge of Scope of Practice for SUD Counselors**
+    *   **Description:** Understanding the defined roles and limitations of an SUD counselor, particularly concerning the diagnosis of MHDs (e.g., providing diagnostic impressions vs. full diagnoses) and the need for referral to qualified professionals for definitive diagnoses.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Understanding of professional ethics and licensing/certification standards.
+
+3.  **KSAO: Skill in Interdisciplinary Collaboration**
+    *   **Description:** Ability to work effectively as part of or in close collaboration with integrated treatment teams, including psychiatrists, psychologists, social workers, primary care providers, and other specialists, to create and implement comprehensive, individualized treatment plans. This includes actively contributing opinions and coordinating care.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General (but applied in specialized SUD/COD context)
+    *   **O*NET Categories:** 21-1011.00, 21-1014.00 (Mental Health Counselors), 21-1022.00 (Mental Health and Substance Abuse Social Workers)
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (communication protocols explicit, team dynamics tacit)
+    *   **Prerequisites:** Communication skills, understanding of different professional roles.
+
+4.  **KSAO: Other Characteristic: Commitment to Person-Centered Care**
+    *   **Description:** A commitment to approaching treatment planning and service delivery from a client-centered perspective, focusing on the individual's unique needs, preferences, functioning, and stage of change, rather than a "cookie-cutter" approach.
+    *   **Classification:** Other Characteristic (O)
+    *   **Specificity:** General (applied to SUD/COD)
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable (can be cultivated, though may align with inherent values)
+    *   **Explicit/Tacit:** Both (principles explicit, genuine application tacit)
+    *   **Prerequisites:** Empathy, respect for individual autonomy.
+
+5.  **KSAO: Knowledge of Ethical Principles in SUD Counseling**
+    *   **Description:** Understanding and adhering to ethical responsibilities, including respecting client diversity, maintaining confidentiality (especially in inter-service communication), understanding informed consent, and navigating the ethical complexities of issues like civil commitment and client autonomy. (Partially inferred from discussions on privacy, liberty interests, and general professionalism).
+    *   **Classification:** Knowledge (K) / Other Characteristic (O) (commitment to ethical practice)
+    *   **Specificity:** General (applied to SUD)
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic moral reasoning.
+
+**II. Competencies Related to Co-Occurring Disorders (SUDs & MHDs)**
+
+6.  **KSAO: Knowledge of Co-Occurring Disorders (CODs)**
+    *   **Description:** Comprehensive understanding of CODs, including the definition, prevalence, bidirectional nature (how SUDs and MHDs can precipitate or worsen each other), common risk factors (genetic, environmental, trauma), and the fact that one disorder does not necessarily cause the other. Includes understanding that severity can vary between the disorders.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic knowledge of SUDs and MHDs.
+
+7.  **KSAO: Knowledge of Mental Health Disorder (MHD) Terminology and Criteria**
+    *   **Description:** Familiarity with common MHDs that co-occur with SUDs (depressive disorders, bipolar I, PTSD, personality disorders, anxiety disorders, schizophrenia, ADHD, eating disorders), their general diagnostic criteria, and associated terminology as per established systems like the DSM.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic psychological literacy.
+
+8.  **KSAO: Skill in Screening for CODs**
+    *   **Description:** Ability to conduct integrated screening processes to identify potential co-occurring SUDs and MHDs, understanding the complexity due to overlapping symptoms.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit (use of tools) and Tacit (observational cues)
+    *   **Prerequisites:** Knowledge of SUD & MHD symptoms, interviewing skills.
+
+9.  **KSAO: Skill in COD-Specific Assessment**
+    *   **Description:** Ability to conduct careful and detailed assessments for individuals with potential CODs, considering the intertwined symptoms and the need to differentiate between substance-induced symptoms and underlying MHDs, possibly requiring a period of abstinence for clarity.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Skill in general SUD assessment, Knowledge of CODs.
+
+10. **KSAO: Skill in Formulating Diagnostic Impressions for MHDs**
+    *   **Description:** Ability to make an initial determination (diagnostic impression) regarding potential mental health issues based on observed symptoms and preliminary assessments, and to clearly communicate the preliminary nature of these observations, emphasizing that a definitive diagnosis requires a qualified professional.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of MHD symptoms and criteria, observation skills.
+
+11. **KSAO: Knowledge of COD Treatment Models**
+    *   **Description:** Understanding different approaches to treating CODs, including sequential/serial treatment, simultaneous/parallel treatment, and integrated service models, with a specific understanding of why integrated treatment is considered the "gold standard."
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic knowledge of treatment systems.
+
+12. **KSAO: Skill in Integrated Treatment Planning for CODs**
+    *   **Description:** Ability to develop and contribute to a single, coordinated treatment plan that focuses on SUDs and MHDs simultaneously, incorporating multiple treatment modalities (e.g., psychotherapy, pharmacotherapy) and adjusting plans based on ongoing monitoring.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of COD treatment models, assessment skills, knowledge of EBTs.
+
+13. **KSAO: Knowledge of Evidence-Based Treatments (EBTs) for CODs**
+    *   **Description:** Familiarity with EBTs effective for CODs, including Cognitive Behavioral Therapy (CBT), Dialectical Behavior Therapy (DBT), Medication-Assisted Treatment (MAT), Motivational Interviewing (MI), and Assertive Community Treatment (ACT), including their core principles and applications for CODs.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic counseling theory.
+
+14. **KSAO: Skill in Applying Motivational Interviewing (MI) for CODs**
+    *   **Description:** Ability to use MI techniques to enhance a client’s motivation to change by resolving ambivalence related to both MHDs and SUDs.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of MI principles, basic counseling skills.
+
+15. **KSAO: Skill in Adapting EBTs (e.g., CBT, DBT) for CODs**
+    *   **Description:** Ability to apply principles of EBTs like CBT (understanding thought-feeling-behavior links, developing coping strategies) and DBT (mindfulness, distress tolerance, emotion regulation, interpersonal effectiveness) to clients with co-occurring disorders.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of CBT/DBT, general therapeutic skills.
+
+16. **KSAO: Knowledge of Assertive Community Treatment (ACT) Model**
+    *   **Description:** Understanding the ACT model, including its multidisciplinary team approach, 24/7 availability, personalized care plans, integrated treatment for MHDs and SUDs, assertive engagement, outreach, and focus on practical assistance in life management within the client's natural environment.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00, 21-1022.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of community-based services.
+
+17. **KSAO: Other Characteristic: Patience and Resilience in COD Treatment**
+    *   **Description:** Preparedness for a potentially prolonged treatment process with clients who have CODs, managing challenges like lower retention and frequent recurrence through continuous monitoring and adjustment.
+    *   **Classification:** Other Characteristic (O)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable (can be enhanced with experience and support)
+    *   **Explicit/Tacit:** Tacit (developed through experience)
+    *   **Prerequisites:** Emotional self-regulation.
+
+**III. Competencies Related to Medication and Physical Health**
+
+18. **KSAO: Knowledge of Psychopharmacology for MHDs**
+    *   **Description:** Understanding the role of medications in treating MHDs, common types of medications, that finding the right medication can involve trials, that medications can treat multiple disorders, and the importance of medication as part of a comprehensive care team approach.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic biology/pharmacology understanding.
+
+19. **KSAO: Skill in Supporting Client Medication Management for MHDs**
+    *   **Description:** Ability to educate clients about their MHD medications (purpose, benefits, side effects), help develop strategies for medication adherence, monitor adherence and progress, collaborate with prescribers, address barriers to adherence (cost, stigma), and provide emotional support and counseling related to medication.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of psychopharmacology, communication skills.
+
+20. **KSAO: Knowledge of Common Medication Side Effects and Risks**
+    *   **Description:** Understanding common side effects of psychotropic medications (e.g., weight gain from antidepressants/antipsychotics, metabolic changes, movement disorders from schizophrenia/bipolar treatments) and potential risks (e.g., suicidal thoughts in youth with SSRIs), particularly for medications used with children/adolescents and off-label prescriptions.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of psychopharmacology.
+
+21. **KSAO: Skill in Monitoring and Reporting Medication Side Effects**
+    *   **Description:** Ability to track how clients react to medications, quickly identify and report negative effects to the appropriate healthcare providers, and address client concerns regarding side effects.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of side effects, observation skills, communication skills.
+
+22. **KSAO: Knowledge of the Impact of SUD/MHD on Physical Health**
+    *   **Description:** Understanding that SUDs and MHDs are drivers of poor physical health and healthcare costs, that they can interfere with self-care and treatment adherence for chronic diseases, and the concept of "triple jeopardy" (SUD, MHD, chronic disease). Awareness that SUD/MHD often precedes physical disease onset.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic health literacy.
+
+23. **KSAO: Skill in Health Promotion and Linkage to Physical Healthcare**
+    *   **Description:** Ability to connect clients with healthcare resources, including primary care providers, to manage chronic illnesses or receive preventive care, and to incorporate treatments for health and health behaviors into SUD/MHD treatment.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00, 21-1022.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of local healthcare resources, case management skills.
+
+24. **KSAO: Knowledge of Health Consequences of Alcohol Use**
+    *   **Description:** Understanding the immediate effects (injuries, violence, alcohol poisoning, risky sexual behaviors, FASDs) and long-term effects (liver disease/cirrhosis/hepatitis, endocrine disruption/diabetes, CNS damage, cardiovascular diseases, cancer) of problematic alcohol use.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic biology.
+
+25. **KSAO: Skill in Alcohol Screening and Brief Intervention**
+    *   **Description:** Ability to conduct regular alcohol screening for all clients and, when warranted, use brief interventions to raise clients' awareness about their specific alcohol-related health consequences to motivate change.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of screening tools (e.g., AUDIT - though not named, implied), MI skills.
+
+26. **KSAO: Knowledge of Health Consequences of Tobacco Use**
+    *   **Description:** Understanding that smoking harms nearly every organ, increases risk of heart disease, stroke, lung diseases (COPD, bronchitis, emphysema), various cancers, and is more common in individuals with SUDs/MHDs.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic health literacy.
+
+27. **KSAO: Skill in Supporting Tobacco Cessation**
+    *   **Description:** Ability to integrate tobacco cessation support into overall SUD/MHD treatment strategies, recognizing the high comorbidity and impact on health outcomes.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of tobacco cessation methods, MI skills.
+
+**IV. Competencies Related to Infectious Diseases**
+
+28. **KSAO: Knowledge of HIV/AIDS**
+    *   **Description:** Understanding basic information about HIV (retrovirus, CD4+ T-cells, transmission routes, AIDS progression, Antiretroviral Therapy - ART), its link to substance use (impaired judgment, IDU, social environments), the opioid epidemic's impact on HIV rates, and the benefits of integrated HIV/SUD care. Knowledge of PrEP and PEP.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic biology.
+
+29. **KSAO: Skill in HIV Risk Assessment, Testing, Counseling, and Linkage to Care**
+    *   **Description:** Ability to provide or facilitate HIV risk assessments, testing, pre/post-test counseling, education on harm reduction (condom use, no needle sharing), and linkage to HIV care providers, including PrEP/PEP prescriptions.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of HIV, counseling skills, knowledge of local resources.
+
+30. **KSAO: Knowledge of Viral Hepatitis (A, B, C, D, E)**
+    *   **Description:** Understanding the different types of viral hepatitis, their modes of transmission (especially HCV via IDU), health consequences (cirrhosis, liver cancer), and available preventive measures (vaccines for A/B) and treatments (for C).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic biology.
+
+31. **KSAO: Skill in Hepatitis Prevention, Screening, and Referral**
+    *   **Description:** Ability to educate clients about hepatitis risks and prevention, encourage/facilitate screening and testing, advocate for/assist in obtaining vaccinations (A/B), refer to medical care for evaluation/treatment, provide/refer to harm reduction services, and support integrated care.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of hepatitis, counseling skills, knowledge of local resources.
+
+32. **KSAO: Knowledge of Sexually Transmitted Diseases/Infections (STDs/STIs)**
+    *   **Description:** Understanding common STDs/STIs (chlamydia, gonorrhea, syphilis, herpes, HPV, HIV, trichomoniasis), their prevalence, disparities among populations, risk factors associated with SUDs (risky sexual behavior, IDU, sex trade), and the distinction between STI and STD.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic sexual health knowledge.
+
+33. **KSAO: Skill in STI Prevention, Screening, and Behavioral Risk-Reduction Counseling**
+    *   **Description:** Ability to implement strategies for STI prevention, including facilitating screening for at-risk individuals, and providing behavioral sexual risk-reduction counseling (information on STIs/transmission, risk assessment, increasing motivation for safer sex, training in condom use and communication).
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of STIs, counseling skills, cultural sensitivity.
+
+34. **KSAO: Knowledge of Harm Reduction Principles and Practices**
+    *   **Description:** Understanding and ability to educate on/refer to harm reduction strategies such as safe injection practices, needle exchange programs, condom use, PrEP/PEP, and naloxone availability, to reduce risks associated with substance use, HIV, hepatitis, and STIs.
+    *   **Classification:** Knowledge (K) / Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Non-judgmental attitude, knowledge of specific harm reduction methods.
+
+**V. Competencies for Working with Special Populations (General)**
+
+35. **KSAO: Knowledge of Diverse Population Needs in SUD Treatment**
+    *   **Description:** A fundamental understanding of the unique backgrounds, cultures, experiences, and specific obstacles faced by diverse population groups (e.g., women, youth, older adults, LGBTQI+, justice-involved, veterans) in accessing and receiving adequate SUD and mental health services.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit (can be learned through study)
+    *   **Prerequisites:** Basic sociological and psychological understanding.
+
+36. **KSAO: Skill in Individualizing Treatment for Diverse Populations**
+    *   **Description:** Ability to tailor treatment methods and plans to fit the specific needs, cultural contexts, and individual characteristics of clients from diverse backgrounds, moving away from a one-size-fits-all approach.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of diverse population needs, assessment skills, flexibility.
+
+37. **KSAO: Skill in Cultural Competence and Responsiveness**
+    *   **Description:** Ability to build rapport and trust with clients from different cultural, racial, and ethnic backgrounds by understanding and respecting their values, beliefs, and experiences, improving communication and fostering a therapeutic alliance. Includes awareness of personal biases.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General (applied to SUD)
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (principles explicit, nuanced application tacit)
+    *   **Prerequisites:** Self-awareness, empathy, knowledge of cultural factors.
+
+38. **KSAO: Knowledge of Social Determinants of Health and Treatment Disparities**
+    *   **Description:** Awareness of how social, economic, and cultural factors (stigma, discrimination, financial constraints, systemic barriers) contribute to problematic substance use, health disparities, and barriers to treatment for marginalized groups.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00, 21-1022.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Sociological awareness.
+
+39. **KSAO: Other Characteristic: Commitment to Continuous Learning and Professional Development**
+    *   **Description:** A commitment to ongoing learning to stay updated on the evolving field of SUD treatment, including new research, EBTs, and best practices for diverse populations, and awareness of resources like SAMHSA TIPs and federal initiatives.
+    *   **Classification:** Other Characteristic (O)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (formal learning explicit, reflective practice tacit)
+    *   **Prerequisites:** Intrinsic motivation for improvement.
+
+**VI. Competencies for Working with Women (including Pregnant Women)**
+
+40. **KSAO: Knowledge of Gender-Specific Factors in Women's SUDs**
+    *   **Description:** Understanding the unique biopsychosocial needs of women with SUDs, including differences in prevalence, origin, comorbidities, treatment responses, "telescoping" course of illness, and factors like stigma (gendered, maternal), impact of relationships, and socio-economic disadvantages.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of SUDs, basic gender studies.
+
+41. **KSAO: Knowledge of Trauma and Interpersonal Violence Impact on Women's SUDs**
+    *   **Description:** Understanding the significant association between histories of trauma (sexual/physical assault, abuse, domestic violence) and the initiation/development of SUDs in women, including how trauma can increase risk for CODs with more severe symptoms.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of trauma.
+
+42. **KSAO: Skill in Providing Gender-Responsive and Trauma-Informed SUD Treatment for Women**
+    *   **Description:** Ability to implement engagement strategies and treatment models specifically effective for women, such as *Seeking Safety*, *Helping Women Recover*, and *TREM*. This includes addressing co-occurring SUD/MHD with a trauma-informed approach, focusing on safety, strength-building, and avoiding punitive strategies.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of gender-specific factors, trauma, and EBTs.
+
+43. **KSAO: Skill in Addressing Women's Holistic and Comprehensive Needs**
+    *   **Description:** Ability to facilitate access to childcare, women-only treatment settings, mental health services, primary care, gynecological and reproductive health services, parenting skills training, family counseling, and socio-economic supports (housing, job training, financial assistance).
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00, 21-1022.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Case management skills, knowledge of community resources.
+
+44. **KSAO: Knowledge of SUD/MHD Issues in Pregnant and Postpartum Women**
+    *   **Description:** Understanding the prevalence and impact of SUDs/MHDs during pregnancy and postpartum, effects of substance use on the fetus (e.g., NOWS, FASDs), risks of specific substances (alcohol, marijuana, tobacco, opioids), definition and signs of NAS/NOWS, and increased risk of overdose and maternal mortality.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of SUDs, basic obstetrics.
+
+45. **KSAO: Skill in Supporting Pregnant and Postpartum Women with SUD/MHD**
+    *   **Description:** Ability to provide universal prenatal SUD screening, link to regular perinatal care, facilitate access to MOUD (buprenorphine, methadone) for OUD, implement harm reduction strategies (e.g., naloxone), provide/link to postpartum services (medical, mental health, SUD, parenting), and educate on future healthy pregnancies.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of perinatal SUD/MHD issues, counseling skills.
+
+**VII. Competencies for Working with Adolescents**
+
+46. **KSAO: Knowledge of Adolescent Development**
+    *   **Description:** Understanding the physical (puberty, neurological, hormonal), psychological/emotional (identity formation, cognitive development, emotional regulation, risk management), social (autonomy, social identity, peer relationships, technological proficiency), and relational (family, romantic, conflict resolution) tasks and changes characteristic of adolescence.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic psychology.
+
+47. **KSAO: Knowledge of Adolescent SUD and Co-Occurring MHD Patterns**
+    *   **Description:** Understanding adolescent vulnerability to substance experimentation and SUDs, prevalence rates of specific substance use, impact of substances (especially opioids like fentanyl) on developing brains, common risk factors (genetics, environment, early use, trauma, peer pressure, etc.), and common co-occurring MHDs in adolescents (ADHD, anxiety, depression, behavioral problems) including gender differences.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of SUDs/MHDs, adolescent development.
+
+48. **KSAO: Skill in Developmentally Appropriate Care for Adolescents**
+    *   **Description:** Ability to adjust services and interventions to meet the cognitive and developmental level, growth, behavior, values/beliefs, and cultural differences among adolescents, including any developmental delays or disabilities and gender-specific changes during puberty.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of adolescent development, flexibility.
+
+49. **KSAO: Skill in Engaging Adolescents in Treatment**
+    *   **Description:** Ability to build a strong therapeutic alliance and rapport with adolescents by showing genuine interest, active listening, empathy, and validating their experiences. Includes using motivational strategies, tailoring interventions to interests (sports, music, art), creating a safe non-judgmental space, and incorporating technology/multimedia.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Interpersonal skills, creativity.
+
+50. **KSAO: Skill in Family Involvement for Adolescent Treatment**
+    *   **Description:** Ability to engage family members in the adolescent's treatment process through family therapy and psychoeducation to address underlying issues, improve communication, and strengthen the support system. Knowledge of EBPs like CRAFT.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of family systems, group facilitation skills.
+
+51. **KSAO: Skill in Culturally Competent Counseling for Adolescents**
+    *   **Description:** Ability to provide effective, respectful care aligned with adolescents' cultural beliefs, gender-specific needs, language preferences, and generational preferences (music, fashion, slang). Includes adapting EBPs, using innovative therapies (music, art), and being sensitive to their identity expression.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Cultural humility, knowledge of youth culture.
+
+**VIII. Competencies for Working with Older Adults**
+
+52. **KSAO: Knowledge of Aging and Geriatric SUD/MHD Issues**
+    *   **Description:** Understanding age variations within "older adults" (young-old, middle-old, oldest-old), the increasing SUD rates in baby boomers, unique physiological vulnerabilities (sensitivity to substances, polypharmacy, mobility), psychological/cognitive vulnerabilities (neurocognitive disorders, co-occurring MHDs, lack of awareness of use), and social vulnerabilities (isolation, bereavement, cultural norms affecting help-seeking). Awareness of underdiagnosis and ageism.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of SUDs/MHDs, basic gerontology.
+
+53. **KSAO: Skill in Age-Sensitive SUD/MHD Treatment for Older Adults**
+    *   **Description:** Ability to provide person-centered care tailored to older adults, including outreach, engagement, intensive case management, short-term structured counseling, accommodating dementia/language/hearing barriers, clearly explaining options, and using age-sensitive strategies to build alliances and retain them in treatment.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of geriatric SUD/MHD issues, patience.
+
+54. **KSAO: Skill in Screening, Brief Intervention, and Health Risk Reduction for Older Adults**
+    *   **Description:** Ability to conduct early identification, screening (for depression, anxiety, substance use, chronic pain, elder abuse), and brief treatment. Includes engaging in health risk reduction practices (nutrition, exercise, fall prevention) and educating older adults about SUD/MHD risks.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of screening tools, MI skills.
+
+55. **KSAO: Skill in Care Coordination and System Navigation for Older Adults**
+    *   **Description:** Ability to coordinate care with various providers, develop service linkages, help older clients use social networks and community-based aging system resources (peer support, advanced care planning), involve family/caregivers, and understand/explain Medicare/Medicaid benefits.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00, 21-1022.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Case management skills, knowledge of local resources and benefits systems.
+
+**IX. Competencies for Working with LGBTQI+ Individuals**
+
+56. **KSAO: Knowledge of LGBTQI+ Identities, Terminology, and Diversity**
+    *   **Description:** Understanding of LGBTQI+ acronym components (Lesbian, Gay, Bisexual, Transgender, Queer/Questioning, Intersex, +), distinctions between sexual orientation and gender identity, and the diversity within the community (e.g., non-binary, agender, Two Spirit, cisgender).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Openness and willingness to learn.
+
+57. **KSAO: Knowledge of LGBTQI+ Health Disparities and Minority Stress Model**
+    *   **Description:** Understanding the higher rates of SUDs, MHDs, and suicide risk in LGBTQI+ populations, and the Minority Stress Model (stigma, prejudice, discrimination leading to chronic stress and negative health outcomes). Awareness of specific issues like chemsex/slamsex and the harm of "conversion therapy" for youth.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of social justice issues.
+
+58. **KSAO: Skill in Providing LGBTQI+-Affirming Care**
+    *   **Description:** Ability to create an inclusive and affirming treatment environment by using inclusive language, respecting pronouns, understanding gender dysphoria, addressing LGBTQI+-specific triggers, understanding intersectionality, demonstrating cultural humility, and tailoring assessment and treatment (e.g., AFFIRM, LGB-Affirmative CBT).
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of LGBTQI+ identities and issues, self-awareness.
+
+59. **KSAO: Skill in Supporting LGBTQI+ Clients' Networks and Resources**
+    *   **Description:** Ability to understand the importance of chosen family and social support for LGBTQI+ individuals, address family acceptance/rejection, and collaborate with LGBTQI+ organizations for resources and support.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00, 21-1022.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of local LGBTQI+ resources.
+
+**X. Competencies for Working with Criminal Justice-Involved Individuals**
+
+60. **KSAO: Knowledge of SUD/MHD in the Criminal Justice System**
+    *   **Description:** Understanding the over-representation of individuals with SUDs/MHDs in jails/prisons, the adverse consequences of even brief incarceration (employment, health, housing, family), higher prevalence of PTSD and Post-Incarceration Syndrome (PICS), and barriers to treatment and successful reentry.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic understanding of the justice system.
+
+61. **KSAO: Knowledge of Criminogenic Risk Factors**
+    *   **Description:** Understanding the concept of criminogenic risk (likelihood of future illegal behavior) and the eight major criminogenic risk/need factors (antisocial personality, behavior, cognition, associates; problematic substance use; problematic family, work/school, leisure circumstances).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** None specific beyond general learning.
+
+62. **KSAO: Skill in Working with Justice-Involved Individuals**
+    *   **Description:** Ability to use knowledge of criminal justice procedures, terminology, and professionals to tailor treatment services and supports. This includes conducting clinical assessments for behavioral health needs and using standardized criminogenic risk/needs assessments to direct resources aimed at reducing recidivism, and programming to address criminal thinking/behaviors.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of SUD/MHD in justice system, criminogenic risk, assessment skills.
+
+**XI. Competencies for Working with Active Military and Veterans**
+
+63. **KSAO: Knowledge of Military Culture and Veteran-Specific SUD/MHD Issues**
+    *   **Description:** Understanding military culture (risks/protective factors), stresses of deployment, SUD/MHD prevalence in active duty/veterans (adjustment disorders, mood/anxiety disorders, PTSD, SUDs), readjustment challenges, impact of combat exposure, TBI, suicide crisis, homelessness issues, and barriers to help-seeking (stigma, career concerns, soldier identity).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** General cultural sensitivity.
+
+64. **KSAO: Skill in Military/Veteran Cultural Competence**
+    *   **Description:** Ability to understand and respect military structure, values, and common experiences (camaraderie, combat exposure) to build trust and rapport with veteran clients.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of military culture, general cultural competence.
+
+65. **KSAO: Skill in Providing Integrated, Trauma-Informed Care for Veterans**
+    *   **Description:** Ability to use integrated treatment plans for co-occurring SUDs/MHDs/trauma in veterans, adopting a trauma-informed approach that acknowledges the role of trauma (military and other) and creates a safe environment. Includes matching EBTs to symptom clusters and helping veterans find meaning/purpose.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of veteran issues, trauma-informed care principles, EBTs.
+
+66. **KSAO: Skill in Collaborating with Veteran Services and Supporting Networks**
+    *   **Description:** Ability to establish connections with local VA centers and veteran organizations to facilitate referrals, access specialized programs, and support comprehensive care. Includes encouraging linkage with Peer Specialists, mutual-help groups, and providing help for military/veteran families.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00, 21-1022.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Case management skills, knowledge of veteran resources.
+
+67. **KSAO: Knowledge of Specialized Veteran Treatment Considerations**
+    *   **Description:** Understanding of specific areas relevant to treating veterans, such as the neurobiology of stress/trauma, developmental/military factors affecting resilience, post-deployment stress effects, safety/respect considerations, a recovery-oriented/strengths-based approach, and self-care for veterans. (Derived from "Recommended training" list p.141).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1011.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Foundational knowledge of trauma and SUDs.
+
+---
+
+**Hierarchical Structure Among KSAOs**
+
+The KSAOs identified from this chapter exhibit several hierarchical and developmental relationships:
+
+**A. Foundational vs. Specialized KSAOs:**
+
+*   **Foundational General KSAOs:** These underpin most other competencies. While this chapter focuses on specialized content, it implies the necessity of:
+    *   *Knowledge of Ethical Principles in SUD Counseling (KSAO 5)*
+    *   *Skill in Interdisciplinary Collaboration (KSAO 3)*
+    *   *Other Characteristic: Commitment to Person-Centered Care (KSAO 4)*
+    *   *Skill in Cultural Competence and Responsiveness (KSAO 37 – general principles)*
+    *   *Other Characteristic: Commitment to Continuous Learning (KSAO 39)*
+*   **Foundational Specialized KSAOs:** These are fundamental to SUD/COD work:
+    *   *Knowledge of Integrated Healthcare Principles (KSAO 1)*
+    *   *Knowledge of Scope of Practice for SUD Counselors (KSAO 2)*
+    *   *Knowledge of Co-Occurring Disorders (CODs) (KSAO 6)*
+    *   *Knowledge of Mental Health Disorder (MHD) Terminology and Criteria (KSAO 7)*
+    *   *Knowledge of SUDs (implicitly prerequisite for entire chapter)*
+*   **Specialized/Applied KSAOs:** Build upon foundational KSAOs. Examples:
+    *   *Skill in COD-Specific Assessment (KSAO 9)* builds on *Knowledge of CODs (KSAO 6)* and general assessment skills (implied).
+    *   *Skill in Applying Motivational Interviewing (MI) for CODs (KSAO 14)* builds on *Knowledge of EBTs for CODs (KSAO 13)* which includes MI, and general MI skills (implied).
+    *   All KSAOs related to specific populations (VI-XI) are specialized applications of foundational knowledge and general counseling skills, informed by specific knowledge of that population.
+
+**B. Dimensions vs. Sub-dimensions (Examples):**
+
+*   **Dimension: Competencies for Addressing Co-Occurring Disorders (Section II)**
+    *   Sub-dimension: Knowledge of CODs (KSAO 6)
+    *   Sub-dimension: Knowledge of MHD Terminology (KSAO 7)
+    *   Sub-dimension: Skills in COD Screening & Assessment (KSAOs 8, 9, 10)
+    *   Sub-dimension: Knowledge of COD Treatment Models & EBTs (KSAOs 11, 13, 16)
+    *   Sub-dimension: Skills in COD Intervention & Planning (KSAOs 12, 14, 15)
+*   **Dimension: Competencies for Working with Special Populations (General - Section V)**
+    *   Sub-dimension: Knowledge of Diverse Population Needs (KSAO 35)
+    *   Sub-dimension: Skill in Individualizing Treatment (KSAO 36)
+    *   Sub-dimension: Skill in Cultural Competence (KSAO 37)
+    *   (Each specific population section VI-XI then acts as a further specialized dimension with its own knowledge and skill sub-dimensions).
+*   **Dimension: Competencies for Addressing Physical Health & Infectious Diseases (Sections III & IV)**
+    *   Sub-dimension: Knowledge of Health Impacts & Pharmacology (KSAOs 18, 20, 22, 24, 26, 28, 30, 32)
+    *   Sub-dimension: Skills in Health Support, Screening, Prevention & Linkage (KSAOs 19, 21, 23, 25, 27, 29, 31, 33, 34)
+
+**C. Developmental Sequence (Examples):**
+
+1.  **Knowledge precedes Skill:**
+    *   *Knowledge of EBTs for CODs (KSAO 13)* must be acquired before *Skill in Adapting EBTs (e.g., CBT, DBT) for CODs (KSAO 15)*.
+    *   *Knowledge of Adolescent Development (KSAO 46)* is necessary for *Skill in Developmentally Appropriate Care for Adolescents (KSAO 48)*.
+    *   *Knowledge of LGBTQI+ Identities and Terminology (KSAO 56)* is essential for *Skill in Providing LGBTQI+-Affirming Care (KSAO 58)*.
+2.  **General principles precede specific applications:**
+    *   *Skill in Cultural Competence (general principles) (KSAO 37)* informs *Skill in Culturally Competent Counseling for Adolescents (KSAO 51)* or *Skill in Military/Veteran Cultural Competence (KSAO 64)*.
+3.  **Screening often precedes more in-depth assessment and intervention:**
+    *   *Skill in Screening for CODs (KSAO 8)* typically occurs before *Skill in COD-Specific Assessment (KSAO 9)* and subsequent *Skill in Integrated Treatment Planning for CODs (KSAO 12)*.
+4.  **Understanding the problem precedes addressing it:**
+    *   *Knowledge of Barriers to Treatment (e.g., stigma, systemic issues – p.94, and population-specific barriers)* is crucial for developing strategies to overcome them (skills often related to advocacy, system navigation, or psychoeducation, which are embedded within various KSAOs like KSAO 19 – Addressing Barriers to Medication).
+
+This hierarchical structure implies a curriculum for SUD counselors would ideally build from foundational concepts and general skills towards more specialized knowledge and application for complex cases and diverse populations. The chapter itself follows a logic of introducing CODs, then general treatment approaches, then specific health concerns, and finally detailed considerations for various special populations, mirroring a potential developmental learning path.

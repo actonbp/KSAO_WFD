@@ -1,0 +1,1104 @@
+Okay, I will now proceed with a detailed step-by-step thinking process to analyze the textbook content and identify the KSAOs for SUD counselors.
+
+**My Thinking Process Documentation**
+
+**Phase 1: Initial Read-through and Key Concept Noting**
+
+I will read the entire provided text (Chapter 4: Evidence-Based Screening and Assessment) carefully. As I read, I'll make high-level notes of recurring themes, key processes, and explicit mentions of what counselors "need to know," "need to do," "should understand," or "skills required."
+
+*   **Overall Theme:** The chapter emphasizes a shift to person-centered, holistic, strengths-based, and recovery-oriented care in SUD screening and assessment. Evidence-based practices are paramount.
+*   **Key Processes:** Engagement, Screening, Assessment (including risk assessment for various issues like trauma, violence, suicide), Diagnosis (awareness of criteria), Drug Testing (understanding its role and interpretation), Determining Levels of Care, and writing an Interpretive Summary.
+*   **Core Philosophies Repeated:** Person-centered care, strengths-based approach, recovery-orientation, holistic care, shared decision-making, dignity of risk, cultural humility/competence, trauma-informed approach.
+*   **Essential Counselor Attributes:** Empathy, rapport-building, active listening, effective communication (verbal and nonverbal), non-judgmental stance, ethical practice (confidentiality, informed consent), critical thinking.
+*   **Tools/Frameworks Mentioned:** Various screening/assessment instruments (AUDIT, DAST, ASAM, DSM-5-TR, etc.), Motivational Interviewing (MI), Transtheoretical Model (TTM), Maslow's Hierarchy.
+
+**Phase 2: Section-by-Section Identification of Explicit and Implicit Competencies**
+
+I will now go through the text section by section and systematically extract potential KSAOs.
+
+**SECTION: INTRODUCTION (p. 154)**
+
+*   **Philosophies:**
+    *   "holistic and person-centered approach": *Implicit K: Knowledge of person-centered philosophy; K: Knowledge of holistic care philosophy.*
+    *   "relational foundation that is based on trust, empathy, compassion and responsiveness": *S: Skill in building trust; S: Skill in demonstrating empathy; S: Skill in demonstrating compassion; S: Skill in responsive communication.*
+    *   "Personalized treatment and care plans": *S: Skill in developing personalized care plans.*
+    *   "Recovery-orientation... address a range of biological, psychological, and sociocultural considerations": *K: Knowledge of recovery principles; K: Knowledge of biopsychosocial model.*
+    *   "Person-Centered Care... prioritizes the client's own perspectives and tailors care to individual needs, values, and preferences": *S: Skill in prioritizing client perspectives; S: Skill in tailoring care to individual needs, values, and preferences.*
+    *   "Strengths-Based Approach... focus is on the individual's strengths, capabilities, and resources... encourages empowerment and self-efficacy": *K: Knowledge of strengths-based model; S: Skill in identifying client strengths; S: Skill in fostering empowerment and self-efficacy.*
+    *   "Holistic Care... understanding and addressing the physical, mental, social, and spiritual well-being": *S: Skill in conducting holistic assessment (addressing multiple well-being domains).*
+    *   "Integration of Care... ensuring coordination and continuity": *S: Skill in care coordination.*
+*   **Effective screening and assessment requires:**
+    *   "person-centered and strengths-based approach": (Reiteration of above K/S)
+    *   "integrates comprehensive, evidence-based screening and assessment tools": *K: Knowledge of evidence-based screening/assessment tools; S: Skill in selecting and integrating evidence-based tools.*
+    *   "awareness of co-occurring conditions": *K: Knowledge of co-occurring disorders (SUD/MH).*
+    *   "consideration of biopsychosocial factors": (Reiteration of K: Biopsychosocial model)
+    *   "use of a recovery-orientation": (Reiteration of K: Recovery principles)
+
+**SECTION: OVERARCHING ISSUES FOR SCREENING AND ASSESSMENT (p. 155-160)**
+
+*   **Supporting People in Making Choices (p. 155):**
+    *   "actively encouraging the person’s leadership in all aspects of decision-making": *S: Skill in fostering client leadership in decision-making.*
+    *   "Professional expertise... applied effectively to support informed choice, shared decision-making, and the client’s self-management": *S: Skill in facilitating informed choice; S: Skill in shared decision-making; S: Skill in supporting client self-management.*
+    *   "intentional focus on person-centered care used by SUD counselors for collaborative and “productive interactions”": *S: Skill in collaborative communication.*
+    *   "use effective decision support strategies": *K: Knowledge of decision support strategies; S: Skill in applying decision support strategies.*
+    *   "Respecting clients as partners": *O: Respectful attitude towards clients.*
+    *   "Emphasizes... autonomy, self-determination": *S: Skill in promoting client autonomy and self-determination.*
+    *   "Adopts a hopeful attitude": *O: Hopeful attitude.*
+    *   "Affirms a belief in a client’s capacity to recover": *O: Belief in client's capacity for recovery.*
+    *   "Celebrates each client’s effort and achievement": *S: Skill in affirming and celebrating client progress.*
+    *   "dignity of risk... right of individuals to choose to take some risk": *K: Knowledge of the "dignity of risk" principle; S: Skill in supporting clients' dignity of risk.*
+    *   "combat learned helplessness and bolster self-esteem, self-respect, empowerment, hope": *S: Skill in addressing learned helplessness; S: Skill in bolstering self-esteem and empowerment.*
+*   **Shared Decision-Making (SDM) (p. 156):**
+    *   "The SHARE Approach" (Seek, Help explore, Assess values, Reach decision, Evaluate decision): *K: Knowledge of SDM models (e.g., SHARE); S: Skill in implementing SDM steps.*
+    *   "educates and empowers persons... to make a choice that best suits them": *S: Skill in client education for decision-making.*
+    *   "Decision aids can be used": *K: Knowledge of decision aids; S: Skill in utilizing decision aids.*
+*   **Strengths-Based Approach (p. 156-157):**
+    *   "Rapp and Goscha, six basic principles": *K: Knowledge of specific strengths-based principles (e.g., focus on strengths, client as director, community as resource).*
+    *   "strengths-based assessment... identifies clients’ current coping skills and abilities, family, social, and recovery supports": *S: Skill in conducting strengths-based assessment.*
+    *   "view strengths broadly": *A: Ability to perceive diverse client strengths.*
+*   **Recovery Capital (p. 157):**
+    *   "understand the concept of recovery capital and incorporate it into their practice": *K: Knowledge of recovery capital (definition, types); S: Skill in incorporating recovery capital into practice.*
+    *   "working with clients to help them identify, access, and build their own recovery capital": *S: Skill in assessing recovery capital; S: Skill in facilitating access to/building recovery capital.*
+    *   "Personal, Family/social, Community, Cultural recovery capital": (Part of K: Knowledge of recovery capital types)
+*   **Motivational Approaches/Promoting Change (p. 158-159):**
+    *   "Everyone is unique in... readiness, and commitment": *K: Knowledge of individual differences in motivation and readiness for change.*
+    *   "Motivational Interviewing (MI)... style of interaction to facilitate change... strengthen motivation": *K: Knowledge of Motivational Interviewing principles and spirit; S: Skill in applying Motivational Interviewing techniques.*
+    *   "strength-based framework... person-centered approach... exploring and resolving ambivalence... “guiding” style": *S: Skill in exploring and resolving ambivalence; S: Skill in using a guiding communication style (MI specific).*
+    *   "set of skills... to convey empathy, enhance motivation, and encourage clients to consider and plan change": (These are core MI skills)
+    *   "decisional balancing": *K: Knowledge of decisional balancing technique; S: Skill in using decisional balancing.*
+    *   **Ambivalence (p. 159):**
+        *   "MI... helping people find a way out of ambivalence": (Reiteration of MI skill)
+        *   "skill development in MI is not a one-time learning event... takes considerable practice with feedback": *O: Commitment to ongoing skill development (for MI).*
+    *   **A Note About Stages of Change (p. 159):**
+        *   "Transtheoretical Model for Change (TTM)... useful framework to assist SUD counselors understand the process of change": *K: Knowledge of the Transtheoretical Model of Change (Stages of Change).*
+*   **Cultural Considerations (p. 159-160):**
+    *   "consideration of culture is important at all levels": *A: Cultural sensitivity.*
+    *   "Culturally responsive approaches": *K: Knowledge of culturally responsive approaches; S: Skill in applying culturally responsive approaches.*
+    *   "Cultural humility... maintain an interpersonal stance that is other-oriented... openness to accepting that their own cultural identities and experiences will limit their perspective": *O: Cultural humility; S: Skill in maintaining an other-oriented cultural stance.*
+    *   "Culturally competent counselors are aware of their own culture and values... acknowledge their own assumptions and biases... strive to understand how these assumptions affect their ability": *K: Knowledge of cultural competence principles; S: Skill in cultural self-assessment; S: Skill in managing personal biases related to culture.*
+    *   "addressing the person individually rather than applying general treatment approaches": *S: Skill in individualizing care based on cultural factors.*
+*   **Trauma (p. 160):**
+    *   "understanding the impact of trauma": *K: Knowledge of trauma and its impact on SUD and co-occurring conditions.*
+    *   "not addressing traumatic stress symptoms... can impede successful... screening, assessment and treatment planning": *K: Knowledge of trauma-informed care principles.*
+    *   "Universal screening for trauma history and trauma-related symptoms": *S: Skill in screening for trauma history and symptoms.*
+
+**SECTION: ENGAGING THE CLIENT (p. 161-169)**
+
+*   **Engagement (p. 161):**
+    *   "Making a connection... engagement": *S: Skill in client engagement.*
+    *   "ensure that the client feels welcomed, respected, listened to, and understood": *S: Skill in creating a welcoming and respectful environment.*
+*   **Welcoming Strategies (p. 161):**
+    *   "pleasant physical environment... friendly staff... privacy... treating all clients... with respect related to their diversity": *S: Skill in implementing welcoming strategies.*
+    *   "Handshakes, facial expressions, greetings, and small talk": *S: Skill in using appropriate social engagement cues.*
+*   **Stigma (p. 162):**
+    *   "Public stigma... Self-stigma... Institutional stigma": *K: Knowledge of stigma (types, manifestations, impact).*
+    *   Implicit: *S: Skill in recognizing and mitigating stigma in interactions and environment.*
+*   **Language Matters (p. 163-164):**
+    *   "person-first language": *K: Knowledge of person-first language principles; S: Skill in using person-first language.*
+    *   "language audit... personal inventory of terms... thoughtful in everyday conversations": *S: Skill in auditing language for stigma; S: Skill in using non-stigmatizing terminology.*
+*   **Setting the Stage for Effective Screening and Assessment (p. 165):**
+    *   "establishes rapport and an effective working alliance": *S: Skill in building rapport; S: Skill in developing a therapeutic alliance.*
+*   **Working or “Therapeutic” Alliance (p. 165):**
+    *   "establishing trust and a healthy rapport": (Reiterates above)
+*   **Empathy (p. 165):**
+    *   "ability to sense other people’s emotions, coupled with the ability to imagine what someone else might be thinking or feeling... understand the other person’s perspective, exhibiting a sense of curiosity and openness, and abandoning judgment": *S: Skill in demonstrating empathy; O: Curiosity; O: Openness; O: Non-judgmental stance.*
+    *   "Cognitive empathy... Affective empathy": *K: Knowledge of types of empathy (cognitive, affective).*
+*   **Rapport (p. 166):**
+    *   "bond of trust, mutual respect, and understanding": (Reiterates skill in building rapport)
+    *   "actively listen, and validate the client’s experiences and feelings": *S: Skill in active listening; S: Skill in validating client experiences.*
+    *   "consistency, reliability, and the counselor’s genuine interest": *O: Consistency; O: Reliability; O: Genuineness.*
+*   **Communication Skills (p. 167-169):**
+    *   "Be clear... concise... comprehensive... courteous": *S: Skill in clear communication; S: Skill in concise communication; S: Skill in comprehensive communication; S: Skill in courteous communication.*
+    *   **Active Listening (p. 168):** "Pay Attention. Provide Feedback. Defer Judgment. Respond Appropriately.": *S: Skill in active listening (including its sub-components).*
+    *   **Nonverbal communication (p. 168-169):** "voice, eye contact, posture... ensure non-verbal messages are congruent with verbal... aware that... cultural factors can influence interpretation": *K: Knowledge of nonverbal communication principles; S: Skill in using appropriate nonverbal communication; S: Skill in interpreting client nonverbal cues; S: Skill in maintaining verbal/nonverbal congruence; K: Knowledge of cultural variations in nonverbal communication.*
+    *   **Empathy (Empathic communication) (p. 169):** "Using verbal affirmations... Acknowledging and validating... perspectives": *S: Skill in empathic communication techniques.*
+    *   **Questioning (p. 169):** "use questions for clarification... motivate... help clarify thoughts... open-ended questions... one question at a time... Avoiding... “why” and... confrontational questions": *S: Skill in effective questioning techniques (open-ended, non-confrontational, clarifying).*
+    *   **Observing (p. 169):** "consciously observe the client... dress and appearance... gait, posture, gestures, facial expressions, and affect": *S: Skill in clinical observation of client presentation and nonverbal cues.*
+    *   "goals in the initial interview": *S: Skill in conducting initial interviews (encompassing establishing trust, rapport, explaining process, exploring problems, determining need for further assessment).*
+
+**SECTION: SCREENING (p. 170-172)**
+
+*   "Screening is the process by which the SUD counselor... review the current situation, symptoms, and other available information to determine the most appropriate initial course of action": *K: Knowledge of the screening process in SUD; S: Skill in conducting screening.*
+*   "determine whether the person... is eligible and appropriate for admission... or... need to be referred": *S: Skill in determining program eligibility and appropriateness; S: Skill in making appropriate referrals.*
+*   "Screening instruments help to determine the immediacy needed for intervention... addresses crisis and any emergency needs": *S: Skill in crisis identification during screening; S: Skill in assessing need for immediate intervention.*
+*   "comprehensive screening process can look for psychoactive substance toxicity, intoxication, and withdrawal symptoms; aggression or danger to others; potential for self-inflicted harm or suicide; and co-occurring MHDs... medical, housing, victimization, trauma": *K: Knowledge of areas to cover in comprehensive screening; S: Skill in screening for a wide range of issues (toxicity, risk, co-occurring disorders, psychosocial needs).*
+*   **Evidence-based Instruments (p. 170):**
+    *   "use of evidence-based screening and assessment instruments is the recognized and desired standard": *K: Knowledge of specific evidence-based screening instruments (e.g., AUDIT, DAST-10, CAGE, ASSIST, BSTAD, CRAFFT, CUPIT, GAIN-SS, TAPS, ORT, SASSI-4, SASSI-A3, S2BI); S: Skill in selecting appropriate evidence-based screening tools; S: Skill in administering evidence-based screening tools; S: Skill in interpreting results of screening tools.*
+    *   "selection... may also be influenced by... practical considerations": *A: Ability to balance EBP with practical considerations.*
+
+**(Pages 173, 174: "LLM OCR returned no text for this page" - Cannot analyze)**
+
+**SECTION: USES AND DISCLOSURES... INFORMED CONSENT (p. 175-176)**
+
+*   **HIPAA/Confidentiality (p. 175):**
+    *   "covered entity can get informal permission for a disclosure": *K: Knowledge of conditions for informal permission for PHI disclosure.*
+    *   "Disclosure of PHI without consent is allowed in medical emergencies": *K: Knowledge of exceptions to consent (e.g., medical emergencies).*
+    *   "HIPAA Privacy Rule permits use and disclosure... for 12 national priority purposes": *K: Knowledge of HIPAA permissible disclosures for public interest.*
+*   **Informed Consent (p. 175-176):**
+    *   "Informed consent is the process by which clients are informed of their rights regarding screening, assessment, and treatment, as well as how their PHI is handled": *K: Knowledge of informed consent principles and procedures; S: Skill in obtaining informed consent.*
+    *   "client... needs to fully understand what will happen... risks and benefits... possible outcomes, and alternative options": *S: Skill in clearly explaining treatment processes, risks, benefits, and alternatives for informed consent.*
+    *   "client must realize that they have the right and the power to consent to... refuse to consent": *S: Skill in ensuring client understanding of right to consent/refuse.*
+    *   "Authorization needs to be obtained... elements to be considered valid": *K: Knowledge of requirements for valid authorization for PHI disclosure; S: Skill in obtaining valid authorizations.*
+    *   "Consent should always be obtained in writing": *S: Skill in documenting consent appropriately.*
+    *   "allowed to speak with other providers for coordination of care without a consent; however, obtaining consent is still best practice": *K: Knowledge of rules for care coordination disclosures; O: Adherence to best practices (obtaining consent even if not strictly required).*
+
+**SECTION: ASSESSMENT (p. 177-183)**
+
+**(Page 178: "LLM OCR returned no text for this page" - Cannot analyze dimensions usually listed here, but will pick up elements from other parts)**
+
+*   "assessment process... multifaceted, involving a combination of self-reports, clinical interviews, biological testing, and more": *K: Knowledge of comprehensive assessment components; S: Skill in conducting multifaceted assessments.*
+*   "defining the nature of the substance use and other conditions... determining a diagnosis, and developing specific treatment recommendations... surveys client strengths and resources": *S: Skill in problem definition through assessment; S: Skill in diagnostic formulation (within scope of practice); S: Skill in developing data-driven treatment recommendations; S: Skill in identifying client strengths and resources during assessment.*
+*   **Knowledge of Signs and Symptoms (p. 179):**
+    *   "SUD counselors must have specific knowledge of signs and symptoms... of substance use, intoxication, overdose, and withdrawal for different classes of substances": *K: Knowledge of signs/symptoms of substance use, intoxication, overdose, and withdrawal across various substance classes.*
+*   **Substance Use and Mental Health Assessment Methods (p. 179-180):**
+    *   **Structured Interviews:** (Diagnostic, Comprehensive using DSM-5-TR): *S: Skill in conducting structured diagnostic interviews (e.g., using DSM criteria); S: Skill in conducting comprehensive biopsychosocial assessment interviews.*
+    *   **Evidence-based Assessments and Tests:** (e.g., GAIN-I, ASI, Beck Depression Inventory): *K: Knowledge of specific evidence-based assessment instruments for SUD and MH; S: Skill in selecting, administering, and interpreting these instruments.*
+    *   **Observational Methods:** "look for physical signs... changes in appearance, behavior, or physical health indicators": (Reiterates S: Clinical observation)
+    *   **Self-Report Questionnaires:** (Reiterates S: Using self-report questionnaires)
+    *   **Digital Health Platforms:** *K: Awareness of digital health tools for assessment/monitoring.*
+    *   **Biological Testing:** (Urine, Blood, Hair, Saliva, Breathalyzers): *K: Knowledge of biological testing methods and their interpretation in assessment.*
+    *   **Collateral Information:** (Family, friends, referral sources): *K: Knowledge of the value of collateral data; S: Skill in ethically gathering and integrating collateral information (with consent).*
+    *   **Assessment of Readiness to Change:** (TTM mentioned): *S: Skill in assessing readiness for change.*
+    *   **Recovery Capital Assessment:** (ARC, SABRS): *K: Knowledge of recovery capital assessment tools; S: Skill in using recovery capital assessment tools.*
+*   **Health Conditions (p. 180):**
+    *   Awareness of need for screening for physical health issues: *K: Knowledge of common co-occurring physical health conditions; S: Skill in recognizing need for medical referral.*
+*   **Collateral Data Resources (p. 180-181):**
+    *   "obtain relevant history and related information... use multiple sources": *S: Skill in multi-source data gathering and synthesis for assessment.*
+    *   "assessors need to evaluate the relative validity of the information from different sources": *A: Critical appraisal skills for evaluating data sources.*
+*   **Evidence-based Assessments (p. 181-183):** (GAIN-I, ASI, T-ASI-2, SCID, AUDADIS-5, CIDI, PRISM-5)
+    *   "diverse information collected across sources is coherently incorporated into a diagnostic picture": *S: Skill in synthesizing diverse assessment data into a coherent clinical picture.*
+    *   "assessors need to evaluate the relative validity... should not assume that the client's self-report is necessarily less valid": *A: Balanced judgment in weighing information sources.*
+
+**(Page 184: "LLM OCR returned no text for this page" - Usually contains general info on co-occurring disorders)**
+
+*   **Assessment of Co-occurring Mental Health Disorders (p. 185-186):**
+    *   "SUD counselors must be knowledgeable about and able to screen for and assess co-occurring MHDs": *K: Knowledge of common co-occurring MHDs; S: Skill in screening for MHDs; S: Skill in conducting assessments for MHDs (within scope of practice, or for referral).*
+    *   Knowledge of specific instruments (WHODAS 2.0, PTSD screens, SCID-5, MINI, CIDI, DIS, BDI, PHQ-9, GAD-7, SCL-90-R, TLEQ, HDRS, MMPI, DIVA 2.0, CAPS, PCL, PSS-I-5, WAIS, MMSE, GAF): *K: Familiarity with a range of MHD screening and assessment tools.*
+    *   "Using a variety of assessment instruments is crucial": *S: Skill in selecting and integrating multiple MHD assessment tools.*
+*   **Risk Assessments (p. 186-189):**
+    *   "assess for signs of psychoactive substance toxicity, intoxication, and withdrawal; aggression or danger to others; potential for self-inflicted harm or suicide; and coexisting mental health problems": *S: Skill in comprehensive risk assessment (toxicity, withdrawal, danger to self/others).*
+    *   "take immediate action to get the client to medical care, psychiatric care, or other safe intervention": *S: Skill in crisis intervention and making emergency referrals.*
+    *   **Drug Toxicity/Alcohol Intoxication Table (p. 187):** *K: Knowledge of specific signs/symptoms of drug toxicity and alcohol intoxication.*
+    *   **Risk Assessment for Violence (p. 188-189):** *K: Knowledge of violence risk assessment principles; S: Skill in conducting violence risk assessment (or recognizing need for specialist referral); K: Familiarity with violence risk assessment tools (STATIC-99, HCR-20 etc.).*
+    *   **Intimate Partner Violence (IPV) (p. 189):** *K: Knowledge of IPV dynamics and indicators; S: Skill in screening for IPV; K: Familiarity with IPV screening tools (HARK, HITS, WAST, AAS, CTS2).*
+
+**SECTION: RISK ASSESSMENT FOR SUICIDE (p. 190-192)**
+
+*   "Suicide is a major public health concern... linked to mental health and substance use disorders": *K: Knowledge of suicide epidemiology, risk factors, and links with SUD/MHD.*
+*   "Suicide, suicide attempt, suicidal ideation, suicidal threat": *K: Knowledge of suicide-related terminology and definitions.*
+*   Recommended standard of care (Assess, Stratify, Probe, Safety Plan, Crisis Lines, Reduce Lethal Means, Engage in Treatment, Reassess): *K: Knowledge of best practices in suicide risk management; S: Skill in suicide risk assessment using standardized tools; S: Skill in suicide risk stratification; S: Skill in conducting suicide inquiry (ideation, plan, intent, lethality); S: Skill in collaborative safety planning; S: Skill in lethal means counseling; S: Skill in ongoing suicide risk monitoring.*
+*   Knowledge of tools (ASQ, C-SSRS, PHQ-9 (item 9), SAFE-T, SBQ-R): *K: Familiarity with suicide risk screening and assessment tools.*
+
+**SECTION: DRUG TESTING (p. 193-197)**
+
+**(Pages 194, 195: "LLM OCR returned no text for this page" - Often cover types of specimens and detection windows)**
+
+*   "Drug testing in SUD treatment is a: part of initial assessment... monitor... assess efficacy... document abstinence": *K: Knowledge of the purposes and applications of drug testing in SUD treatment.*
+*   **Types of Drug Tests and Methods (p. 193):**
+    *   "Initial (screening) and confirmatory types... Immunoassays... Confirmation test (GC/MS, LC-MS)": *K: Knowledge of drug testing methodologies (screening vs. confirmatory, common lab techniques).*
+    *   "practitioner decides whether to request a confirmatory test": *A: Clinical judgment in determining need for confirmatory drug testing.*
+    *   (Types listed on p193: Breath, Urine, Saliva, Sweat - others mentioned elsewhere) *K: Knowledge of different biological specimens for drug testing and general detection windows.*
+*   **Cut-Off Levels (p. 196-197):**
+    *   "SAMHSA guidelines specify... cut-off levels": *K: Knowledge of drug testing cut-off levels and their significance (e.g., SAMHSA guidelines).*
+    *   "eliminate false positive results... Reasons for false positives": *K: Knowledge of factors contributing to false positive drug test results.*
+    *   "False negatives can also occur": *K: Knowledge of factors contributing to false negative drug test results.*
+    *   Table of cut-off levels: (General awareness, not memorization of specific numbers unless specified by role)
+
+**(Page 198: "LLM OCR returned no text for this page")**
+
+**SECTION: SUBSTANCE USE DISORDER DIAGNOSIS (p. 199-201)**
+
+**(Page 200: "LLM OCR returned no text for this page" - Usually details SIDs and differentiation)**
+
+*   "DSM-5-TR criteria... important that they know the standards": *K: Knowledge of DSM-5-TR diagnostic criteria for Substance Use Disorders (11 criteria, 4 domains, severity levels, specifiers).*
+*   **Substance-Induced Disorders (SIDs) (p. 200-201):**
+    *   "differentiating between a substance use disorder, a substance-induced disorder, and an independent, co-occurring mental disorder": *S: Skill in differential diagnosis between SUD, SID, and independent MHDs.*
+    *   Categories: Substance Intoxication, Substance Withdrawal, Substance/Medication-Induced Mental Disorders: *K: Knowledge of categories and specific types of Substance-Induced Disorders.*
+    *   "evaluate psychiatric symptoms and their relationship to abstinence or ongoing substance abuse over time": *S: Skill in longitudinal assessment for diagnostic clarification of SIDs.*
+*   **International Classification of Diseases (ICD) (p. 201):**
+    *   "ICD-11... global health information system": *K: Awareness of the ICD classification system and its purpose.*
+
+**SECTION: LEVELS OF CARE CRITERIA (p. 202-205)**
+
+*   **American Society of Addiction Medicine - ASAM Criteria® (p. 202-204):**
+    *   "most widely used and comprehensive set of standards for placement, continued service, and transfer": *K: Knowledge of ASAM Criteria (purpose, structure, levels of care, six dimensions).*
+    *   "assessing patients’/clients’ needs across six dimensions... using research-based decision rules that interpret the multidimensional assessment and match patients/clients to the proper level and type of care": *S: Skill in conducting ASAM multidimensional assessment; S: Skill in applying ASAM criteria for level of care placement, continued stay, and transfer/discharge decisions.*
+    *   Six dimensions (4th ed.): *K: Knowledge of the current six ASAM assessment dimensions.*
+*   **Level of Care Utilization System for Psychiatric and Addiction Services (LOCUS) (p. 205):**
+    *   "standardized tool designed to evaluate the service needs": *K: Knowledge of LOCUS criteria (purpose, structure, dimensions, levels of care).*
+    *   Six dimensions and levels of care: *S: Skill in applying LOCUS for level of care determination (if applicable in work setting).*
+
+**SECTION: THE INTERPRETIVE SUMMARY (p. 206-209)**
+
+*   "evaluate and interpret the various sources of data... organize the information and observations... interpret or make clinical judgements... case conceptualization": *S: Skill in data interpretation and synthesis from multiple assessment sources; S: Skill in clinical judgment; S: Skill in case conceptualization.*
+*   "interpretive summary... synthesizes diverse findings into a coherent narrative": *S: Skill in writing comprehensive interpretive summaries/assessment reports.*
+*   "critical thinking skills help analyze information, look at alternative perspectives and possibilities, and come to a systematic conclusion": *A: Ability to apply critical thinking in the assessment and interpretation process.*
+*   Steps in applying critical thinking (Gathering, Analyzing, Evaluating, Synthesizing, Identifying core issues, etc.): (These further define the Ability to use critical thinking)
+*   **Prioritization of Needs (p. 207):**
+    *   "Assessments identify client needs and resources... identify existing resources... potential barriers": *S: Skill in identifying client needs, strengths, resources, and barriers through assessment.*
+    *   "Maslow's Hierarchy of Needs... to prioritize client needs and services": *K: Knowledge of Maslow's Hierarchy of Needs; S: Skill in prioritizing client needs (e.g., using frameworks like Maslow's).*
+*   **Structure of the Interpretive Summary (p. 208-209):**
+    *   Example structure (Intro, Biological, Psychological, Social, Findings/Recommendations, Conclusion): *S: Skill in structuring and writing a biopsychosocial assessment summary.*
+
+**SECTION: SUMMARY (p. 210)**
+*   Reiterates many of the core K/S/A/Os already identified.
+
+**Phase 3: Categorize each KSAO (K, S, A, or O)**
+This was done inline during Phase 2. I will review these now.
+
+**Phase 4: Analyze relationships between KSAOs to identify hierarchies and dependencies**
+This will be a separate step after listing all KSAOs. Foundational KSAOs (like basic communication, ethical knowledge) will underpin more specific skills (like MI, ASAM application). Broad dimensions (like "Assessment Skills") will have sub-dimensions (specific tool usage).
+
+**Phase 5: Evaluate each KSAO's specificity, malleability, and how it's typically acquired**
+This will be done for each identified KSAO in the final structured output.
+
+**Phase 6: Organize all findings into a systematic framework**
+This will be the final output, a structured list of KSAOs with all requested attributes, followed by the hierarchical analysis.
+
+**Refinement and Consolidation of KSAOs:**
+Looking through the extensive list from Phase 2, I'll now consolidate and refine. For example, "Skill in active listening" was mentioned multiple times; it will be one KSAO. Knowledge of various screening tools might be grouped, but very significant ones (DSM, ASAM) will remain distinct. The goal is a *complete set* but not overly redundant.
+
+*   "Empathy" is both an "O" (trait-like) and an "S" (demonstrable skill). I'll capture this.
+*   Many "Knowledge of X principles" and "Skill in applying X" go hand-in-hand.
+*   "Critical thinking" seems best as an "Ability."
+*   "Cultural humility" and "Hopeful attitude" are "Other characteristics."
+
+I will now prepare the final structured output. This involves carefully naming each KSAO, writing a complete description, and assigning all the requested attributes. This is a meticulous process.
+
+*(Self-correction: I need to ensure that when I list "Knowledge of specific tools," I'm clear about the *level* of knowledge. For a general SUD counselor, it might be "familiarity with purpose and general application" rather than expert-level administration and scoring for *all* listed tools, some of which are highly specialized or proprietary.)*
+
+*(Self-correction: For O*NET, the primary is 21-1018.00 - Substance Abuse, Behavioral Disorder, and Mental Health Counselors. I will also add related ones like 21-1015.00 - Rehabilitation Counselors and 21-1022.00 - Healthcare Social Workers, as SUD work often overlaps.)*
+
+The process of assigning specificity, malleability, explicit/tacit, and prerequisites requires careful judgment based on the nature of each KSAO and common professional development pathways. For example, basic communication skills are prerequisites for MI. Knowledge of SUDs is a prerequisite for applying diagnostic criteria.
+
+Now, I will generate the final structured list and the hierarchical analysis.
+Due to the length and detail of the text, this will be a comprehensive list.
+
+**A Note on Missing Text:**
+The KSAO analysis is based solely on the text provided. Pages 173, 174, 178, 184, 194, 195, 198, and 200 had OCR issues ("LLM OCR returned no text for this page"). Therefore, KSAOs that might have been present on those pages cannot be identified. For example, page 178 likely detailed the "Six Assessment Dimensions" more fully, and page 200 likely elaborated on "Substance-Induced Disorders." I have extracted related information from surrounding text where possible.
+
+**Final Review of Prompt Requirements:**
+The prompt asks for:
+1.  Clear name/title
+2.  Complete description
+3.  Classification (K, S, A, O)
+4.  Specificity level (general or specialized)
+5.  Related O*NET categories
+6.  Stability/malleability
+7.  Explicit/tacit orientation
+8.  Prerequisites or developmental relationships
+9.  Hierarchical structure (dimensions vs. sub-dimensions, developmental sequence, foundations)
+
+I will ensure all these are addressed in the final output.
+
+The hierarchical structure will be presented after the individual KSAO list. It will discuss how foundational KSAOs (like ethical knowledge, basic communication) support more complex ones (like advanced assessment, MI, case conceptualization), and how broad competency areas (e.g., "Assessment Skills") break down into more specific KSAOs.
+
+The number of KSAOs will be large. I will group them thematically based on the chapter's flow for readability.Okay, based on the detailed thinking process, here is the systematic framework of identified KSAOs for SUD counselors from the provided textbook content, followed by an analysis of their hierarchical structure.
+
+**Complete Set of Identified KSAOs for SUD Counselors**
+
+The KSAOs are grouped thematically based on the chapter's structure.
+
+**I. Foundational Philosophies and Approaches**
+
+1.  **KSAO Name:** Knowledge of Person-Centered Care Philosophy
+    *   **Description:** Understanding the principles of person-centered care, which prioritizes the client's individual health needs, values, preferences, and perspectives, tailoring care accordingly, and viewing the client as a partner in the care process.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General (applicable across many helping professions, emphasized in SUD)
+    *   **O*NET Categories:** 21-1018.00, 21-1015.00, 21-1022.00
+    *   **Stability/Malleability:** Developable (through education and training)
+    *   **Explicit/Tacit:** Explicit (taught in curricula)
+    *   **Prerequisites:** Basic understanding of healthcare ethics.
+
+2.  **KSAO Name:** Knowledge of Strengths-Based Approach
+    *   **Description:** Understanding the model that focuses on an individual's strengths, capabilities, resources, and potential for empowerment and self-efficacy, rather than deficits. Includes familiarity with key principles (e.g., Rapp & Goscha's).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General (applicable across helping professions, core to modern SUD practice)
+    *   **O*NET Categories:** 21-1018.00, 21-1015.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** None
+
+3.  **KSAO Name:** Knowledge of Recovery-Oriented Principles
+    *   **Description:** Understanding that recovery is a personal journey toward wellness, involving meaning, purpose, community engagement, and satisfying relationships, and how practice standards should reflect this.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized (core to SUD and mental health fields)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic understanding of SUDs.
+
+4.  **KSAO Name:** Knowledge of Holistic Care Philosophy
+    *   **Description:** Understanding the importance of addressing the physical, mental, social, and spiritual well-being of individuals in an integrated manner.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00, 21-1022.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** None
+
+5.  **KSAO Name:** Knowledge of the Biopsychosocial Model
+    *   **Description:** Understanding how biological, psychological, and sociocultural factors interact to influence substance use, recovery, and overall well-being.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General (foundational in behavioral health)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic biology and psychology concepts.
+
+6.  **KSAO Name:** Knowledge of "Dignity of Risk" Principle
+    *   **Description:** Understanding the right of individuals to make choices that may involve risk, and how denying this can hinder learning, recovery, and hope.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized (particularly relevant in recovery-oriented systems)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of Person-Centered Care, Ethics.
+
+7.  **KSAO Name:** Other Characteristic: Hopeful Attitude
+    *   **Description:** Maintaining and conveying a positive outlook regarding a client's capacity for recovery and change.
+    *   **Classification:** Other Characteristic (O)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable (can be cultivated, though may have trait-like aspects)
+    *   **Explicit/Tacit:** Tacit (modeled, internalized)
+    *   **Prerequisites:** Empathy.
+
+8.  **KSAO Name:** Other Characteristic: Belief in Client's Capacity for Recovery
+    *   **Description:** Holding a fundamental belief that clients can recover, thrive, and lead meaningful lives.
+    *   **Classification:** Other Characteristic (O)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable (influenced by experience and philosophy)
+    *   **Explicit/Tacit:** Tacit (often internalized through values and experience)
+    *   **Prerequisites:** Knowledge of recovery principles.
+
+**II. Client Engagement and Therapeutic Relationship**
+
+9.  **KSAO Name:** Skill in Client Engagement
+    *   **Description:** Effectively making a connection with the client, ensuring they feel welcomed, respected, listened to, and understood from the first interaction and throughout the course of care.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General (crucial for all counseling)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (techniques can be explicit, nuances are tacit)
+    *   **Prerequisites:** Basic Communication Skills, Empathy.
+
+10. **KSAO Name:** Skill in Building Trust
+    *   **Description:** Establishing a therapeutic relationship where the client feels safe, secure, and confident in the counselor's reliability and intentions.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Empathy, Genuineness, Consistent Behavior.
+
+11. **KSAO Name:** Skill in Demonstrating Empathy
+    *   **Description:** Accurately sensing and reflecting the client's emotions and perspectives (cognitive and affective empathy), and communicating this understanding in a supportive, non-judgmental manner.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (techniques taught, refined through experience)
+    *   **Prerequisites:** Active Listening, Self-Awareness.
+
+12. **KSAO Name:** Skill in Building Rapport
+    *   **Description:** Developing a bond of mutual respect, understanding, and connection with the client, enabling them to feel safe, valued, and open.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Communication Skills, Empathy, Welcoming Strategies.
+
+13. **KSAO Name:** Skill in Developing a Therapeutic Alliance
+    *   **Description:** Collaboratively establishing a positive working relationship with the client, based on agreed-upon goals and tasks, fostering trust and candid dialogue.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Rapport Building, Engagement Skills, Goal Setting understanding.
+
+14. **KSAO Name:** Other Characteristic: Genuineness
+    *   **Description:** Being authentic, sincere, and congruent in interactions with clients.
+    *   **Classification:** Other Characteristic (O)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable (through self-awareness and practice, though has trait component)
+    *   **Explicit/Tacit:** Tacit
+    *   **Prerequisites:** Self-awareness.
+
+15. **KSAO Name:** Other Characteristic: Non-Judgmental Stance
+    *   **Description:** Approaching clients with acceptance and without imposing personal values or biases, creating a safe space for disclosure.
+    *   **Classification:** Other Characteristic (O)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (can be taught as a principle, internalized through practice)
+    *   **Prerequisites:** Self-awareness, Empathy.
+
+16. **KSAO Name:** Skill in Implementing Welcoming Strategies
+    *   **Description:** Creating and maintaining a physically and emotionally inviting environment, treating clients and families with respect for their diversity, and using appropriate social cues to make them feel comfortable.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Cultural Sensitivity, Basic social skills.
+
+**III. Communication Skills**
+
+17. **KSAO Name:** Skill in Active Listening
+    *   **Description:** Paying full attention to the speaker, understanding the complete message (verbal and nonverbal), providing feedback (reflecting, clarifying, summarizing), deferring judgment, and responding appropriately.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00, 21-1015.00, 21-1022.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (techniques are explicit, mastery is tacit)
+    *   **Prerequisites:** Basic attention and concentration.
+
+18. **KSAO Name:** Skill in Using Appropriate Nonverbal Communication
+    *   **Description:** Effectively using and interpreting nonverbal cues such as tone of voice, eye contact, posture, facial expressions, and gestures to enhance communication, ensuring congruence with verbal messages.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Self-awareness, Knowledge of nonverbal communication principles.
+
+19. **KSAO Name:** Knowledge of Cultural Variations in Nonverbal Communication
+    *   **Description:** Understanding that the interpretation of nonverbal cues can vary significantly across different cultures and personal backgrounds.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General (important in diverse settings)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Cultural sensitivity.
+
+20. **KSAO Name:** Skill in Empathic Communication Techniques
+    *   **Description:** Using specific verbal and nonverbal techniques to convey understanding and sharing of another's feelings, such as verbal affirmations and validating perspectives, in a supportive and non-judgmental manner.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Active Listening, Empathy.
+
+21. **KSAO Name:** Skill in Effective Questioning Techniques
+    *   **Description:** Utilizing questions appropriately for clarification, motivation, and exploration of thoughts/feelings, employing open-ended questions, asking one question at a time, and avoiding confrontational phrasing (e.g., "why" questions).
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Active Listening.
+
+22. **KSAO Name:** Skill in Clinical Observation
+    *   **Description:** Consciously observing clients for verbal and non-verbal information, including appearance, behavior, affect, gait, posture, and other cues that may indicate their state of mind, substance effects, or other relevant issues.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General (essential for clinical roles)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (can be trained, refined with experience)
+    *   **Prerequisites:** Attention to detail.
+
+23. **KSAO Name:** Skill in Using Non-Stigmatizing and Person-First Language
+    *   **Description:** Consistently using respectful, person-first language that emphasizes the individual rather than their condition or disability, and avoiding terms that perpetuate stigma.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General (critical in behavioral health)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of stigma, Knowledge of person-first language principles.
+
+**IV. Screening Processes**
+
+24. **KSAO Name:** Knowledge of the Screening Process in SUD
+    *   **Description:** Understanding the purpose, steps, and goals of screening, including identifying potential SUDs, co-occurring conditions, crisis situations, and the need for further assessment or immediate intervention.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic knowledge of SUDs.
+
+25. **KSAO Name:** Skill in Conducting Screening
+    *   **Description:** Effectively reviewing the client's current situation, symptoms, and other available information to determine the most appropriate initial course of action, including eligibility for services or need for referral.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit (process can be taught)
+    *   **Prerequisites:** Knowledge of screening process, Basic interview skills.
+
+26. **KSAO Name:** Knowledge of Evidence-Based Screening Instruments
+    *   **Description:** Familiarity with various validated screening tools for SUDs (e.g., AUDIT, DAST-10, CAGE, ASSIST), co-occurring disorders, and risk factors, understanding their purpose, target population, and basic interpretation.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of SUDs and common co-occurring conditions.
+
+27. **KSAO Name:** Skill in Selecting, Administering, and Interpreting Screening Tools
+    *   **Description:** Competently choosing appropriate evidence-based screening instruments based on client presentation and setting, administering them correctly, and interpreting the results to inform decisions about further assessment or referral.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit (instrument-specific training often needed)
+    *   **Prerequisites:** Knowledge of Evidence-Based Screening Instruments.
+
+28. **KSAO Name:** Skill in Screening for a Wide Range of Issues
+    *   **Description:** Ability to screen for psychoactive substance toxicity, intoxication, withdrawal symptoms, aggression/danger to others, self-harm/suicide risk, co-occurring mental health disorders, trauma, and related service needs (medical, housing, victimization).
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of relevant signs/symptoms for each area.
+
+**V. Assessment Processes**
+
+29. **KSAO Name:** Knowledge of Comprehensive Assessment Components
+    *   **Description:** Understanding the multifaceted nature of SUD assessment, involving self-reports, clinical interviews, biological testing, collateral information, and assessment across multiple life domains (e.g., ASAM dimensions).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of screening process, Knowledge of biopsychosocial model.
+
+30. **KSAO Name:** Skill in Conducting Multifaceted Assessments
+    *   **Description:** Systematically gathering in-depth information through various methods (interviews, standardized tools, observation, collateral data) to define the nature and severity of SUDs and co-occurring conditions, and to identify client strengths and resources.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (framework is explicit, integration is tacit)
+    *   **Prerequisites:** Skill in conducting screening, Advanced interview skills.
+
+31. **KSAO Name:** Knowledge of Signs/Symptoms of Substance Use, Intoxication, Overdose, and Withdrawal
+    *   **Description:** Specific knowledge of the physical, behavioral, and psychological indicators associated with use, intoxication, overdose, and withdrawal for different classes of substances.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic pharmacology.
+
+32. **KSAO Name:** Skill in Conducting Strengths-Based Assessment
+    *   **Description:** Actively identifying and exploring clients' current coping skills, abilities, talents, interests, aspirations, and environmental/social/recovery supports.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized (though applicable more broadly)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of Strengths-Based Approach.
+
+33. **KSAO Name:** Knowledge of Recovery Capital
+    *   **Description:** Understanding the concept of recovery capital, its different types (personal, family/social, community, cultural), and its role in supporting successful recovery.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of recovery principles.
+
+34. **KSAO Name:** Skill in Assessing and Facilitating Recovery Capital
+    *   **Description:** Working with clients to identify their existing recovery capital, access additional resources, and build upon their internal and external assets to support their recovery journey. Includes familiarity with tools like ARC or SABRS.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of Recovery Capital.
+
+35. **KSAO Name:** Knowledge of Evidence-Based Assessment Instruments (SUD and MH)
+    *   **Description:** Familiarity with a range of comprehensive, evidence-based assessment tools for SUDs (e.g., GAIN-I, ASI) and common co-occurring mental health disorders (e.g., SCID, BDI, PHQ-9, GAD-7, PTSD checklists), understanding their purpose, domains, administration considerations, and interpretation.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of SUDs and common MHDs.
+
+36. **KSAO Name:** Skill in Selecting, Administering, and Interpreting Assessment Tools (SUD and MH)
+    *   **Description:** Competently choosing appropriate evidence-based assessment instruments, administering them correctly, and interpreting the results to develop a comprehensive understanding of the client's conditions.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit (instrument-specific training often needed)
+    *   **Prerequisites:** Knowledge of Evidence-Based Assessment Instruments.
+
+37. **KSAO Name:** Skill in Ethically Gathering and Integrating Collateral Information
+    *   **Description:** Obtaining relevant client history and related information from pertinent collateral sources (e.g., family, other providers, records) with proper client consent, evaluating its validity, and integrating it into the overall assessment.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of confidentiality/consent, Critical appraisal skills.
+
+38. **KSAO Name:** Ability to Balance EBP with Practical Considerations in Tool Selection
+    *   **Description:** Making informed decisions about selecting assessment instruments by weighing research evidence with practical factors like accessibility, administration time, and item wording relevant to the client population.
+    *   **Classification:** Ability (A)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable (through experience and critical thinking)
+    *   **Explicit/Tacit:** Tacit
+    *   **Prerequisites:** Knowledge of E-B instruments, Critical thinking.
+
+**VI. Risk Assessment and Crisis Intervention**
+
+39. **KSAO Name:** Skill in Comprehensive Risk Assessment
+    *   **Description:** Evaluating clients for immediate risks, including psychoactive substance toxicity, intoxication, withdrawal, aggression or danger to others, potential for self-inflicted harm or suicide.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized (critical in SUD settings)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit (protocols exist), refined tacitly
+    *   **Prerequisites:** Knowledge of signs/symptoms for each risk area.
+
+40. **KSAO Name:** Skill in Crisis Intervention and Making Emergency Referrals
+    *   **Description:** Taking immediate and appropriate action when acute risks are identified, including initiating crisis intervention protocols and facilitating client transfer to medical care, psychiatric care, or other safe interventions.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit (crisis protocols), refined tacitly
+    *   **Prerequisites:** Skill in Comprehensive Risk Assessment, Knowledge of local emergency resources.
+
+41. **KSAO Name:** Knowledge of Violence Risk Assessment Principles and Tools
+    *   **Description:** Understanding the principles of assessing risk for violence, distinguishing between risk and threat assessment, and familiarity with common violence risk assessment instruments (e.g., HCR-20, STATIC-99).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** General risk assessment knowledge.
+
+42. **KSAO Name:** Skill in Screening for Intimate Partner Violence (IPV)
+    *   **Description:** Routinely and sensitively inquiring about IPV experiences using validated screening tools (e.g., HARK, HITS, WAST, AAS) and recognizing indicators of abuse.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized (high relevance in SUD populations)
+    *   **O*NET Categories:** 21-1018.00, 21-1022.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of IPV dynamics, Interviewing skills, Empathy.
+
+43. **KSAO Name:** Knowledge of Suicide Risk Factors and Terminology
+    *   **Description:** Understanding the factors that increase suicide risk (especially in SUD/MH populations) and precise definitions of suicide-related ideations, communications, and behaviors.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** General mental health knowledge.
+
+44. **KSAO Name:** Skill in Suicide Risk Assessment and Management
+    *   **Description:** Competently assessing suicide risk using standardized instruments (e.g., ASQ, C-SSRS), stratifying risk, conducting suicide inquiries (ideation, plan, intent, lethality), developing collaborative safety plans, counseling on lethal means reduction, and providing ongoing risk monitoring.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized (critical life-saving skill)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable (requires specific training and practice)
+    *   **Explicit/Tacit:** Explicit (protocols like SAFE-T), refined tacitly
+    *   **Prerequisites:** Knowledge of Suicide Risk Factors, Interviewing skills, Crisis intervention skills.
+
+**VII. Motivational Approaches**
+
+45. **KSAO Name:** Knowledge of Motivational Interviewing (MI) Principles and Spirit
+    *   **Description:** Understanding the foundational concepts of MI, including its person-centered, guiding style, emphasis on partnership, acceptance, compassion, evocation, and its focus on strengthening intrinsic motivation for change by exploring and resolving ambivalence.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized (widely used in SUD)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Person-Centered Care Knowledge, Empathy.
+
+46. **KSAO Name:** Skill in Applying Motivational Interviewing (MI) Techniques
+    *   **Description:** Effectively using MI micro-skills (OARS: Open questions, Affirmations, Reflections, Summaries), recognizing and responding to change talk and sustain talk, exploring and resolving ambivalence, and guiding clients toward change in a collaborative manner.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable (requires significant practice and feedback)
+    *   **Explicit/Tacit:** Both (techniques are explicit, artful application is tacit)
+    *   **Prerequisites:** Knowledge of MI Principles, Active Listening, Empathy.
+
+47. **KSAO Name:** Skill in Exploring and Resolving Ambivalence
+    *   **Description:** Helping clients to articulate and examine their conflicting motivations regarding substance use and change, and guiding them towards a resolution that favors positive change.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized (core of MI)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** MI Knowledge and Skills.
+
+48. **KSAO Name:** Knowledge of the Transtheoretical Model of Change (TTM)
+    *   **Description:** Understanding Prochaska and DiClemente's stages of change (Precontemplation, Contemplation, Preparation, Action, Maintenance, Termination/Recurrence) as a framework for understanding the process of behavior change.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** None.
+
+49. **KSAO Name:** Skill in Assessing Readiness for Change
+    *   **Description:** Evaluating a client's current stage of motivation and readiness to make changes in their substance use behavior, often using frameworks like the TTM.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of TTM, MI skills.
+
+50. **KSAO Name:** Knowledge of Decision Support Strategies and Aids
+    *   **Description:** Understanding various strategies and tools (e.g., decisional balancing, decision aids) that assist clients in understanding choices, comparing options, and making informed decisions regarding their care.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Shared decision-making principles.
+
+51. **KSAO Name:** Skill in Facilitating Shared Decision-Making (SDM)
+    *   **Description:** Engaging clients in a collaborative process where they actively participate in making choices about their treatment, considering their values, preferences, and the available evidence-based options (e.g., using the SHARE model).
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of SDM principles, Communication skills, MI spirit.
+
+**VIII. Cultural Competence and Humility**
+
+52. **KSAO Name:** Other Characteristic: Cultural Humility
+    *   **Description:** Maintaining an interpersonal stance that is other-oriented and open to the client's cultural identity, acknowledging the limits of one's own cultural perspective, and demonstrating respect, consideration, and interest in the client's cultural experiences.
+    *   **Classification:** Other Characteristic (O)
+    *   **Specificity:** General (essential in diverse societies)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable (requires ongoing self-reflection)
+    *   **Explicit/Tacit:** Both (concept is explicit, practice is tacit)
+    *   **Prerequisites:** Self-awareness, Openness.
+
+53. **KSAO Name:** Knowledge of Cultural Competence Principles
+    *   **Description:** Understanding the importance of being aware of one's own culture, values, assumptions, and biases, and how these affect interactions with clients from diverse cultures.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Self-awareness.
+
+54. **KSAO Name:** Skill in Applying Culturally Responsive Approaches
+    *   **Description:** Tailoring screening, assessment, and intervention strategies to be congruent with the client's cultural background, beliefs, values, and preferences, addressing them individually rather than stereotyping.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Cultural Humility, Knowledge of Cultural Competence, Client-centered skills.
+
+55. **KSAO Name:** Skill in Cultural Self-Assessment
+    *   **Description:** Regularly examining one's own cultural background, assumptions, and biases to understand their potential impact on the therapeutic relationship and service delivery.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (process can be taught, insights are often tacit)
+    *   **Prerequisites:** Self-awareness, Cultural humility.
+
+**IX. Trauma-Informed Care**
+
+56. **KSAO Name:** Knowledge of Trauma and its Impact on SUD
+    *   **Description:** Understanding the definition of trauma, its various forms, prevalence in SUD populations, and its profound impact on mental health, substance use patterns, coping mechanisms, and engagement in treatment.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized (essential in SUD treatment)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic mental health knowledge.
+
+57. **KSAO Name:** Knowledge of Trauma-Informed Care Principles
+    *   **Description:** Understanding the core principles of trauma-informed care (e.g., safety, trustworthiness, choice, collaboration, empowerment) and how to apply them in all interactions and service delivery.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of Trauma and its Impact.
+
+58. **KSAO Name:** Skill in Screening for Trauma History and Symptoms
+    *   **Description:** Sensitively and effectively conducting universal screening for trauma exposure and related symptoms using appropriate methods, recognizing that trauma can impede screening, assessment, and treatment if unaddressed.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit (screening tools/questions exist)
+    *   **Prerequisites:** Knowledge of Trauma-Informed Care Principles, Interviewing skills, Empathy.
+
+**X. Ethical and Legal Practice (Confidentiality, Consent)**
+
+59. **KSAO Name:** Knowledge of Confidentiality Principles and Regulations (e.g., HIPAA, 42 CFR Part 2)
+    *   **Description:** Understanding the ethical and legal requirements for protecting client confidentiality and Protected Health Information (PHI), including specific regulations like HIPAA and 42 CFR Part 2 (if applicable, though text focuses on HIPAA).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General (HIPAA), Specialized (42 CFR Part 2 for SUD)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic understanding of professional ethics.
+
+60. **KSAO Name:** Knowledge of Permissible PHI Disclosures
+    *   **Description:** Understanding the specific circumstances under which PHI can be used or disclosed without explicit client authorization (e.g., treatment, payment, operations, medical emergencies, public interest exceptions).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General (for HIPAA)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of Confidentiality Principles.
+
+61. **KSAO Name:** Knowledge of Informed Consent Principles and Procedures
+    *   **Description:** Understanding the ethical and legal doctrine of informed consent, including the client's right to self-determination, and the necessary elements for valid consent for screening, assessment, and treatment.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of Confidentiality Principles.
+
+62. **KSAO Name:** Skill in Obtaining Informed Consent
+    *   **Description:** Effectively communicating all necessary information to clients (nature of services, risks, benefits, alternatives, confidentiality limits, right to refuse) in an understandable manner to ensure their consent is fully informed and voluntary, and documenting this process appropriately.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (process is explicit, ensuring understanding is tacit)
+    *   **Prerequisites:** Knowledge of Informed Consent Principles, Clear communication skills.
+
+63. **KSAO Name:** Knowledge of Requirements for Valid Authorization for PHI Disclosure
+    *   **Description:** Understanding the specific elements required for a client's written authorization to be considered valid for releasing their PHI to third parties.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of Confidentiality Principles.
+
+**XI. Drug Testing Knowledge**
+
+64. **KSAO Name:** Knowledge of Purposes and Applications of Drug Testing in SUD Treatment
+    *   **Description:** Understanding the various roles of drug testing in SUD treatment, such as part of initial assessment, monitoring substance use, assessing treatment efficacy, preventing adverse medication effects, and documenting abstinence.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic knowledge of SUD treatment.
+
+65. **KSAO Name:** Knowledge of Drug Testing Methodologies
+    *   **Description:** Understanding the differences between screening and confirmatory drug tests, common laboratory techniques (e.g., immunoassays, GC/MS, LC-MS), different biological specimens (urine, breath, saliva, sweat, hair, blood) and their general detection windows.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** None.
+
+66. **KSAO Name:** Knowledge of Drug Testing Cut-Off Levels and Interpretation Issues
+    *   **Description:** Understanding the concept of cut-off levels (e.g., SAMHSA guidelines), their role in reporting results, and factors contributing to false positive and false negative results (e.g., cross-reactivity, medications, dilution).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of Drug Testing Methodologies.
+
+67. **KSAO Name:** Ability: Clinical Judgment in Drug Test Interpretation and Follow-Up
+    *   **Description:** Using clinical reasoning to interpret drug test results in the context of other client information, deciding when confirmatory testing is necessary, and discussing results with clients productively.
+    *   **Classification:** Ability (A)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable (through experience)
+    *   **Explicit/Tacit:** Tacit
+    *   **Prerequisites:** Knowledge of Drug Testing Cut-Off Levels, Critical Thinking.
+
+**XII. Diagnosis and Level of Care Determination**
+
+68. **KSAO Name:** Knowledge of DSM-5-TR Diagnostic Criteria for SUDs
+    *   **Description:** Detailed understanding of the current Diagnostic and Statistical Manual of Mental Disorders criteria for Substance Use Disorders, including the 11 criteria across four domains, severity specifiers, and remission specifiers.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized (essential for SUD professionals)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic psychology/psychopathology knowledge.
+
+69. **KSAO Name:** Knowledge of Substance-Induced Disorders (SIDs)
+    *   **Description:** Understanding the categories of SIDs (Substance Intoxication, Substance Withdrawal, Substance/Medication-Induced Mental Disorders) and the specific mental disorders that can be induced by substance use.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of DSM-5-TR SUD criteria, Knowledge of common MHDs.
+
+70. **KSAO Name:** Skill in Differential Diagnosis (SUD, SID, Independent MHD)
+    *   **Description:** Ability to distinguish between symptoms attributable to a primary SUD, those that are substance-induced, and those indicative of an independent, co-occurring mental health disorder, often requiring longitudinal assessment.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized (often a higher-level skill, may be for referral)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (criteria are explicit, judgment is tacit)
+    *   **Prerequisites:** Knowledge of DSM-5-TR SUD criteria, Knowledge of SIDs, Knowledge of common MHDs.
+
+71. **KSAO Name:** Awareness of ICD Classification System
+    *   **Description:** General understanding of the International Classification of Diseases (ICD) as a global health information system for classifying diseases, including mental and behavioral disorders.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General (awareness level)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** None.
+
+72. **KSAO Name:** Knowledge of ASAM Criteria
+    *   **Description:** Comprehensive understanding of the American Society of Addiction Medicine (ASAM) Criteria, including its purpose, the six assessment dimensions, the continuum of care (levels 0.5-4), and how they are used for placement, continued service, and transfer decisions.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized (industry standard in SUD treatment)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of SUDs and co-occurring disorders.
+
+73. **KSAO Name:** Skill in Applying ASAM Criteria
+    *   **Description:** Competently conducting multidimensional assessments based on the six ASAM dimensions and using the decision rules to match clients to the appropriate level of care, and to guide continued stay and transfer/discharge planning.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable (requires training and practice)
+    *   **Explicit/Tacit:** Both (framework is explicit, application nuances are tacit)
+    *   **Prerequisites:** Knowledge of ASAM Criteria, Comprehensive assessment skills.
+
+74. **KSAO Name:** Knowledge of LOCUS Criteria (Level of Care Utilization System)
+    *   **Description:** Understanding the LOCUS tool for evaluating service needs for individuals with psychiatric and/or substance use disorders, including its dimensions and levels of care.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized (used in some systems)
+    *   **O*NET Categories:** 21-1018.00, 21-1022.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Knowledge of SUDs and MHDs.
+
+**XIII. Case Conceptualization and Interpretive Summary**
+
+75. **KSAO Name:** Ability to Apply Critical Thinking in Assessment and Interpretation
+    *   **Description:** Utilizing analytical and reasoning skills to gather comprehensive information, analyze assessment data, evaluate its reliability and validity, synthesize information from various sources, identify core issues, and formulate reasoned conclusions.
+    *   **Classification:** Ability (A)
+    *   **Specificity:** General (essential for all clinical decision-making)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable (can be honed with practice)
+    *   **Explicit/Tacit:** Both (principles can be taught, application is often tacit)
+    *   **Prerequisites:** Basic reasoning skills.
+
+76. **KSAO Name:** Skill in Case Conceptualization
+    *   **Description:** Weaving together diverse pieces of client information (assessment data, observations, history) into a coherent clinical understanding of their presenting problems, contributing factors, strengths, and needs, forming a basis for treatment planning.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both (frameworks can be explicit, insightful integration is tacit)
+    *   **Prerequisites:** Comprehensive assessment skills, Critical thinking, Knowledge of relevant theories (e.g., biopsychosocial).
+
+77. **KSAO Name:** Skill in Writing Comprehensive Interpretive Summaries
+    *   **Description:** Clearly and coherently documenting the assessment findings, clinical interpretations (case conceptualization), diagnostic impressions, and treatment recommendations in a structured written format (e.g., biopsychosocial assessment report).
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Explicit (structure and content can be taught)
+    *   **Prerequisites:** Skill in Case Conceptualization, Clear written communication skills.
+
+78. **KSAO Name:** Skill in Prioritizing Client Needs
+    *   **Description:** Identifying and ranking client needs based on urgency, safety, and potential impact on recovery, often using frameworks like Maslow's Hierarchy, to guide service planning.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Comprehensive needs assessment, Knowledge of Maslow's Hierarchy (or similar frameworks).
+
+79. **KSAO Name:** Skill in Care Coordination and Referral
+    *   **Description:** Effectively linking clients with appropriate internal or external services and resources to meet their identified needs, ensuring coordination and continuity of care.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General (important in integrated care)
+    *   **O*NET Categories:** 21-1018.00, 21-1022.00
+    *   **Stability/Malleability:** Developable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Knowledge of available resources, Communication skills.
+
+**XIV. Professionalism and Self-Development**
+
+80. **KSAO Name:** Other Characteristic: Commitment to Ongoing Skill Development
+    *   **Description:** Recognizing that complex skills (like Motivational Interviewing) require continuous practice, feedback, and learning beyond initial training.
+    *   **Classification:** Other Characteristic (O)
+    *   **Specificity:** General (applies to many professional skills)
+    *   **O*NET Categories:** 21-1018.00
+    *   **Stability/Malleability:** Developable (attitude and behavior)
+    *   **Explicit/Tacit:** Tacit (demonstrated through behavior)
+    *   **Prerequisites:** Self-awareness of skill level.
+
+---
+
+**Hierarchical Structure Among KSAOs**
+
+The KSAOs identified from this chapter exhibit a clear hierarchical structure, with foundational KSAOs supporting more complex and specialized ones.
+
+**1. Dimensions vs. Sub-dimensions:**
+
+Many KSAOs represent broad competency dimensions, which are composed of more specific sub-dimensions (individual KSAOs).
+
+*   **Dimension: Foundational Counseling Philosophy & Ethics**
+    *   *Sub-dimensions:* Knowledge of Person-Centered Care, Strengths-Based Approach, Recovery-Orientation, Holistic Care, Biopsychosocial Model, Dignity of Risk, Confidentiality Principles, Informed Consent Principles, Cultural Humility (O), Hopeful Attitude (O).
+*   **Dimension: Therapeutic Relationship & Communication Skills**
+    *   *Sub-dimensions:* Skill in Client Engagement, Building Trust, Demonstrating Empathy, Building Rapport, Developing Therapeutic Alliance, Active Listening, Nonverbal Communication, Empathic Communication Techniques, Effective Questioning, Using Non-Stigmatizing Language.
+*   **Dimension: Screening & Assessment Competency**
+    *   *Sub-dimensions (Screening):* Knowledge of Screening Process, Skill in Conducting Screening, Knowledge/Skill with Evidence-Based Screening Instruments.
+    *   *Sub-dimensions (General Assessment):* Knowledge of Comprehensive Assessment Components, Skill in Multifaceted Assessments, Skill in Clinical Observation, Skill in Ethically Gathering Collateral Info, Knowledge of Signs/Symptoms of Use/Intoxication/Withdrawal.
+    *   *Sub-dimensions (Specialized Assessment Areas):* Skill in Strengths-Based Assessment, Assessing Recovery Capital, Assessing Readiness for Change, Knowledge/Skill with MH Assessment Tools, Skill in Differential Diagnosis.
+    *   *Sub-dimensions (Risk Assessment):* Skill in Comprehensive Risk Assessment, Crisis Intervention, Violence Risk Assessment knowledge, IPV Screening, Suicide Risk Assessment/Management.
+*   **Dimension: Intervention & Client Empowerment Strategies**
+    *   *Sub-dimensions:* Knowledge/Skill in Motivational Interviewing, Exploring/Resolving Ambivalence, Facilitating Shared Decision-Making, Supporting Client Self-Management, Fostering Empowerment.
+*   **Dimension: Diagnostic & Placement Acumen**
+    *   *Sub-dimensions:* Knowledge of DSM-5-TR SUD Criteria, Knowledge of SIDs, Knowledge/Skill in Applying ASAM Criteria, Knowledge of LOCUS.
+*   **Dimension: Clinical Reasoning & Documentation**
+    *   *Sub-dimensions:* Ability to Apply Critical Thinking, Skill in Case Conceptualization, Skill in Writing Interpretive Summaries, Skill in Prioritizing Needs.
+*   **Dimension: Culturally Responsive Practice**
+    *   *Sub-dimensions:* Cultural Humility (O), Knowledge of Cultural Competence, Skill in Applying Culturally Responsive Approaches, Skill in Cultural Self-Assessment.
+*   **Dimension: Trauma-Informed Practice**
+    *   *Sub-dimensions:* Knowledge of Trauma & Impact, Knowledge of Trauma-Informed Principles, Skill in Screening for Trauma.
+
+**2. Developmental Sequence & Foundational KSAOs:**
+
+Certain KSAOs must be developed before others can be effectively learned or applied.
+
+*   **Foundation Level 1: Core Professional Attributes & Basic Knowledge:**
+    *   *KSAOs:* Ethical knowledge (Confidentiality, Informed Consent), Basic Communication Skills (Listening, Questioning), Self-Awareness, Cultural Humility (O), Hopeful Attitude (O), Non-Judgmental Stance (O), Genuineness (O), Basic knowledge of SUDs and mental health.
+*   **Foundation Level 2: Core Counseling Philosophies & Engagement Skills:**
+    *   *KSAOs:* Knowledge of Person-Centered, Strengths-Based, Recovery-Oriented, Holistic philosophies. Skill in Client Engagement, Building Trust, Rapport, Demonstrating Empathy. Knowledge of Stigma and Person-First Language.
+*   **Mid-Level: Specific Assessment & Intervention Skills/Knowledge:**
+    *   *KSAOs:* Knowledge and skills related to specific screening and assessment tools (for SUD, MH, risk). Knowledge and skills in Motivational Interviewing. Knowledge of diagnostic criteria (DSM). Knowledge of ASAM/LOCUS. Knowledge of trauma-informed care. Skill in cultural competence application.
+*   **Advanced Level: Integration, Clinical Judgment & Complex Application:**
+    *   *KSAOs:* Skill in Case Conceptualization, Critical Thinking in assessment, Skill in Differential Diagnosis, Advanced application of MI in complex cases, Skill in applying ASAM criteria with nuanced clinical judgment, Skill in writing comprehensive interpretive summaries, Skill in complex crisis management.
+
+**Examples of Developmental Relationships & Foundations:**
+
+*   **Basic Communication Skills (Active Listening, Effective Questioning)** are foundational for **Skill in Motivational Interviewing**, which in turn is crucial for **Skill in Exploring and Resolving Ambivalence**.
+*   **Knowledge of Person-Centered Care Philosophy** and **Empathy (O/S)** are foundational for effectively **Building Rapport** and **Developing a Therapeutic Alliance**.
+*   **Knowledge of SUDs, Co-occurring Disorders, and Biopsychosocial Model** serves as a foundation for **Comprehensive Assessment Skills**, including the ability to select and interpret various assessment tools.
+*   **Comprehensive Assessment Skills** and **Knowledge of DSM-5-TR Criteria** are prerequisites for **Skill in Case Conceptualization** and **Skill in Writing Interpretive Summaries**.
+*   **Skill in Case Conceptualization** and **Knowledge of ASAM Criteria** are foundational for **Skill in Applying ASAM Criteria** for level of care determination.
+*   **Critical Thinking (A)** underpins the entire assessment process, from tool selection to data interpretation and **Case Conceptualization**.
+*   **Cultural Humility (O)** and **Knowledge of Cultural Competence Principles** are foundational for **Skill in Applying Culturally Responsive Approaches** in all client interactions, including screening and assessment.
+*   **Knowledge of Trauma and its Impact** and **Trauma-Informed Care Principles** are foundational for **Skill in Screening for Trauma** and adapting all other interactions to be trauma-sensitive.
+
+This hierarchical structure implies that curriculum development and training for SUD counselors should follow a similar layered approach, building complex competencies upon a solid foundation of core knowledge, skills, and professional characteristics.

@@ -1,0 +1,23 @@
+[Layout: The page has a header at the top. The main content is a single column. There is a visual representation of a spiral binding on the right edge of the page, which is not part of the textual content itself but a feature of the physical document.]
+
+182 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**The Addiction Severity Index (ASI)** is a semi-structured interview designed to assess substance use and related areas. Developed in the 1980s, the ASI is widely used to evaluate the severity of addiction and its impact on various aspects of a person’s life. The ASI covers seven key domains:
+
+1.  **Medical Status:** Assesses physical health issues and medical treatment needs.
+2.  **Employment/Support Status:** Evaluates employment history, job skills, income sources, and financial support systems.
+3.  **Drug Use:** Gathers information on the types and patterns of drug use, including frequency and routes of administration.
+4.  **Alcohol Use:** Assesses the patterns and impact of alcohol consumption.
+5.  **Legal Status:** Reviews legal issues and criminal history, including pending charges and probation/ parole status.
+6.  **Family/Social Relationships:** Examines relationships with family and friends, including any social support and conflicts.
+7.  **Psychiatric Status:** Screens for symptoms of MHDs and treatment history.
+
+The interview typically takes about an hour to complete and is designed to be administered by a trained clinician. The ASI provides both qualitative and quantitative information, generating severity ratings for each domain that reflect the individual’s perceived need for treatment and the interviewer’s objective assessment of treatment needs. A teen version is also available – the **T-ASI-2**.
+
+**Structured Clinical Interview for DSM (SCID)** is a semi-structured interview guide for making the major DSM (Diagnostic and Statistical Manual of Mental Disorders) diagnoses. It is often used in clinical research settings to ensure that study participants meet specific diagnostic criteria. For substance use disorders, the SCID provides a detailed assessment based on the DSM criteria, helping to identify specific substance-related disorders alongside other psychiatric conditions.
+
+**The Alcohol Use Disorder and Associated Disabilities Interview Schedule, DSM-5 Version (AUDADIS-5)** is a structured diagnostic interview tool designed to assess alcohol use disorder (AUD) and related conditions. It is an updated version of the instrument to align with the criteria set forth in the Fifth Edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5). The AUDADIS-5 provides a comprehensive evaluation of alcohol use, drug use, and related psychiatric disorders, making it a valuable tool for both clinical and research purposes. Key features and areas covered by the AUDADIS-5 include **Alcohol Use Disorders, Drug Use Disorders, Associated Psychiatric Disorders, and Disabilities** (disabilities and impairments associated with substance use and psychiatric disorders, providing insights into how these conditions affect an individual’s functioning and quality of life).
+
+The AUDADIS-5 is designed for use by trained interviewers who can administer it in various settings and population surveys. Its structured format ensures consistency and reliability in diagnosing AUD and related disorders across different populations and contexts.
+
+**The Composite International Diagnostic Interview (CIDI)** is a comprehensive, fully structured interview designed for use in epidemiological studies of mental health and substance use. It is unique in that it can be administered by trained lay interviewers, not just healthcare professionals. The CIDI assesses a wide range of mental and substance use disorders according to the definitions and criteria of the DSM and International Classification of Diseases (ICD).

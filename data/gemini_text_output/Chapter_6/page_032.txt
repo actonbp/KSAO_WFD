@@ -1,0 +1,32 @@
+294 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**METHADONE**
+
+Methadone is a long-acting synthetic opioid agonist. Methadone is the most used and most studied OUD medication in the world. The World Health Organization (WHO) considers it an essential medication. Many clinical trials and meta-analyses have shown that it effectively reduces illicit opioid use, treats OUD, and retains clients in treatment better than a placebo or no medication. Methadone works by binding to and activating the same opioid receptors in the brain as other opioids like heroin, morphine, and oxycodone. However, it does so more slowly and without producing the same intense high, which helps reduce cravings and withdrawal symptoms. Advantages of methadone is that treatment can begin right away without detoxification and dosing is once daily in most cases.
+
+Methadone's primary use in MAT is to alleviate withdrawal symptoms and reduce cravings in individuals addicted to opioids, thereby facilitating a more stable and controlled recovery process. It is available primarily in the following forms:
+
+*   » **Oral Solution**: The most common form used in MAT programs, where the liquid is swallowed.
+*   » **Tablet**: Can be swallowed or sometimes dissolved in water to drink.
+*   » **Dispensable Powder**: Mixed with water for oral administration.
+*   » **Injectable Form**: Administered by healthcare professionals in certain clinical settings, though less common for MAT.
+
+The administration of methadone for OUD treatment is typically carried out in a controlled clinical setting:
+
+*   » **Controlled Environment**: Due to its potential for abuse and overdose, methadone is usually administered in a clinic where the client consumes the dose under the supervision of healthcare professionals.
+*   » **Daily Dosing**: Methadone is often taken daily, especially in the initial phases of treatment, to maintain a stable level of the drug in the bloodstream and manage withdrawal symptoms and cravings.
+*   » **Induction Phase**: Starting methadone treatment involves a careful titration process to find the appropriate dose that effectively mitigates withdrawal symptoms without causing sedation or respiratory depression.
+*   » **Maintenance and Tapering**: Once a stable dose is reached, the client continues on maintenance therapy, which can last for several months to years. If discontinuation is planned, the dose is gradually tapered down to prevent withdrawal symptoms.
+
+Methadone carries a risk of overdose, especially during the induction phase or if taken inappropriately. Its long half-life can lead to accumulation in the body if doses are taken too frequently. In the United States, methadone for OUD treatment can only be dispensed through a certified opioid treatment program (OTP) regulated by SAMHSA and the Drug Enforcement Administration (DEA).
+
+**NALTREXONE**
+
+As previously discussed, Naltrexone is used in the treatment of both alcohol and opioid use disorders. It was initially developed to treat addiction to opioids and was approved by the U.S. Food and Drug Administration (FDA) for the treatment of OUDs 1984. In 2010, the FDA approved a monthly injectable extended-release naltrexone (XR-NTX). Brand names are:
+
+*   » **ReVia**: One of the earliest brand names for naltrexone, primarily used for treating alcohol dependence.
+*   » **Vivitrol**: A long-acting, injectable form of naltrexone
+
+Unlike methadone and buprenorphine, naltrexone is an opioid antagonist, which means it works by blocking opioid receptors and preventing their euphoric effects. Before initiating either formulation of naltrexone, patients must be opioid abstinent. Naltrexone should only be used seven to ten days after medically managed withdrawal (detoxification) from opioids has been completed. Medically supervised opioid withdrawal can be conducted on an outpatient or inpatient basis. The latter is often reserved for patients with co-occurring SUDs, MHDs or medical illness.
+
+Naltrexone can be prescribed by any healthcare provider licensed to prescribe medications. It does not require special training like buprenorphine and methadone. Naltrexone can be delivered as a daily oral dose or as a long-acting injection. The long-acting injection only needs to be administered once per month, which has shown an increase in adherence and retention rates.⁹⁹

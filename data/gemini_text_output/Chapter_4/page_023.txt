@@ -1,0 +1,17 @@
+CHAPTER 4: Evidence-based Screening 175
+
+**Uses and Disclosures with Opportunity to Agree or Object** – By asking the individual outright, or by circumstances that clearly give the individual the opportunity to agree, comply, or object, a covered entity can get informal permission for a disclosure. An example of this may be when an individual is incapacitated.
+
+**Incidental Use and Disclosure** – It is important to note that covered entities are not required to eliminate every risk of an incidental use or disclosure of PHI. With the provisions that the covered entity has adopted reasonable safeguards as required by the Privacy Rule and the information being shared was limited to the “minimum necessary,” a disclosure that was “incident” to an otherwise permitted use or disclosure is permitted.
+
+**Medical Emergencies:** Disclosure of PHI without consent is allowed in medical emergencies. This is particularly applicable when the information is crucial for providing emergency care or when obtaining consent is not feasible due to the individual’s condition. In such cases, PHI may be disclosed to medical personnel directly involved in the patient’s care to ensure they receive the appropriate treatment and interventions necessary during the emergency. This disclosure aims to protect the patient’s health and well-being, considering the urgency and potential risks involved in emergency situations.
+
+**Public Interest and Benefit Activities** – The HIPAA Privacy Rule permits use and disclosure of PHI, without an individual’s authorization or permission, for 12 national priority purposes, including: for victims of abuse, neglect or domestic violence, as required by law, court order, or part of law enforcement processes, health oversight activities, organ donation, research and identification of a deceased person.
+
+**Informed Consent**
+
+Informed consent is the process by which clients are informed of their rights regarding screening, assessment, and treatment, as well as how their PHI is handled. Informed consent is one of the most basic and important concepts in the delivery of ethical services because it establishes the client’s independence and right to self-determination in receiving services.⁶⁷ In recent years, the concept of informed consent has broadened to include the idea of “person-centered or person-directed care.” This concept focuses on the assumption that the individual has the right to choose or refuse treatment; it also defines the parameters of and sets goals for treatment/service outcomes.
+
+Ensuring that the consent for services given by clients is fully informed requires careful attention throughout the course of care.
+
+[Image: A black and white photograph showing two women sitting across from each other at a desk in what appears to be an office or medical setting. The woman on the left, with lighter hair, is looking towards the other woman and appears to be writing on a clipboard. The woman on the right, with darker hair and wearing what looks like a medical uniform with a stethoscope around her neck, is gesturing with her right hand towards the clipboard or the other woman. There is a bright window or light source behind them. The image likely depicts a healthcare professional interacting with a patient or colleague, possibly discussing or filling out paperwork related to informed consent or patient care.]

@@ -1,0 +1,23 @@
+186 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+5. **Behavioral Assessments:** These include observations and specific behavioral tests that can be useful in diagnosing conditions like Attention Deficit Hyperactivity Disorder (ADHD), such as the **Diagnostic Interview for ADHD in Adults (DIVA 2.0)**, and Autism Spectrum Disorder (ASD).
+
+6. **Trauma Assessments:** Assessing trauma and its impact on mental health is a critical aspect of clinical practice, requiring specialized tools to accurately identify and understand the breadth and depth of trauma-related symptoms and disorders.
+
+    > **Clinician-Administered PTSD Scale (CAPS):** Considered the gold standard in PTSD assessment, the CAPS is a structured interview that assesses the frequency and intensity of PTSD symptoms, as described in the DSM-5. It is used widely in both research and clinical settings.
+
+    > **PTSD Checklist (PCL):** The PCL is a self-report rating scale for assessing PTSD symptoms in relation to specific stressful experiences. It’s available in several versions, including the PCL-5, which aligns with DSM-5 criteria. It is easy to administer and is used for screening purposes as well as to monitor symptom change over time.
+
+    > **Posttraumatic Symptom Scale-Interview Version for DSM-5:** The PSS-I-5 is a widely utilized PTSD. It is a semi-structured interview providing a categorical diagnosis, as well as a measure of the severity of PTSD symptoms as defined by DSM-5. It can be administered by any trained person and takes 15-25 minutes.
+
+7. **Cognitive Tests:** These tests are designed to evaluate cognitive functions such as memory, attention, and reasoning. Examples include the **Wechsler Adult Intelligence Scale (WAIS)** and the **Mini-Mental State Examination (MMSE)**.
+
+8. **Functional Assessment:** Instruments like the **Global Assessment of Functioning (GAF)** scale are used to assess a person's overall level of functioning and ability to carry out daily activities.
+
+Using a variety of assessment instruments is crucial. Different assessment tools can provide a more comprehensive understanding of the person's symptoms, functioning levels, and the interplay between their mental health and substance use issues. Some instruments are better suited for identifying specific MHDs, while others are designed to assess the severity and impact of substance use. Using a multipronged assessment approach ensures a more accurate diagnosis, facilitates the development of an effective, individualized treatment plan, and ultimately, improves outcomes by addressing both the mental health and substance use aspects of the person's condition. This holistic approach recognizes the importance of treating the whole person, rather than focusing on one issue at a time, and is essential for the successful management of co-occurring conditions.
+
+**Risk Assessments**
+
+At both the screening and assessment stages, one of the most important roles that the counselor plays is to observe the client and to assess for signs of psychoactive substance toxicity, intoxication, and withdrawal; aggression or danger to others; potential for self-inflicted harm or suicide; and coexisting mental health problems. If any of these conditions are present, the counselor should take immediate action to get the client to medical care, psychiatric care, or other safe intervention. Proceeding with screening or assessment at this stage is inappropriate, both for the safety and well-being of the client and for the accuracy of screening or assessment results. If necessary, law enforcement or emergency medical personnel should be summoned to assure safe transfer of the client to the appropriate location.
+
+The signs of drug toxicity (also known as drug overdose) and alcohol intoxication can vary depending on the substance used, the amount ingested, and the individual’s body response. However, there are common symptoms associated with each that can help identify these conditions:

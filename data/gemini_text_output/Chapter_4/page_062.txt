@@ -1,0 +1,48 @@
+[Layout: Two columns with a header. A sidebar with a spiral binding is on the right.]
+214 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+70 American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). https://doi.org/10.1176/appi.books.9780890425787
+
+71 SAMHSA (2020). Substance use disorder treatment for people with co-occurring disorders: Updated 2020 [Internet]. Rockville (MD): Substance Abuse and Mental Health Services Administration (US), (Treatment Improvement Protocol (TIP) Series, No. 42.) Executive Summary. https://www.ncbi.nlm.nih.gov/books/NBK571010/
+
+72 Ibid.
+
+73 US Preventative Services Task Force (2019, May). Screening for intimate partner violence, elder abuse, and abuse of vulnerable adults: Recommendation statement. American Family Physician, 99(10): Online. PMID: 31083886. https://www.aafp.org/pubs/afp/issues/2019/0515/od1.html
+
+74 American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). https://doi.org/10.1176/appi.books.9780890425787
+
+75 SAMHSA (2020). Substance use disorder treatment for people with co-occurring disorders: Updated 2020 [Internet]. Rockville (MD): Substance Abuse and Mental Health Services Administration (US), (Treatment Improvement Protocol (TIP) Series, No. 42.) Executive Summary. https://www.ncbi.nlm.nih.gov/books/NBK571010/
+
+76 Indiana Department of Health (n.d.) Signs and symptoms of drug misuse. https://www.in.gov/health/overdose-prevention/general-information/signs-and-symptoms-of-drug-misuse/
+
+77 NIAAA (2023, Jan.). Alcohol's effects on health: Research-based information on drinking and its impact. National Institute on Alcohol Abuse and Alcoholism. https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/understanding-dangers-of-alcohol-overdose
+
+78 Beltrani, A. (n.d.). An introduction to violence risk assessments. Palo Alto University. https://concept.paloaltou.edu/resources/business-of-practice-blog/in-tro-violence-risk-assessments
+
+79 Ibid.
+
+80 Ibid.
+
+81 Webb, L. (2012). Tools for the job: why relying on risk assessment tools is still a risky business. Journal of Psychiatric and Mental Health Nursing, 19(2), 132–9 . https://doi.org/10.1111/j.1365-2850.2011.01762.x.
+
+82 Centers for Disease Control and Prevention (2022, Oct.). Fast facts: Preventing intimate partner violence. https://www.cdc.gov/violenceprevention/intimatepartnerviolence/fastfact.html
+
+83 Cafferky, B. M., Mendez, M., Anderson, J. R., & Stith, S. M. (2018). Substance use and intimate partner violence: A meta-analytic review. Psychology of Violence, 8(1), 110. https://doi.org/10.1016/j.cpr.2008.05.001
+
+84 Feltner, C., Wallace, I., Berkman, N., et al. (2018, Oct.). Screening for intimate partner violence, elder abuse, and abuse of vulnerable adults: An evidence review for the U.S. Preventive Services Task Force [Internet]. Rockville (MD): Agency for Healthcare Research and Quality (US); (Evidence Synthesis, No. 169.) Chapter 1, Introduction. https://www.ncbi.nlm.nih.gov/books/NBK533722/
+
+85 Chapman, H. & Gillespie, S. M. (2016). The Revised Conflict Tactics Scales (CTS2): A review of the properties, reliability, and validity of the CTS2 as a measure of partner abuse in community and clinical samples. Aggression and Violent Behavior, 44, 27–35. ISSN 1359-1789, https://doi.org/10.1016/j.avb.2018.10.006.
+
+86 Centers for Disease Control and Prevention – WISQARS (2023, Aug). 10 Leading Causes of Death, United States 2021.https://wisqars.cdc.gov/lcd/?o=LCD&y1=2021&y2=2021&ct=10&c-c=ALL&g=00&s=0&r=0&e=0&ar=lc-diage&at=groups&ag=lc0&a1=0&a2=199
+
+87 Silverman, M. M., Berman, A. L., Sanddal, N.D., O'Carroll, P.W., & Joiner, T. E. (2007). Rebuilding the tower of Babel: A revised nomenclature for the study of suicide and suicidal behaviors. Part 2: Suicide-related ideations, communications, and behaviors. Suicide Life-Threatening Behavior, (37), 264–77.
+
+88 Bilsen J. (2018, Oct.). Suicide and youth: Risk factors. Frontiers in Psychiatry, 30(9), 540. doi: 10.3389/fpsyt.2018.00540. PMID: 30425663; PMCID: PMC6218408. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6218408/
+
+89 Brådvik L. (2018, Sept.). Suicide risk and mental disorders. International Journal of Environmental Research and Public Health, 17(9). doi: 10.3390/ijerph15092028. PMID: 30227658; PMCID: PMC6165520. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6165520/
+
+90 Esang, M. & Ahmed, S. (2018). A closer look at substance use and suicide. American Journal of Psychiatry Residents' Journal, 13(6), 2-12. https://psychiatryonline.org/doi/full/10.1176/appi.ajp-rj.2018.130603
+
+91 National Action Alliance for Suicide Prevention: Transforming Health Systems Initiative Work Group (2018). Recommended standard care for people with suicide risk: Making health care suicide safe. Washington, DC: Education Development Center, Inc. https://theactionalliance.org/sites/default/files/action_alliance_recommend-ed_standard_care_final.pdf
+
+92 Ibid.

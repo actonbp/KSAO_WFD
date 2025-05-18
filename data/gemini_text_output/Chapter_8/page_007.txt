@@ -1,0 +1,34 @@
+[Image: A close-up, slightly angled shot of an open file cabinet drawer. The drawer is filled with several large, light-colored ring binders standing upright, with their spines facing outwards. Each binder has a circular label or finger hole on its spine. The binders appear to contain numerous papers. The image is in grayscale or has a desaturated look, emphasizing the theme of record-keeping and documentation.]
+
+CHAPTER 8: Documentation 343
+
+SUD counselors must also be aware of state reporting laws and agency policies. They are generally considered
+**mandated reporters** for suspected abuse and neglect. The SUD counselor should document the evidence that
+led to the suspected abuse or neglect and who the information was reported to such as the Abuse Hotline or the
+appropriate staff member per agency policy.
+
+It is important to document in the clinical record any information released and who received the information.
+Any requests that occur outside of the scope of care coordination without a release of information may need to be
+reported to a supervisor. Occasionally a subpoena and/or court order for a client's records may be received and, if
+so, the SUD counselor should immediately inform the supervisor who may seek legal counsel as needed.
+
+**Records Retention and Storage**
+
+The client record is the physical property of the agency in which the services have been delivered. All states have
+laws that regulate the retention of client records. Since the record is a legal document, it is important to have
+established policies regarding record retention. Medical records are generally retained for a period of seven years,
+but in the case of minors it may be longer under certain circumstances. SUD counselors should know the laws
+regarding the retention of client records in their state. It is important to remember that all client records must
+be disposed of in compliance with HIPAA and, for clients with substance use conditions receiving services in a
+federal program, disposal must also comply with 42 CFR Part 2.
+
+Client records in hard copies must be securely stored in locked file cabinets when not in use, with protection
+against unauthorized access. All records and identifying information must be kept out of sight of unauthorized
+personnel. This includes client lists and rosters, attendance records, appointment schedules, and information on
+computers.
+
+Electronic Health Records (EHRs) and Electronic Medical Records (EMRs) also have established regulations
+governing record retention and storage. As these digital records contain comprehensive and real-time
+information about a client and can be shared across different authorized health care settings, they are highly
+regulated. Federal laws like HIPAA also safeguard data regardless of whether the information is being stored on-
+premises or in the cloud. More information on storage of EHRs can be found later in this chapter.

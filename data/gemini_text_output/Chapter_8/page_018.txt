@@ -1,0 +1,25 @@
+354 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+The use of EHR systems in behavioral health organizations is constantly expanding. Most of the same issues related to effective documentation exist whether handwritten or used in an EHR system. Using an EHR, however, brings additional considerations for counselors. ¹⁴, ¹⁵, ¹⁶, ¹⁷
+
+1.  **Legal and Ethical Risks:** The integration of technology in counseling brings significant legal and ethical risks. Counselors need to be aware of rules from HIPAA and HITECH, which involve the security and privacy of electronic Protected Health Information (ePHI). These regulations require measures to keep ePHI confidential and protect it from disclosure, impacting how counselors interact with clients electronically.
+
+2.  **Integrated Care Documentation:** EHRs often facilitate integrated care, where behavioral health is coordinated with other medical services. Counselors should know how to document behavioral health issues in a way that is useful for other healthcare providers, while still maintaining the necessary confidentiality.
+
+3.  **Access and Permissions:** It’s important to understand the system of permissions within EHRs. Who has access to what information? How is this access controlled and recorded? Knowing how to set and manage these permissions is crucial to protect client privacy.
+
+4.  **Data Entry Standards:** Accurate and consistent data entry is vital in EHRs. Counselors should be familiar with the standards and protocols for entering data, including how to record different types of behavioral health interventions, progress notes, and treatment outcomes.
+
+5.  **Use of Electronic Communication:** With EHRs often comes the use of electronic communication for scheduling, reminders, and sometimes even telehealth sessions. Counselors need to be aware of the best practices and legal considerations in using these tools.
+
+6.  **Interoperability:** Understanding how the EHR system interacts with other systems used by pharmacies, laboratories, and other healthcare providers is important for comprehensive care coordination.
+
+7.  **Client Access and Education:** Clients often have access to their own records via specific portals. Counselors should know how to educate clients about accessing and understanding their records, including limitations and benefits.
+
+8.  **Billing and Coding:** EHRs are often used for billing purposes. Counselors should be familiar with the relevant billing codes and documentation requirements to ensure that services are properly recorded and reimbursed.
+
+9.  **Audit Trails:** Understanding how EHRs track user access and changes to records (audit trails) is important for legal and ethical reasons. This feature can be vital in cases where there is a question about who accessed or altered patient information.
+
+10. **Technological Challenges:** Technical aspects, such as the integration of systems, maintaining infrastructure, and handling diverse systems, are crucial considerations. Counselors should be proficient in the technology used and aware of the limitations and challenges it may present.
+
+Effective use of EHRs in behavioral health care requires a balance of technical knowledge, ethical practice, and awareness of legal requirements, all aimed at providing the best possible care for clients while maintaining their privacy and security.

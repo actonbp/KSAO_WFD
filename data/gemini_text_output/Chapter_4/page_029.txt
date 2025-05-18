@@ -1,0 +1,52 @@
+CHAPTER 4: Evidence-based Screening 181
+
+There may already be existing information about the client that has been gathered and recorded by other
+professionals. Written reports and records from schools, employers, previous treatment experiences, and
+criminal justice agencies also contain information that may be relevant to the client’s substance use problems.
+Interviews may be conducted to get current information to supplement written records. In addition to the
+client, other possible informants include parents, teachers, peers, employers, and significant others (referred
+to as collateral sources). Of course, collateral sources, including parents, spouses, and other family members,
+cannot be contacted for information without the client’s written consent. Finally, testing instruments, including
+drug testing, can be used to verify or confirm information collected by other methods. Screeners and assessors
+must use multiple sources in conjunction with a client report because relying on any one source may lead to an
+underestimate or overestimate of the problem.
+
+Previous treatment or other service records may be the most *objective* source of information that is obtained
+during the assessment since these records have been completed by professionals who have been trained in
+behavioral health services and who do not have an emotional investment in the perspective they present. It is
+important to realize that some of the information received in this way may not be timely or may no longer be
+accurate. Care should be taken to confirm that any information gathered from existing records is still valid
+before relying on it to make treatment recommendations.
+
+**Evidence-based Assessments**
+
+As noted earlier, the use of evidence-based assessment instruments helps to bolster the reliability of client self-
+reports.
+
+[Image: A small, indistinct graphic, possibly a stylized logo or symbol, appears in the center of the page, below the text "As noted earlier, the use of evidence-based assessment instruments helps to bolster the reliability of client self-reports." and above the black text box. It looks like a small, abstract, black ink drawing.]
+
+[Layout: The following text is within a black rectangular box with white text.]
+
+**Widely Used Evidence-based Assessment Instruments for SUDs**
+
+The **GAIN-I, or Global Appraisal of Individual Needs - Initial,** is a comprehensive biopsychosocial assessment
+tool designed to evaluate the various life areas of individuals, particularly focusing on substance use and
+related issues. The GAIN-I is a proprietary instrument that is part of a family of instruments that facilitate
+the diagnosis, treatment planning, and outcome monitoring of individuals with complex behavioral health
+needs. The tool is structured to allow for a systematic collection of data over a person’s lifetime as well as in
+the past 90 days, ensuring that both historical and current needs are assessed. The assessment covers areas
+such as:
+
+1.  **Substance Use:** Evaluates the frequency, duration, and intensity of alcohol, drug, and tobacco use.
+2.  **Physical Health:** Assesses health status, physical conditions, and related needs.
+3.  **Mental Health:** Screens for symptoms of common MHDs, including depression, anxiety, trauma, and
+    psychotic disorders.
+4.  **Risk Behaviors:** Identifies behaviors that increase the risk of harm to self or others.
+5.  **Environmental and Social Support:** Looks at living conditions, social networks, and support systems.
+6.  **Legal:** Reviews legal issues and involvement with the criminal justice system.
+7.  **Vocational:** Assesses employment status, history, and educational needs.
+
+The GAIN-I generates several types of scores that inform treatment planning, including severity indices
+for each main domain, which help in prioritizing treatment needs and interventions. It is designed to be
+administered by trained professionals through an interview format, and it can take between 1 to 2 hours to
+complete, depending on the respondent’s situation.

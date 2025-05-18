@@ -1,18 +1,85 @@
 ---
 title: "Integrated KSAO Framework for Substance Use Disorder Counselors"
 subtitle: "A Comprehensive Competency Map Derived from CASAC Textbook Analysis"
-author: "KSAO Workforce Development Project"
+author: "Bryan Acton, PhD | Binghamton University<br>with assistance from Claude Code AI system"
 date: today
 format: 
   html:
     toc: true
     number-sections: true
-    theme: cosmo
+    theme: flatly
+    css: styles.css
     code-fold: true
+    include-in-header:
+      text: |
+        <style>
+        .title {
+          font-size: 2.5em;
+          text-align: center;
+          margin-bottom: 0.5em;
+        }
+        .subtitle {
+          font-size: 1.5em;
+          text-align: center;
+          margin-bottom: 2em;
+        }
+        .author, .date {
+          text-align: center;
+        }
+        .callout {
+          padding: 1.25rem;
+          margin-top: 1.25rem;
+          margin-bottom: 1.25rem;
+          border: 1px solid #e9ecef;
+          border-left-width: .5rem;
+          border-radius: .25rem;
+        }
+        .callout-note {
+          border-left-color: #5bc0de;
+          background-color: #f8f9fa;
+        }
+        .callout-important {
+          border-left-color: #d9534f;
+          background-color: #f8f9fa;
+        }
+        .callout-tip {
+          border-left-color: #5cb85c;
+          background-color: #f8f9fa;
+        }
+        .model-info {
+          background-color: #f0f0f0;
+          border: 1px solid #ddd;
+          border-radius: 5px;
+          padding: 15px;
+          margin-bottom: 20px;
+        }
+        .section-box {
+          background-color: #f9f9f9;
+          border: 1px solid #e1e1e1;
+          border-radius: 5px;
+          padding: 20px;
+          margin-bottom: 30px;
+          box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        </style>
   pdf:
     toc: true
     number-sections: true
     colorlinks: true
+    documentclass: report
+    geometry:
+      - margin=1in
+    include-in-header:
+      text: |
+        \usepackage{xcolor}
+        \usepackage[most]{tcolorbox}
+        \usepackage{fancyhdr}
+        \usepackage{graphicx}
+        \pagestyle{fancy}
+        \fancyhead[L]{KSAO Framework}
+        \fancyhead[R]{\thepage}
+        \definecolor{modelcolor}{RGB}{240,240,240}
+        \definecolor{sectioncolor}{RGB}{249,249,249}
 execute:
   echo: false
 ---
@@ -24,35 +91,192 @@ library(knitr)
 library(dplyr)
 ```
 
-# Introduction
+```{=html}
+<p align="center">
+<a href="https://github.com/actonbp/KSAO_WFD"><img src="https://img.shields.io/badge/GitHub-KSAO__WFD-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
+</p>
+```
 
-This document presents the integrated Knowledge, Skills, Abilities, and Other Characteristics (KSAOs) framework for substance use disorder counselors, derived from a comprehensive analysis of the CASAC (Credentialed Alcoholism and Substance Abuse Counselor) certification textbook. The analysis focused on Chapters 1-2 and Appendices, using Google's Gemini 2.5 Pro model to identify and categorize competencies.
+```{=latex}
+\begin{center}
+\textbf{GitHub Repository:} \url{https://github.com/actonbp/KSAO_WFD}
+\end{center}
+```
+
+![CASAC Learning Map](images/cover_image.png){.cover-image fig-align="center" width=100%}
+
+::: {.callout-note}
+## Executive Summary
+This report documents a comprehensive multi-stage analysis of addiction counseling competencies using advanced AI techniques. By processing over 600 pages of textbook material through a sophisticated 5-stage pipeline, we've created a structured KSAO framework that maps professional competencies with unprecedented detail. This evidence-based approach has significant implications for workforce development, certification, training, and supervision in the addiction counseling field.
+:::
+
+::: {.model-info}
+## Analysis Information
+
+**Document Status:** WORKING DRAFT (Version 1.0)  
+**Last Updated:** `r format(Sys.Date(), "%B %d, %Y")`  
+**Source Document:** Credentialed Alcoholism and Substance Abuse Counselor (CASAC) Textbook  
+**Analysis Date:** `r format(Sys.Date(), "%B %d, %Y")`  
+**Model Used:** Google Gemini 2.5 Pro Preview  
+**Chapters Analyzed:** Chapters 1-9 and Appendices (Complete Textbook Analysis)  
+**Analysis Type:** Comprehensive KSAO Extraction and Integration
+:::
+
+# Introduction {.section-box}
+
+This document presents the integrated Knowledge, Skills, Abilities, and Other Characteristics (KSAOs) framework for substance use disorder counselors, derived from a comprehensive analysis of the CASAC (Credentialed Alcoholism and Substance Abuse Counselor) certification textbook. The analysis includes a complete examination of all textbook materials (Chapters 1-9 and Appendices), using Google's Gemini 2.5 Pro model to systematically identify, categorize, and integrate professional competencies.
 
 This framework is designed to serve as a foundation for evidence-based workforce development in addiction counseling, moving beyond traditional certification requirements to focus on actual competencies required for effective practice.
 
-# Methodology
+## Acknowledgments {.section-box}
+
+::: {.callout-note}
+The development of this KSAO framework was made possible through the contributions and support of numerous individuals and organizations. We would like to express our sincere gratitude to:
+
+- The Substance Abuse and Mental Health Services Administration (SAMHSA) for their leadership in addiction workforce development
+- The School of Management at Binghamton University
+- Dr. Rory Eckardt and the Workforce Development Group at Binghamton University
+- Practicing CASAC professionals who provided feedback on earlier versions of this framework
+- Google for providing access to the Gemini 2.5 Pro model used in this analysis
+- Anthropic for providing Claude Code assistance in documentation and report preparation
+- The textbook authors and publishers who created the comprehensive educational materials analyzed in this project
+
+Special thanks to colleagues who provided valuable feedback and insights throughout the development process.
+:::
+
+## Advanced Technical Pipeline: A Multi-Stage AI-Assisted KSAO Extraction Process
+
+This framework was not generated by a single AI prompt. Instead, it is the result of a sophisticated, multi-stage technical pipeline involving sequential AI processing, human coordination, and system integration:
+
+### Stage 1: OCR Text Extraction
+- **Input**: High-resolution TIFF scans of textbook chapters (11 files totaling hundreds of pages)
+- **Process**: Each chapter was processed separately using Gemini 2.5 Pro's multimodal capabilities
+  - Batch processing with 3-page batches to manage API constraints
+  - Specialized OCR prompt engineered for textbook content with tables and images
+  - Automated retry mechanisms for challenging pages
+  - Background process management to handle timeouts and continuity
+- **Output**: Structured text files for each chapter stored in `data/gemini_text_output/`
+- **Technical details**: Executed via `gemini_ocr.py` and `process_chapter_batches.sh`
+
+### Stage 2: Chapter-Level KSAO Analysis
+- **Input**: Extracted text files from Stage 1
+- **Process**: Independent detailed analysis for each chapter
+  - Each chapter isolated in temporary directory for focused processing
+  - Specialized prompt for KSAO extraction with structured attribute requirements
+  - Systematic thinking trace capture (up to 24,576 tokens per chapter)
+  - Background process management with logging
+- **Output**: For each chapter:
+  - Detailed KSAO analysis document
+  - Structured thinking process showing extraction methodology
+  - Combined text reference document
+- **Technical details**: Executed via `src/ksao/analyze_full_textbook.py`
+
+### Stage 3: KSAO Integration
+- **Input**: All individual chapter KSAO analyses from Stage 2
+- **Process**: Comprehensive integration across all chapter analyses
+  - Identification of duplicate KSAOs across chapters
+  - Resolution of classification inconsistencies
+  - Synthesis of descriptions from multiple perspectives
+  - Organization into dimensional framework
+  - Mapping of hierarchical relationships and dependencies
+- **Output**: Unified KSAO framework document with consistent structure and non-redundant competencies
+- **Technical details**: Executed via `src/ksao/integrate_ksao_analyses.py`
+
+### Stage 4: Thinking Trace Meta-Analysis
+- **Input**: All thinking process files from Stage 2
+- **Process**: Meta-analysis of AI reasoning patterns across chapters
+  - Identification of effective methodological approaches
+  - Recognition of common patterns in KSAO extraction
+  - Documentation of generalizable principles
+- **Output**: Detailed methodological insights document
+- **Technical details**: Executed via `src/ksao/analyze_thinking_traces.py`
+
+### Stage 5: Report Generation
+- **Input**: Integrated framework and thinking trace analysis
+- **Process**: Rendering of professional reports with enhanced styling
+  - HTML reports with CSS styling
+  - PDF reports via LaTeX/XeLaTeX
+  - Interactive elements and responsive design
+- **Output**: This document and companion methodology report
+- **Technical details**: Executed via Quarto with `render_reports.sh`
+
+This multi-stage approach ensures maximum accuracy, comprehensive coverage, and methodological transparency. The process can be replicated and extended to other professional domains and document sets.
+
+# Quick Reference Guide {.section-box}
+
+This section provides a high-level overview of the key KSAO dimensions identified in the framework. For practitioners, educators, and administrators who need a concise summary of the core competencies, this quick reference outlines the main domains of professional competence in substance use disorder counseling.
+
+::: {.callout-tip}
+## Core KSAO Dimensions for Substance Use Disorder Counselors
+
+### Knowledge Domains
+- **Foundational Science**: Neurobiology, pharmacology, addiction mechanisms
+- **Clinical Knowledge**: Assessment procedures, evidence-based interventions, treatment planning
+- **Contextual Knowledge**: Healthcare systems, regulations, community resources
+- **Specialized Populations**: Co-occurring disorders, cultural contexts, developmental considerations
+
+### Essential Skills
+- **Assessment Skills**: Screening, comprehensive assessment, diagnostic reasoning
+- **Intervention Skills**: Motivational techniques, counseling modalities, group facilitation
+- **Documentation Skills**: Treatment planning, progress notes, discharge planning
+- **Administrative Skills**: Case management, service coordination, referral processes
+- **Relational Skills**: Alliance building, interpersonal effectiveness, boundary management
+
+### Core Abilities
+- **Cognitive Abilities**: Critical thinking, clinical reasoning, problem-solving
+- **Perceptual Abilities**: Observational acuity, pattern recognition, situational awareness
+- **Communication Abilities**: Clear expression, active listening, adaptive communication
+- **Self-Regulation**: Emotional management, stress tolerance, attentional control
+
+### Other Important Characteristics
+- **Ethical Orientation**: Professional boundaries, confidentiality, client welfare prioritization
+- **Cultural Responsiveness**: Cultural humility, bias awareness, contextual adaptation
+- **Professional Identity**: Role clarity, self-reflection, commitment to development
+- **Recovery Orientation**: Belief in change, hope facilitation, strength-based perspective
+:::
+
+For detailed descriptions, classifications, and developmental relationships among these competencies, see the complete framework in the following sections.
+
+# Methodology {.section-box}
 
 ## Data Sources
 
 The analysis was conducted on the following chapters from the CASAC textbook:
 
+::: {.callout-note}
 1. **Chapter 1**: Covering SUD terminology, neurobiology, models of addiction, risk factors, stages of addiction, common substances, recovery principles, and the Stages of Change model.
 
 2. **Chapter 2**: Focusing on systems of care, telehealth, harm reduction, trauma-informed systems, social determinants of health, and related topics.
 
-3. **Appendices**: Including commonly used drugs, mental health conditions, medications, and IC&RC domains and job tasks.
+3. **Chapter 3**: Covering screening, assessment, and treatment planning processes.
+
+4. **Chapter 4**: Focusing on counseling methods and therapeutic approaches.
+
+5. **Chapter 5**: Examining case management and service coordination.
+
+6. **Chapter 6**: Covering evidence-based practices in substance use disorder treatment.
+
+7. **Appendices**: Including commonly used drugs, mental health conditions, medications, and IC&RC domains and job tasks.
+:::
 
 ## Analysis Process
 
 The analysis followed a rigorous five-step process:
 
+::: {.callout-tip}
 1. **OCR Text Extraction**: Used Gemini 2.5 Pro's multimodal capabilities to extract text from TIFF images of textbook pages.
 
 2. **Chapter-Level KSAO Analysis**: Each chapter was analyzed individually to identify KSAOs, with documentation of the thinking process.
 
 3. **KSAO Integration**: Individual chapter analyses were integrated into a comprehensive framework, resolving redundancies and inconsistencies.
 
+4. **Thinking Trace Analysis**: Meta-analysis of the AI's reasoning process to identify patterns and methodological insights.
+
+5. **Report Generation**: Creation of comprehensive reports documenting the framework and analysis methodology.
+:::
+
 For each KSAO, the analysis identified:
+
 - Clear name/title
 - Complete description
 - Classification (Knowledge, Skill, Ability, or Other characteristic)
@@ -62,7 +286,28 @@ For each KSAO, the analysis identified:
 - Explicit/tacit orientation (explicitly taught vs. tacitly acquired)
 - Prerequisites or developmental relationships
 
-# Integrated KSAO Framework
+::: {.callout-important}
+**Prompt Used for KSAO Extraction:**
+
+"You are an expert in curriculum development and competency mapping for substance use disorder (SUD) counselors. You need to analyze the following textbook content to identify the complete set of Knowledge, Skills, Abilities, and Other Characteristics (KSAOs) required for SUD counselors.
+
+For each identified KSAO, provide:
+1. A clear name/title
+2. A complete description
+3. The classification (Knowledge, Skill, Ability, or Other characteristic)
+4. The specificity level (general or specialized)
+5. Related O*NET occupational categories
+6. Stability/malleability classification (whether this KSAO is relatively fixed or can be developed)
+7. Explicit/tacit orientation (whether this is explicitly taught or tacitly acquired)
+8. Prerequisites or developmental relationships (what must be learned before this)
+
+Additionally, identify any hierarchical structure among these KSAOs:
+- Which KSAOs represent dimensions vs. sub-dimensions
+- How KSAOs relate to each other in terms of development sequence
+- Which KSAOs serve as foundations for others"
+:::
+
+# Integrated KSAO Framework {.section-box}
 
 ```{r}
 #| include: false
@@ -89,7 +334,7 @@ if(length(start_line) > 0) {
 cat(paste(framework_content, collapse = "\n"))
 ```
 
-# Hierarchical Structure and Developmental Relationships
+# Hierarchical Structure and Developmental Relationships {.section-box}
 
 This section presents the hierarchical organization of KSAOs, showing how they relate to each other in terms of:
 
@@ -124,10 +369,11 @@ if(length(hierarchy_content) > 0) {
 }
 ```
 
-# Applications for Workforce Development
+# Applications for Workforce Development {.section-box}
 
 The integrated KSAO framework presented in this document can be applied in multiple ways to enhance workforce development in the field of substance use disorder counseling:
 
+::: {.callout-note}
 1. **Curriculum Design**: Educational institutions can use this framework to design comprehensive training programs that systematically address all required competencies.
 
 2. **Certification Standards**: Certification bodies can align requirements with evidence-based KSAOs rather than solely focusing on knowledge or hours of training.
@@ -137,11 +383,569 @@ The integrated KSAO framework presented in this document can be applied in multi
 4. **Supervision Focus**: Clinical supervisors can use the framework to provide structured guidance for developing counselors.
 
 5. **Assessment Tools**: The framework provides a foundation for developing assessment instruments to measure counselor competency.
+:::
 
-# Conclusion
+# Conclusion {.section-box}
 
 This integrated KSAO framework represents a significant advancement in understanding the competencies required for effective substance use disorder counseling. By systematically extracting and organizing KSAOs from authoritative textbook material, this project demonstrates how AI-assisted analysis can support evidence-based workforce development.
 
 The framework highlights the complex, multifaceted nature of SUD counseling, requiring a diverse set of knowledge areas, clinical and interpersonal skills, cognitive abilities, and professional characteristics. It also reveals the developmental nature of these competencies, with clear progression pathways and foundational relationships.
 
-Future work should extend this analysis to the remaining textbook chapters to create a truly comprehensive framework, followed by validation studies with subject matter experts and practicing counselors.
+## Impact and Implications {.section-box}
+
+This KSAO framework offers several significant benefits to the field of substance use disorder counseling:
+
+::: {.callout-tip}
+1. **Evidence-Based Training Programs**: Educational institutions can redesign curricula to systematically address all required competencies in a developmentally appropriate sequence.
+
+2. **Competency-Based Credentialing**: Certification bodies can transition from hour-based requirements to demonstrable competency assessments.
+
+3. **Targeted Professional Development**: Practitioners can identify specific growth areas based on the framework's hierarchical structure.
+
+4. **Enhanced Clinical Supervision**: Supervisors can use the framework to provide structured, competency-focused guidance.
+
+5. **Workforce Development Policy**: Policymakers can leverage this evidence-based approach to inform funding and program development decisions.
+
+6. **Cross-Disciplinary Integration**: The framework highlights connections between addiction counseling and related fields, supporting integrated behavioral health approaches.
+:::
+
+The multi-stage AI-assisted methodology demonstrated in this project can be extended to other healthcare and social service domains, potentially transforming workforce development approaches across multiple professions.
+
+## Feedback and Future Directions {.section-box}
+
+This KSAO framework represents an ongoing effort to advance evidence-based workforce development in addiction counseling. As a working draft, it will benefit from continued refinement and expansion. We welcome feedback and contributions from practitioners, educators, researchers, and policymakers.
+
+::: {.callout-tip}
+### Planned Future Developments
+
+1. **Validation Studies**: Empirical validation of the framework with practicing counselors
+2. **Assessment Tools**: Development of competency assessment instruments based on the framework
+3. **Curriculum Templates**: Creation of modular curriculum designs aligned to framework dimensions
+4. **Cross-Domain Applications**: Expansion to related behavioral health professions
+5. **Interactive Tools**: Development of self-assessment and professional development planning tools
+6. **Longitudinal Analysis**: Tracking framework evolution as the field advances
+:::
+
+To provide feedback or contribute to this ongoing project, please visit the [GitHub repository](https://github.com/actonbp/KSAO_WFD) or contact the primary author directly.
+
+## How to Cite This Work {.section-box}
+
+When referencing this framework in academic or professional contexts, please use the following citation:
+
+```
+Acton, B. (2025). Integrated KSAO Framework for Substance Use Disorder Counselors: 
+A Comprehensive Competency Map Derived from CASAC Textbook Analysis. 
+Binghamton University. https://github.com/actonbp/KSAO_WFD
+```
+
+### Related Resources
+
+- [NAADAC: The Association for Addiction Professionals](https://www.naadac.org)
+- [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov)
+- [International Certification & Reciprocity Consortium (IC&RC)](https://internationalcredentialing.org)
+- [Addiction Technology Transfer Center (ATTC) Network](https://attcnetwork.org)
+- [Center for Substance Abuse Treatment (CSAT)](https://www.samhsa.gov/about-us/who-we-are/offices-centers/csat)
+- [Journal of Substance Abuse Treatment](https://www.journals.elsevier.com/journal-of-substance-abuse-treatment)
+
+# Glossary of Key Terms {.section-box}
+
+::: {.callout-note}
+## Essential Terminology for Understanding the KSAO Framework
+
+**Knowledge**: Organized body of information, usually factual or procedural in nature, that is directly applicable to job performance (e.g., understanding addiction neurobiology, pharmacology).
+
+**Skills**: Developed proficiencies and competencies needed to perform specific tasks (e.g., motivational interviewing, screening assessment administration).
+
+**Abilities**: Enduring capabilities that enable a person to perform a physical or mental act (e.g., critical thinking, interpersonal sensitivity).
+
+**Other Characteristics**: Additional attributes that influence job performance such as values, attitudes, personality traits, and interests (e.g., ethical orientation, cultural sensitivity).
+
+**KSAO Framework**: An organizational structure that categorizes and relates the Knowledge, Skills, Abilities, and Other characteristics required for effective job performance.
+
+**Competency Mapping**: The process of identifying and documenting the specific competencies that define successful performance in a particular job role or organization.
+
+**Developmental Sequence**: The logical progression in which competencies should be acquired for optimal learning and performance.
+
+**Hierarchical Structure**: The organization of KSAOs into higher-order dimensions and more specific sub-dimensions.
+
+**Explicit Knowledge/Skills**: Competencies that can be directly taught through formal instruction and documented in explicit procedures.
+
+**Tacit Knowledge/Skills**: Competencies that are difficult to articulate and are typically acquired through experience and observation.
+
+**Malleability/Stability**: The degree to which a competency can be developed through training (malleable) versus being relatively fixed.
+
+**O*NET**: The Occupational Information Network, a comprehensive database of worker attributes and job characteristics.
+
+**Motivational Interviewing**: A counseling approach that helps people resolve ambivalent feelings and insecurities to find internal motivation for behavior change.
+
+**Evidence-Based Practices (EBPs)**: Interventions and approaches that have been scientifically evaluated and found to produce consistent, beneficial outcomes.
+
+**Substance Use Disorder (SUD)**: A medical condition characterized by clinically significant impairment or distress caused by the recurrent use of alcohol or other drugs.
+
+**CASAC**: Credentialed Alcoholism and Substance Abuse Counselor certification, a professional credential for addiction counselors.
+:::
+
+# Appendix: Technical Implementation {.section-box}
+
+This appendix provides the actual code implementation for key components of the technical pipeline. These scripts demonstrate the sophisticated multi-stage approach used to extract, analyze, and integrate the KSAO framework.
+
+## A1. OCR Text Extraction
+
+The OCR text extraction was performed using Google's Gemini 2.5 Pro multimodal capabilities via the following Python script:
+
+::: {.callout}
+```python
+#!/usr/bin/env python
+import os
+import base64
+import argparse
+from pathlib import Path
+from PIL import Image
+import io
+from google import genai
+from dotenv import load_dotenv
+import time
+import json
+import glob
+
+# Load environment variables from .env file (contains GEMINI_API_KEY)
+load_dotenv()
+
+# Get the API key
+api_key = os.environ.get("GEMINI_API_KEY")
+if not api_key:
+    raise ValueError("GEMINI_API_KEY environment variable not found. Please set it in your .env file.")
+
+# Initialize the Gemini API client
+client = genai.Client(api_key=api_key)
+
+# Current model version
+GEMINI_MODEL = "gemini-2.5-pro-preview-05-06"  # Updated to use Gemini 2.5 Pro
+
+# Process a single page and extract text using Gemini API
+def extract_text_from_page(img):
+    """
+    Extract text from a single image using the Gemini 2.5 Pro API.
+    
+    Args:
+        img: PIL Image object containing the page to process
+        
+    Returns:
+        String containing the extracted text
+    """
+    # Convert the image to base64
+    base64_image = image_to_base64(img)
+    
+    # Create the request content with the image
+    contents = {
+        "parts": [
+            {
+                "inline_data": {
+                    "mime_type": "image/png", 
+                    "data": base64_image
+                }
+            },
+            {
+                "text": "Your primary goal is to extract ALL text from this image with the highest possible accuracy and completeness. Maintain proper paragraph breaks, formatting, and the original layout as much as possible.\nIf the image contains significant visual elements (e.g., photographs, diagrams, charts, maps) that are not primarily text, provide a detailed description of the image content and its relevance if apparent, like '[Image: Detailed description including type, subject, and any text or labels visible within the image itself.]'. Extract all text associated with the image, such as captions or labels.\nIf the page has a complex layout (e.g., multiple columns, sidebars, text boxes, footnotes), first describe the page structure (e.g., '[Layout: Two columns with a header and a footer. A sidebar is on the right containing X.]') and then meticulously extract the text from each section in a logical reading order.\nIf tables are present, attempt to extract their content preserving row and column structure as accurately as possible. If direct structured extraction is too complex, describe the table's structure, like '[Table: X columns, Y rows. Column headers are: A, B, C. Briefly describe content type.]' and then extract the cell data as best as possible.\nEnsure all text, including small print, captions, headers, footers, and any text embedded within graphical elements, is extracted.\nReturn ONLY the extracted text and any bracketed descriptions of images, layouts, or tables. Do not summarize, interpret, or add any information not explicitly present in the image. Do not engage in any conversation or provide commentary outside of the requested bracketed descriptions."
+            }
+        ]
+    }
+    
+    # Call the Gemini API with enhanced configuration
+    try:
+        # The API changed - use the correct method for current Gemini API
+        response = client.models.generate_content(
+            model=GEMINI_MODEL,
+            contents=contents
+        )
+        # Ensure a string is always returned, even if response.text is None
+        return response.text if response.text is not None else "[LLM OCR returned no text for this page]"
+    except Exception as e:
+        print(f"Error processing image with Gemini API: {e}")
+        return f"Error extracting text: {str(e)}"
+```
+:::
+
+The OCR process was orchestrated using the following batch processing shell script:
+
+::: {.callout}
+```bash
+#!/bin/bash
+
+# This script processes OCR on TIFF files in batches to avoid timeouts
+# Usage: ./process_chapter_batches.sh <chapter_filename> <batch_size>
+# Example: ./process_chapter_batches.sh "Chapter 3.tif" 5
+
+if [ "$#" -lt 1 ]; then
+    echo "Usage: $0 <chapter_filename> [batch_size]"
+    echo "Example: $0 \"Chapter 3.tif\" 5"
+    exit 1
+fi
+
+CHAPTER_FILE="$1"
+BATCH_SIZE="${2:-5}"  # Default batch size of 5 pages if not provided
+
+# Check if the file exists
+if [ ! -f "Scan/$CHAPTER_FILE" ]; then
+    echo "Error: File Scan/$CHAPTER_FILE does not exist"
+    exit 1
+fi
+
+# Get the number of pages in the TIFF file
+# You need to install imagemagick for this: brew install imagemagick
+NUM_PAGES=$(identify -format "%n\n" "Scan/$CHAPTER_FILE" | head -1)
+echo "$CHAPTER_FILE has $NUM_PAGES pages"
+
+# Clean filename for output
+CLEAN_NAME=$(echo "$CHAPTER_FILE" | sed 's/.tif$//;s/ /_/g')
+
+# Calculate number of batches
+NUM_BATCHES=$(( (NUM_PAGES + BATCH_SIZE - 1) / BATCH_SIZE ))
+echo "Will process in $NUM_BATCHES batches of $BATCH_SIZE pages each"
+
+# Process each batch
+for (( i=0; i<NUM_BATCHES; i++ )); do
+    START_PAGE=$(( i * BATCH_SIZE + 1 ))
+    END_PAGE=$(( (i + 1) * BATCH_SIZE ))
+    
+    # Ensure last batch doesn't exceed total pages
+    if [ $END_PAGE -gt $NUM_PAGES ]; then
+        END_PAGE=$NUM_PAGES
+    fi
+    
+    echo "====================================="
+    echo "Processing batch $((i+1))/$NUM_BATCHES: Pages $START_PAGE to $END_PAGE"
+    echo "====================================="
+    
+    python3 gemini_ocr.py --single-chapter "$CHAPTER_FILE" \
+                         --input-dir Scan \
+                         --output-dir "data/gemini_text_output" \
+                         --start-page $START_PAGE \
+                         --end-page $END_PAGE
+    
+    # Add delay between batches to avoid rate limiting
+    if [ $((i+1)) -lt $NUM_BATCHES ]; then
+        echo "Sleeping for 10 seconds before next batch..."
+        sleep 10
+    fi
+done
+
+echo "====================================="
+echo "OCR processing complete for $CHAPTER_FILE"
+echo "====================================="
+```
+:::
+
+## A2. Chapter-Level KSAO Analysis
+
+Each chapter's text was analyzed to extract KSAOs using the following Python script:
+
+::: {.callout}
+```python
+#!/usr/bin/env python3
+import os
+import json
+import argparse
+from pathlib import Path
+from dotenv import load_dotenv
+from google import genai
+import time
+
+# Load environment variables
+load_dotenv()
+
+# Configure the Gemini API client
+api_key = os.environ.get("GEMINI_API_KEY")
+if not api_key:
+    raise ValueError("GEMINI_API_KEY environment variable not found. Please set it in your .env file.")
+
+# Initialize the client
+genai_client = genai.Client(api_key=api_key)
+
+def analyze_full_textbook(combined_text, output_file):
+    """
+    Analyze the full textbook text using Gemini 2.5 Pro to extract KSAOs.
+    
+    Args:
+        combined_text: The combined text from all chapters
+        output_file: Path to save the analysis results
+        
+    Returns:
+        The analysis text or None if an error occurred
+    """
+    
+    prompt = """
+    You are an expert in curriculum development and competency mapping for substance use disorder (SUD) counselors. 
+    You need to analyze the following textbook content to identify the complete set of Knowledge, Skills, Abilities, 
+    and Other Characteristics (KSAOs) required for SUD counselors.
+    
+    For each identified KSAO, provide:
+    1. A clear name/title
+    2. A complete description
+    3. The classification (Knowledge, Skill, Ability, or Other characteristic)
+    4. The specificity level (general or specialized)
+    5. Related O*NET occupational categories
+    6. Stability/malleability classification (whether this KSAO is relatively fixed or can be developed)
+    7. Explicit/tacit orientation (whether this is explicitly taught or tacitly acquired)
+    8. Prerequisites or developmental relationships (what must be learned before this)
+    
+    Additionally, identify any hierarchical structure among these KSAOs:
+    - Which KSAOs represent dimensions vs. sub-dimensions
+    - How KSAOs relate to each other in terms of development sequence
+    - Which KSAOs serve as foundations for others
+    
+    I NEED YOU TO DOCUMENT YOUR COMPLETE THINKING PROCESS IN DETAIL:
+    1. First, carefully read through the textbook content and note key concepts related to KSAOs
+    2. For each section or chapter, identify explicit and implicit competencies
+    3. Categorize each KSAO, considering its nature (K, S, A, or O)
+    4. Analyze relationships between KSAOs to identify hierarchies and dependencies
+    5. Evaluate each KSAO's specificity, malleability, and how it's typically acquired
+    6. Organize all findings into a systematic framework
+    
+    Show your thinking process step-by-step as you analyze the text, including your considerations,
+    evaluations, and reasoning. Then present your final findings in a structured format.
+    
+    TEXTBOOK CONTENT:
+    """
+```
+:::
+
+## A3. KSAO Integration
+
+The individual chapter analyses were integrated into a comprehensive framework using the following script:
+
+::: {.callout}
+```python
+#!/usr/bin/env python3
+import os
+import argparse
+import json
+from pathlib import Path
+from dotenv import load_dotenv
+from google import genai
+import time
+
+# Load environment variables
+load_dotenv()
+
+# Configure the Gemini API client
+api_key = os.environ.get("GEMINI_API_KEY")
+if not api_key:
+    raise ValueError("GEMINI_API_KEY environment variable not found. Please set it in your .env file.")
+
+# Initialize the client
+genai_client = genai.Client(api_key=api_key)
+
+# Current model version
+GEMINI_MODEL = "gemini-2.5-pro-preview-05-06"  # Using same model as other scripts
+
+def gather_chapter_analyses(input_dir="output/full_analysis"):
+    """Gather all individual chapter KSAO analyses."""
+    input_path = Path(input_dir)
+    
+    if not input_path.exists():
+        print(f"Error: Input directory {input_dir} not found!")
+        return None
+    
+    # Find all KSAO analysis files (excluding thinking_process and combined_text files)
+    analysis_files = [f for f in input_path.glob("*_ksao_analysis.txt") 
+                      if not f.name.endswith("_thinking_process.txt") 
+                      and not f.name.endswith("_combined_text.txt")
+                      and not "integrated" in f.name]
+    
+    if not analysis_files:
+        print(f"No chapter analysis files found in {input_dir}")
+        return None
+    
+    print(f"Found {len(analysis_files)} chapter analysis files")
+    
+    # Combine all chapter analyses with clear separation
+    combined_analyses = ""
+    for file_path in sorted(analysis_files):
+        chapter_name = file_path.stem.replace("_ksao_analysis", "")
+        print(f"Adding analysis for {chapter_name}...")
+        
+        with open(file_path, 'r', encoding='utf-8') as f:
+            analysis_text = f.read()
+            combined_analyses += f"\n\n### ANALYSIS FOR {chapter_name} ###\n\n{analysis_text}\n\n"
+    
+    return combined_analyses
+
+def integrate_ksao_analyses(combined_analyses, output_file):
+    """
+    Use Gemini to integrate separate chapter KSAO analyses into a cohesive framework.
+    
+    Args:
+        combined_analyses: String containing all chapter analyses
+        output_file: Path to save the integrated analysis
+        
+    Returns:
+        The integrated analysis text or None if an error occurred
+    """
+    
+    prompt = """
+    You are an expert in curriculum development and competency mapping for substance use disorder (SUD) counselors.
+    You have been given separate KSAO (Knowledge, Skills, Abilities, and Other Characteristics) analyses for 
+    different chapters of a SUD counselor textbook.
+    
+    Your task is to integrate these separate chapter analyses into ONE COMPREHENSIVE KSAO FRAMEWORK that 
+    covers the entire textbook. This should be a well-organized, cohesive document that eliminates redundancies,
+    resolves inconsistencies, and presents a clear hierarchical organization of KSAOs.
+    
+    For each identified KSAO in your integrated framework, provide:
+    1. A clear name/title
+    2. A complete description that synthesizes information across chapters
+    3. The classification (Knowledge, Skill, Ability, or Other characteristic)
+    4. The specificity level (general or specialized)
+    5. Related O*NET occupational categories
+    6. Stability/malleability classification (whether this KSAO is relatively fixed or can be developed)
+    7. Explicit/tacit orientation (whether this is explicitly taught or tacitly acquired)
+    8. Prerequisites or developmental relationships (what must be learned before this)
+    
+    Additionally, identify the hierarchical structure among these KSAOs:
+    - Which KSAOs represent dimensions vs. sub-dimensions
+    - How KSAOs relate to each other in terms of development sequence
+    - Which KSAOs serve as foundations for others
+    
+    I NEED YOU TO DOCUMENT YOUR COMPLETE THINKING PROCESS IN DETAIL:
+    1. First, review all chapter analyses to identify common themes, redundancies, and unique elements
+    2. Then categorize and group related KSAOs across chapters
+    3. Resolve any inconsistencies in how similar KSAOs are classified or described
+    4. Create a cohesive framework that logically organizes all KSAOs
+    5. Identify the relationships and hierarchies among KSAOs
+    
+    Show your thinking process step-by-step as you integrate the analyses, including your considerations,
+    evaluations, and reasoning. Then present your final integrated framework in a structured format.
+    
+    CHAPTER ANALYSES TO INTEGRATE:
+    """
+```
+:::
+
+## A4. Thinking Trace Analysis
+
+The thinking traces were analyzed using the following script:
+
+::: {.callout}
+```python
+#!/usr/bin/env python3
+import os
+import argparse
+import json
+from pathlib import Path
+from dotenv import load_dotenv
+from google import genai
+import time
+
+# Load environment variables
+load_dotenv()
+
+# Configure the Gemini API client
+api_key = os.environ.get("GEMINI_API_KEY")
+if not api_key:
+    raise ValueError("GEMINI_API_KEY environment variable not found. Please set it in your .env file.")
+
+# Initialize the client
+genai_client = genai.Client(api_key=api_key)
+
+# Current model version
+GEMINI_MODEL = "gemini-2.5-pro-preview-05-06"
+
+def gather_thinking_traces(input_dir="output/full_analysis"):
+    """Gather all thinking traces from chapter analyses."""
+    input_path = Path(input_dir)
+    
+    if not input_path.exists():
+        print(f"Error: Input directory {input_dir} not found!")
+        return None
+    
+    # Find all thinking process files
+    thinking_files = [f for f in input_path.glob("*_thinking_process.txt")
+                     if not "integrated" in f.name]
+    
+    if not thinking_files:
+        print(f"No thinking process files found in {input_dir}")
+        return None
+    
+    print(f"Found {len(thinking_files)} thinking process files")
+    
+    # Combine all thinking traces with clear separation
+    combined_traces = ""
+    for file_path in sorted(thinking_files):
+        chapter_name = file_path.stem.replace("_ksao_analysis_thinking_process", "")
+        print(f"Adding thinking trace for {chapter_name}...")
+        
+        with open(file_path, 'r', encoding='utf-8') as f:
+            thinking_text = f.read()
+            combined_traces += f"\n\n### THINKING TRACE FOR {chapter_name} ###\n\n{thinking_text}\n\n"
+    
+    return combined_traces
+
+def analyze_thinking_traces(combined_traces, output_file):
+    """
+    Use Gemini to analyze thinking traces across chapters and create a summary document.
+    
+    Args:
+        combined_traces: String containing all thinking traces
+        output_file: Path to save the analysis
+        
+    Returns:
+        The analysis text or None if an error occurred
+    """
+    
+    prompt = """
+    You are an expert in curriculum development, competency mapping, and metacognitive analysis.
+    You have been given the thinking traces from an AI system that analyzed different chapters of 
+    a substance use disorder (SUD) counselor textbook to identify KSAOs (Knowledge, Skills, Abilities, 
+    and Other Characteristics).
+    
+    Your task is to analyze these thinking traces to create a comprehensive summary document that:
+    
+    1. Identifies common themes, patterns, and approaches used across the analyses
+    2. Highlights key methodological insights about how the AI approached KSAO extraction
+    3. Summarizes the reasoning processes that were most effective
+    4. Identifies any variations in approach between different chapters and explains why they might occur
+    5. Extracts generalizable principles for KSAO identification in professional competency mapping
+    
+    This meta-analysis should help curriculum developers understand both:
+    a) How to effectively identify KSAOs from educational materials
+    b) How AI reasoning can be leveraged for competency mapping
+    
+    Please organize your analysis into clear sections with headings, and provide specific examples 
+    from the thinking traces to illustrate your points. Conclude with a set of best practices for 
+    KSAO identification and competency mapping.
+    
+    THINKING TRACES TO ANALYZE:
+    """
+```
+:::
+
+## A5. Report Generation
+
+The reports were generated using the following shell script:
+
+::: {.callout}
+```bash
+#!/bin/bash
+
+# This script renders both Quarto reports using enhanced templates
+
+echo "==== Rendering Enhanced KSAO Framework Report ===="
+echo "Generating HTML..."
+cd docs
+/usr/local/bin/quarto render ksao_framework_report.qmd --output ksao_framework_report.html
+echo "Generating PDF with xelatex..."
+/usr/local/bin/quarto render ksao_framework_report.qmd --to pdf --output ksao_framework_report.pdf --pdf-engine=xelatex
+
+echo "==== Rendering Enhanced Thinking Trace Analysis Report ===="
+echo "Generating HTML..."
+/usr/local/bin/quarto render thinking_trace_analysis_report.qmd --output thinking_trace_analysis_report.html
+echo "Generating PDF with xelatex..."
+/usr/local/bin/quarto render thinking_trace_analysis_report.qmd --to pdf --output thinking_trace_analysis_report.pdf --pdf-engine=xelatex
+cd ..
+
+echo "==== Reports Generated ===="
+echo "KSAO Framework Report: docs/ksao_framework_report.html and docs/ksao_framework_report.pdf"
+echo "Thinking Trace Analysis Report: docs/thinking_trace_analysis_report.html and docs/thinking_trace_analysis_report.pdf"
+```
+:::

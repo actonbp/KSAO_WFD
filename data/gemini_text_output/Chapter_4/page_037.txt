@@ -1,0 +1,52 @@
+CHAPTER 4: Evidence-based Screening 189
+
+Some risk assessment tools are structured instruments designed to predict an outcome of a specific population
+over a particular period. These tools, based on past risk factors, do not consider current situations or
+context. Other tools use structured professional judgment are created by identifying risk factors coupled with
+observations on the part of the professional. These allow for professional judgment when making decisions
+regarding violence risk – which research has recommended as the preferred approach.⁸⁰, ⁸¹
+
+**INTIMATE PARTNER VIOLENCE**
+
+The second type of risk assessment is for **intimate partner violence (IPV).** IPV is a pervasive issue that involves
+physical, sexual, psychological harm, or threats of such harm between intimate partners. This form of violence
+can occur among heterosexual or same-sex couples and does not require sexual intimacy. The perpetrators of
+IPV can be both men and women, although women are more frequently the victims. It is estimated that 41% of
+female-identifying individuals and 26% of male-identifying individuals experience IPV at some point during
+their lives.⁸² IPV is a complex phenomenon that is influenced by multiple factors, including societal, relational,
+and individual aspects. Among the individual factors, problematic substance use is notably linked to IPV, both as
+a risk factor for perpetration and as a consequence of victimization.⁸³
+
+Routine screening in populations without signs or symptoms of abuse could identify abuse not otherwise known,
+prevent future abuse from occurring, and reduce morbidity and mortality. Because of fear, intimidation, and
+lack of support, many individuals do not disclose abuse unless directly questioned, and many who are directly
+questioned will not disclose. Many screening questionnaires are available that could be used in behavioral
+health and primary care settings: ⁸⁴
+
+» **Humiliation, Afraid, Rape, Kick (HARK).** The HARK screening tool is a brief instrument designed to
+identify victims of IPV by asking about specific forms of abuse: humiliation, fear, rape, and physical
+violence. It is concise and allows healthcare providers to quickly assess for IPV without extensive training.
+The HARK has been validated in various settings, showing effectiveness in identifying individuals
+experiencing IPV.
+
+» **Hurt/Insult/Threaten/Scream (HITS).** The HITS instrument is a simple, yet effective tool for screening
+individuals for IPV. It consists of four questions that ask respondents how often their partner hurts,
+insults, threatens, and screams at them. Scores are totaled to indicate the presence of IPV, with higher
+scores suggesting greater severity of abuse. HITS is known for its ease of use.
+
+» **Woman Abuse Screening Tool (WAST).** The WAST is designed to identify women experiencing IPV,
+focusing on both physical and emotional abuse. It comprises eight questions that explore the dynamics
+of the respondent’s relationship, specifically looking at feelings of tension, arguments, and physical
+harm. WAST is notable for its ability to capture the nuance of abusive relationships, providing healthcare
+providers with a comprehensive view of the respondent’s situation.
+
+» **Abuse Assessment Screen (AAS).** The AAS is a widely used screening instrument specifically designed
+to identify cases of IPV and abuse. It consists of a series of questions that inquire about physical, sexual,
+and emotional abuse, both currently and in the past year. The AAS has been validated across diverse
+populations and settings, demonstrating its effectiveness in identifying victims of IPV.
+
+» **Conflict Tactics Scales (CTS2).** The revised Conflict Tactics Scales (CTS2) measure the extent and
+severity of partner violence, including psychological aggression and physical assault. The scales have
+been used on participants from diverse cultural backgrounds, including African Americans and Hispanic
+Americans, in over 20 different countries and they have been translated into at least 15 different
+languages.⁸⁵

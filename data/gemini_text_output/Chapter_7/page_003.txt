@@ -1,0 +1,28 @@
+[Layout: Single column with a header. A sidebar is on the right containing text.]
+
+CHAPTER 7: Case Management and Collaboration 315
+
+**RATIONALE, PURPOSE, AND PROCEDURES OF CASE MANAGEMENT**
+
+Multiple developments in healthcare and behavioral health services are expanding the use of case management. These include:²
+» More emphasis on medical and behavioral health integration, which creates a need for coordination of services—a need that case managers can fulfill.
+» Greater use of screening, brief intervention, and referral to treatment (SBIRT) tools in care settings, which can involve case managers in implementation, follow-up, and coordination of care.
+» Growing adoption of reimbursement for care coordination and case management services by federal and state funders and other insurers.
+» The development of health information technology solutions that facilitate care coordination and client-centered care.
+» Increased use of peer recovery support specialists, who can cost-effectively extend the services of case managers by guiding people in SUD treatment on their journey through recovery-oriented systems of care.
+» Recent changes to the federal regulations governing the confidentiality of SUD client records which make it easier to use information in such records for case management and care coordination activities.
+
+The definition of case management varies by setting, but in general terms it is a coordinated, individualized approach that links clients with appropriate services to address their specific needs and help them achieve their stated goals. Case management for people with SUDs has been found to be effective because it helps them stay in treatment and recovery. Also, by concurrently addressing other needs, it allows them to focus on SUD treatment.³
+
+A more expansive definition is:
+“Case Management is a collaborative process of assessment, planning, facilitation, care coordination, evaluation and advocacy for options and services to meet an individual’s and family’s comprehensive health needs through communication and available resources to promote client safety, quality of care, and cost-effective outcomes.”⁴
+
+Case management as a way of helping people has a long and rich history. Over the last thirty-five years, the term **case management** has been widely applied to describe a process or method of service delivery and a set of roles assumed by service providers. Case management approaches have been used in medical or health care facilities with: individuals with mental health, substance use, and other chronic health conditions; individuals with developmental disabilities; individuals, families and children in the child welfare or criminal justice systems; and other populations at risk.
+
+Case management provides a central contact to coordinate and manage the referrals and resources associated with each case. Case managers coordinate a variety of services designed to improve the client’s overall safety and quality of care.⁶ The client is the central focus with the goal of assisting them with navigating through community-based programs and services. This is achieved through linking the client with resources, providing the client with education and skills, and advocating on the client’s behalf. Case managers work in collaboration with other service providers to identify areas where the client’s resources are not currently meeting their physical, emotional, legal, or financial needs.
+
+[Sidebar]
+**Care Coordination vs. Case Management⁵**
+
+Care coordination also encompasses the activities and tasks included in case management but is seen in a broader programmatic context and frequently is discussed at the population health level as a means for an organization or institution to manage the many needs of a population of patients/clients, often by determining specific, high need sub-groups who should receive case management services.
+[/Sidebar]

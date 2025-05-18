@@ -1,0 +1,49 @@
+[Layout: Two columns with a header. The header contains a page number on the left and a title on the right. The main content is a list of numbered references, split across two columns.]
+
+212 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+25 SAMHSA (2014). *Trauma-informed care in behavioral health services.* Treatment Improvement Protocol (TIP) Series 57. HHS Publication No. (SMA) 13-4801. Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+26 Ibid.
+
+27 National Alliance on Mental Illness (NAMI, 2016). *Engagement: A new standard for mental health care.* Author.
+
+28 Thompson, S., Bender, K., Lantry, J., & Flynn, P. (2007). Treatment engagement: Building therapeutic alliance in home-based treatment with adolescents and their families. *Contemporary Family Therapy, 29*, 39–55. https://doi.org/10.1007/S10591-007-9030-6.
+
+29 Hamilton, S., Pinfold, V., Cotney, J. et al. (2016). Qualitative analysis of mental health service users’ reported experiences of discrimination. *Acta Psychiatrica Scandinavica, 134*(suppl 446):14–22.
+
+30 Knaak, S., Mantler, E. & Szeto, A. (2017). Mental illness-related stigma in health care: Barriers to access and care and evidence-based solutions. *Health care Management Forum, 30*(2) 111–116.
+
+31 SAMHSA (2014). *Improving cultural competence.* Treatment Improvement Protocol (TIP) Series No. 59. HHS Publication No. (SMA) 14-4849. Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+32 Cline, C. A. & Minkoff, K. (2012). Inspiring a welcoming hopeful culture. In Hunter McQuistion, Wesley E. Sowers, Jules M. Ranz, and Jacqueline Maus Feldman (Eds.), *Handbook of Community Psychiatry*, pp. 93–102. New York, NY: Springer.
+
+33 Kilian, C., Manthey, J., Carr, S., Hanschmidt, F., Rehm, J., Speerforck, S., & Schomerus, G. (2021). Stigmatization of people with alcohol use disorders: An updated systematic review of population studies. *Alcoholism, Clinical and Experimental Research, 45*(5), 899–911. https://doi.org/10.1111/acer.14598
+
+34 Link, B. G. & Phelan, J. C. (2001). Conceptualizing stigma. *Annual Review of Sociology, 27*, 363–385. https://doi.org/10.1146/annurev.soc.27.1.363
+
+35 Yang, L. H., Wong, L. Y., Grivel, M. M., & Hasin, D. S. (2017). Stigma and substance use disorders: An international phenomenon. *Current Opinion in Psychiatry, 30*(5), 378–388. https://doi.org/10.1097/YCO.0000000000000351
+
+36 Maurage, P., Joassin, F., Philippot, P., Heeren, A., Vermeulen, N., et.al (2012). Disrupted regulation of social exclusion in alcohol-dependence: An fMRI study. *Neuropsychopharmacology, 37*(9), 2067–2075. https://doi.org/10.1038/npp.2012.54
+
+37 Yang, L. H., Wong, L. Y., Grivel, M. M., & Hasin, D. S. (2017). Stigma and substance use disorders: An international phenomenon. *Current Opinion in Psychiatry, 30*(5), 378–388. https://doi.org/10.1097/YCO.0000000000000351
+
+38 Matthews, S., Dwyer, R., & Snoek, A. (2017, Jun.). Stigma and self-stigma in addiction. *Journal of Bioethical Inquiry, 4*(2), 275–286. doi: 10.1007/s11673-017-9784-y.
+
+39 Borenstein, J. (2020). Stigma, prejudice and discrimination against people with mental illness. American Psychiatric Association. https://www.psychiatry.org/patients-families/stigma-and-discrimination
+
+40 ONDCP (2017). Changing the language of addiction. Executive Office of the White House, Office of National Drug Control Policy.
+
+41 Hweng, J. D. & Hollingshead, K. (2016). Crazy mad nutters: The language of mental health. Proceedings of the 3rd Workshop on Computational Linguistics and Clinical Psychology: From Linguistic Signal to Clinical Reality, pages 52–62, San Diego, CA. Retrieved from http://www.aclweb.org/anthology/W16-0306.
+
+42 The Greater Good Science Center at the University of California, Berkeley (2023). What is empathy? https://greatergood.berkeley.edu/topic/empathy/definition#what-is-empathy
+
+43 Guidi, C., and Traversa, C. (2021). Empathy in patient care: from ‘Clinical Empathy’ to ‘Empathic Concern’. *Medical Health Care and Philosophy, 24*, 573–585. https://doi.org/10.1007/s11019-021-10033-4
+
+44 SAMHSA (2019). *TIP 35: Enhancing motivation for change in substance use disorder treatment.* SAMHSA Publication No. PEP19-02-01-003. Rockville, MD: Substance Abuse and Mental Health Services Administration. https://store.samhsa.gov/sites/default/files/tip-35-pep19-02-01-003.pdf
+
+45 Moudatsou, M., Stavropoulou, A., Philalithis, A., & Koukouli. S. (2020). The role of empathy in health and social care professionals. *Healthcare (Basel), 8*(1), 26. doi: 10.3390/healthcare8010026. PMID: 32019104; PMCID: PMC7151200. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7151200/#B17-healthcare-08-00026
+
+46 English, W., Gott, M. & Robinson, J. (2022) The meaning of rapport for patients, families, and healthcare professionals: A scoping review. *Patient Education and Counseling, 105*(1), 2–14. ISSN 0738-3991, https://doi.org/10.1016/j.pec.2021.06.003.
+
+47 Ramadhani, L., Karneli, Y. & Hariko, K. (2024). The dance of empathy and understanding: Nurturing rapport in the counselor-client connection. *Jurnal Bimbingan dan Konseling Terapan, 8*(1). https://ojs.unpatti.ac.id/index.php/bkt/article/view/1895

@@ -1,0 +1,19 @@
+296 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+[Layout: Single column page. A header with page number and title. Below the header is a table spanning the width of the page. The table has 5 columns and 4 rows (1 header row, 3 data rows).]
+
+[Table: 5 columns, 4 rows. Column headers are: MEDICATION, HOW IT'S TAKEN, WHY IT WORKS, SIDE EFFECTS, CONSIDERATIONS. The table lists information about different medications used in alcohol and drug counseling.]
+
+**MEDICATION** | **HOW IT'S TAKEN** | **WHY IT WORKS** | **SIDE EFFECTS** | **CONSIDERATIONS**
+---|---|---|---|---
+**Buprenorphine** | Tablet dissolved under the tongue or film dissolved under the tongue or against the inside of the cheek. Taken once daily, every other day, or 3 times a week. It also comes as an implant that lasts 6 months or as an injection that lasts 1 month. | Partially activates the opioid receptor. Reduces craving and blocks the euphoric effect of opioids. | Can cause constipation, headache, nausea, insomnia, excessive sweating, or opioid withdrawal. Overdose is possible but less likely than with methadone. Overdose death risk increases if buprenorphine is taken with alcohol or intravenously in combination with benzodiazepines or other CNS depressants. Neonatal abstinence syndrome (NAS) | Less sedating than methadone. Prescribers måust have a special SAMHSA waiver but don’t need to be part of a federally certified OTP. Can be prescribed through pharmacies or provided via OTPs.
+
+The implant and injection can only be prescribed by waivered providers who have completed REMS training.
+**Methadone** | Liquid or tablet once daily. Dose may be divided for twice-daily dosing if medically necessary. | Fully activates the opioid receptor. Reduces craving and blocks the euphoric effect of opioids. | Can cause constipation, sleepiness, sweating, swelling of hands and feet, sexual dysfunction, heart arrhythmias, low blood pressure, fainting, and substance misuse.
+
+Can cause overdose •. • death if increased too rapidly, taken in a much higher than usual dose, or taken concurrently with some substances and medications, particularly CNS depressants such as alcohol or benzodiazepines. Neonatal abstinence syndrome (NAS) | Initially requires visits 6 to 7 times per week to an OTP. Patients can decrease attendance gradually based on time in treatment and clinical stability.
+**Naltrexone** | Daily tablet (can also be taken 3 times a week) or monthly injection in buttock. | Occupies the opioid receptors. Reduces craving and blocks the euphoric effect of opioids. | Can cause nausea, headache, dizziness, fatigue, liver toxicity, depression and suicidality, muscle cramps, fainting, and loss of or decreased appetite or other appetite disorders; in the extended-release injectable formulation, can cause pain, swelling, and other complications at the injection site.
+
+Client must complete withdrawal and stay opioid abstinent for at least 7 days before starting naltrexone and longer (e.g., 10 or more days) for long-acting opioids, such as methadone. | Tablets are rarely effective.
+
+Monthly injections are more effective than tablets.

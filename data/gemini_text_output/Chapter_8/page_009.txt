@@ -1,0 +1,35 @@
+[Layout: Single column page with a header and page number. The main content is a title followed by an introductory paragraph and a numbered list with sub-bullets.]
+
+CHAPTER 8: Documentation 345
+
+**TYPES OF DOCUMENTATION**
+
+Documentation requirements vary based on the intensity and complexity of services delivered. While the guidelines for documentation may differ, most of the information identified below is fairly consistent across diverse organizations and services and from state to state. Agency-specific required information should be part of the SUD counselor’s orientation to job specific duties and responsibilities. Several areas of documentation have been addressed in earlier chapters in this study guide; however, these areas will also be summarized in this chapter for completeness.
+
+Documentation typically occurs in the following areas:
+
+**1. Client Administrative Information:**
+    > **Personal information:** client information, including name, age, contact details, and emergency contacts
+    > **Financial:** eligibility, ability to pay
+    > **Informed consent for services:** forms for releases of information, consent for services, consent for tests (drug test, HIV/AIDs, etc.), signed and dated by client and witness
+    > **Referral reports:** source of referral, reasons for referral, background information and service-related correspondence
+
+**2. Substance Use Screening and Assessment:**
+    > **Screening:** types of screening and results for a variety of conditions (use of specific substances, need for detoxification, etc.) and risk potential (suicide, violence, health considerations, etc.)
+    > **Comprehensive Biopsychosocial Assessment and Summary:**
+        > **Substance use history:** detailed account of substance use, including types of substances, patterns and duration of use, frequency, and quantity
+        > **Medical history:** comprehensive record of the client’s physical health, including past and current illnesses, surgeries, and medications
+        > **Consequences of use:** physical, psychological, social, and legal consequences of substance use
+        > **Psychological profile:** assessment of mental health history, current psychological status, and any co-occurring mental health disorders
+        > **Initial recommendations for treatment and ancillary services:** types of treatment interventions, medical, social, legal, vocational, etc.
+        > **Personal Preferences:** client’s preferences for services, cultural considerations
+
+**3. Treatment Plans, Strategies, and Interventions:**
+    > **Detoxification Plan:** If applicable, protocols for safely managing withdrawal symptoms
+    > **Comprehensive Treatment Plan**
+        > **Short-term goals and objectives:** immediate objectives focused on stabilization and harm reduction
+        > **Long-term goals and objectives:** broader, long-term aspirations aimed at sustained recovery and community reintegration
+        > **Diagnosis and Levels of Care:** DSM 5-TR diagnosis, appropriate level of care and setting
+        > **Therapeutic Interventions:** outline of therapeutic approaches and service types
+    > **Pharmacotherapy/Medication-Assisted Treatments:** details of any medication prescribed, dosage, and monitoring plans
+    > **Relapse Prevention:** strategies to identify and manage triggers, cravings, and high-risk situations and prevent a recurrence of substance use

@@ -1,0 +1,1124 @@
+Okay, this is a comprehensive task. I will proceed step-by-step, documenting my thinking as I analyze the provided textbook chapter on "Professional, Ethical and Legal Responsibilities" for SUD counselors.
+
+**My Overall Approach:**
+
+1.  **First Pass - Reading and Initial Annotation:** Read through the entire chapter, highlighting phrases and sentences that suggest a knowledge, skill, ability, or other characteristic. I'll make quick notes in the margin (metaphorically).
+2.  **Second Pass - KSAO Identification and Extraction:** Go through my annotations section by section, formally identifying potential KSAOs. I will try to phrase them clearly.
+3.  **Third Pass - KSAO Detailing:** For each identified KSAO, I will:
+    *   Assign a clear name/title.
+    *   Write a complete description based on the text.
+    *   Classify it as K, S, A, or O.
+    *   Determine its specificity (general or specialized for SUD).
+    *   Suggest related O*NET categories.
+    *   Assess its stability/malleability.
+    *   Determine its explicit/tacit orientation.
+    *   Identify prerequisites or developmental relationships.
+4.  **Fourth Pass - Hierarchical Structure Analysis:** Analyze the relationships between KSAOs, looking for dimensions, sub-dimensions, developmental sequences, and foundational elements.
+5.  **Final Organization and Presentation:** Structure the findings as requested.
+
+Let's begin.
+
+**Step 1: Careful Reading and Note Key Concepts (Simulated First Pass with Annotations)**
+
+*(I will read through the text, and for brevity, I'll summarize the kinds of notes I'd be making mentally or on a scratchpad. I will focus on action verbs, nouns describing expertise, and explicit statements of responsibility or requirement.)*
+
+*   **P. 360 Introduction:**
+    *   "mandates for professional and ethical conduct" -> K: Knowledge of mandates
+    *   "advocates...provide for the right care" -> S: Advocacy; A: Judgment for "right care"
+    *   "protect and defend the rights of their clients" -> S: Rights protection; K: Knowledge of rights
+    *   "advance...outcomes" -> O: Commitment
+    *   "ethical standards...protection of client, professional, profession, community" -> K: Purpose of ethics
+*   **P. 361:**
+    *   "resolving conflicts...agency policies, regulations, statutes, credentialing policies" -> K: Conflict resolution resources
+    *   "knowledgeable about and abide by all laws, regulations, policies, ethical codes" -> K: Legal/Ethical Framework; A: Application of framework
+    *   "responsibility for ethical practice and identifying ethical breaches (self and peers)" -> O: Responsibility; S: Breach identification
+    *   "respond appropriately to...ethical breaches" -> S: Responding to breaches
+    *   "subjective interpretation" in ethics -> A: Ethical reasoning
+    *   "Clear boundaries and communication" -> S: Boundary setting; S: Communication
+    *   "prescribe and prohibit specific behaviors" -> K: Behavioral ethics
+    *   "respect for diversity, cultural humility, ongoing professional development" -> K/S/O for each
+    *   "seek and use appropriate supervision and consultation" -> S: Using supervision/consultation
+    *   "Completing...continuing professional education" -> O: Commitment to CE
+*   **P. 362 Overview of Professional Ethics:**
+    *   "define their own standards" -> K: Profession's role in ethics
+    *   "schooled in ethical decision making" -> S: Ethical decision-making
+*   **P. 363 Ethical Principles (Table):**
+    *   Autonomy, Nonmaleficence, Beneficence, Justice -> K: Knowledge of each principle; S: Application of each principle
+    *   "develop and maintain a high level of knowledge and skills" (under Beneficence) -> O: Commitment to competence
+    *   "adhere to federal and jurisdictionally specific rules and regulations" -> K: Specific SUD laws; S: Adherence
+*   **P. 364 Codes of Ethics:**
+    *   "understand...principles that lie behind...codes" -> A: Principled ethical reasoning
+    *   "reasonable person test (applying common sense)" -> A: Practical judgment
+    *   "familiar with...codes from their state, territory, or tribe" -> K: Jurisdictional codes
+    *   "Foundations of Ethics": "moral values" -> K: Moral basis of ethics
+    *   "Ethical conflicts...contexts: failure to comply, personal dilemmas, moral dilemmas" -> K: Types of ethical conflicts
+*   **P. 365:**
+    *   "mandatory reporting of suspected abuse" -> K: Mandatory reporting laws; S: Reporting skills
+    *   "dual relationship...unethical" -> K: Dual relationships; S: Avoiding them
+    *   "applying the principles of ethical decision-making" -> S: Ethical decision-making
+    *   "moral distress" -> K: Moral distress; A: Recognizing it
+    *   "Moral sense" -> O: Moral integrity/conscience
+    *   "seek supervision or consultation if action 'feels wrong'" -> S: Seeking guidance for ethical uncertainty
+*   **P. 366 Ethical Decision-Making (Table):** -> S: Ethical Decision-Making Process (detailed steps)
+    *   "judgment and critical thinking skills" -> A: Critical thinking; A: Judgment
+    *   "sensitivity to the ethical implications" -> O/A: Ethical sensitivity
+*   **P. 367 Professional Behavior - Competence:**
+    *   "scope of practice" -> K: Scope of practice
+    *   "identify and evaluate duties...inside and outside...scope...refer" -> S: Scope assessment; S: Referral
+    *   "practice within...limitations of...scope as well as their own professional competence" -> O: Practicing within competence; S: Self-assessment of competence
+*   **P. 368 Table - Practice Variations:** -> Illustrates varying KSAO levels based on role, no new KSAOs but implies depth/breadth varies. Mentions clinical eval, diagnosis, tx planning, co-occurring, supervision, screening, relapse prevention, education, counseling, psychoed, service coord, case mgmt. These are core counseling KSAOs, some specialized.
+*   **P. 369:**
+    *   "understanding their strengths and weaknesses" -> S: Self-reflection on competence
+    *   "basic understanding of...SUD, mental health, trauma" -> K: Foundational clinical knowledge
+    *   "understand how personal biases, values, experiences...can enhance...or hinder" -> A/O: Self-awareness of personal factors
+    *   "stay current about...evidence-based practices" -> K: EBP knowledge; O: Commitment to EBP
+*   **P. 369-370 Boundaries:**
+    *   "Knowledge of boundary violations vs. crossings" -> K: Boundaries
+    *   "differentiate between harmful...and helpful..." -> A: Discernment in boundary crossing
+    *   "Dual relationships" (reiteration) -> K/S
+    *   "responsibility of the professional...to set appropriate relationships" -> O: Responsibility for boundaries
+    *   "recognize...violation...inform client...identify solutions" -> S: Addressing boundary violations
+    *   "models clear and appropriate boundaries" -> S: Modeling boundaries
+*   **P. 370 Self-Disclosure:**
+    *   "limit sharing personal information...when...relevant" -> S: Therapeutic self-disclosure
+    *   "monitor how...disclosure affects client" -> S: Assessing impact of self-disclosure
+*   **P. 371 Touch:**
+    *   "attuned to their clients and their own intentions" -> A/S: Client attunement; O: Self-awareness of intent
+    *   "recognize...histories of trauma" -> K: Trauma impact on touch perception
+    *   "invite client to discuss...discomfort...provide safety" -> S: Creating safety for discussing touch
+*   **P. 371 Sexual Relationships:**
+    *   "always improper" -> K: Prohibition of sexual relationships
+*   **P. 372 Recovery Boundaries:**
+    *   "professionals in recovery may be overly focused on replicating their own journey" -> O/A: Self-awareness for counselors in recovery (bias)
+    *   "secure in recovery before engaging" -> O: Personal recovery stability (if applicable)
+    *   "face the ethical dilemma of whether to continue...if relapse" -> A: Managing personal relapse ethically
+    *   "Appropriate steps to transition client" -> S: Client transfer/termination
+*   **P. 372-373 Supervision and Consultation:**
+    *   "seek and use appropriate supervision and consultation" (reiteration) -> S: Using supervision/consultation
+    *   "Knowledge of the definition, purposes, and benefits of supervision" -> K: Supervision theory/practice
+    *   "Knowledge of differences between supervision and consultation" -> K: Supervision vs. Consultation
+    *   "Skill in seeking and utilizing peer consultation" -> S: Peer consultation
+*   **P. 374-379 Cultural Responsiveness, DEI:** (This is a big section)
+    *   "serve the needs of individuals from multiple backgrounds" -> O: Commitment to diverse populations
+    *   "avoid generalizations or assumptions" -> S: Avoiding stereotypes
+    *   "use of culturally-tailored, inclusive, and affirming approaches" -> S: Culturally adapted interventions
+    *   Definitions: Health Equity, Disparities, Inequities, Social Exclusion, Implicit Bias, Intersectionality, Cultural Humility, Cultural Competence, DEI -> K: Knowledge of each DEI term
+    *   Cultural Humility: "self-exploration/critique," "willingness to learn," "honoring beliefs," "acknowledging differences" -> O: Openness; S: Self-reflection; A: Acceptance
+    *   Cultural Competence: "learning about other cultures," "tailor approach," "aware of own culture/biases" -> K: Cultural knowledge; S: Adapting services; O/A: Self-awareness
+    *   "Intentionality...responding flexibly" -> S: Intentional and flexible cultural response
+    *   "advocate for...DEI" -> S: DEI Advocacy
+    *   "listen with interest and curiosity...non-judgmental stance" -> S: Culturally sensitive listening
+    *   "recognize...privilege as a provider" -> K/O: Awareness of power dynamics
+    *   "identify implicit biases...against people with SUD or using MAT" -> S: Identifying personal SUD/MAT biases
+    *   "develop trust...across cultural differences" -> S: Cross-cultural trust building
+    *   "acknowledges client's cultural strengths" -> S: Strengths-based cultural approach
+*   **P. 380 Race and Ethnicity:**
+    *   "Knowledge of concepts of culture, race, ethnicity" -> K: Definitions of culture/race/ethnicity
+*   **P. 383 Confidentiality and Informed Consent:**
+    *   "Informed consent...process...rights...benefits/risks" -> K: Informed consent principles; S: Conducting informed consent
+    *   "person-centered or person-directed care" -> K: Person-centered principles
+    *   "Elements of Informed Consent (capacity, comprehension, voluntariness)" -> K: Valid consent elements
+    *   "Cultural and linguistic issues...in obtaining informed consent" -> K: Barriers to informed consent; S: Addressing barriers
+    *   "maintaining client confidentiality" -> K: Confidentiality principles; S: Applying confidentiality
+    *   "protect client’s rights to privacy and confidentiality...documenting and reviewing records" -> S: Confidential record-keeping
+*   **P. 384 Confidentiality, HIPAA, 42 CFR Part 2:**
+    *   "limits of confidentiality" -> K: Exceptions to confidentiality
+    *   "Knowledge of specific confidentiality laws (HIPAA, 42 CFR Part 2)" -> K (42 CFR Part 2 is specialized)
+    *   "Duty to warn/protect" -> K: Duty to warn/protect; A: Balancing confidentiality and safety
+    *   "inform client about limits of confidentiality" -> S: Communicating limits
+*   **P. 385 Minors and Families:**
+    *   "report...imminent risk of harm to minors" (reiteration) -> K/S: Child abuse reporting
+    *   "Knowledge of confidentiality laws pertaining to minors in SUD tx" -> K (specialized)
+    *   "Skill in navigating consent/confidentiality with minor clients and parents" -> S (specialized)
+*   **P. 385-387 Protect Client Rights:**
+    *   "Knowledge of client rights in SUD treatment" -> K: Client rights
+    *   "inform client of...rights...safeguard these rights" -> S: Informing & safeguarding rights
+    *   "serve as an advocate for...client rights" -> S: Advocacy for rights
+    *   "Knowledge of SUD as a protected disability (ADA)" -> K: Legal status of SUD
+    *   Specific rights (Dignity, Confidentiality, Information, Financial Disclosure, Non-Discrimination, Quality Services, Communication, Personal Effects, Education for Minors, Counsel, Habeas Corpus) -> K: Knowledge of each specific right
+*   **P. 388-389 Complaints and Grievances:**
+    *   "Knowledge of client's right to file grievances & organizational procedures" -> K: Grievance process
+    *   "Skill in informal complaint resolution" -> S: De-escalation/informal resolution
+    *   "Skill in guiding clients through grievance process" -> S: Assisting with formal grievances
+    *   "Counselor Responses to a Grievance (10 steps)" -> This outlines a cluster of S & O:
+        *   Emotional regulation, analytical skills, consulting guidelines, seeking advice, formal response writing, self-reflection, participation in resolution, documentation, learning orientation.
+*   **P. 390 Summary:** Reinforces themes, no new KSAOs.
+
+This completes my initial read-through and annotation. Now, I'll move to systematically extracting and detailing these.
+
+**Step 2 & 3: KSAO Identification, Extraction, and Detailing**
+
+I will group KSAOs thematically for clarity (Ethics, Legal/Regulatory, Clinical Skills & Professionalism, Cultural Competence/DEI).
+
+---
+
+**A. ETHICS**
+
+**A1. KSAO: Knowledge of Professional Ethics**
+    *   **Description:** Understanding of the fundamental ethical principles (autonomy, nonmaleficence, beneficence, justice), the purpose and limitations of professional codes of ethics, the moral basis of ethics, common contexts for ethical conflicts (compliance failures, personal dilemmas, moral dilemmas), prescribed and prohibited behaviors, and the role of ethics in protecting clients, the professional, the profession, and the community.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General (foundational for all counseling professions, with specific applications for SUD)
+    *   **Related O*NET:** 21-1011.00 (Substance Abuse and Behavioral Disorder Counselors), 21-1014.00 (Mental Health Counselors)
+    *   **Stability/Malleability:** Malleable (can be learned and updated)
+    *   **Explicit/Tacit:** Primarily Explicit (taught in training, codes)
+    *   **Prerequisites:** Basic literacy and comprehension. Foundational for A2, A3, A4, A5, A6.
+
+**A2. KSAO: Skill in Ethical Decision-Making**
+    *   **Description:** The ability to systematically approach and resolve ethical dilemmas by identifying affected parties, gathering relevant information, formulating and evaluating alternative actions based on ethical principles (utility, rights, justice, community, virtue), making and committing to an ethical decision, acting on that decision (even with incomplete information), and reflecting on/evaluating the outcomes. Includes handling situations not explicitly covered by rules.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General (process applicable across helping professions, content specific to SUD)
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable (develops with training and experience)
+    *   **Explicit/Tacit:** Both (framework is explicit; application and nuance become tacit with experience)
+    *   **Prerequisites:** A1 (Knowledge of Professional Ethics), A4 (Ability for Ethical Reasoning), A7 (Ethical Sensitivity).
+
+**A3. KSAO: Skill in Maintaining Professional Boundaries**
+    *   **Description:** The ability to establish, communicate, model, and consistently maintain clear and appropriate professional boundaries with clients. This includes recognizing and avoiding dual relationships, understanding the difference between boundary crossings and violations, managing self-disclosure appropriately, and addressing boundary issues or violations if they occur. Includes understanding appropriate use of touch and the absolute prohibition of sexual relationships.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General (crucial in all therapeutic relationships, specific scenarios in SUD)
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable (learned and refined through training, supervision, experience)
+    *   **Explicit/Tacit:** Both (rules are explicit; nuanced application is tacit)
+    *   **Prerequisites:** A1 (Knowledge of Professional Ethics), C1 (Self-Awareness), C2 (Effective Communication Skills).
+
+**A4. KSAO: Ability for Ethical Reasoning and Interpretation**
+    *   **Description:** The capacity to think critically about ethical issues, interpret ethical codes and principles in ambiguous "gray area" situations, understand the principles underlying specific rules, and apply practical judgment (e.g., "reasonable person test"). It involves moving beyond mere rule-following to a principled application of ethics.
+    *   **Classification:** Ability (A)
+    *   **Specificity:** General
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable (can be developed, though some cognitive predispositions may influence it)
+    *   **Explicit/Tacit:** Both (explicit principles learned, tacit understanding from experience and reflection)
+    *   **Prerequisites:** A1 (Knowledge of Professional Ethics), C6 (Critical Thinking Skills).
+
+**A5. KSAO: Skill in Identifying and Responding to Ethical Breaches**
+    *   **Description:** The ability to recognize potential or actual ethical breaches in one's own conduct and that of peers, and to respond appropriately according to ethical guidelines, legal requirements, and agency policies. This includes understanding contexts like moral distress that can arise.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Both (identifying clear breaches is explicit; nuanced situations involve tacit judgment)
+    *   **Prerequisites:** A1 (Knowledge of Professional Ethics), B1 (Knowledge of Laws and Regulations), C7 (Professional Responsibility).
+
+**A6. KSAO: Knowledge of Ethical Issues for Counselors in Recovery**
+    *   **Description:** Understanding specific ethical considerations for counselors who are also in recovery, such as the risk of imposing personal recovery experiences, potential for client pressure, maintaining personal recovery stability, managing relapse triggers, and the ethical obligations if a personal relapse occurs (e.g., limiting practice, client transfer).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized (for SUD counselors in recovery)
+    *   **Related O*NET:** 21-1011.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** A1 (Knowledge of Professional Ethics), C1 (Self-Awareness - particularly for application).
+
+**A7. KSAO: Ethical Sensitivity**
+    *   **Description:** An orientation that involves being attuned to the ethical implications of problems, situations, and actions. It's a pre-requisite to recognizing that an ethical dilemma exists.
+    *   **Classification:** Other Characteristic (O) / Ability (A) (has trait and learned components)
+    *   **Specificity:** General
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Moderately Malleable (can be enhanced with training and reflection)
+    *   **Explicit/Tacit:** Primarily Tacit (though can be explicitly discussed)
+    *   **Prerequisites:** A1 (Knowledge of Professional Ethics), C1 (Self-Awareness).
+
+**B. LEGAL AND REGULATORY COMPLIANCE**
+
+**B1. KSAO: Knowledge of Applicable Laws, Regulations, and Policies**
+    *   **Description:** Comprehensive understanding of federal, state/jurisdictional, and agency-specific laws, rules, regulations, and policies relevant to SUD counseling practice. This includes mandatory reporting laws (child/vulnerable adult abuse), duty to warn/protect, client rights, and laws pertaining to SUD as a disability (e.g., ADA).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Both General (e.g., general mandatory reporting) and Specialized (e.g., specific SUD treatment regulations)
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable (must be continually updated as laws change)
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic literacy. Foundational for B2, B3, B4, B5, B6.
+
+**B2. KSAO: Knowledge of Confidentiality Laws (HIPAA & 42 CFR Part 2)**
+    *   **Description:** Specific and detailed understanding of confidentiality laws, particularly HIPAA and the more stringent 42 CFR Part 2 regulations protecting SUD patient records. This includes understanding the scope of protection, permissible disclosures, requirements for consent, and exceptions.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized (42 CFR Part 2 is specific to SUD; HIPAA is more general but applied in SUD context)
+    *   **Related O*NET:** 21-1011.00
+    *   **Stability/Malleability:** Malleable (requires regular updates)
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** B1 (General knowledge of laws). Foundational for B3.
+
+**B3. KSAO: Skill in Applying Confidentiality and Informed Consent Procedures**
+    *   **Description:** The ability to implement procedures to protect client privacy and confidentiality in all aspects of work, including record-keeping, communication with third parties, and verbal exchanges. This includes skillfully obtaining and documenting informed consent, explaining limits of confidentiality (including duty to warn/protect), and navigating complex situations like consent for minors or when cultural/linguistic barriers exist.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Both General (informed consent) and Specialized (application of 42 CFR Part 2)
+    *   **Related O*NET:** 21-1011.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Both (procedures are explicit, nuanced communication is tacit)
+    *   **Prerequisites:** B1, B2, C2 (Effective Communication Skills), D1 (Knowledge of Cultural Factors in Communication - for addressing barriers).
+
+**B4. KSAO: Knowledge of Client Rights and Grievance Procedures**
+    *   **Description:** Understanding the specific rights afforded to clients in SUD treatment settings (e.g., dignity, information, non-discrimination, quality services, financial disclosure, etc.) and knowledge of the organization's formal and informal processes for handling client complaints and grievances.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized (client rights in SUD context; grievance procedures are organization-specific but principles are general)
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** B1. Foundational for B5.
+
+**B5. KSAO: Skill in Upholding Client Rights and Managing Grievances**
+    *   **Description:** The ability to actively inform clients of their rights, safeguard these rights throughout treatment, advocate for clients when rights are threatened, and guide clients through complaint/grievance procedures. If a grievance is filed against the counselor, this includes responding professionally, calmly, consulting guidelines, seeking advice, preparing formal responses, engaging in resolution, documenting, and learning from the experience.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Both (procedures are explicit, interpersonal handling is tacit)
+    *   **Prerequisites:** B4, C2 (Effective Communication Skills), C8 (Advocacy Skills), A5 (Skill in Identifying and Responding to Ethical Breaches - for self-reflection if a grievance is about the counselor's conduct).
+
+**B6. KSAO: Skill in Mandatory Reporting and Duty to Warn/Protect**
+    *   **Description:** The ability to recognize situations requiring mandatory reporting (e.g., child/vulnerable adult abuse/neglect) or invoking duty to warn/protect (imminent danger to self/others), and to follow appropriate legal and ethical procedures for reporting/warning, balancing confidentiality with safety obligations.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General (with specific state law variations)
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Both (legal requirements explicit, judgment in ambiguous situations tacit)
+    *   **Prerequisites:** B1, A1, A4 (Ethical Reasoning), C5 (Clinical Judgment).
+
+**C. CLINICAL SKILLS & PROFESSIONALISM**
+
+**C1. KSAO: Self-Awareness (Professional Context)**
+    *   **Description:** The ability to understand one's own values, beliefs, biases, strengths, weaknesses, personal experiences (including recovery journey, if applicable), and emotional responses, and how these can impact the therapeutic relationship, clinical judgment, and ethical decision-making. Includes awareness of personal limits and potential for moral distress or burnout.
+    *   **Classification:** Other Characteristic (O) / Ability (A)
+    *   **Specificity:** General (essential for all counselors)
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable (can be developed through reflection, supervision, therapy)
+    *   **Explicit/Tacit:** Both (can be explicitly discussed in training/supervision, but much is tacitly developed)
+    *   **Prerequisites:** Introspection. Foundational for A3, A6, A7, D3, D4, C9.
+
+**C2. KSAO: Effective Communication Skills**
+    *   **Description:** The ability to communicate clearly, respectfully, and effectively with clients, families, colleagues, and other professionals, both verbally and in writing. This includes active listening, providing clear explanations, setting expectations, and managing difficult conversations.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **Related O*NET:** 21-1011.00, 21-1014.00, 21-1093.00 (Social and Human Service Assistants)
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Basic language proficiency. Foundational for A3, B3, B5, D5, C10.
+
+**C3. KSAO: Knowledge of Scope of Practice and Competence**
+    *   **Description:** Understanding the defined actions, duties, and limitations of one's professional role as an SUD counselor based on education, training, experience, and credentialing. This includes knowing the indicators of competence and the boundaries of different counselor levels (e.g., associate, counselor, clinical SUD counselor).
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized (scopes vary by credential and jurisdiction for SUD counselors)
+    *   **Related O*NET:** 21-1011.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** General understanding of professional roles. Foundational for C4.
+
+**C4. KSAO: Skill in Practicing within Scope and Competence, and Referral**
+    *   **Description:** The ability to accurately assess whether specific tasks fall within one's defined scope of practice and individual level of competence. This includes making appropriate referrals to other professionals when client needs exceed one's scope or competence, and ongoing self-assessment of strengths and weaknesses.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** Specialized
+    *   **Related O*NET:** 21-1011.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** C3 (Knowledge of Scope), C1 (Self-Awareness).
+
+**C5. KSAO: Clinical Judgment and Decision-Making**
+    *   **Description:** The ability to make sound decisions in complex clinical situations, often with incomplete information. This involves integrating knowledge, experience, client information, ethical considerations, and critical thinking to determine appropriate courses of action in assessment, treatment planning, and intervention.
+    *   **Classification:** Ability (A)
+    *   **Specificity:** General (applied to SUD-specific contexts)
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable (develops significantly with experience and supervision)
+    *   **Explicit/Tacit:** Primarily Tacit (though built on explicit knowledge)
+    *   **Prerequisites:** Foundational clinical knowledge (SUD, mental health, trauma - C11), A4 (Ethical Reasoning), C6 (Critical Thinking).
+
+**C6. KSAO: Critical Thinking Skills**
+    *   **Description:** The ability to analyze information objectively, identify assumptions, evaluate arguments, recognize biases, and draw logical conclusions. Essential for ethical decision-making, clinical assessment, and problem-solving.
+    *   **Classification:** Ability (A)
+    *   **Specificity:** General
+    *   **Related O*NET:** Applicable to most professional roles, including 21-1011.00, 21-1014.00.
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** Basic reasoning skills. Foundational for A4, C5.
+
+**C7. KSAO: Professional Responsibility and Accountability**
+    *   **Description:** An internalized commitment to uphold the ethical and legal standards of the profession, take ownership of one's actions and decisions, prioritize client welfare, fulfill public trust (especially with public funds), and engage in self-governance within the profession.
+    *   **Classification:** Other Characteristic (O)
+    *   **Specificity:** General
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Moderately Malleable (can be cultivated but also reflects personal integrity)
+    *   **Explicit/Tacit:** Both (explicitly stated in codes, demonstrated tacitly)
+    *   **Prerequisites:** A1, B1.
+
+**C8. KSAO: Advocacy Skills**
+    *   **Description:** The ability to effectively speak, write, or act in support of clients' rights, access to appropriate care, and positive health/social outcomes. This can involve advocating within one's own agency, with external systems, or for broader policy changes related to DEI or client welfare.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General (applied to SUD client needs)
+    *   **Related O*NET:** 21-1011.00, 21-1014.00, 21-1093.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** C2 (Communication), B4 (Knowledge of Rights), D2 (Knowledge of DEI principles for DEI advocacy).
+
+**C9. KSAO: Commitment to and Skill in Utilizing Supervision and Consultation**
+    *   **Description:** A professional commitment to seek out and actively participate in regular clinical and administrative supervision and peer/expert consultation. This includes the skill to use these processes effectively to enhance professional functioning, monitor service quality, develop knowledge and skills, ensure ethical practice, manage difficult cases, address personal biases, and promote self-care.
+    *   **Classification:** Other Characteristic (O) for commitment; Skill (S) for utilization.
+    *   **Specificity:** General
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Both (process can be explicit, relationship and self-disclosure aspects are more tacit)
+    *   **Prerequisites:** C1 (Self-Awareness), A1 (Ethics knowledge).
+
+**C10. KSAO: Commitment to Lifelong Learning and Professional Development**
+    *   **Description:** An ongoing commitment to enhance professional competence by engaging in continuing education, training, self-evaluation, and staying current with new developments, research, and evidence-based practices in the SUD field.
+    *   **Classification:** Other Characteristic (O)
+    *   **Specificity:** General (applied to SUD field)
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable (driven by motivation)
+    *   **Explicit/Tacit:** Explicit (actions like taking courses)
+    *   **Prerequisites:** Basic motivation to improve.
+
+**C11. KSAO: Foundational Knowledge of SUD, Co-occurring Mental Health, and Trauma**
+    *   **Description:** A basic understanding of substance use disorders, common co-occurring mental health conditions, and the nature and impact of trauma, as these are highly prevalent in the SUD client population and affect treatment engagement and response.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** Specialized (core to SUD counseling)
+    *   **Related O*NET:** 21-1011.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic science/psychology understanding. Foundational for many clinical skills (e.g., assessment, treatment planning - though these specific skills are not detailed in this chapter, this knowledge is a prerequisite for them).
+
+**D. CULTURAL COMPETENCE, DIVERSITY, EQUITY, AND INCLUSION (DEI)**
+
+**D1. KSAO: Knowledge of Cultural Diversity, Equity, and Inclusion (DEI) Principles**
+    *   **Description:** Understanding key concepts such as culture, race, ethnicity, health equity, health disparities, health inequities, social exclusion/marginalization, implicit bias, intersectionality, diversity, equity, and inclusion. This includes awareness of demographic trends and the pervasive influence of culture on individuals' lives, worldviews, and help-seeking behaviors.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General (increasingly vital for all helping professions)
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** Basic social awareness. Foundational for D2, D3, D4, D5.
+
+**D2. KSAO: Knowledge of Cultural Humility and Cultural Competence Frameworks**
+    *   **Description:** Understanding the concepts of cultural humility (ongoing self-exploration, willingness to learn from clients, honoring client beliefs, acknowledging provider limitations and privilege) and cultural competence (acquiring knowledge of diverse cultures, tailoring approaches, self-awareness of own cultural biases). Includes knowing how these frameworks contribute to effective and equitable service delivery.
+    *   **Classification:** Knowledge (K)
+    *   **Specificity:** General
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Explicit
+    *   **Prerequisites:** D1. Foundational for D3, D4.
+
+**D3. KSAO: Skill in Practicing Cultural Humility**
+    *   **Description:** The ability to engage in an ongoing process of self-exploration and self-critique regarding one's own cultural biases and assumptions. It involves maintaining an other-oriented stance, listening with interest and curiosity, being open to learning from clients' unique experiences, acknowledging differences respectfully, and recognizing the limits of one's own cultural perspective.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable (requires ongoing effort and self-reflection)
+    *   **Explicit/Tacit:** Both (principles are explicit, moment-to-moment practice is often tacit and intuitive)
+    *   **Prerequisites:** D1, D2, C1 (Self-Awareness), O1 (Openness to Learning).
+
+**D4. KSAO: Skill in Developing and Applying Cultural Competence**
+    *   **Description:** The ability to acquire and apply knowledge about diverse cultural groups' values, beliefs, communication styles, and practices to tailor counseling approaches effectively. This includes being aware of one's own cultural assumptions and biases and how they affect service delivery, avoiding stereotypes, integrating client's cultural strengths, and adapting services to be responsive and sensitive.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General (applied to diverse populations in SUD treatment)
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable (an ongoing developmental process)
+    *   **Explicit/Tacit:** Both (knowledge is explicit, application and adaptation are tacit)
+    *   **Prerequisites:** D1, D2, C1 (Self-Awareness), C2 (Communication Skills).
+
+**D5. KSAO: Skill in Creating an Inclusive and Equitable Environment**
+    *   **Description:** The ability to intentionally act in ways that make all clients feel welcome, respected, affirmed, and treated equitably, regardless of their diverse identities. This includes responding flexibly to client needs, ensuring clear communication (addressing linguistic barriers if necessary), and building trust across cultural differences.
+    *   **Classification:** Skill (S)
+    *   **Specificity:** General
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable
+    *   **Explicit/Tacit:** Both
+    *   **Prerequisites:** D1, D2, D3, D4, C2 (Communication Skills).
+
+**D6. KSAO: Commitment to Promoting DEI and Advocating for Health Equity**
+    *   **Description:** A professional and ethical commitment to advocate for and promote diversity, equity, and inclusion within one's practice, organization, and the broader community. This includes confronting issues that create health inequities and championing equitable access to services.
+    *   **Classification:** Other Characteristic (O)
+    *   **Specificity:** General
+    *   **Related O*NET:** 21-1011.00, 21-1014.00
+    *   **Stability/Malleability:** Malleable (driven by values and understanding)
+    *   **Explicit/Tacit:** Both (can be explicit advocacy, also tacitly shown through behavior)
+    *   **Prerequisites:** D1, C8 (Advocacy Skills).
+
+**O1. KSAO: Openness to Learning and Feedback**
+    *   **Description:** A general willingness to learn from diverse sources, including clients (especially regarding their cultural experiences), supervisors, colleagues, and new research. Includes being receptive to constructive feedback for professional growth.
+    *   **Classification:** Other Characteristic (O)
+    *   **Specificity:** General
+    *   **Related O*NET:** Applicable to most professional roles.
+    *   **Stability/Malleability:** Moderately Malleable (can be cultivated)
+    *   **Explicit/Tacit:** Primarily Tacit (an attitude)
+    *   **Prerequisites:** Basic humility. Essential for C9, C10, D3.
+
+---
+
+**Step 4: Hierarchical Structure Among KSAOs**
+
+**I. Dimensions and Sub-dimensions:**
+
+The main categories I used (A. Ethics, B. Legal/Regulatory, C. Clinical Skills & Professionalism, D. Cultural Competence/DEI) can be seen as **Dimensions** of SUD counselor competency related to professional responsibilities. The individual KSAOs within them are **Sub-dimensions** or specific competencies.
+
+*   **Dimension: Ethical Practice**
+    *   Sub-dimensions: A1-A7, O1 (as it relates to ethical growth)
+*   **Dimension: Legal and Regulatory Adherence**
+    *   Sub-dimensions: B1-B6
+*   **Dimension: Professional Conduct and Development**
+    *   Sub-dimensions: C1-C11, O1
+*   **Dimension: Diversity, Equity, and Inclusion (DEI) Practice**
+    *   Sub-dimensions: D1-D6, O1 (as it relates to cultural learning)
+
+**II. Developmental Sequence and Foundational Relationships:**
+
+Many KSAOs build upon others:
+
+1.  **Foundational Knowledge (K) enables Skills (S) and informs Abilities (A) and Other Characteristics (O):**
+    *   A1 (Knowledge of Ethics) -> A2 (Ethical Decision-Making Skill), A3 (Boundary Skills), A4 (Ethical Reasoning Ability)
+    *   B1 (Knowledge of Laws) -> B3 (Skill in Applying Confidentiality), B5 (Skill in Upholding Rights), B6 (Skill in Reporting)
+    *   B2 (Knowledge of HIPAA/42CFR) -> B3 (Skill in Applying Confidentiality - specialized)
+    *   C3 (Knowledge of Scope) -> C4 (Skill in Practicing within Scope)
+    *   C11 (Foundational Clinical Knowledge) -> C5 (Clinical Judgment)
+    *   D1 (Knowledge of DEI Principles) & D2 (Knowledge of Cultural Humility/Competence Frameworks) -> D3 (Skill in Cultural Humility), D4 (Skill in Cultural Competence), D5 (Skill in Creating Inclusive Environments).
+
+2.  **General Skills/Abilities are prerequisites for more complex or specialized applications:**
+    *   C2 (Effective Communication) is foundational for A3 (Boundary Setting), B3 (Informed Consent), B5 (Managing Grievances), D5 (Creating Inclusive Environments).
+    *   C6 (Critical Thinking) is foundational for A2 (Ethical Decision-Making), A4 (Ethical Reasoning), C5 (Clinical Judgment).
+    *   C1 (Self-Awareness) is foundational for A3 (Boundary Management), A6 (Ethics for Counselors in Recovery), C4 (Practicing within Competence), D3 (Cultural Humility), D4 (Cultural Competence).
+
+3.  **Other Characteristics (O) underpin the consistent application of Knowledge and Skills:**
+    *   C7 (Professional Responsibility) ensures consistent application of A1, B1.
+    *   C10 (Commitment to Lifelong Learning) drives the ongoing acquisition of K's and refinement of S's.
+    *   O1 (Openness to Learning) is crucial for developing D3 (Cultural Humility) and benefiting from C9 (Supervision).
+    *   A7 (Ethical Sensitivity) is a precursor to engaging A2 (Ethical Decision-Making).
+
+4.  **Supervision and Consultation (C9) serve as a meta-skill/process to develop many other KSAOs:** Counselors use supervision to improve ethical decision-making (A2), boundary management (A3), legal compliance (B-series), clinical judgment (C5), self-awareness (C1), and cultural competence (D-series).
+
+**III. Foundational KSAOs for Entry-Level vs. Advanced Practice:**
+
+*   **Core Foundational (Often for entry/associate levels, but essential for all):**
+    *   Basic literacy, C2 (Communication), O1 (Openness), C1 (Self-Awareness - initial levels).
+    *   A1 (Knowledge of basic ethics), B1 (Knowledge of basic laws/confidentiality), C3 (Knowledge of own scope).
+    *   D1 (Basic DEI knowledge).
+    *   C7 (Sense of Professional Responsibility).
+*   **Developed with Experience/Training (Typical for certified/licensed counselors):**
+    *   A2 (Ethical Decision-Making), A3 (Boundary Skills), A4 (Ethical Reasoning).
+    *   B2 (Detailed 42CFR Part 2), B3 (Applying complex consent), B5 (Upholding rights, managing grievances).
+    *   C4 (Practicing within scope & referral), C5 (Clinical Judgment), C6 (Critical Thinking).
+    *   C9 (Effective use of supervision).
+    *   D2, D3, D4, D5 (In-depth cultural skills).
+*   **Advanced/Specialized:**
+    *   Supervising others (not covered in this text, but implied by "senior member" in supervision definition).
+    *   Advanced ethical reasoning for highly complex cases.
+    *   Developing/leading DEI initiatives.
+
+**Summary of Hierarchical Logic:**
+KNOWLEDGE (what to know) -> SKILLS (how to do specific tasks) -> ABILITIES (broader capacities to perform, often integrating multiple skills and knowledge) -> OTHER CHARACTERISTICS (underlying traits, values, commitments that influence behavior and learning). Professional development is an ongoing cycle of acquiring new K, refining S, enhancing A, and cultivating O.
+
+---
+This detailed breakdown should cover all the requirements. The process involved careful reading, systematic extraction, detailed attribute assignment for each KSAO, and then a synthesis to identify relationships and hierarchies. The iterative nature of thinking about K vs. S vs. A vs. O, and general vs. specialized, was key.This is an extensive and detailed task. I will approach it by first thoroughly reading the provided text, chapter by chapter (though only one chapter is provided), and then systematically extracting, categorizing, and analyzing the KSAOs.
+
+## My Documented Thinking Process:
+
+**Phase 1: Understanding the Task and Text Structure**
+
+*   **Goal:** Identify all KSAOs for SUD counselors from the provided textbook chapter, detail them according to 8 criteria, and identify hierarchical structures.
+*   **Text:** Chapter 9: "Professional, Ethical and Legal Responsibilities." This immediately signals a focus on non-clinical-intervention KSAOs, but rather the professional framework KSAOs.
+*   **Strategy:**
+    1.  **Detailed Reading & Initial Tagging:** Read section by section, highlighting or noting phrases that imply a K, S, A, or O. I'll look for verbs (implies skills/abilities), nouns describing knowledge domains, and statements of responsibility or traits.
+    2.  **KSAO Extraction & Initial Definition:** For each tagged item, draft a preliminary KSAO name and description.
+    3.  **Full KSAO Profiling:** Systematically go through each drafted KSAO and fill in the 8 required attributes. This will involve judgment and some external knowledge (e.g., O*NET).
+    4.  **Hierarchical Analysis:** Review the complete list of KSAOs to identify relationships, dependencies, and broader dimensions.
+    5.  **Final Structuring:** Organize and present the findings.
+
+**Phase 2: Detailed Reading and KSAO Identification (Simulated with Annotations)**
+
+I will go through the chapter section by section. My annotations will be conceptual, indicating what kind of KSAO is being suggested.
+
+**Page 360: Introduction**
+*   "mandates for professional and ethical conduct": `K: Knowledge of professional/ethical mandates`
+*   "advocates...provide for the right care at the right time": `S: Advocacy for client care`; `A: Judgment in determining 'right care'`
+*   "support of health...goals determined by the individual/family": `S: Collaborative goal setting`; `K: Client-centered principles`
+*   "protect and defend the rights of their clients/families": `S: Client rights protection`; `K: Knowledge of client rights`
+*   "advance the health, human and social outcomes": `O: Commitment to positive client outcomes`
+*   "ethical standards...protection of four distinct groups": `K: Purpose/beneficiaries of ethical standards`
+
+**Page 361: Introduction (cont.)**
+*   "Mechanisms for resolving...conflicts...agency policies, governing regulations...": `K: Conflict resolution resources (policies, laws)`
+*   "knowledgeable about and abide by all laws, regulations, policies, and ethical codes": `K: Legal/Ethical Framework Mastery`; `A: Application of legal/ethical framework` (This is a big one)
+*   "primary responsibility for ethical practice and identifying ethical breaches": `O: Professional responsibility for ethics`; `S: Ethical breach identification (self & peers)`
+*   "respond appropriately...to ethical breaches": `S: Responding to ethical breaches`
+*   "subjective interpretation" in ethics: `A: Ethical reasoning & interpretation`
+*   "Clear boundaries and communication...essential": `S: Boundary setting & maintenance`; `S: Clear communication`
+*   "Ethical standards both prescribe and prohibit behaviors": `K: Prescribed/prohibited ethical behaviors`
+*   "respect for diversity, cultural humility, and ongoing professional development": (These are prescribed) `K/S/O: Diversity respect`; `K/S/O: Cultural humility`; `O: Commitment to professional development`
+*   "seek and use appropriate supervision and consultation": `S: Utilizing supervision/consultation`
+*   "Completing appropriate continuing professional education": `O: Commitment to continuing education`
+
+**Page 362: Overview of Professional Ethics**
+*   "define their own standards and the ethical parameters": `K: Profession's role in self-regulation`
+*   "schooled in ethical decision making": `S: Ethical decision-making`
+
+**Page 363: Ethical Principles & Applicable Laws**
+*   Table of Principles (Autonomy, Nonmaleficence, Beneficence, Justice): For each: `K: Knowledge of [Principle]`; `S: Application of [Principle]`
+*   "develop and maintain a high level of knowledge and skills" (under Beneficence): `O: Commitment to competence`
+*   "adhere to federal and jurisdictionally specific rules and regulations regarding best practices...protect client rights": `K: Specific SUD laws/regulations`; `S: Adherence to SUD laws/regulations`
+*   "obligation to fulfill the public trust": `O: Public accountability`
+
+**Page 364: Codes of Ethics**
+*   "understand not only the listed standards but also the principles that lie behind their respective codes": `A: Principled ethical reasoning (beyond rule-following)`
+*   "reasonable person test (applying common sense)": `A: Practical judgment in ethics`
+*   "familiar with the codes of ethics from their state, territory, or tribe": `K: Jurisdictional ethical codes`
+*   "Ethics are based on moral values": `K: Moral foundations of ethics`
+*   "Ethical conflicts...three basic contexts: failure to comply, personal dilemmas, moral dilemmas": `K: Typology of ethical conflicts`
+
+**Page 365: Ethical Conflicts & Moral Sense**
+*   "mandatory reporting of suspected abuse or neglect": `K: Mandatory reporting laws`; `S: Performing mandatory reporting`
+*   "dual relationship...unethical practice": `K: Dual relationships & implications`; `S: Avoiding/managing dual relationships`
+*   "applying the principles of ethical decision-making": (reiteration) `S: Ethical decision-making`
+*   "moral distress": `K: Moral distress (causes, signs)`; `A: Recognition of moral distress`
+*   "Moral sense...personal understanding of right and wrong": `O: Developed moral sense/conscience`
+*   "seek supervision or consultation if an action...does not 'feel right'": `S: Seeking ethical guidance proactively`
+
+**Page 366: Ethical Decision-Making (Table)**
+*   The whole table outlines a process: `S: Ethical Decision-Making Process (multi-step)` including:
+    *   `A: Identifying affected parties`
+    *   `S: Information gathering for ethical decisions`
+    *   `A: Formulating/evaluating alternative actions using ethical criteria`
+    *   `A: Making & committing to an ethical decision`
+    *   `A: Acting on ethical decisions`
+    *   `S: Reflecting on ethical outcomes`
+*   "judgment and critical thinking skills": `A: Critical thinking`; `A: Sound judgment`
+*   "sensitivity to the ethical implications": `O/A: Ethical sensitivity`
+
+**Page 367: Professional Behavior – Operate in a Competent and Theoretically Sound Manner**
+*   "scope of practice": `K: Professional scope of practice`
+*   "identify and evaluate duties...inside and outside...scope...refer": `S: Scope of practice assessment`; `S: Appropriate referral`
+*   "practice within...limitations of...scope as well as their own professional competence": `O: Commitment to practice within competence`; `S: Self-assessment of competence`
+*   "aware of the rules, regulations, and the boundaries within which they can work": `K: Practice boundaries (rules, regulations)`
+
+**Page 368: Table – Practice Variations**
+*   This table describes different *levels* of counselors and tasks they perform (clinical evaluation, diagnosis, treatment planning, co-occurring disorder treatment, supervision, screening, relapse prevention, education, counseling, psychoeducation, service coordination, case management). These are general counseling KSAOs, with the implication that depth/breadth varies by role. The chapter focuses on the *ethical conduct* around these, not the technical execution of these clinical tasks themselves. I'll note that core clinical KSAOs are prerequisites but not detailed here.
+
+**Page 369: Professional Competence (cont.)**
+*   "understanding their strengths and weaknesses": `S: Self-reflection on competence`
+*   "basic understanding of issues related to substance use, mental health, and trauma": `K: Foundational knowledge of SUD, MH, Trauma`
+*   "understand how personal biases, values, experiences, and feelings can enhance...or hinder": `O/A: Self-awareness of personal factors' impact`
+*   "stay current about...evidence-based practices": `K: Knowledge of current EBPs`; `O: Commitment to applying EBPs`
+
+**Page 369-370: Maintain Appropriate Relationship Boundaries**
+*   "Boundary violations occur when counselors...exploit their clients": `K: Boundary violations and their impact`
+*   "Boundary crossings...can be ethical or unethical": `K: Boundary crossings (nuance)`
+*   "differentiate between harmful boundary violations and helpful boundary crossings": `A: Discernment in boundary management`
+*   "responsibility of the professional...to set appropriate relationships": (reiteration) `O: Professional responsibility for boundaries`
+*   "recognize...violation has occurred, inform the client...identify appropriate solutions": `S: Addressing boundary violations`
+*   "defines but models clear and appropriate boundaries": `S: Modeling appropriate boundaries`
+
+**Page 370: Self-Disclosure**
+*   "limit sharing personal information to circumstances when...relevant": `S: Therapeutic self-disclosure (appropriate use)`
+*   "monitor how this disclosure affects the client relationship": `S: Assessing impact of self-disclosure`
+
+**Page 371: Touch**
+*   "attuned to their clients and their own intentions [regarding touch]": `A/S: Client attunement regarding touch`; `O: Self-awareness of intentions for touch`
+*   "recognize that many persons...have histories of trauma": `K: Trauma's impact on touch perception`
+*   "invite the client to discuss any discomfort...provide enough safety": `S: Creating safety for discussing touch preferences`
+
+**Page 371: Sexual Relationships**
+*   "Sexual or romantic relationships with clients are always improper": `K: Absolute prohibition of sexual relationships with clients`
+
+**Page 372: Recovery Boundaries**
+*   "professionals in recovery may be overly focused on replicating their own journey": `O/A: Self-awareness of personal recovery bias (for counselors in recovery)`
+*   "counselor...should be secure in recovery": `O: Personal recovery stability (if applicable and counseling)`
+*   "face the ethical dilemma of whether to continue...if relapse occurs": `A: Ethical management of personal relapse impacting practice`
+*   "Appropriate steps to transition the client": `S: Ethical client transfer/termination`
+
+**Page 372-373: Use Consultation and Supervision**
+*   (reiteration) `S: Utilizing supervision and consultation`
+*   "Supervision is an intervention...purposes of enhancing...monitoring...gatekeeper": `K: Definition, purpose, and functions of clinical supervision`
+*   "Consultation...distinct differences from supervision": `K: Distinguishing consultation from supervision`
+*   "Peer consultation groups": `S: Engaging in peer consultation`
+
+**Page 374-379: Cultural Responsiveness, Diversity, Equity, and Inclusion (DEI)** (This is a large, critical section)
+*   "serve the needs of individuals from multiple backgrounds": `O: Commitment to serving diverse populations`
+*   "generalizations or assumptions...should be avoided": `S: Avoiding cultural stereotyping`
+*   "use of culturally-tailored, inclusive, and affirming approaches": `S: Applying culturally adapted interventions`
+*   Definitions (Health Equity, Disparities, Inequities, Social Exclusion, Implicit Bias, Intersectionality, Cultural Humility, Cultural Competence, DEI terms): `K: Knowledge of core DEI terminology and concepts` (This can be one KSAO or broken down. I'll aim for a comprehensive one).
+*   **Cultural Humility:** "ongoing process of self-exploration and self-critique," "willingness to learn from others," "honoring their beliefs," "acknowledging differences": `S: Practicing cultural humility (includes self-reflection, openness, respect)`
+*   **Cultural Competence:** "learning about another culture’s...patterns," "tailor their approach," "aware of their own culture and values...biases": `S: Developing cultural competence (includes knowledge acquisition, skill adaptation, self-awareness)`
+*   "Intentionality...responding flexibly": `S: Intentional and flexible culturally responsive practice`
+*   "advocate for and to promote diversity, equity, and inclusion": `S: Advocacy for DEI principles and practices`
+*   "listen with interest and curiosity...non-judgmental stance": `S: Culturally sensitive active listening`
+*   "recognize their inherent status of privilege as a provider": `K/O: Awareness of power dynamics and provider privilege`
+*   "identify any implicit biases they may have against people with problematic substance use or in recovery...or...MAT": `S: Identification of personal biases (SUD, MAT)`
+*   "develop trust...across cultural differences": `S: Building cross-cultural therapeutic alliances`
+*   "acknowledges the client’s cultural strengths": `S: Strengths-based culturally responsive practice`
+
+**Page 380: A Word about Culture, Race and Ethnicity**
+*   "Culture influences many aspects of our lives": `K: Understanding the pervasive influence of culture`
+*   Distinction between race (social construct) and ethnicity (common heritage): `K: Differentiating race and ethnicity`
+
+**Page 383: Confidentiality and Informed Consent**
+*   "Informed consent is the process by which clients are informed of their rights...benefits and risks": `K: Principles of informed consent`; `S: Conducting the informed consent process`
+*   "person-centered or person-directed care": `K: Principles of person-centered care`
+*   Elements of Informed Consent (rational capacity, comprehension, voluntariness): `K: Essential elements for valid informed consent`
+*   "Cultural and linguistic issues...aspect of obtaining informed consent": `K: Cultural/linguistic barriers to informed consent`; `S: Addressing cultural/linguistic barriers in informed consent`
+*   "maintaining client confidentiality...protecting...privacy and guarding information": `K: Principles of confidentiality`; `S: Implementing confidentiality measures`
+*   "protect client’s rights to privacy and confidentiality...documenting and reviewing records": `S: Confidential record-keeping practices`
+
+**Page 384: Confidentiality, HIPAA, 42 CFR Part 2**
+*   "confidentiality...is not an absolute one": `K: Limits of confidentiality`
+*   "state and federal laws...outline how...providers must protect...information...[and] when...shared": `K: Specific confidentiality laws (HIPAA, 42 CFR Part 2)` (42 CFR Part 2 is highly specialized for SUD)
+*   "DUTY TO WARN/PROTECT": `K: Duty to warn/protect obligations`; `A: Balancing confidentiality with public safety`
+*   "client should be informed about these limits of confidentiality": `S: Communicating limits of confidentiality`
+
+**Page 385: Minors and Families**
+*   "All states require counselors...to report situations that present an imminent risk of harm to minors": (reiteration) `K: Child abuse/neglect reporting laws`; `S: Reporting child abuse/neglect`
+*   "Counselors who provide SUD treatment for minors must be clear about how much information will be provided to parents": `K: Confidentiality laws pertaining to minors in SUD treatment` (Specialized)
+*   "obtain the client’s consent to disclose...to parents [minors]": `S: Navigating consent/confidentiality with minor clients and parents` (Specialized)
+
+**Page 385-387: Protect Client Rights**
+*   "Clients receiving SUD treatment...have specific rights": `K: Client rights in SUD treatment settings`
+*   "responsibility to inform the client of these rights as well as to safeguard these rights": `S: Informing clients of rights`; `S: Safeguarding client rights`
+*   "serve as an advocate for a client...to ensure...rights are protected": (reiteration) `S: Advocacy for client rights`
+*   "Diagnosable SUDs are considered disabilities under...ADA": `K: Legal status of SUD as a disability`
+*   List of Rights (Individual Dignity, Confidentiality, Information, Financial Disclosure, Non-Discriminatory Services, Quality Services, Communication, Personal Effects, Education for Minors, Counsel, Habeas Corpus): `K: Knowledge of specific client rights (detailed list)`
+
+**Page 388-389: Complaints and Grievances**
+*   "right to file complaints and grievances": `K: Client's right to file grievances`
+*   "Processes for addressing such client complaints and grievances": `K: Organizational grievance procedures`
+*   "Staff should always try to resolve client complaints...informally": `S: Informal complaint resolution/de-escalation`
+*   "responsibility of the SUD counselor to be aware of these [grievance procedures] and understand how to guide": `S: Guiding clients through grievance processes`
+*   "Counselor Responses to a Grievance (Steps 1-10)": This is a cluster of KSAOs for when a counselor is the subject of a grievance:
+    *   `O: Emotional regulation/professionalism under duress`
+    *   `S: Analyzing grievance content`
+    *   `S: Consulting ethical/policy guidelines for response`
+    *   `S: Seeking legal/supervisory advice for grievances`
+    *   `S: Drafting formal responses to grievances`
+    *   `O/S: Engaging in self-reflection post-grievance`
+    *   `S: Participating in grievance resolution processes`
+    *   `S: Documenting grievance response actions`
+    *   `O: Maintaining a learning orientation from grievances`
+
+**Page 390: Summary**
+*   Reiterates key themes: legal/ethical knowledge, DEI, cultural humility/competence, supervision. No new KSAOs.
+
+This completes the detailed reading and initial tagging. Now, I will move to Phase 3: Full KSAO Profiling. This will be a long list.
+
+**Phase 3: KSAO Profiling**
+
+I will now list the KSAOs, providing the 8 required pieces of information for each. I'll group them thematically.
+
+---
+
+**A. ETHICAL FOUNDATIONS AND PRACTICE**
+
+**A1. KSAO: Knowledge of Professional Ethical Principles and Codes**
+    1.  **Name/Title:** Knowledge of Professional Ethical Principles and Codes
+    2.  **Description:** A comprehensive understanding of core ethical principles (e.g., autonomy, nonmaleficence, beneficence, justice), the content and purpose of relevant professional codes of ethics (e.g., NAADAC, ACA, jurisdictional codes), the moral foundations of ethics, prescribed and prohibited behaviors, and the role of ethics in protecting clients, the professional, the profession, and the community.
+    3.  **Classification:** Knowledge (K)
+    4.  **Specificity:** General (foundational for all counseling, with specific applications in SUD)
+    5.  **O*NET Categories:** 21-1011.00 (Substance Abuse, Behavioral Disorder, and Mental Health Counselors), 21-1014.00 (Mental Health Counselors) - Note: O*NET combined these categories.
+    6.  **Stability/Malleability:** Malleable (learned and requires ongoing updates as codes evolve)
+    7.  **Explicit/Tacit:** Primarily Explicit (taught via texts, courses, codes)
+    8.  **Prerequisites:** Basic literacy and comprehension. Foundational for A2, A3, A4.
+
+**A2. KSAO: Skill in Ethical Decision-Making and Problem-Solving**
+    1.  **Name/Title:** Skill in Ethical Decision-Making and Problem-Solving
+    2.  **Description:** The ability to identify ethical dilemmas, gather all relevant information, consider affected parties, apply ethical principles and decision-making models, formulate and evaluate alternative courses of action, make a sound ethical decision, implement it, and reflect on the outcome. This includes navigating "gray areas" not explicitly covered by rules.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** General (process is universal, content is SUD-specific)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable (develops with training, experience, and supervision)
+    7.  **Explicit/Tacit:** Both (models are explicit; nuanced application becomes tacit)
+    8.  **Prerequisites:** A1 (Knowledge of Ethics), A4 (Ethical Reasoning Ability), A7 (Ethical Sensitivity), C6 (Critical Thinking).
+
+**A3. KSAO: Skill in Establishing and Maintaining Professional Boundaries**
+    1.  **Name/Title:** Skill in Establishing and Maintaining Professional Boundaries
+    2.  **Description:** The ability to define, communicate, model, and consistently uphold clear, appropriate, and culturally sensitive professional boundaries with clients. This includes managing dual relationships, self-disclosure, physical touch, and recovery-specific boundary issues, and addressing any boundary crossings or violations effectively.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** General (critical in all therapy, with SUD-specific nuances like recovery boundaries)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable (learned and refined via training, supervision, self-reflection)
+    7.  **Explicit/Tacit:** Both (rules explicit; application in diverse situations is tacit)
+    8.  **Prerequisites:** A1 (Knowledge of Ethics), C1 (Self-Awareness), C2 (Effective Communication), K: Knowledge of Dual Relationships, K: Knowledge of Recovery Boundaries (A11).
+
+**A4. KSAO: Ability for Ethical Reasoning and Interpretation**
+    1.  **Name/Title:** Ability for Ethical Reasoning and Interpretation
+    2.  **Description:** The capacity for critical and principled thinking about ethical issues, interpreting subjective elements of ethical codes, understanding the spirit versus the letter of ethical standards, and applying sound judgment (e.g., "reasonable person test") in complex or ambiguous situations.
+    3.  **Classification:** Ability (A)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable (can be developed and honed, though influenced by cognitive style)
+    7.  **Explicit/Tacit:** Both (explicit principles guide tacit, experience-based reasoning)
+    8.  **Prerequisites:** A1 (Knowledge of Ethics), C6 (Critical Thinking Skills).
+
+**A5. KSAO: Knowledge of Dual Relationships and Their Management**
+    1.  **Name/Title:** Knowledge of Dual Relationships and Their Management
+    2.  **Description:** Understanding what constitutes a dual or multiple relationship, the potential for harm, blurred boundaries, and exploitation, and the ethical prohibition or strong cautions against them. Includes recognizing subtle ways they can evolve.
+    3.  **Classification:** Knowledge (K)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Explicit
+    8.  **Prerequisites:** A1 (Knowledge of Ethics). Foundational for A3.
+
+**A6. KSAO: Professional Responsibility for Ethical Conduct**
+    1.  **Name/Title:** Professional Responsibility for Ethical Conduct
+    2.  **Description:** An internalized commitment and sense of duty to uphold ethical standards, protect client welfare, identify and address one's own and peers' ethical breaches, and maintain the integrity of the profession.
+    3.  **Classification:** Other Characteristic (O)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Moderately Malleable (can be cultivated, but reflects underlying integrity)
+    7.  **Explicit/Tacit:** Both (explicitly stated, tacitly demonstrated)
+    8.  **Prerequisites:** A1 (Knowledge of Ethics), C1 (Self-Awareness).
+
+**A7. KSAO: Ethical Sensitivity**
+    1.  **Name/Title:** Ethical Sensitivity
+    2.  **Description:** The capacity to perceive and recognize the ethical dimensions and implications inherent in various situations, problems, and interactions within professional practice.
+    3.  **Classification:** Other Characteristic (O) / Ability (A)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Moderately Malleable (can be enhanced with training and reflection)
+    7.  **Explicit/Tacit:** Primarily Tacit (though can be explicitly discussed)
+    8.  **Prerequisites:** A1 (Knowledge of Ethics), C1 (Self-Awareness).
+
+**A8. KSAO: Knowledge of Moral Distress and Its Impact**
+    1.  **Name/Title:** Knowledge of Moral Distress and Its Impact
+    2.  **Description:** Understanding the concept of moral distress, its common causes in counseling (e.g., systemic constraints conflicting with client needs), its manifestations (e.g., anger, anxiety, burnout), and its potential impact on counselors and client care.
+    3.  **Classification:** Knowledge (K)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Explicit
+    8.  **Prerequisites:** A1 (Knowledge of Ethics).
+
+**A9. KSAO: Developed Moral Sense (Conscience)**
+    1.  **Name/Title:** Developed Moral Sense (Conscience)
+    2.  **Description:** A personal, internalized understanding of right and wrong that guides behavior and informs ethical judgment, developed over time through life experiences and social learning.
+    3.  **Classification:** Other Characteristic (O)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00 (and most professions requiring ethical judgment)
+    6.  **Stability/Malleability:** Relatively Stable (formed over a lifetime, but can be refined through self-reflection)
+    7.  **Explicit/Tacit:** Primarily Tacit
+    8.  **Prerequisites:** Life experience, socialization.
+
+**A10. KSAO: Skill in Responding to Personal Ethical Breaches or Dilemmas**
+    1.  **Name/Title:** Skill in Responding to Personal Ethical Breaches or Dilemmas
+    2.  **Description:** The ability to recognize when one's own actions may constitute an ethical breach or when facing a personal ethical dilemma (e.g., temptation to do wrong), and to take appropriate steps such as seeking supervision/consultation, self-correction, or reporting if necessary.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Both
+    8.  **Prerequisites:** A1, A7, C1, C9 (Skill in Utilizing Supervision).
+
+**A11. KSAO: Knowledge of Ethical Considerations for Counselors in Recovery**
+    1.  **Name/Title:** Knowledge of Ethical Considerations for Counselors in Recovery
+    2.  **Description:** Specific understanding of boundary issues for counselors in personal recovery, such as avoiding imposition of one's own recovery path, managing potential client pressure, ensuring personal recovery stability, awareness of relapse triggers, and ethical obligations if a personal relapse occurs (e.g., limiting practice, client transfer).
+    3.  **Classification:** Knowledge (K)
+    4.  **Specificity:** Specialized (for SUD counselors in recovery)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Explicit
+    8.  **Prerequisites:** A1, C1 (Self-Awareness for application).
+
+**B. LEGAL AND REGULATORY COMPLIANCE**
+
+**B1. KSAO: Knowledge of Applicable Laws, Regulations, and Policies**
+    1.  **Name/Title:** Knowledge of Applicable Laws, Regulations, and Policies
+    2.  **Description:** Comprehensive understanding of federal, state/jurisdictional, and agency-specific laws, rules, regulations, and policies governing SUD counseling practice. This includes mandatory reporting, duty to warn/protect, client rights, SUD as a disability (ADA), and specific SUD treatment regulations beyond confidentiality.
+    3.  **Classification:** Knowledge (K)
+    4.  **Specificity:** Both General (e.g., ADA) and Specialized (e.g., specific state SUD licensure laws)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable (requires continuous updates)
+    7.  **Explicit/Tacit:** Explicit
+    8.  **Prerequisites:** Basic literacy. Foundational for B2, B3, B4, B5.
+
+**B2. KSAO: Specialized Knowledge of Confidentiality Laws (HIPAA & 42 CFR Part 2)**
+    1.  **Name/Title:** Specialized Knowledge of Confidentiality Laws (HIPAA & 42 CFR Part 2)
+    2.  **Description:** Detailed knowledge of federal confidentiality laws protecting client information, specifically HIPAA and the more stringent 42 CFR Part 2 for SUD patient records. Includes understanding their scope, consent requirements, permissible disclosures, limits, and interplay with state laws.
+    3.  **Classification:** Knowledge (K)
+    4.  **Specificity:** Specialized (42 CFR Part 2 is specific to SUD; HIPAA is general but applied with SUD nuances)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable (requires regular updates due to revisions and interpretations)
+    7.  **Explicit/Tacit:** Explicit
+    8.  **Prerequisites:** B1 (General Legal Knowledge). Foundational for B3.
+
+**B3. KSAO: Skill in Applying Confidentiality and Informed Consent Procedures**
+    1.  **Name/Title:** Skill in Applying Confidentiality and Informed Consent Procedures
+    2.  **Description:** The ability to implement all procedures to protect client privacy and ensure confidentiality in practice (documentation, verbal communication, third-party disclosures) according to HIPAA, 42 CFR Part 2, and other relevant laws. Includes skillfully obtaining and documenting informed consent for treatment and disclosures, clearly explaining limits of confidentiality, and addressing cultural/linguistic barriers to understanding.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** Specialized (due to 42 CFR Part 2 stringency)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Both (procedures explicit, nuanced communication tacit)
+    8.  **Prerequisites:** B1, B2, K: Principles of Informed Consent (B6), C2 (Communication), D4 (Addressing cultural/linguistic barriers).
+
+**B4. KSAO: Knowledge of Client Rights in SUD Treatment and Grievance Procedures**
+    1.  **Name/Title:** Knowledge of Client Rights in SUD Treatment and Grievance Procedures
+    2.  **Description:** Thorough understanding of the specific rights afforded to clients receiving SUD services (e.g., dignity, information, non-discrimination, quality services, confidentiality, communication, etc.) as per federal/state laws and agency policies. Includes knowledge of the organization's formal and informal processes for client complaints and grievances.
+    3.  **Classification:** Knowledge (K)
+    4.  **Specificity:** Specialized (client rights in SUD context, agency-specific grievance procedures)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Explicit
+    8.  **Prerequisites:** B1. Foundational for B5.
+
+**B5. KSAO: Skill in Upholding Client Rights and Managing Complaints/Grievances**
+    1.  **Name/Title:** Skill in Upholding Client Rights and Managing Complaints/Grievances
+    2.  **Description:** The ability to proactively inform clients of their rights, advocate for the protection of these rights, and assist clients in navigating complaint/grievance procedures. Includes skills in informal complaint resolution. If a grievance is filed against the counselor, it includes responding professionally, calmly, consulting guidelines, seeking advice, preparing formal responses, participating in resolution, documenting, and learning from the experience.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** Specialized
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Both
+    8.  **Prerequisites:** B4, C2 (Communication), C8 (Advocacy), A10 (Responding to Personal Ethical Breaches - if grievance is about counselor).
+
+**B6. KSAO: Knowledge of Principles of Informed Consent**
+    1.  **Name/Title:** Knowledge of Principles of Informed Consent
+    2.  **Description:** Understanding the ethical and legal basis of informed consent, including client's right to self-determination, rational capacity, comprehension of information (diagnosis, treatment, risks/benefits, alternatives, costs, right to refuse), and voluntariness. Includes understanding the graduated consent process and the importance of ongoing consent.
+    3.  **Classification:** Knowledge (K)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Explicit
+    8.  **Prerequisites:** A1 (Knowledge of Ethics), B1 (Knowledge of Laws). Foundational for B3.
+
+**B7. KSAO: Skill in Mandatory Reporting and Applying Duty to Warn/Protect**
+    1.  **Name/Title:** Skill in Mandatory Reporting and Applying Duty to Warn/Protect
+    2.  **Description:** The ability to identify situations requiring mandatory reporting (e.g., child/vulnerable adult abuse/neglect) or invoking duty to warn/protect (imminent danger to identifiable third parties or self), and to follow legally and ethically prescribed procedures for such actions, including balancing confidentiality with safety imperatives.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** General (with specific state/jurisdictional law variations)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Both (legal mandates explicit, judgment in ambiguous situations tacit)
+    8.  **Prerequisites:** B1, K: Limits of Confidentiality (from B2), A2 (Ethical Decision-Making), C5 (Clinical Judgment).
+
+**B8. KSAO: Knowledge of Confidentiality Requirements for Minors in SUD Treatment**
+    1.  **Name/Title:** Knowledge of Confidentiality Requirements for Minors in SUD Treatment
+    2.  **Description:** Specific understanding of federal and state laws regarding the confidentiality of SUD treatment records for minor clients, including rules about parental access, consent for treatment and disclosure, and balancing the minor's privacy with parental rights/responsibilities.
+    3.  **Classification:** Knowledge (K)
+    4.  **Specificity:** Specialized
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Explicit
+    8.  **Prerequisites:** B2. Foundational for S: Navigating consent/confidentiality with minors and parents.
+
+**C. PROFESSIONAL CONDUCT, COMPETENCE, AND DEVELOPMENT**
+
+**C1. KSAO: Professional Self-Awareness**
+    1.  **Name/Title:** Professional Self-Awareness
+    2.  **Description:** The ability to recognize and understand one's own cultural background, values, beliefs, personal biases (including implicit biases), assumptions, emotional responses, strengths, and limitations, and how these personal factors can influence the therapeutic relationship, clinical judgment, ethical conduct, and interactions with diverse clients.
+    3.  **Classification:** Other Characteristic (O) / Ability (A)
+    4.  **Specificity:** General (essential for all helping professionals)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable (can be continuously developed through self-reflection, supervision, personal therapy)
+    7.  **Explicit/Tacit:** Both (can be explicitly explored, but much is tacitly understood and managed)
+    8.  **Prerequisites:** Basic introspection. Foundational for A3, A10, A11, C4, C9, D3, D4.
+
+**C2. KSAO: Effective Interpersonal and Professional Communication Skills**
+    1.  **Name/Title:** Effective Interpersonal and Professional Communication Skills
+    2.  **Description:** Proficiency in clear, respectful, empathetic, and culturally sensitive communication, both verbal and written. Includes active listening, providing understandable explanations, setting clear expectations, managing difficult conversations, and interacting effectively with clients, families, colleagues, supervisors, and other professionals.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00, 21-1093.00 (Social and Human Service Assistants)
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Both
+    8.  **Prerequisites:** Basic language proficiency. Foundational for most other interactive KSAOs (e.g., A3, B3, B5, D5, C9).
+
+**C3. KSAO: Knowledge of Professional Scope of Practice**
+    1.  **Name/Title:** Knowledge of Professional Scope of Practice
+    2.  **Description:** Understanding the legally and professionally defined actions, duties, services, and limitations that an SUD counselor is educated, trained, and authorized to perform, based on their specific credentials, licensure, and jurisdictional regulations. Includes awareness of different practice levels (e.g., associate vs. licensed).
+    3.  **Classification:** Knowledge (K)
+    4.  **Specificity:** Specialized (scopes vary by SUD credential and jurisdiction)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Explicit
+    8.  **Prerequisites:** General understanding of professional roles. Foundational for C4.
+
+**C4. KSAO: Skill in Practicing Within Scope of Practice and Competence, Including Referral**
+    1.  **Name/Title:** Skill in Practicing Within Scope of Practice and Competence, Including Referral
+    2.  **Description:** The ability to accurately assess whether specific client needs and professional tasks fall within one's defined scope of practice and individual level of competence. Involves making timely and appropriate referrals to other professionals or services when client needs exceed one's scope or competence, and engaging in ongoing self-assessment of professional strengths and weaknesses.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** Specialized
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Both
+    8.  **Prerequisites:** C3 (Knowledge of Scope), C1 (Self-Awareness), C5 (Clinical Judgment for referral decisions).
+
+**C5. KSAO: Sound Clinical Judgment and Decision-Making (in ethical/professional contexts)**
+    1.  **Name/Title:** Sound Clinical Judgment and Decision-Making (in ethical/professional contexts)
+    2.  **Description:** The ability to integrate knowledge, experience, client information, ethical principles, and critical thinking to make sound decisions in complex professional situations, often with incomplete information. This chapter focuses on judgment related to ethical dilemmas, boundary issues, confidentiality, and scope of practice, rather than purely clinical intervention choices.
+    3.  **Classification:** Ability (A)
+    4.  **Specificity:** General (applied to SUD-specific professional conduct scenarios)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable (develops significantly with experience, supervision, and reflection)
+    7.  **Explicit/Tacit:** Primarily Tacit (built on explicit knowledge, but application is often intuitive and experience-based)
+    8.  **Prerequisites:** Relevant K (e.g., A1, B1, C3), A4 (Ethical Reasoning), C6 (Critical Thinking).
+
+**C6. KSAO: Critical Thinking Skills**
+    1.  **Name/Title:** Critical Thinking Skills
+    2.  **Description:** The ability to analyze information objectively, identify underlying assumptions and biases, evaluate the validity of arguments, differentiate fact from opinion, and draw logical, evidence-informed conclusions. Essential for ethical deliberation, scope assessment, and responding to complex professional challenges.
+    3.  **Classification:** Ability (A)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** Applicable across most professional roles, including 21-1011.00.
+    6.  **Stability/Malleability:** Malleable (can be taught and improved with practice)
+    7.  **Explicit/Tacit:** Both
+    8.  **Prerequisites:** Basic reasoning skills. Foundational for A2, A4, C5.
+
+**C7. KSAO: Commitment to Lifelong Learning and Professional Development**
+    1.  **Name/Title:** Commitment to Lifelong Learning and Professional Development
+    2.  **Description:** An ongoing dedication to enhancing professional competence and staying current in the field. This involves actively engaging in continuing education, training, self-evaluation, seeking supervision/consultation, and keeping abreast of new research, evolving evidence-based practices, and changes in laws/ethics relevant to SUD counseling.
+    3.  **Classification:** Other Characteristic (O)
+    4.  **Specificity:** General (applied to the SUD field)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable (driven by professional motivation and values)
+    7.  **Explicit/Tacit:** Manifests explicitly (e.g., attending training) but driven by an internal orientation.
+    8.  **Prerequisites:** Basic motivation for professional growth, O: Openness to Learning (O1).
+
+**C8. KSAO: Advocacy Skills (Client and Professional)**
+    1.  **Name/Title:** Advocacy Skills (Client and Professional)
+    2.  **Description:** The ability to effectively represent and support the rights, needs, and interests of clients (e.g., for appropriate care, against discrimination). Also includes advocating for professional standards, ethical practice, and DEI principles within organizations and the broader community.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** General (applied to SUD client population and professional issues)
+    5.  **O*NET Categories:** 21-1011.00, 21-1093.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Both
+    8.  **Prerequisites:** C2 (Communication), B4 (Knowledge of Client Rights for client advocacy), D2 (Knowledge of DEI for DEI advocacy).
+
+**C9. KSAO: Skill in Utilizing Supervision and Consultation Effectively**
+    1.  **Name/Title:** Skill in Utilizing Supervision and Consultation Effectively
+    2.  **Description:** The ability to actively and productively engage in clinical and administrative supervision (individual, group) and seek peer or expert consultation. This involves being prepared, open to feedback, using supervision to reflect on practice, develop skills, resolve ethical dilemmas, manage countertransference, address personal biases, monitor service quality, and promote self-care.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Both (structure explicit, relational dynamics and depth of reflection more tacit)
+    8.  **Prerequisites:** C1 (Self-Awareness), O: Openness to Learning (O1), C2 (Communication).
+
+**C10. KSAO: Foundational Knowledge of SUD, Co-occurring Mental Health, and Trauma**
+    1.  **Name/Title:** Foundational Knowledge of SUD, Co-occurring Mental Health, and Trauma
+    2.  **Description:** A basic understanding of the nature of substance use disorders, common co-occurring mental health conditions (e.g., depression, anxiety, PTSD), and the prevalence and impact of trauma on individuals seeking SUD treatment. This knowledge informs ethical considerations and the need for competence.
+    3.  **Classification:** Knowledge (K)
+    4.  **Specificity:** Specialized (core for SUD counseling, though general MH knowledge is broader)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Explicit
+    8.  **Prerequisites:** Basic psychology/human behavior knowledge. Foundational for C5 and many clinical intervention KSAOs not detailed in this chapter.
+
+**C11. KSAO: Knowledge of Professional Supervision and Consultation Models**
+    1.  **Name/Title:** Knowledge of Professional Supervision and Consultation Models
+    2.  **Description:** Understanding the definition, purpose, functions, and benefits of clinical supervision (e.g., enhancing professional functioning, monitoring service quality, gatekeeping for the profession) and consultation, including the distinctions between them (e.g., hierarchy, evaluative nature).
+    3.  **Classification:** Knowledge (K)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Explicit
+    8.  **Prerequisites:** Understanding of professional roles. Foundational for C9.
+
+**D. CULTURAL RESPONSIVENESS, DIVERSITY, EQUITY, AND INCLUSION (DEI)**
+
+**D1. KSAO: Knowledge of Core DEI Concepts and Principles**
+    1.  **Name/Title:** Knowledge of Core DEI Concepts and Principles
+    2.  **Description:** A comprehensive understanding of key terminology and concepts related to diversity, equity, and inclusion, including culture, race, ethnicity, cultural identity, health equity, health disparities, health inequities, social exclusion/marginalization, implicit bias, intersectionality, cultural humility, and cultural competence. Includes awareness of demographic diversity and the impact of culture on individuals' worldviews, behaviors, and help-seeking.
+    3.  **Classification:** Knowledge (K)
+    4.  **Specificity:** General (increasingly critical across all human services)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable (requires ongoing learning as concepts evolve)
+    7.  **Explicit/Tacit:** Explicit
+    8.  **Prerequisites:** Basic social awareness. Foundational for D2, D3, D4, D5.
+
+**D2. KSAO: Skill in Practicing Cultural Humility**
+    1.  **Name/Title:** Skill in Practicing Cultural Humility
+    2.  **Description:** The ability to engage in continuous self-reflection and critique regarding one's own cultural assumptions and biases. This involves maintaining an "other-oriented" stance, demonstrating openness to learning from clients' unique cultural experiences, honoring their beliefs and values, respectfully acknowledging differences, and recognizing the power imbalance and limitations of one's own cultural perspective.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable (an ongoing process requiring sustained effort and self-awareness)
+    7.  **Explicit/Tacit:** Both (principles are explicit, but the relational practice is highly tacit and nuanced)
+    8.  **Prerequisites:** D1 (Knowledge of DEI concepts), C1 (Self-Awareness), O: Openness to Learning (O1).
+
+**D3. KSAO: Skill in Developing and Applying Cultural Competence**
+    1.  **Name/Title:** Skill in Developing and Applying Cultural Competence
+    2.  **Description:** The ability to acquire knowledge about diverse cultures (values, norms, communication styles, health beliefs) and adapt counseling approaches to be culturally responsive and sensitive. This includes awareness of one's own cultural framework and its potential influence, avoiding stereotypes, leveraging client cultural strengths, and tailoring services to meet the unique needs of diverse individuals.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** General (applied to diverse SUD populations)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable (a developmental process of continuous learning and adaptation)
+    7.  **Explicit/Tacit:** Both (knowledge components are explicit; skillful adaptation is often tacit)
+    8.  **Prerequisites:** D1 (Knowledge of DEI concepts), C1 (Self-Awareness), C2 (Communication Skills).
+
+**D4. KSAO: Skill in Addressing Cultural and Linguistic Barriers**
+    1.  **Name/Title:** Skill in Addressing Cultural and Linguistic Barriers
+    2.  **Description:** The ability to recognize and take appropriate steps to mitigate cultural and linguistic barriers that may impede client understanding (e.g., during informed consent), engagement in treatment, or equitable access to services. This may involve using interpreters, culturally adapted materials, or modifying communication styles.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Both
+    8.  **Prerequisites:** D1, D3, C2.
+
+**D5. KSAO: Skill in Creating an Inclusive and Affirming Therapeutic Environment**
+    1.  **Name/Title:** Skill in Creating an Inclusive and Affirming Therapeutic Environment
+    2.  **Description:** The ability to intentionally act in ways that foster a safe, welcoming, respectful, and affirming environment where all clients, regardless of their diverse identities (gender, race, ethnicity, sexual orientation, disability, class, etc.), feel valued, understood, and treated equitably. This involves demonstrating genuineness, empathy, and respect for individual differences.
+    3.  **Classification:** Skill (S)
+    4.  **Specificity:** General
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable
+    7.  **Explicit/Tacit:** Both (intentional actions can be planned; creating an "atmosphere" is more tacit)
+    8.  **Prerequisites:** D1, D2, D3, C2 (Communication), O: Empathy (not explicitly in text but implied).
+
+**D6. KSAO: Commitment to Promoting DEI and Advocating for Health Equity**
+    1.  **Name/Title:** Commitment to Promoting DEI and Advocating for Health Equity
+    2.  **Description:** A professional and ethical dedication to actively promote diversity, equity, and inclusion in practice and within systems. This includes advocating for policies and practices that address health inequities, reduce disparities, and ensure fair and equitable access to prevention, treatment, harm reduction, and recovery support services for all individuals and communities.
+    3.  **Classification:** Other Characteristic (O)
+    4.  **Specificity:** General (applied to SUD field)
+    5.  **O*NET Categories:** 21-1011.00
+    6.  **Stability/Malleability:** Malleable (influenced by values, knowledge, and professional identity)
+    7.  **Explicit/Tacit:** Both (explicit advocacy actions, tacit modeling of inclusive values)
+    8.  **Prerequisites:** D1 (Knowledge of DEI concepts), C8 (Advocacy Skills).
+
+**O. OTHER CHARACTERISTICS (General Professional Attributes)**
+
+**O1. KSAO: Openness to Learning and Feedback**
+    1.  **Name/Title:** Openness to Learning and Feedback
+    2.  **Description:** A general orientation characterized by a willingness to learn from diverse sources, including clients (especially regarding their cultural experiences), supervisors, colleagues, new research, and training. Includes being receptive to constructive feedback for professional growth and self-improvement.
+    3.  **Classification:** Other Characteristic (O)
+    4.  **Specificity:** General (foundational for professional development in any field)
+    5.  **O*NET Categories:** Applicable to most professional roles.
+    6.  **Stability/Malleability:** Moderately Malleable (can be cultivated, but also has trait-like aspects)
+    7.  **Explicit/Tacit:** Primarily Tacit (an attitude or mindset)
+    8.  **Prerequisites:** Basic humility. Essential for C7, C9, D2.
+
+---
+
+**Phase 4: Hierarchical Structure Among KSAOs**
+
+**I. Dimensions vs. Sub-dimensions:**
+
+Thematic groupings (A, B, C, D, O) serve as **Dimensions**. Individual KSAOs within them are **Sub-dimensions** or specific competencies.
+*   **Dimension: Ethical Framework & Practice (A)**: Sub-dimensions A1-A11.
+*   **Dimension: Legal & Regulatory Compliance (B)**: Sub-dimensions B1-B8.
+*   **Dimension: Professionalism, Competence & Development (C)**: Sub-dimensions C1-C11.
+*   **Dimension: Cultural Responsiveness & DEI (D)**: Sub-dimensions D1-D6.
+*   **Dimension: Foundational Professional Orientations (O)**: Sub-dimension O1 (others like A6, A9, C1 are integrated into thematic dimensions but are foundational 'O's).
+
+**II. Developmental Sequence & Foundational Relationships:**
+
+1.  **Knowledge (K) as Foundation:**
+    *   A1 (Ethics K) -> A2 (Ethical Decision-Making S), A3 (Boundary S), A4 (Ethical Reasoning A).
+    *   B1 (Legal K) & B2 (Confidentiality K) & B6 (Informed Consent K) -> B3 (Applying Confidentiality/Consent S).
+    *   B4 (Client Rights K) -> B5 (Upholding Rights S).
+    *   C3 (Scope of Practice K) -> C4 (Practicing within Scope S).
+    *   C10 (SUD/MH/Trauma K) -> C5 (Clinical Judgment A related to these).
+    *   C11 (Supervision K) -> C9 (Utilizing Supervision S).
+    *   D1 (DEI Concepts K) -> D2 (Cultural Humility S), D3 (Cultural Competence S), D5 (Inclusive Environment S).
+
+2.  **General Skills/Abilities (S/A) Underpin Specific Applications:**
+    *   C1 (Self-Awareness O/A) -> A3, A10, A11, C4, D2, D3.
+    *   C2 (Communication S) -> A3, B3, B5, D4, D5, C9.
+    *   C6 (Critical Thinking A) -> A2, A4, C5.
+
+3.  **Other Characteristics (O) Drive and Shape KSAO Application:**
+    *   A6 (Professional Responsibility O) -> Consistent application of all ethical/legal KSAOs.
+    *   A9 (Moral Sense O) -> Informs A2, A4, A7.
+    *   C7 (Commitment to Lifelong Learning O) & O1 (Openness to Learning O) -> Drives acquisition/refinement of most K & S.
+    *   D6 (Commitment to DEI O) -> Drives D-series skills and C8 (Advocacy S for DEI).
+
+4.  **Iterative Development through Practice and Supervision:**
+    *   C9 (Utilizing Supervision S) is a meta-skill used to develop almost all other clinical, ethical, and professional KSAOs (e.g., A2, A3, C1, C4, C5, D2, D3). Experience refines skills from explicit knowledge to more tacit, nuanced application.
+
+**III. Foundational KSAOs for Entry vs. Advanced Levels:**
+
+*   **Entry-Level Foundations:** Basic K in ethics (A1), laws (B1, B2, B6), scope (C3), DEI (D1). Foundational S in communication (C2). Core O in responsibility (A6), moral sense (A9), self-awareness (C1-initial), openness (O1).
+*   **Developing Professional (Post-basic training/initial experience):** More developed S in ethical decision-making (A2), boundaries (A3), confidentiality/consent (B3), practicing within scope (C4), cultural humility/competence (D2, D3). Developing A in ethical reasoning (A4), clinical judgment (C5), critical thinking (C6). Effective use of supervision (C9).
+*   **Advanced Professional:** Highly refined A (ethical reasoning, judgment), mastery in complex S (e.g., managing severe ethical breaches, leading DEI initiatives – beyond scope of this text but implied progression). Ability to supervise others.
+
+This detailed analysis provides a comprehensive framework of KSAOs derived from the provided chapter, fulfilling all aspects of the request.

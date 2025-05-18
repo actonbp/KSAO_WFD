@@ -1,0 +1,24 @@
+CHAPTER 4: Evidence-based Screening 177
+
+**ASSESSMENT**
+
+The assessment process for substance use disorders is multifaceted, involving a combination of self-reports, clinical interviews, biological testing, and more, to gain a comprehensive understanding of the individual's substance use and its implications. This process is crucial for identifying the severity of the disorder, any co-occurring conditions, and the most appropriate treatment interventions. As with other health conditions, the choice of assessment tools will depend on the specific circumstances of the individual, including the substances used, the presence of co-occurring disorders, and the treatment setting.
+
+**Purpose and Definition of Assessment**
+
+The flow from screening to assessment to treatment planning usually follows a common flow of events; however, the nature of substance use disorders as a chronic and often reoccurring condition can vary the process flow. The preliminary screening and risk assessment is designed to determine acuity of needs and whether the client presents a risk to self or others. The information gleaned from this screening feeds into the initial assessment. The **assessment** continues the process in defining the nature of the substance use and other conditions and problematic issues, determining a diagnosis, and developing specific treatment recommendations for addressing the identified conditions and issues, as depicted in the chart below.
+
+The assessment is an in-depth evaluation that confirms the presence of a problem, determines its severity, and specifies treatment options for addressing the problem. It also surveys client strengths and resources for addressing life problems. A comprehensive substance use assessment evaluates the severity and nature of the
+
+**Relationship Among Screening, Assessment and Treatment Planning**68
+
+[Image: A flowchart illustrating the relationship among screening, assessment, and treatment planning.
+The flowchart starts with a circular element labeled "CONTACT" which has an arrow pointing right to a rectangular section labeled "SCREENING".
+Under "SCREENING", there are two black rectangular boxes. The top box is "SUBSTANCE ABUSE" with an arrow pointing downwards to the bottom box "MENTAL ILLNESS". There is a double-headed arrow between these two boxes, indicating a bidirectional relationship.
+From the "SCREENING" section, a thick black arrow points right to a rectangular section labeled "ASSESSMENT".
+Within the "ASSESSMENT" section, there are several gray rectangular boxes. At the bottom is "BIOPSYCHOSOCIAL, SUBSTANCE ABUSE & FUNCTIONAL ASSESSMENT". An upward arrow points from this box to "DIAGNOSIS". Another upward arrow points from "DIAGNOSIS" to "READINESS FOR CHANGE".
+To the right of "READINESS FOR CHANGE" is a vertical gray bar labeled "INITIAL SERVICE NEEDS". To the right of this bar is another vertical gray bar labeled "LEVEL OF CARE". An arrow points from "READINESS FOR CHANGE" to "INITIAL SERVICE NEEDS", and another arrow points from "INITIAL SERVICE NEEDS" to "LEVEL OF CARE".
+A thick black arrow points right from the "ASSESSMENT" section (specifically from "LEVEL OF CARE") to a rectangular section labeled "TREATMENT PLANNING".
+Under "TREATMENT PLANNING", there are two black rectangular boxes. The top box is "SERVICE AUTHORIZATION" with an arrow pointing downwards to the bottom box "TREATMENT PLAN". There is a double-headed arrow between these two boxes.
+There are also feedback loops. An arrow goes from "LEVEL OF CARE" in "ASSESSMENT" back to "BIOPSYCHOSOCIAL, SUBSTANCE ABUSE & FUNCTIONAL ASSESSMENT" in "ASSESSMENT".
+Another arrow goes from "TREATMENT PLAN" in "TREATMENT PLANNING" back to "CONTACT".]

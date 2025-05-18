@@ -1,0 +1,60 @@
+[Layout: The page has a header at the top. The main content is in a single column. On the right side of the lower half of the page, there is a photograph.]
+
+196 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+Confirmatory drug testing is like a detective work in science, where the goal is to accurately identify and
+measure drugs in specific samples. Over time, the tools and techniques used for confirmation tests have evolved
+significantly. The popular method in the past several decades has been Gas Chromatography/Mass Spectrometry
+(GC/MS). This method was “the gold standard” because it was very accurate at identifying and measuring
+specific drugs in samples.
+
+However, as the need to test for multiple drugs at one time increased, and the demand for faster results grew,
+scientists started to look for more advanced techniques. Newer Multi-Target Screening (MTS) procedures are
+being used such as Liquid Chromatography-Mass Spectrometry (LC-MS) which is a sophisticated analytical tool
+that first separates complex mixtures into individual components and then identifies each component based
+on its mass. This means it can test for many different drugs in a single run, making it much faster and more
+efficient. This makes LC-MS incredibly useful for analyzing complex samples in fields such as pharmaceuticals,
+drug test analysis, and biochemistry, where knowing the exact composition of a sample is crucial. This evolution
+allows for quicker and more comprehensive drug test results, which is crucial in ensuring accuracy and
+timeliness.¹⁰¹
+
+CUT-OFF LEVELS
+
+The US Department of Health and Human Services
+(DHHS, SAMHSA) establishes the Mandatory Guidelines
+for Federal Workplace Drug Testing Programs, which
+many other departments, including Department of
+Transportation, follow for regulated drug testing. These
+guidelines specify the initial and confirmatory drug test
+cut-off levels for substances such as marijuana, cocaine,
+opiates (including codeine, morphine, and heroin),
+amphetamines (including methamphetamine, MDMA),
+and PCP.
+
+The SAMHSA guidelines serve as a key benchmark for
+drug testing, including within SUD treatment programs,
+which often follow these federal guidelines to ensure
+consistency, reliability, and legal compliance – especially
+when they are part of a network that receives federal
+funding or must comply with federal regulations. The
+use of SAMHSA’s cut-off scores helps these programs
+to standardize their testing procedures and to make
+informed decisions about treatment plans based on
+objective criteria. However, it’s important to note that
+while many SUD treatment programs may adhere to
+SAMHSA guidelines, there can be variations based on
+the specific policies of the program, state regulations, or
+the requirements of insurance providers. Some programs
+might use different cut-off levels or additional tests for
+substances not covered by SAMHSA guidelines, depending
+on their clinical judgment, the population they serve, or
+other factors.
+
+These values were developed to help eliminate **false positive results**. A false positive occurs when the test
+incorrectly indicates the presence of a drug or its metabolites in an individual’s sample, even though the person
+did not actually use that substance. Reasons for false positives include:
+
+» **Cross-Reactivity**: Some substances can chemically resemble the targeted drug in a test, leading to cross-
+reactivity where the test cannot distinguish between the drug and the other substance.
+
+[Image: A close-up photograph shows a laboratory pipette labeled "AD-200 μl" dispensing a clear liquid into one of the circular wells of a white microplate or similar laboratory tray. The background is dark. The image illustrates laboratory procedures related to sample testing.]

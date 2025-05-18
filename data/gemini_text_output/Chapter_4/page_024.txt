@@ -1,0 +1,75 @@
+176 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+» The client or the client's substitute decision-maker needs to fully understand what will happen during
+the course of care, the risks and benefits of participating in or refusing services, the possible outcomes,
+and alternative options.
+
+» The client must realize that they have the right and the power to consent to – and more importantly,
+to refuse to consent to – any service offered. Unless there is a court order, clients who are receiving
+involuntary behavioral health services still have a right to consent to or refuse treatment.
+
+Beyond consents for specific services, HIPAA requires covered programs to follow specific rules when handling
+protected health information. The use and disclosure of PHI requires certain types of consent including
+nonverbal consent or written consent depending on how the information will be used. An **authorization** needs to
+be obtained from the client; it is the consent of an individual providing explicit authorization to use or disclose
+their personal information. Authorizations should have certain elements to be considered valid.
+
+1. The information that is going to be disclosed should be defined and clear to the individual providing their
+consent.
+
+2. Each form should include a spot for the individual to print their name to that it is obvious who is
+providing authorization.
+
+3. Explicit information about who may use or disclose the PHI as a direct result of providing authorization.
+
+4. A detail of each use or disclosure that will be a result of the authorization. An individual providing
+authorization should understand any way that their information is planned to be used or disclosed.
+
+5. A date of expiration where the authorization is no longer valid, and their information can no longer be
+used or disclosed.
+
+6. Finally, there should be an area where the individual providing their authorization can provide their
+signature.
+
+[Logo: The logo consists of the word "Focus" in a bold, sans-serif font, with a stylized "o" that resembles a target or a concentric circle pattern. To the right of "Focus" is a colon, followed by "PHI" in a lighter, pixelated or dot-matrix style font. Below the logo, in very small print, it says "The Center of Excellence for Protected Health Information".]
+
+**Focus:PHI**
+
+The Center of Excellence for
+Protected Health Information (also
+known as the CoE-PHI) is funded
+by SAMHSA to assist people and
+organizations to understand and
+apply federal health privacy laws and
+regulations – on the job, specific to
+their task or role, and to help patients
+and families know what their rights
+are when seeking and receiving
+treatment for Substance Use
+Disorders and Mental Health.
+**https://coephi.org/**
+
+With regards to behavioral health, consent is obtained from the client
+for a variety of purposes. It is required to speak with someone involved
+in the client's case, in most circumstances. Consent should always be
+obtained in writing with the signature and date of the client or the
+client's legal substitute decision maker. When someone with legal
+authority to make decisions for the client, such as a parent or legal
+guardian, then the decision maker can be spoken to as though they are
+the client and are typically required to supply consent on the client's
+behalf.
+
+There are some emergency situations when minimal information can
+be provided for safety or security or for coordination of care. Counselors
+are also allowed to speak with other providers for coordination of care
+without a consent; however, obtaining consent is still best practice. This
+assists with trust and rapport while also allowing the counselor to share
+more information than would be permitted in a non-consent referral.
+More information about confidentiality and the law can be found in
+Chapter 9.
+
+The most current and comprehensive information on federal
+confidentiality laws can be found on the **Focus: PHI** website. This site
+offers information for a variety of service providers and has accessible
+formats, such as fact sheets and free online courses. You are highly
+encouraged to visit this site.

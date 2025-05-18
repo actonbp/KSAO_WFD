@@ -1,0 +1,49 @@
+[Layout: Two columns with a header. The header contains "CHAPTER 6: Evidence-based Practices" on the left and the page number "309" on the right.]
+
+CHAPTER 6: Evidence-based Practices 309
+
+48 Greenfield, B. L., Roos, C., Hagler, K. J., Stein, E., Bowen, S., & Witkiewitz, K. A. (2018). Race/ethnicity and racial group composition moderate the effectiveness of mindfulness-based relapse prevention for substance use disorder. *Addictive Behaviors, 81*, 96–103.
+
+49 Korecki, J. R., Schwebel, F. J., Votaw, V. R., & Witkiewitz, K. (2020). Mindfulness-based programs for substance use disorders: A systematic review of manualized treatments. *Substance Abuse Treatment, Prevention, and Policy, 15*(1), 51.
+
+50 SAMHSA (2023). Counseling approaches to promote recovery from problematic substance use and related issues. Treatment Improvement Protocol (TIP) Series 65. Publication No. PEP23-02-01-003. Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+51 Dindo, L., Van Liew, J. R., & Arch, J. J. (2017). Acceptance and commitment therapy: A transdiagnostic behavioral intervention for mental health and medical conditions. *Neurotherapeutics, 14*(3): 546–553. doi: 10.1007/s13311-017-0521-3. PMID: 28271287; PMCID: PMC5509623.
+
+52 Lee, E. B., An, W., Levin, M. E., & Twohig, M. P. (2015). An initial meta-analysis of acceptance and commitment therapy for treating substance use disorders. *Drug and Alcohol Dependence, 155*, 1–7.
+
+53 Dindo, L., Van Liew, J. R., & Arch, J. J. (2017). Acceptance and commitment therapy: A transdiagnostic behavioral intervention for mental health and medical conditions. *Neurotherapeutics, 14*(3), 546–553.
+
+54 Feliu-Soler, A., Montesinos, F., Gutierrez-Martinez, O., Scott, W., McCracken, L. M., & Luciano, J. V. (2018). Current status of acceptance and commitment therapy for chronic pain: A narrative review. *Journal of Pain Research, 11*, 2145–2159.
+
+55 MBCT.com (n.d.). MBCT website. https://www.mbct.com/
+
+56 Coelho, H., Canter, P., & Ernst, E. (2007). Mindfulness-based cognitive therapy: evaluating current evidence and informing future research. *Journal of Consulting and Clinical Psychology, 75*(6), 1000–5. https://doi.org/10.1037/0022-006X.75.6.1000
+
+57 Lovas, D., & Schuman-Olivier, Z. (2018). Mindfulness-based cognitive therapy for bipolar disorder: A systematic review. *Journal of Affective Disorders, 240*, 247–261. https://doi.org/10.1016/j.jad.2018.06.017.
+
+58 Moulton-Perkins, A., Moulton, D., Cavanagh, K., Jozavi, A., & Strauss, C. (2020). Systematic review of mindfulness-based cognitive therapy and mindfulness-based stress reduction via group videoconferencing: Feasibility, acceptability, safety, and efficacy. *Journal of Psychotherapy Integration*. https://doi.org/10.1037/INT0000216.
+
+59 Zhang, D., Lee, E., Mak, E., Ho, C., & Wong, S. (2021). Mindfulness-based interventions: an overall review. *British Medical Bulletin*. https://doi.org/10.1093/bmb/ldab005.
+
+60 Norris, S. L., Nichols, P. J., Caspersen, C. J., Glasgow, R. E., et al. (2002). Increasing diabetes self-management education in community settings: A systematic review. *American Journal of Preventive Medicine, 22*(Suppl 4), 39–66. DOI: 10.1016/S0749-3797(02)00424-5
+
+61 National Institute on Drug Abuse (2018). Principles of drug addiction treatment: A research-based guide. Rockville, MD: National Institutes of Health, U.S. Department of Health and Human Services; 2012. (NIH Publication No. 12-4180). https://nida.nih.gov/sites/default/files/podat-3rd-Ed-508.pdf
+
+62 Donohue, B. & Azrin, N. H. (2011). *Treating Adolescent Substance Abuse Using Family Behavior Therapy: A Step-by-Step Approach*. Wiley. ISBN: 978-0-470-62192-9.
+
+63 Azrin, N. H., Donohue, B., Teichner, G., Crum, T., Howell, J., & DeCato, L. (2001). A controlled evaluation and description of Individual-Cognitive Problem Solving and Family-Behavioral therapies in dually-diagnosed conduct-disordered and substance-dependent youth. *Journal of Child and Adolescent Substance Abuse, 11*(1), 1–43. http://doi.org/10.1300/J029v11n01_01
+
+64 Recovery Research Institute (n.d.). Behavioral Couples Therapy. https://www.recoveryanswers.org/resource/behavioral-couples-therapy/
+
+65 Fals-Stewart, W., O’Farrell, T. J., & Birchler, G. R. (2004). Behavioral Couples Therapy for substance abuse: Rationale, methods, and findings. *Science & Practice Perspectives, 2*(2), 30–41. doi: 10.1151/spp042230. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2851021/
+
+66 Powers, M. B., Vedel, E., & Emmelkamp, P. M. (2008). Behavioral couples therapy (BCT) for alcohol and drug use disorders: A meta-analysis. *Clinical Psychology Review, 6*, 952–62. doi: 10.1016/j.cpr.2008.02.002. Epub 2008 Feb 16. https://pubmed.ncbi.nlm.nih.gov/18374464/
+
+67 O’Farrell TJ, Fals-Stewart W. (2000). Behavioral couples therapy for alcoholism and drug abuse. *Journal of Substance Abuse Treatment, 18*(1), 51–4. doi: 10.1016/s0740-5472(99)00026-4. PMID: 10636606; PMCID: PMC3215582. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3215582/
+
+68 Henggeler, S. W. & Schaeffer, C. M. (2016, Sept.). Multisystemic Therapy®: Clinical overview, outcomes, and implementation research. *Family Process, 55*(3), 514–28. doi: 10.1111/famp.12232. Epub 2016 Jul 2. PMID: 27370172.
+
+69 Liddle, H. (2016). Multidimensional Family Therapy: Evidence base for transdiagnostic treatment outcomes, Change Mechanisms, and Implementation in Community Settings. *Family Process*, (55)3, 558–76. https://doi.org/10.1111/famp.12243.
+
+●

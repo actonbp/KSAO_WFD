@@ -1,0 +1,27 @@
+[Layout: Single column with a header. The header has "CHAPTER 4: Evidence-based Screening" on the left and "201" on the right.]
+
+CHAPTER 4: Evidence-based Screening 201
+
+3. **Substance/Medication-Induced Mental Disorders:** This category includes a wide range of mental disorders such as psychotic disorders, bipolar and related disorders, depressive disorders, anxiety disorders, obsessive-compulsive and related disorders, sleep disorders, sexual dysfunctions, delirium, and neurocognitive disorders that are directly caused by the use of a substance. For a disorder to be classified under this category, the substance involved must be capable of producing the mental disorder, and the disorder must be significantly related to the recent use of the substance.
+
+For each of these categories, the DSM-5-TR provides criteria that include the type of substance, the symptoms experienced, the duration of the symptoms, and the degree to which the symptoms interfere with normal functioning. It is also important for the diagnosis to rule out other causes for the symptoms to ensure that they are directly related to substance use. The DSM-5-TR emphasizes the importance of identifying the specific substance involved because the treatment and prognosis can vary significantly depending on the substance.
+
+Because people vary greatly in how they respond to both intoxication and withdrawal given the same exposure to the same substance, and because different substances may be taken at the same time, prediction of any particular substance-related syndrome has its limits. What is most important is to continue to evaluate psychiatric symptoms and their relationship to abstinence or ongoing substance abuse over time. Most substance-induced symptoms begin to improve within hours or days after substance use has stopped. Notable exceptions to this are psychotic symptoms caused by heavy and long-term amphetamine abuse and the dementia (problems with memory, concentration, and problem solving) caused by using substances directly toxic to the brain, which most commonly include alcohol, inhalants like gasoline, and amphetamines.¹¹³
+
+Recognizing and accurately diagnosing SIDs is crucial for effective treatment. Differentiating between substance-induced and independent psychiatric disorders is essential, as it informs treatment planning and prognosis. Treatment approaches for SIDs should address both the substance use and the induced psychiatric symptoms, often requiring integrated treatment strategies that combine pharmacotherapy, psychotherapy, and support for withdrawal and recovery processes.
+
+**International Classification of Diseases (ICD)**
+
+The International Classification of Diseases (ICD-11) is the 11th revision of the ICD, a global health information system used to classify diseases and related health problems. Developed by the World Health Organization (WHO), ICD-11 was officially adopted by WHO Member States and came into effect on January 1, 2022. It represents a significant update from its predecessor, ICD-10, which has been used since 1994. The ICD-11 reflects advances in health and medical science over the past few decades.
+
+Efforts were made to make ICD-11 user-friendly for healthcare professionals, including through the provision of online training materials and a more intuitive classification system. Key features and improvements of ICD-11 include:¹¹⁴
+
+1. **Digital Adaptability:** ICD-11 was designed to be fully compatible with electronic health applications and information systems, facilitating more effective and efficient data collection, analysis, and sharing.
+
+2. **Comprehensive Coverage:** It includes significant improvements in the classification of diseases, with updates and additions that reflect modern health and medical practices.
+
+3. **Innovative Structure:** The coding system in ICD-11 is more detailed and flexible, allowing for a more precise diagnosis and classification of diseases.
+
+4. **Integration of Traditional Medicine:** For the first time, ICD-11 includes chapters on traditional medicine conditions, recognizing the role of traditional medicine in healthcare systems in various parts of the world.
+
+5. **Specificity and Flexibility:** ICD-11 provides more clinical detail than ICD-10, allowing for a more accurate description of health conditions. This is particularly important for rare diseases and conditions that were not adequately classified in previous revisions.

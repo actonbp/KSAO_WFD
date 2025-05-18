@@ -1,0 +1,33 @@
+190 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**Risk Assessment for Suicide**
+
+Suicide is a major public health concern. Suicide is among the leading causes of death in the United States. Based on recent mortality data, suicide in some populations is on the rise. According to the Centers for Disease Control and Prevention (CDC) WISQARS Leading Causes of Death Reports in 2021:
+
+» Suicide was the twelfth leading cause of death overall in the United States, claiming the lives of over 48,183 people.
+
+» The suicide rate among males was approximately four times higher than the rate among females. Males make up 50% of the population but nearly 80% of suicides.
+
+» Suicide was the second leading cause of death among individuals between the ages of 10–14 and 25–34, the third leading cause of death among individuals between the ages of 15–24, and the fifth leading cause of death among individuals between the ages of 35 and 44.⁸⁶
+
+Suicidal behavior can be broadly subdivided into suicide-related behavior and suicide-related communication.
+
+» **Suicide** is defined as death caused by self-directed injurious behavior with intent to die as a result of the behavior.
+
+» **A suicide attempt** is a non-fatal, self-directed, potentially injurious behavior with intent to die as a result of the behavior. A suicide attempt might not result in injury.
+
+» **Suicidal ideation** refers to thinking about, considering, or planning suicide.
+
+» **Suicidal threat** refers to any interpersonal action, verbal or non-verbal, without a direct self-injurious component, that a reasonable person would interpret as communicating or suggesting that suicidal behavior might occur in the near future.⁸⁷
+
+Suicide is intricately linked to mental health and substance use disorders due to a complex interplay of psychological, biological, and social factors. MHDs and substance use can significantly influence an individual's thoughts, feelings, and behaviors, increasing the risk of suicide in several ways:⁸⁸, ⁸⁹, ⁹⁰
+
+1.  **Psychological Distress:** MHDs such as depression, bipolar disorder, and anxiety can lead to significant psychological distress. Symptoms such as profound sadness, hopelessness, and unbearable anxiety can overwhelm individuals, making suicide seem like a viable option to escape their suffering.
+
+2.  **Impaired Judgment and Increased Impulsivity:** SUDs can impair judgment and increase impulsivity, factors that are closely associated with suicide risk. Alcohol and drugs can lower inhibitions, leading individuals to act on suicidal thoughts that they might have resisted when sober. Substance use can exacerbate the symptoms of underlying mental health conditions, further increasing the risk of suicide.
+
+3.  **Social Isolation:** Both MHDs and SUDs can lead to social isolation, as individuals may withdraw from family, friends, and social activities. This isolation can exacerbate feelings of loneliness and despair, increasing the risk of suicide. Moreover, the stigma associated with these disorders can prevent individuals from seeking help, further isolating them, and diminishing their chances of recovery.
+
+4.  **Comorbidity:** The co-occurrence of MHDs and SUDs presents a particularly high risk for suicide. Individuals with co-occurring diagnoses often experience more severe symptoms of both disorders, leading to greater functional impairment and an increased risk of suicide.
+
+The National Alliance for Suicide Prevention, in conjunction with the national Suicide Prevention Resource Center (SAMHSA, HHS) created a recommended standard of care for people with suicide risk.⁹¹ They address the importance of suicide prevention actions in behavioral health care organizations, particularly in outpatient care. They note that inpatient care is designed to initiate treatment, mitigate immediate risk, and prepare patients for continuing care post-hospitalization; however, outpatient behavioral health settings have a longer-term,

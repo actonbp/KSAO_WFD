@@ -1,0 +1,679 @@
+
+
+### Chapter_8 ###
+
+337
+
+CHAPTER 8:
+DOCUMENTATION338 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**INTRODUCTION**
+
+Documentation in the clinical record is an integral part of the delivery of substance use disorder (SUD) treatment services. In this age of increasing emphasis on both quality of service and accountability, documentation provides a means of organizing and evaluating clinical work by demonstrating that the services being delivered are both effective and efficient.
+
+The clinical record is also used as a tool for supervision when the supervisor is unable to personally observe services as they are being delivered. As SUD counselors record their observations and actions, they are providing evidence of their competence in providing appropriate client care.
+
+This chapter focuses on the role of documentation, the different types of documentation, applicable standards, and the skills that facilitate good documentation.
+
+[Image: A black and white photograph of a Black woman with shoulder-length wavy hair, wearing a dark blazer over a white top. She is looking down and to her left, appearing contemplative. A white mug is in front of her on a surface. Behind her are horizontal window blinds.]CHAPTER 8: Documentation 339
+
+**The Client/Clinical Record**
+
+SUD counselors are required to maintain a record for each client who receives services. The clinical record is a log of the client’s needs and preferences, interventions, and a variety of plans. Documentation provides a means of identifying, classifying, and evaluating the client’s needs by demonstrating that the services being delivered are both effective and efficient. The clinical record also verifies that the client has consented to services and been informed of their rights. It organizes notifications, consents, and releases of information appropriate to the client’s current situation.
+
+The clinical record is the most important tool in assuring continuity of care throughout service delivery. While the multiple demands on the time and energy of SUD counselors cannot be denied, developing strong case documentation skills can contribute to and amplify service delivery and greatly improve the client’s overall experience.
+
+Clients receiving SUD treatment services may have several providers from whom they are receiving services. This group of providers may work in the same organization or different organizations. Documentation is used to assist providers in identifying current problem areas and needs to best serve the client. The clinical record contains information such as observations, assessments, interventions, and supports that will assist providers in guiding the client towards achieving identified goals. The clinical record is also used to document current needs and future plans to support and sustain recovery.
+
+Documentation from the SUD counselor provides supporting evidence for necessity and appropriateness of services. The clinical record tracks when the client is receiving appropriate services to fulfill the goals on the treatment plan. It also serves legal and administrative purposes. The clinical record, for example, is used to identify who delivered which services, and support billing for clinical services. Third party payers, such as Medicare and Medicaid, may have specific standards for what information must be included in the client record to qualify for reimbursement of services.
+
+**Why Document?**
+
+Documentation serves several important purposes.¹
+
+» The clinical record is a **clinical tool** that chronologically details the condition of the client receiving services, why the services were needed, the services provided, who delivered the services, the client response to the services and the outcomes achieved because of the services. As such, it provides both a guide and a means of evaluating whether the services are achieving the desired outcomes.
+
+» The clinical record ensures **continuity of care** for the client, regardless of counselor availability, changes in counselor or service provider, or subsequent readmission for services. This recording of essential elements of care ensures that pertinent information is available to the receiving counselor or program. This recording of essential elements of care helps ensure that pertinent information is available and provides the foundation of good service delivery for collaboration.
+
+» The clinical record assists with organizational **risk management issues** to protect and defend against malpractice lawsuits and professional discipline. Documentation that facilitates risk management relates to: informed consent; justifications of professional decision-making; supervision or consultation; and, to substantiate the services, referrals provided, and the results.
+
+» The clinical record is a **legal document** that records both counselor and client input and what did or did not take place within the delivery of services. In certain circumstances, portions or all of the clinical record may be requested by the courts if the client is legally involved, or in cases where the client brings legal proceedings against an SUD counselor or program.
+
+» The clinical record demonstrates **accountability** by recording information that is used for billing purposes,340 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+financial audits, or reviews to ensure compliance with various standards. Information in the clinical
+record is compared in financial audits to staff activity logs which document the time, date, duration, and
+type of service.
+
+Effective documentation meets the requirements imposed by:
+> Applicable federal and state laws, regulations, and rules including those pertaining to relevant
+licensing boards.
+> Requirements outlined by the parent organization and any affiliated accreditation programs (i.e., The
+Joint Commission), health care institutions, facilities, and agencies.
+> Various third-party payers (i.e. Medicare, Medicaid, traditional insurance, and managed care plans).
+
+» The clinical record facilitates **quality assurance and utilization review** by:
+> Documenting the appropriateness, necessity, and effectiveness of provided services.
+> Substantiating changes in services including supporting the addition of services, changes in existing
+services, or termination of services (i.e. assessment, testing or treatment).
+> Identifying current challenges and barriers in service delivery by providing data with which effective
+preventative or corrective actions can be undertaken to improve and assure the quality of care.
+> Providing information that is used in organizational policy development, program planning, and
+research.
+> Providing data for use in planning educational and professional development activities.
+
+» The clinical record **facilitates coordination of professional efforts** by fostering communication and
+collaboration between members of the service team. The appropriate utilization of team members from
+multiple disciplines helps assure effective coordination of care and prevent fragmented service delivery.
+This allows collaboration in an interdisciplinary manner and helps prevent duplicative or conflicting
+services.
+
+[Image: A close-up, slightly blurry photograph of several manila file folders in a filing cabinet drawer. The folders have tabs with labels. From left to right, a folder tab in the middle ground is labeled "REPORT". A prominent folder tab in the foreground is labeled "Audit". To the right, another folder tab in the middle ground is labeled "Compliance". A partially visible and blurry tab in the background reads "Register Files". A partially visible tab in the foreground on the right is labeled "Procedures". Small numbers "6", "1", "2", and "5" are visible on some of the folder tabs below the main labels or on the folder edge.]CHAPTER 8: Documentation 341
+
+ACCESS TO PROTECTED
+HEALTH INFORMATION
+
+There are several state and federal laws that dictate how information in the client’s record must be protected and
+how it can be shared. This information is often referred to as protected health information or PHI. Substance use,
+mental health and medical information is generally subject to the provisions of the Health Insurance Portability
+and Accountability Act (HIPAA). Substance use information has additional regulations found in Title 42 Code of
+Federal Regulations (42 CFR), Part 2: “Confidentiality of Alcohol and Drug Abuse Patient Records.” It is important
+for SUD counselors to be familiar with these confidentiality guidelines to properly protect and disclose client’s
+information.
+
+A Closer Look at HIPAA and 42 CFR Part 2², ³
+
+[Layout: Two columns.]
+
+The Health Insurance Portability and
+Accountability Act of 1996 (HIPAA), including
+amendments in the Health Information
+Technology for Economic and Clinical Health
+(HITECH) Act
+
+» Safeguards the privacy and confidentiality of electronically
+transmitted client information from health care providers, health
+plans, and health care clearinghouses.
+» Protects the health insurance coverage of workers and their
+families when there is a change in or disruption of employment.
+» Simplifies the administration of health insurance.
+» Combats waste in health care delivery.
+
+HIPAA Consent Requirements
+
+» Prohibits a healthcare organization from using or disclosing
+protected health information unless authorized by patients,
+except where this prohibition would result in unnecessary
+interference with access to quality health care or with certain
+other important public benefits. They may also release
+information without consent to other involved healthcare
+providers and obtain payments. Mental health therapy notes are
+excluded from this disclosure and still require written consent.
+Disclosure may only include the minimum amount of information
+necessary to fulfill the task.
+
+Federal Confidentiality Regulation of Alcohol and
+Drug Abuse Records (42 CFR Part 2)
+
+» Protects information about any person who has been given a
+substance use diagnosis, has applied for substance use services,
+or been referred to or received substance use treatment from a
+program that receives federal assistance such as Medicare or
+Medicaid funds.
+
+42 CFR Part 2 Consent Requirements
+
+» Specific consent is necessary for disclosure of information
+contained in a client record maintained in any federally assisted
+substance use program. This includes any program that provides
+substance use services and receives federal assistance such as
+Medicare or Medicaid funds.
+» Allows a single consent for all future uses and disclosures for
+treatment, payment, and health care operations.
+» No client consent is necessary for a medical emergency, reports
+of alleged abuse or crimes, and court orders. Consent is also not
+necessary for public health authorities, auditors, research, and
+communicating with business associates.
+» Restricts the use of records and testimony in civil, criminal,
+administrative, and legislative proceedings against patients,
+absent patient consent or a court order.342 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+Sharing Information within an Agency
+
+Within an agency, information can be shared on a **need-to-know** basis. For instance, a SUD counselor can share information about a client with the program physician who is providing medical services to the client without a signed release of information. Similarly, information can be shared with the SUD counselor’s supervisor who is providing clinical supervision. However, this ability to share information within an agency does not extend to other personnel within the agency who do not function as part of the treatment team.
+
+Client Access
+
+In most states, the law gives the client the right to review their own record. Similarly, the client has the right to request and receive copies of their own records. Most agencies have procedures for how this access occurs. Since there may be information in the record that is technical and/or of a sensitive nature, most agency practices include the primary SUD counselor or supervisor being present with the client when the client record is reviewed to clarify information or respond to questions. SUD counselors should be familiar with these policies and report a client’s request to review a record immediately to the supervisor.
+
+External Parties
+
+In general, clients must provide written consent before information can be released to another party; this stipulation, however, can be overridden under specific circumstances. All SUD counselors should be familiar with state and federal laws as well as agency specific policies and procedures regarding confidentiality, particularly in how it relates to referrals and care coordination (see Chapter 4). Some agencies, for example, may have policies and procedures regarding which staff members can release verbal and written information from the client record. This helps ensure that the release of information has all the required elements and only the permitted information is released.
+
+[Image: A black and white close-up photograph showing two hands over a document on a wooden table. One hand, on the right, is holding a black pen and appears to be filling out the form. The form has printed lines and boxes, with some pre-printed text like "Name:", "Address:", "Phone:", "Date of Birth:", "Sex:", "Employer:", "Start Date:", "Address:", "Phone:", "Provider:", "Policy No.:", "Policy Type:", "Network:", "Group No:". The other hand, on the left, is resting on the form, with fingers spread out. The image is slightly angled.][Image: A close-up, slightly angled shot of an open file cabinet drawer. The drawer is filled with several large, light-colored ring binders standing upright, with their spines facing outwards. Each binder has a circular label or finger hole on its spine. The binders appear to contain numerous papers. The image is in grayscale or has a desaturated look, emphasizing the theme of record-keeping and documentation.]
+
+CHAPTER 8: Documentation 343
+
+SUD counselors must also be aware of state reporting laws and agency policies. They are generally considered
+**mandated reporters** for suspected abuse and neglect. The SUD counselor should document the evidence that
+led to the suspected abuse or neglect and who the information was reported to such as the Abuse Hotline or the
+appropriate staff member per agency policy.
+
+It is important to document in the clinical record any information released and who received the information.
+Any requests that occur outside of the scope of care coordination without a release of information may need to be
+reported to a supervisor. Occasionally a subpoena and/or court order for a client's records may be received and, if
+so, the SUD counselor should immediately inform the supervisor who may seek legal counsel as needed.
+
+**Records Retention and Storage**
+
+The client record is the physical property of the agency in which the services have been delivered. All states have
+laws that regulate the retention of client records. Since the record is a legal document, it is important to have
+established policies regarding record retention. Medical records are generally retained for a period of seven years,
+but in the case of minors it may be longer under certain circumstances. SUD counselors should know the laws
+regarding the retention of client records in their state. It is important to remember that all client records must
+be disposed of in compliance with HIPAA and, for clients with substance use conditions receiving services in a
+federal program, disposal must also comply with 42 CFR Part 2.
+
+Client records in hard copies must be securely stored in locked file cabinets when not in use, with protection
+against unauthorized access. All records and identifying information must be kept out of sight of unauthorized
+personnel. This includes client lists and rosters, attendance records, appointment schedules, and information on
+computers.
+
+Electronic Health Records (EHRs) and Electronic Medical Records (EMRs) also have established regulations
+governing record retention and storage. As these digital records contain comprehensive and real-time
+information about a client and can be shared across different authorized health care settings, they are highly
+regulated. Federal laws like HIPAA also safeguard data regardless of whether the information is being stored on-
+premises or in the cloud. More information on storage of EHRs can be found later in this chapter.[Layout: Single column of text with a header. The right edge of the page shows the rings of a spiral binding.]
+344 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**Regulations That Apply to Client Records**
+
+There are various regulations that govern the content, scope, and quality of documentation. Agencies construct individual record keeping formats and procedures to meet these expectations. Each of these requires audits from time to time to determine compliance with documentation and other standards. These regulatory bodies include:
+
+» **Single State Authority (SSA) for Substance Use**
+Both law and rule based on law serve to protect the public by ensuring that all providers, individual and agency, meet certain minimum standards in providing client care. State laws determine the scope and practice of substance use disorder treatment services. Facility licensing rules define the minimum standards for this treatment, including the content of the clinical record. This includes the time frames that specific documents need to be completed within and who needs to sign and authorize treatment and documents.
+
+» **Accreditation Bodies**
+Many agencies voluntarily apply for accreditation with nationally recognized accreditation bodies such the Commission on Accreditation of Rehabilitation Facilities (CARF) and The Joint Commission. Accreditation standards address quality from an organizational, leadership, and client care perspective. SUD counselors should be familiar with the appropriate standards if their agency is seeking or maintaining accreditation.
+
+» **Third-Party Payers**
+Insurance plans that have benefits that pay for substance use disorder treatment services may have specific requirements for documentation. For example, Medicaid may pay for specified treatment services for Medicaid eligible individuals. SUD counselors that document in clinical records should be familiar with Medicaid or other third-party insurer’s documentation requirements, which often include the credentials of the person who can provide or authorize a particular service. Failure to meet these requirements can result in loss of payment or pay backs of previously paid claims.
+
+» **Provider Agencies**
+In addition to regulatory standards that may apply, each provider agency has its own expectations and standards for the content and quality of clinical documentation. Often these expectations are detailed in agency specific policy and procedure manuals. SUD counselors that document in the clinical record should be familiar with agency expectations in this area.[Layout: Single column page with a header and page number. The main content is a title followed by an introductory paragraph and a numbered list with sub-bullets.]
+
+CHAPTER 8: Documentation 345
+
+**TYPES OF DOCUMENTATION**
+
+Documentation requirements vary based on the intensity and complexity of services delivered. While the guidelines for documentation may differ, most of the information identified below is fairly consistent across diverse organizations and services and from state to state. Agency-specific required information should be part of the SUD counselor’s orientation to job specific duties and responsibilities. Several areas of documentation have been addressed in earlier chapters in this study guide; however, these areas will also be summarized in this chapter for completeness.
+
+Documentation typically occurs in the following areas:
+
+**1. Client Administrative Information:**
+    > **Personal information:** client information, including name, age, contact details, and emergency contacts
+    > **Financial:** eligibility, ability to pay
+    > **Informed consent for services:** forms for releases of information, consent for services, consent for tests (drug test, HIV/AIDs, etc.), signed and dated by client and witness
+    > **Referral reports:** source of referral, reasons for referral, background information and service-related correspondence
+
+**2. Substance Use Screening and Assessment:**
+    > **Screening:** types of screening and results for a variety of conditions (use of specific substances, need for detoxification, etc.) and risk potential (suicide, violence, health considerations, etc.)
+    > **Comprehensive Biopsychosocial Assessment and Summary:**
+        > **Substance use history:** detailed account of substance use, including types of substances, patterns and duration of use, frequency, and quantity
+        > **Medical history:** comprehensive record of the client’s physical health, including past and current illnesses, surgeries, and medications
+        > **Consequences of use:** physical, psychological, social, and legal consequences of substance use
+        > **Psychological profile:** assessment of mental health history, current psychological status, and any co-occurring mental health disorders
+        > **Initial recommendations for treatment and ancillary services:** types of treatment interventions, medical, social, legal, vocational, etc.
+        > **Personal Preferences:** client’s preferences for services, cultural considerations
+
+**3. Treatment Plans, Strategies, and Interventions:**
+    > **Detoxification Plan:** If applicable, protocols for safely managing withdrawal symptoms
+    > **Comprehensive Treatment Plan**
+        > **Short-term goals and objectives:** immediate objectives focused on stabilization and harm reduction
+        > **Long-term goals and objectives:** broader, long-term aspirations aimed at sustained recovery and community reintegration
+        > **Diagnosis and Levels of Care:** DSM 5-TR diagnosis, appropriate level of care and setting
+        > **Therapeutic Interventions:** outline of therapeutic approaches and service types
+    > **Pharmacotherapy/Medication-Assisted Treatments:** details of any medication prescribed, dosage, and monitoring plans
+    > **Relapse Prevention:** strategies to identify and manage triggers, cravings, and high-risk situations and prevent a recurrence of substance use[Layout: Single column of text on the left with a header. An image of a form being filled out is on the right side of the page, overlapping some of the text. The right edge of the page shows the spiral binding of a book.]
+
+346 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+4.  **Monitoring and Evaluation:**
+    > **Progress Notes:** regular documentation of the client’s progress, challenges, and any changes in
+    treatment strategy
+    > **Outcome Measures:** use of standardized tools to objectively measure treatment outcomes and adjust
+    treatment plans accordingly
+
+5.  **Continuing Care and Recovery Supports:**
+    > **Community Resources:** information on support groups, employment assistance, and housing services
+    > **Discharge, Continuing Care, and/or Recovery Plan:** plans for ongoing treatment and support post-
+    discharge community reintegration
+
+**Administrative Documentation**
+
+Most administrative documentation is
+collected in the initial screening during the
+admission or intake process. Documentation
+includes preparing accurate and concise reports
+and records for service planning including
+treatment recommendations, referrals to other
+providers and programs, case consultations,
+and discussions with collateral contacts.
+Outcome documentation may be done at
+specified intervals during service delivery
+including admission, discharge, and post
+discharge.
+
+Administrative documentation usually includes
+the following:4
+» Client identifying information such as
+name, date of birth, and client number
+assigned by the agency
+» Demographic information such as sex,
+race, ethnicity, and employment status
+» Referral source name and address
+» Financial data such as current income
+and insurance information
+» Informed consent for services or
+involuntary paperwork for examination,
+client rights and responsibilities, and
+applicable releases of information
+signed and dated by the client and
+witness
+» Orientation to program services
+information
+
+[Image: A close-up, black and white photograph of a pen tip poised over a form. The form has lines for "Title: Mr./Mrs...", "First Name : . . . .", "Family Name : . . . .", "Company Name : . .", "Designation : . . . . . . . . . . .", and "Box :". The pen is silver and black. The background is blurred. The right edge of the image is cut off by the spiral binding of the book.]CHAPTER 8: Documentation 347
+
+**Screening Documentation**
+
+Screening occurs in the initial contact with the client. The purpose of screening is to gather enough preliminary information about the client to evaluate a client’s need for services, eligibility for services, the appropriate level of care, and service placement. Screening focuses on current information regarding the presenting problem that resulted in the client seeking services as well as the services that are expected to meet the client’s current needs.
+
+Screening documents review a client’s overall functioning and environment to help determine the need for services, resources, and referrals. While these screenings have different purposes, some organizations choose to have areas of information that overlap. This may be due to documentation requirements or to elicit different information due to the follow-up questions that each discipline would ask.
+
+Documentation from screening instruments and/or interviews typically includes one or more of the following elements.5,6,7
+
+» Presenting problem(s) (reason for services)
+» Problem acuity (how much dysfunction or distress is occurring because of the identified problem)
+» Referral source (for initial screenings)
+» Imminent risk of harm to self and others
+» Cognitive and mental status including ability to consent to and participate in treatment
+» Psychological functioning including emotional expression and affect
+» Current and past symptoms, diagnoses, behaviors, and treatment
+» Observed and reported symptoms and behaviors during the interview
+» History of trauma
+» Family dynamics, relationships, and support systems
+» Living conditions and financial security
+» Vocational, educational, and legal history
+» Current physical health and chronic health conditions
+» Drug screening test results
+» Any special needs (language, hearing, cultural, etc.)
+
+[Image: A black and white, slightly blurry photograph from a high angle, showing a person in a dark suit and tie, whose face is obscured, writing on a clipboard. The visible word on the paper is "Depression," with a comma after it, suggesting more text may follow. The person's right hand is holding a pen and is in the act of writing. The focus is on the hand, pen, and clipboard.]348 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**Clinical Assessments**
+
+A comprehensive biopsychosocial assessment is the foundation upon which the clinical record is built. It entails both data gathering and analysis and the identification of issues and strengths that will provide the basis for treatment. Based on the data gathered and the SUD counselor’s own observations and experience, a clinical summary is formulated.
+
+Key elements to be documented generally include:
+
+1. Referral source and mode of entry (where the client appeared for services)
+2. The presenting issue(s)/level of impairment
+3. Substance use history (alcohol, drugs, other substances of choice; age of onset: route of administration, frequency; amount and duration of use; consequences; types of previous treatment and response, etc.)
+4. Family history (including nature of relationships, history of substance use or mental health conditions, child abuse, legal involvement of family members, etc.)
+5. Educational history (academic achievement, learning disabilities, etc.)
+6. Employment history/financial status (present and past employment, time frames, vocational interests and plans, etc.)
+7. Spiritual and cultural/linguistic considerations (affiliations, values, beliefs, norms, etc.)
+8. Medical history (including risk of HIV, Hepatitis, TB)
+9. Social history (support networks, peer relationships, living conditions)
+10. Legal involvement (arrests, incarcerations, current legal requirements, etc.)
+11. Emotional/mental status (current or past mental health disorders, suicide and violence history and risk, past treatment and responses, cognitive functioning, etc.).⁶
+12. Client strengths, aptitudes, and preferences (discussed below)
+13. Diagnostic impressions, based on DSM–5–TR⁸ (ability to diagnosis may be restricted to licensed practitioners)
+14. Problem/needs list
+15. Interpretive clinical summary
+16. Recommendation for treatment
+
+**MEDICAL DOCUMENTATION**
+
+The type and amount of medical documentation will vary with the type of service provided, the severity of the client’s condition, and the presence of co-occurring conditions. Medically-based interventions, such as detoxification and Medication-Assisted Treatment, will have the most extensive medical documentation. Medical documentation includes the following items:⁹
+
+» Medical history
+» Physical examination
+» Nursing assessment
+» Lab work results
+» Records of current and past prescriptions, changes in medications, and medication administration records
+» Routine nursing notes
+
+**Treatment Documentation**
+
+The treatment plan for SUDs is a structured strategy designed to address the specific needs of the client. The plan is usually developed by the SUD counselor in collaboration with a team of interdisciplinary professionals. It is developed after a thorough assessment and is regularly updated based on the individual’s progress and changing needs. Many organizations develop an initial treatment plan that is briefer than the full treatment plan which is more detailed and comprehensive. Regulations and organizational policies will dictate the time frame for finalization of the full treatment plan and its updates.[Layout: Single column page with a header. The header contains "CHAPTER 8: Documentation" on the left and the page number "349" on the right. The main content is a numbered list.]
+
+CHAPTER 8: Documentation 349
+
+Chapter 5 addressed the many facets and components of treatment planning. Below is a review of the main
+elements and processes that can be incorporated into treatment plan documentation for SUDs.
+
+**1. Assessment and Diagnosis:**
+    > Build treatment plan based on a thorough assessment of the individual's substance use history,
+      medical and mental health status, and social context.
+    > Use standardized tools such as the Addiction Severity Index (ASI) or the Diagnostic and Statistical
+      Manual of Mental Disorders (DSM-5-TR) criteria to diagnose SUDs.
+
+**2. Cultural Responsiveness:**
+    > Consider cultural and linguistic factors and beliefs to address client preferences and provide culturally
+      competent care.
+
+**3. Goal Setting:**
+    > Collaboratively establish clear and achievable treatment goals based on the individual's specific needs
+      and aspirations.
+
+**4. Detoxification** (if necessary):
+    > Provide medically supervised detoxification services to manage withdrawal symptoms safely and
+      effectively.
+
+**5. Behavioral Therapy:**
+    > Use of individual counseling using evidence-based modalities like Cognitive-Behavioral Therapy
+      (CBT), Motivational Enhancement Therapy (MET), Dialectical Behavior Therapy (DBT), or Contingency
+      Management.
+    > Group counseling to foster peer support and address common issues among participants.
+    > Family counseling to improve family dynamics and communication.
+
+**6. Medication-Assisted Treatment (MAT):**
+    > The use of federally-approved medications, if appropriate and prescripted, like methadone,
+      buprenorphine, or naltrexone for opioid use disorder, or medications like acamprosate or disulfiram
+      for alcohol use disorder.
+
+**7. Relapse Prevention:**
+    > Develop coping strategies to understand triggers and warning signs, and to manage cravings, identify
+      high-risk situations prevent a recurrence of substance use.
+
+**8. Psychoeducation:**
+    > Educate individuals about problematic substance use, its impact on the brain and behavior, and the
+      benefits of treatment and recovery supports.
+
+**9. Holistic Approaches:**
+    > Incorporate holistic practices such as mindfulness, meditation, yoga, and exercise to improve overall
+      well-being.
+
+**10. Peer Support:**
+     > Connect with peers and encourage participation in mutual support groups like Alcoholics Anonymous
+       (AA) or Narcotics Anonymous (NA).
+
+**11. Support Services:**
+     > Connect individuals with community resources, vocational training, housing assistance, and legal
+       support as needed.
+
+**12. Legal and Ethical Considerations:**
+     > Address any legal issues related to substance use or its consequences, which may involve legal
+       advocacy or referrals to legal services.350 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**13. Crisis Management:**
+    ‣ Develop a crisis plan to address emergencies, such as relapse or acute mental health crises.
+
+**14. Continuity of Care:**
+    ‣ Create a plan for ongoing support after completing the primary treatment program, including outpatient therapy, 12-step meetings, or other peer support groups.
+
+**15. Monitoring and Evaluation:**
+    ‣ Regularly assess progress toward treatment goals and adjust the treatment plan as necessary.
+
+**16. Confidentiality and Privacy:**
+    ‣ Ensure compliance with legal requirements and ethical standards regarding patient privacy and confidentiality.
+
+It's important to note that treatment approaches may evolve, and new research may influence the components of SUD treatment plans. Regular updates to the treatment plan are crucial in managing the course of care for people with SUDs. A well-structured plan not only guides the therapeutic process but also ensures individualized care tailored to the specific needs of the client. The integration of detailed documentation in treatment planning facilitates the evaluation of treatment efficacy and enhances the potential for successful recovery outcomes.
+
+**PROGRESS NOTES**
+
+The purpose of the progress note is to **document the client's progress in relation to treatment goals and objectives**. Progress notes document what is occurring through the course of care in relationship to the treatment plan. Specifically, progress notes detail the content of contacts with the client and the client's progress towards accomplishment of goals and objectives, including documentation of process, progress, and outcome measurements. Progress notes also document new information that may be revealed throughout the course of treatment and in some cases may identify additional problems/needs that should be added through treatment plan updates.
+
+[Image: A black and white photograph depicts a healthcare professional, likely a male doctor or counselor, from the mid-chest up. He has dark hair, a beard, and a mustache, and is wearing a collared shirt that resembles scrubs. He is looking down thoughtfully at a clipboard he holds in his left hand. His right hand is raised to his chin, with his index finger resting on his lip, in a contemplative gesture. The background is blurred. The image is positioned to the right of the "PROGRESS NOTES" text block, visually accompanying the topic of documentation and assessment.]
+
+The Subjective, Objective, Assessment and Plan (SOAP) note is an acronym representing a widely used method of documentation for healthcare providers. The SOAP note is a way to document in a structured and organized way. It also provides a clear, concise way for healthcare providers to communicate about an individual's care.¹⁰
+
+**1. Subjective (S):**
+    ‣ It contains the “subjective” experiences, personal views or feelings of the client or someone close to them.
+    ‣ Begin by documenting the client’s subjective concerns. symptom, condition, previous diagnosis, or another short statement that describes why the patient is presenting today.
+
+**2. Objective (O):**
+    ‣ Document objective, measurable, and observable data. This can include behavioral or mood issues such as agitation, emotional distress, anger, pacing or isolation.
+    ‣ Record any changes since the last visit or assessment.CHAPTER 8: Documentation 351
+
+**3. Assessment (A):**
+    >   This section is for the counselor or other healthcare provider's interpretation of the subjective and objective findings.
+    >   Document the client's status through analysis of the problem or situation, possible interaction of the pressing issues, and changes in the status of the problems/issues. Note any changes in the client's condition since the last session.
+
+**4. Plan (P):**
+    >   Outline the plan of care based on the assessment. This may include therapeutic interventions, lifestyle changes or connections to other service providers.
+    >   It can include short- and long-term goals for the client and with specificity about what the client will do before the next session or as general the expectations for the duration of treatment.
+
+An example of this type of documentation is as follows:
+
+[Table: 2 columns, 5 rows. The first row is a header spanning both columns. The remaining 4 rows have the first column as a single letter (S, O, A, P) and the second column containing descriptive text.]
+| **Cocaine Use Disorder (moderate) – Outpatient Individual Session** | |
+| --- | --- |
+| **S** | Sally participated in an individual session today. She discussed using cocaine over the weekend when she ran into an old friend with whom she used to use drugs. She reported feeling very anxious and angry at herself this week. |
+| **O** | Sally was tearful and visibly shaken and related that she felt she had let herself and her family down. Her urine test conducted today is positive for cocaine. |
+| **A** | Sally appears to be in a lapse cycle rather than a return to regular use of cocaine. We reviewed her relapse prevention plan and detailed coping strategies. Using a solution-focused approach, we role-played how she could have handled the situation and practiced ways to handle these situations in the future. Sally was progressively calmer during the session. She stated she felt more confident in how she could handle a potential situation like this in the future. |
+| **P** | Sally agreed to increase the number of individual counseling sessions (to 2 sessions a week) and mutual support meetings she attends to four per week for the next two weeks to prevent another lapse and reinforce successes with coping mechanisms. |
+
+Note that the SUD counselor's assessment is based on both what the client said (that she had let herself and her family down) and what was observed (tearful, visibly shaken). It is also based on the SUD counselor's knowledge and experience (the difference between lapse and recurrence). Descriptive sentences about the client's response to the counselor's intervention were used and the response to the intervention was noted. In addition, the progress note is relatively short; it captures and summarizes pertinent information and captures the changes in the treatment plan (frequency/intensity of services).
+
+Progress notes need to delineate the time and date of the service and are signed, dated, and credentialed by the person delivering the service. The frequency and timeliness of progress notes can be regulated by funders or state administrative rules. For example, it is common to see regulations that are very specific, such as:
+
+*All client-related services must be entered and finalized in the client clinical records within*
+*72-business hours or 3 business days from when the service was provided.*352 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+SUD counselors must know and comply with the specific requirements (from regulators, funders or procedures internal to the organization) for progress note formats and content, and timeframes for documentation of specific service types (e.g. residential services, outpatient services, medication-assisted treatments, individual or group sessions, etc.).
+
+**Discharge Summary and Plan**
+
+Many terms are used to describe the period after primary treatment services – aftercare, continuing care, or discharge. Organizations vary in the terms used; however, the same types of information and plans are usually interchangeable. As seen in a previous chapter in this study guide, recovery planning should be a component of the primary treatment phase and the recovery plan should be continually updated, including at the time of discharge. The recovery plan may be a separate document or one-in-the-same as the discharge plan.
+
+The purpose of the discharge plan is to summarize the services delivered, the progress towards meeting goals and objectives, and any recommendations post discharge, including continuing care and recovery supports. Discharge, despite taking place at the end of a treatment program, should be a core consideration from the very beginning of the course of services. Early, effective planning facilitates the transition from primary treatment to other services and support is critical for long-term recovery.
+
+Discharge summaries are often used to share pertinent information when clients are discharged from one program and referred to another to ensure continuity of care. It is important to **document treatment, continuing care, and recovery plans that are consistent with best practices.**
+
+`,´
+
+**ELEMENTS OF A DISCHARGE PLAN**
+
+While formats will vary among organizations, discharge plans are more complete when they include all of the following:
+» Presenting problems/issues and reason for services/reason for discharge
+» Treatment goals/methods/outcomes
+» Statement of client’s well-being at time of discharge
+» Referral sources and ancillary services to address issues affecting stability (e.g., medical, mental health, vocational training, employment, housing, finances, etc.)
+» Recovery-specific issues (triggers, relapse prevention, mutual aid groups, social integration, supportive relationships, etc.)
+» Signature, date, and SUD counselor credentials
+
+Information describing the reasons for discharge is also included. Such reasons may be treatment completion, leaving against medical advice (AMA), or treatment incomplete. A brief description of the clients’ status at discharge and prognosis for the future should also be included. Recommendations for post discharge activities or services could include participation in continuing care groups, mutual aid meetings, medications at discharge, and referral to other services or practitioners. It can also be noted what the client should do in the event of a relapse or crisis (return for services, contact crisis line, etc.).
+
+This plan is developed with a client to identify recommended activities, support groups, referrals, and any other necessary follow-up activities that will support and enhance client progress following discharge or case closure. Enlisting the input from the client as to what will best assist them and involving significant others (when possible) is an important part of this process.[Layout: Single column page with a header. The left edge of the page shows a spiral binding.]
+
+CHAPTER 8: Documentation
+353
+
+**HEALTH INFORMATION TECHNOLOGY AND ELECTRONIC HEALTH RECORDS**
+
+Health information technology (HIT) is the management of health information across computerized systems. It involves the secure storage and exchange of health and other personal information among clients, providers, and entities such as government agencies and insurance companies. HIT encompasses health systems integration, health information exchange, and the use of electronic health records (EHRs). It also incorporates the use of electronic assessment, treatment, monitoring, and support tools.
+
+Traditionally, health and behavioral health care providers have maintained client information as paper records in offices. An EHR, in its simplest form, is a digital version of those paper records. Electronic health records are used in many health systems to improve the collection, sharing, and use of health care information. EHRs help monitor and improve overall quality of care within an organization in many ways:¹¹, ¹², ¹³
+
+» Increasing secure access to client health information with the entire service team, which often includes clients, to improve coordination of services for enhanced client care.
+» Improving confidentiality by limiting who has access to specific information and tracking when information is viewed.
+» Increasing documentation legibility to improve accuracy and reliability.
+» Streamlining the administrative process to communicate information faster and decrease duplicative and unnecessary services.
+» Tracking individual client data and identify data trends over time to provide safer care with more accurate diagnoses and reduction in medical errors.
+» Providing decision aids to guide treatment.
+» Tracking the progress of those who leave a program and monitoring when and if additional services are needed.
+» Delineating requirements for complete documentation to improve accuracy and accountability.
+
+[Image: A stylized, black and white graphic depicting a silhouette of a person from the chest up on the left. Overlaid on the person's chest is a hexagonal icon containing a heart with a plus sign inside. To the right of the person, a series of interconnected hexagonal icons are displayed, each containing a different symbol related to healthcare and technology. These icons include: a magnifying glass, a nurse or doctor, a syringe, a clipboard with a pencil, a section symbol (§), a cloud with an arrow pointing up (cloud storage), a Wi-Fi symbol, an envelope (email), and a padlock (security). A stylized hand appears to be interacting with these icons.]354 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+The use of EHR systems in behavioral health organizations is constantly expanding. Most of the same issues related to effective documentation exist whether handwritten or used in an EHR system. Using an EHR, however, brings additional considerations for counselors. ¹⁴, ¹⁵, ¹⁶, ¹⁷
+
+1.  **Legal and Ethical Risks:** The integration of technology in counseling brings significant legal and ethical risks. Counselors need to be aware of rules from HIPAA and HITECH, which involve the security and privacy of electronic Protected Health Information (ePHI). These regulations require measures to keep ePHI confidential and protect it from disclosure, impacting how counselors interact with clients electronically.
+
+2.  **Integrated Care Documentation:** EHRs often facilitate integrated care, where behavioral health is coordinated with other medical services. Counselors should know how to document behavioral health issues in a way that is useful for other healthcare providers, while still maintaining the necessary confidentiality.
+
+3.  **Access and Permissions:** It’s important to understand the system of permissions within EHRs. Who has access to what information? How is this access controlled and recorded? Knowing how to set and manage these permissions is crucial to protect client privacy.
+
+4.  **Data Entry Standards:** Accurate and consistent data entry is vital in EHRs. Counselors should be familiar with the standards and protocols for entering data, including how to record different types of behavioral health interventions, progress notes, and treatment outcomes.
+
+5.  **Use of Electronic Communication:** With EHRs often comes the use of electronic communication for scheduling, reminders, and sometimes even telehealth sessions. Counselors need to be aware of the best practices and legal considerations in using these tools.
+
+6.  **Interoperability:** Understanding how the EHR system interacts with other systems used by pharmacies, laboratories, and other healthcare providers is important for comprehensive care coordination.
+
+7.  **Client Access and Education:** Clients often have access to their own records via specific portals. Counselors should know how to educate clients about accessing and understanding their records, including limitations and benefits.
+
+8.  **Billing and Coding:** EHRs are often used for billing purposes. Counselors should be familiar with the relevant billing codes and documentation requirements to ensure that services are properly recorded and reimbursed.
+
+9.  **Audit Trails:** Understanding how EHRs track user access and changes to records (audit trails) is important for legal and ethical reasons. This feature can be vital in cases where there is a question about who accessed or altered patient information.
+
+10. **Technological Challenges:** Technical aspects, such as the integration of systems, maintaining infrastructure, and handling diverse systems, are crucial considerations. Counselors should be proficient in the technology used and aware of the limitations and challenges it may present.
+
+Effective use of EHRs in behavioral health care requires a balance of technical knowledge, ethical practice, and awareness of legal requirements, all aimed at providing the best possible care for clients while maintaining their privacy and security.CHAPTER 8: Documentation 355
+
+**STORAGE AND RETENTION**
+
+Health information technology is evolving
+very fast with many storage and retention
+options now available. Cloud computing is an
+environment that can store large volumes of
+data and facilitate the sharing of resources
+and services over the internet rather than
+having these services and resources on local
+servers/nodes or personal devices. Cloud-
+based storage options include data security,
+privacy, and interoperability between
+systems, with an increasing use of highly
+secure technologies such as blockchain and
+cryptographic methods for enhanced data
+protection.18
+
+Behavioral health organizations must
+navigate a complex landscape of legal
+requirements when it comes to the storage
+and retention of electronic health records
+(EHRs). They usually consult with legal
+experts and IT professionals specializing in
+healthcare to ensure full compliance with all
+relevant laws and regulations.
+
+Here are some key considerations:19
+
+1.  **Compliance with HIPAA:** HIPAA sets
+    the standard for protecting sensitive
+    patient data. Behavioral health
+    organizations must ensure that their
+    EHR systems are HIPAA compliant. This involves implementing physical, network, and process security
+    measures to protect electronic health information.
+
+2.  **State Regulations:** Along with federal laws like HIPAA, each state may have its own regulations regarding
+    the retention of protected health records. Organizations should be aware of the specific laws in the states
+    where they operate.
+
+3.  **Secure Storage Solutions:** EHRs must be stored in a secure environment. This can be on-premises
+    servers or cloud-based solutions, but in either case, strong security measures must be in place to prevent
+    unauthorized access or data breaches.
+
+4.  **Data Encryption:** Encrypting data, both in transit and at rest, is a critical component of safeguarding
+    electronic health records. Encryption makes it much harder for unauthorized individuals to access or
+    interpret the data.
+
+5.  **Access Controls:** Implementing strict access controls ensures that only authorized personnel can access
+    or modify the EHRs. This often involves role-based access, where individuals only have access to the
+    information necessary for their job functions.
+
+6.  **Retention Policies:** Organizations must adhere to legal requirements for how long medical and behavioral
+    health records must be kept. This varies depending on the type of record and the client’s age, among
+    other factors.
+
+[Image: A black and white, slightly stylized photograph of a server rack (a tall, narrow cabinet containing multiple computer servers) emerging from or surrounded by fluffy white clouds. The server rack is dark, and the clouds are bright, creating a contrast. The image likely symbolizes cloud computing or cloud storage.]356 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+DOCUMENTATION SKILLS
+
+Good documentation skills improve the quality of the clinical record and save the SUD counselor time and
+energy. While experience is essential to developing these skills, there are some guidelines that can aid the SUD
+counselor in this process. The recommendations outlined below are generally considered to be part of good
+documentation.
+
+1. **Write knowing others will read your documentation.** Today there are many situations where some or
+   all of the client's record may be read by others, such as the client, the court, or an insurance company.
+   Thinking of this as documentation is made will help maintain focus.
+
+2. **Develop good habits:** Allocate specific times for documentation and stick to a routine. This can help
+   ensure that documentation is done promptly and is not overlooked.
+
+3. **Be objective.** Make assessments based on facts and observations to help eliminate personal subjectivity.
+   Be attentive and note what the client (and significant others) says and does.
+
+4. **Describe in behavioral terms.** Clarify what is occurring for the reader and give a clear picture of what
+   behaviors need to be changed or initiated. Recording that "Johnny did not talk in group" is more accurate
+   than saying that "Johnny was resistant." In addition, a clear description of the desired behavior is best –
+   "Plan is to use encouragement and role play to increase Johnny's self-disclosure in group."
+
+5. **Avoid jargon.** Technical terms, short-hand, or industry-specific language can be confusing or completely
+   unfamiliar to other professionals who don't use the same short-hand or jargon. Using clear language
+   ensures that the counselor's documentation is understood. This is especially true for documents that may
+   need to go to external sources in the future.
+
+6. **Be concise.** While it is important to be accurate, simply recording everything that was said and done
+   in a session is unnecessary and overly time consuming. Learn to minimize extraneous information and
+   summarize the essential points clearly and succinctly.
+
+7. **Be positive.** Sometimes counselors unwittingly use language and terminology that appears to convey a
+   negative view towards a client. Ensure that person-first language is the rule in documentation.
+
+8. **Strive for consistency.** Be consistent in the structure of progress notes and other forms of documentation
+   and standardize the display and order of note sections to improve your writing and facilitate the reading
+   for other professionals. Use of templates for intake forms, progress notes, and treatment plans can help
+   ensure consistency and completeness.
+
+9. **Review and reflect:** Periodically review your documentation. Reflect on whether your notes are clear,
+   concise, and useful for understanding the client's progress and your therapeutic interventions.
+
+10. **Continuous improvement through feedback:** Seek feedback from peers, supervisors, or during
+    professional development sessions. Understanding how others perceive your documentation can provide
+    insights into areas for improvement.[Layout: A single page with a header, a main title "END NOTES", and two columns of numbered references. The left edge of the page shows a spiral binding.]
+
+CHAPTER 8: Documentation 357
+
+**END NOTES**
+
+1  Bodek, H. (2010). Clinical documentation and record keeping. https://www.clinicalsocialwork.org/assets/docs/100206_records.pdf.
+
+2  HCCA Clinical Practice Compliance Conference (2017). 42 CFR Part 2 v HIPAA: Compare and Contrast. https://assets.hcca-info.org/Portals/0/PDFs/Resources/Conference_Handouts/Clinical_Practice_Compliance_Conference/2017/502_Pickles_2.pdf.
+
+3  Focus: PHI (2024). HHS Fact Sheet – 42 CFR Part 2 Final Rule. The Center of Excellence for Protected Health Information. CAI Legal Action Center. https://coephi.org/resource/hhs-fact-sheet-42-cfr-part-2-final-rule/.
+
+4  Health Care Compliance Association (1999). Sample partial hospital clinical documentation requirements. https://assets.hcca-info.org/Portals/0/PDFs/Resources/library/Partial%20Hospital%20Clinical%20Documentation%20Requirements.pdf.
+
+5  Alameda County Behavioral Health Care Services (2014). Clinical documentation standards. https://www.cibhs.org/sites/main/files/fileattachments/7-1_clinical_documentation_standards_2.pdf.
+
+6  Santa Barbara County Alcohol, Drug and Mental Health Services (2015). Clinical documentation manual. https://www.countyofsb.org/behavioral-wellness/asset.c/2735.
+
+7  Yolo County Health and Human Services (2016). Clinical documentation guide. http://www.yolocounty.org/home/showdocument?id=38945.
+
+8  American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). https://doi.org/10.1176/appi.books.9780890425787.
+
+9  Santa Clara County Mental Health Department (2018). Inpatient documentation requirements. Retrieved from https://www.sccgov.org/sites/bhd-p/PharmacyInformation/Documents/inpatient-doc-require-revised-04-18-18.pdf.
+
+10  Podder, V., Lew, V., & Ghassemzadeh, S. [Updated 2023 Aug 28]. SOAP Notes. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK482263/.
+
+11  Health IT (2019). What are the advantages of electronic health records? https://www.healthit.gov/faq/what-are-advantages-electronic-health-records.
+
+12  Health IT (2017). Benefits of EHRs. https://www.healthit.gov/topic/health-it-basics/benefits-ehrs.
+
+13  The Hospitalist (2014). 9 Ways Hospitals Can Use Electronic Health Records to Reduce Readmissions. https://www.the-hospitalist.org/hospitalist/article/122869/9-ways-hospitals-can-use-electronic-health-records-reduce-readmissions.
+
+14  Segal, M., Giuffrida, P., Possanza, L., & Bucciferro, D. (2022, April). The critical role of health information technology in the safe integration of behavioral health and primary care to improve patient care. Journal of Behavioral Health Services Research, 49(2): 221–230. doi: 10.1007/s11414-021-09774-0. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8525847/.
+
+15  Lawley, J. (2012). HIPAA, HITECH and the practicing counselor: Electronic records and practice guidelines. The Professional Counselor, 2, 192–200. https://doi.org/10.15241/JSL.2.3.192.
+
+16  Damen, D.J., Schoonman, G.G., et al. (2022, Dec.). Patients managing their medical data in personal electronic health records: Scoping review. Journal of Medical Internet Research, 4, 24(12):e37783. doi: 10.2196/37783. PMID: 36574275; PMCID: PMC9832357. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9832357/.
+
+17  Kariotis, T.C., Prictor, M., Chang, S., & Gray, K. (2022). Impact of electronic health records on information practices in mental health contexts: Scoping review. Journal of Medical Internet Research, 4, 24(5):e30405. doi: 10.2196/30405. PMID: 35507393; PMCID: PMC9118021. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9118021/.
+
+18  Kuppuswamy, P., Sundaram, S., & John, R. (2020). Designing framework of Cloud Health Record (CHR) System for patient health information storage: A new prophecy. International Journal of Computer & Software Engineering. https://doi.org/10.15344/2456-4451/2020/153.
+
+19  Office of the National Coordinator for Health Information Technology (2015, April). Guide to privacy and security of electronic health information. HealthIT.gov https://www.healthit.gov/sites/default/files/pdf/privacy/privacy-and-security-guide.pdf.

@@ -1,0 +1,43 @@
+[Layout: A single page with a header, a main title "END NOTES", and two columns of numbered references. The left edge of the page shows a spiral binding.]
+
+CHAPTER 8: Documentation 357
+
+**END NOTES**
+
+1  Bodek, H. (2010). Clinical documentation and record keeping. https://www.clinicalsocialwork.org/assets/docs/100206_records.pdf.
+
+2  HCCA Clinical Practice Compliance Conference (2017). 42 CFR Part 2 v HIPAA: Compare and Contrast. https://assets.hcca-info.org/Portals/0/PDFs/Resources/Conference_Handouts/Clinical_Practice_Compliance_Conference/2017/502_Pickles_2.pdf.
+
+3  Focus: PHI (2024). HHS Fact Sheet – 42 CFR Part 2 Final Rule. The Center of Excellence for Protected Health Information. CAI Legal Action Center. https://coephi.org/resource/hhs-fact-sheet-42-cfr-part-2-final-rule/.
+
+4  Health Care Compliance Association (1999). Sample partial hospital clinical documentation requirements. https://assets.hcca-info.org/Portals/0/PDFs/Resources/library/Partial%20Hospital%20Clinical%20Documentation%20Requirements.pdf.
+
+5  Alameda County Behavioral Health Care Services (2014). Clinical documentation standards. https://www.cibhs.org/sites/main/files/fileattachments/7-1_clinical_documentation_standards_2.pdf.
+
+6  Santa Barbara County Alcohol, Drug and Mental Health Services (2015). Clinical documentation manual. https://www.countyofsb.org/behavioral-wellness/asset.c/2735.
+
+7  Yolo County Health and Human Services (2016). Clinical documentation guide. http://www.yolocounty.org/home/showdocument?id=38945.
+
+8  American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). https://doi.org/10.1176/appi.books.9780890425787.
+
+9  Santa Clara County Mental Health Department (2018). Inpatient documentation requirements. Retrieved from https://www.sccgov.org/sites/bhd-p/PharmacyInformation/Documents/inpatient-doc-require-revised-04-18-18.pdf.
+
+10  Podder, V., Lew, V., & Ghassemzadeh, S. [Updated 2023 Aug 28]. SOAP Notes. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK482263/.
+
+11  Health IT (2019). What are the advantages of electronic health records? https://www.healthit.gov/faq/what-are-advantages-electronic-health-records.
+
+12  Health IT (2017). Benefits of EHRs. https://www.healthit.gov/topic/health-it-basics/benefits-ehrs.
+
+13  The Hospitalist (2014). 9 Ways Hospitals Can Use Electronic Health Records to Reduce Readmissions. https://www.the-hospitalist.org/hospitalist/article/122869/9-ways-hospitals-can-use-electronic-health-records-reduce-readmissions.
+
+14  Segal, M., Giuffrida, P., Possanza, L., & Bucciferro, D. (2022, April). The critical role of health information technology in the safe integration of behavioral health and primary care to improve patient care. Journal of Behavioral Health Services Research, 49(2): 221–230. doi: 10.1007/s11414-021-09774-0. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8525847/.
+
+15  Lawley, J. (2012). HIPAA, HITECH and the practicing counselor: Electronic records and practice guidelines. The Professional Counselor, 2, 192–200. https://doi.org/10.15241/JSL.2.3.192.
+
+16  Damen, D.J., Schoonman, G.G., et al. (2022, Dec.). Patients managing their medical data in personal electronic health records: Scoping review. Journal of Medical Internet Research, 4, 24(12):e37783. doi: 10.2196/37783. PMID: 36574275; PMCID: PMC9832357. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9832357/.
+
+17  Kariotis, T.C., Prictor, M., Chang, S., & Gray, K. (2022). Impact of electronic health records on information practices in mental health contexts: Scoping review. Journal of Medical Internet Research, 4, 24(5):e30405. doi: 10.2196/30405. PMID: 35507393; PMCID: PMC9118021. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9118021/.
+
+18  Kuppuswamy, P., Sundaram, S., & John, R. (2020). Designing framework of Cloud Health Record (CHR) System for patient health information storage: A new prophecy. International Journal of Computer & Software Engineering. https://doi.org/10.15344/2456-4451/2020/153.
+
+19  Office of the National Coordinator for Health Information Technology (2015, April). Guide to privacy and security of electronic health information. HealthIT.gov https://www.healthit.gov/sites/default/files/pdf/privacy/privacy-and-security-guide.pdf.

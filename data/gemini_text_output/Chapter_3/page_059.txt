@@ -1,0 +1,41 @@
+CHAPTER 3: Co-Occurring Conditions and Special Populations 143
+
+23 SAMHSA (2019). Get connected: Linking older adults with resources on medication, alcohol, and mental health. HHS Publication No. (SMA) 03-3824. Substance Abuse and Mental Health Services Administration. https://store.samhsa.gov/sites/default/files/sma03-3824_2.pdf
+
+24 Brick, J. (Ed) (2012). Handbook of the medical consequences of alcohol and drug abuse, second ed. The Haworth Press, Taylor and Francis Group, New York.
+
+25 Jiang, H. J., Weiss, A. J., Barrett, M. L., & Sheng, M. (2015). Characteristics of hospital stays for super-utilizers by payer. HCUP Statistical Brief #190. Agency for Health-care Research and Quality, Rockville, MD: https://www.hcup-us.ahrq.gov/reports/statbriefs/sb190-Hospi-tal-Stays-Super-Utilizers-Payer-2012.pdf.
+
+26 Thorpe, K., Jain, S. & Joski, P. (2017). Prevalence and spending associated with patients who have a behavioral health disorder and other conditions. Health Affairs 36, 124-132. https://doi.org/10.1377/hlthaff.2016.0875
+
+27 Wu, L. T., Ghitza, U. E., Zhu, H., Spratt, S., et al. (2018). Substance use disorders and medical comorbidities among high-need, high-risk patients with diabetes. Drug and Alcohol Dependence, 186, 86-93. DOI: 10.1016/j.drugalcdep.2018.01.008
+
+28 Richmond-Rakerd, L. S., D’Souza, S., Milne, B. J., Caspi, A., & Moffitt, T. E. (2021). Longitudinal associations of mental disorders with physical diseases and mortality among 2.3 million New Zealand citizens. JAMA Net-work Open, 4(1), e2033448. doi:10.1001/jamanetworko-pen.2021.28568
+
+29 Scott, K. M., Lim, C., Al-Hamzawi, A., et al. (2016). Association of mental disorders with subsequent chronic physical conditions: World mental health surveys from 17 Countries. JAMA Psychiatry, 73(2), 150-158. doi:10.1001/jamapsychiatry.2015.2688
+
+30 Ibid.
+
+31 SAMHSA, Center for Behavioral Health Statistics and Quality (2022). National Survey on Drug Use and Health. Table 2.28A—Binge alcohol use in past month: among people aged 12 or older; by age group and demograph-ic characteristics, numbers in thousands, 2021 and 2022. [cited 2023 Dec 8]. https://www.samhsa.gov/data/sites/default/files/reports/rpt42728/NSDUHDetailedTabs2022/NSDUHDetTabsSect2pe2022.htm#tab2.28a
+
+32 SAMHSA, Center for Behavioral Health Statistics and Quality (2022). National Survey on Drug Use and Health. Table 2.29A—Heavy alcohol use in past month: among people aged 12 or older; by age group and demograph-ic characteristics, numbers in thousands, 2021 and 2022. https://www.samhsa.gov/data/sites/default/files/reports/rpt39441/NSDUHDetailedTabs2021/NSDUHDetTabsSect2pe2021.htm#tab2.29a
+
+33 SAMHSA, Center for Behavioral Health Statistics and Quality (2022). National Survey on Drug Use and Health. Table 5.9A—Alcohol use disorder in past year: among people aged 12 or older; by age group and demograph-ic characteristics, numbers in thousands, 2021 and 2022. https://www.samhsa.gov/data/sites/default/files/reports/rpt42728/NSDUHDetailedTabs2022/NSDUH-DetailedTabs2022/NSDUHDetTabsSect5pe2022.htm#tab5.9a
+
+34 Centers for Disease Control and Prevention. Alcohol-Related Disease Impact (ARDI) Application. https://nccd.cdc.gov/DPH_ARDI/default/default.aspx
+
+35 Rehm, J., Gmel, G. E., Sr, Gmel, G., Hasan, O. S.M., et al. (2017). The relationship between different dimensions of alcohol use and the burden of disease-an update. Addic-tion, 112(6):968-1001. doi: 10.1111/add.13757.
+
+36 Centers for Disease Control and Prevention (2024, Feb.) Alcohol use and your health. https://www.cdc.gov/alco-hol/fact-sheets/alcohol-use.htm
+
+37 Manzo-Avalos, S., & Saavedra-Molina, A. (2010). Cellular and mitochondrial effects of alcohol con-sumption. International Journal of Environmental Re-search in Public Health, 7(12):4281-304. doi: 10.3390/ijerph7124281. https://www.ncbi.nlm.nih.gov/pmc/arti-cles/PMC3037055/
+
+38 Shah, N. J., Royer, A., & John, S. (2024, Jan.) Alcoholic hepatitis. [Updated 2023 Jun 5]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK470217/
+
+39 NIAAA (2024, March). Medical complications: Common alcohol-related concerns. National Institute on Alcohol and Alcoholism. https://www.niaaa.nih.gov/health-pro-fessionals-communities/core-resource-on-alcohol/medical-complications-common-alcohol-related-con-cerns
+
+40 Pervin, Z., & Stephen, J. M. (2021). Effect of alcohol on the central nervous system to develop neurological disorder: pathophysiological and lifestyle modulation can be potential therapeutic options for alcohol-induced neurotoxication. AIMS Neuroscience, 8(3), 390-413. doi: 10.3934/Neuroscience.2021021. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8222771/
+
+41 Rehm, J., & Roerecke, M. (2017). Cardiovascular ef-fects of alcohol consumption. Trends in Cardiovascular Medicine, 27(8), 534-538. ISSN 1050-1738, https://doi.org/10.1016/j.tcm.2017.06.002
+
+42 Jun, S., Park, H., Kim, U. J., Choi, E. J., et al. (2023). Cancer risk based on alcohol consumption levels: A comprehensive systematic review and meta-analysis. Epidemiological Health, 45:e2023092. doi: 10.4178/epih.e2023092. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10867516/

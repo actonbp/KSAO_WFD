@@ -1,0 +1,46 @@
+CHAPTER 4: Evidence-based Screening 203
+
+**The ASAM Criteria Continuum of Care for Adult Addiction Treatment**¹⁵⁷
+
+[Diagram: A hierarchical chart illustrating "The ASAM Criteria Continuum of Care for Adult Addiction Treatment". It has five main horizontal bands, each representing a level of care or a related service.
+The first band, labeled "Level 4: Inpatient" on the left, has a single rounded rectangle on the right containing a circle with the number "4" and the text "Medically Managed Inpatient".
+The second band, labeled "Level 3: Residential" on the left, has three rounded rectangles on the right. The first contains a circle with "3.1" and the text "Clinically Managed Low-Intensity Residential". The second contains a circle with "3.5" and the text "Clinically Managed High-Intensity Residential". The third contains a circle with "3.7" and the text "Medically Managed Residential".
+The third band, labeled "Level 2: IOP/HIOP" on the left, has three rounded rectangles on the right. The first contains a circle with "2.1" and the text "Intensive Outpatient (IOP)". The second contains a circle with "2.5" and the text "High-Intensity Outpatient (HIOP)". The third contains a circle with "2.7" and the text "Medically Managed Intensive Outpatient".
+The fourth band, labeled "Level 1: Outpatient" on the left, has three rounded rectangles on the right. The first contains a circle with "1.0" and the text "Long-Term Remission Monitoring". The second contains a circle with "1.5" and the text "Outpatient Therapy". The third contains a circle with "1.7" and the text "Medically Managed Outpatient".
+The fifth band, labeled "Recovery Residence" on the left, has a single rounded rectangle on the right containing a circle with "RR" and the text "Recovery Residence*".
+]
+
+Level 4: Inpatient
+4 Medically Managed Inpatient
+
+Level 3: Residential
+3.1 Clinically Managed Low-Intensity Residential
+3.5 Clinically Managed High-Intensity Residential
+3.7 Medically Managed Residential
+
+Level 2: IOP/HIOP
+2.1 Intensive Outpatient (IOP)
+2.5 High-Intensity Outpatient (HIOP)
+2.7 Medically Managed Intensive Outpatient
+
+Level 1: Outpatient
+1.0 Long-Term Remission Monitoring
+1.5 Outpatient Therapy
+1.7 Medically Managed Outpatient
+
+Recovery Residence
+RR Recovery Residence*
+
+The continuum of care includes four broad treatment levels, 1 through 4. Within these four broad levels of care, decimal numbers express further gradations of treatment intensities and types of care provided. The continuum also includes programs with enhanced biomedical capabilities (ie, Level 3.7 BIO) to manage patients with medical comorbidities and enhanced capabilities to treat patients with co-occurring mental health conditions (ie, co-occurring enhanced [COE] levels of care, which include Levels 1.5 COE, 1.7 COE, 2.5 COE, 2.7 COE, 3.5 COE, 3.7 COE, and 4 Psychiatric). Please see Chapter 12: Integrating Care for Co-occurring Mental Health Conditions for further details.
+
+* The Dimensional Admission Criteria may recommend a recovery residence in addition to an outpatient level of care (ie, Levels 1 and 2).
+
+Used with permission. From *The ASAM Criteria, Fourth Edition* © Copyright American Society of Addiction Medicine 2023. All rights reserved.
+
+» **Level 2. Intensive Outpatient/High Intensity Outpatient Programs.** This level is for individuals with complex needs, such as those with co-occurring disorders. These programs offer a structured and comprehensive approach to treatment, surpassing the resources available in standard outpatient services.
+
+> **2.1 Intensive Outpatient Programs (IOP).** This level is designed for individuals who require more support than traditional outpatient services can provide but do not need 24-hour supervision. It is ideal for those who have a stable living situation and sufficient social supports but need intensive treatment for an SUD. Treatment typically involves multiple sessions per week across three to five days per week. IOP provides a combination of group therapy, individual counseling, and educational programs.
+
+> **2.5 High Intensity Outpatient Programs (HIOP).** HIOP provides a more rigorous and structured treatment program than lower levels of outpatient care. Treatment sessions typically occur multiple times per week, often for several hours each day. This frequency allows for a concentrated approach to treatment. HIOP includes a blend of group therapy, individual counseling, medical oversight, and educational sessions. The primary goal is to stabilize the individual's SUD at a level where they do not require more intensive, residential care.
+
+> **2.7 Medically Managed Intense Outpatient.** This level is a specialized form of an IOP that integrates more substantial medical oversight and psychiatric care into the treatment process. This level is appropriate for individuals with more complex and severe SUDs, often accompanied by co-occurring MHDs, who require regular medical monitoring but do not need 24-hour care.

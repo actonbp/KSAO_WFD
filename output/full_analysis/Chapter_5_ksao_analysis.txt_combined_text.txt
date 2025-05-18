@@ -1,0 +1,1488 @@
+
+
+### Chapter_5 ###
+
+217
+
+**CHAPTER 5:**
+TREATMENT PLANNING
+AND COUNSELING218 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**INTRODUCTION**
+
+Substance use disorders (SUDs) present complex challenges that require a nuanced, individualized approach to treatment planning and counseling. The core of the professional skill set for SUD counselors revolves around the ability to develop effective treatment plans tailored to the unique needs of each client. In addition, the ability to provide counseling in the context of SUDs is what sets apart competent practitioners in this field. This chapter is designed to deepen your understanding of:
+
+» essential counseling microskills and methods
+» facilitators of an effective therapeutic alliance
+» theoretical foundations for treatment planning and service provision
+» skills and practices used in the development of comprehensive treatment plans
+» crisis prevention and intervention
+» planning for continuing care
+» termination of the primary course of treatment services.
+
+[Image: A black and white photograph depicting five individuals in what appears to be a professional meeting or discussion around a wooden table. In the foreground on the left, a woman with dark hair is partially visible. To her right, a man with glasses and a receding hairline, wearing a suit jacket, is looking down at papers he holds and gesturing with his right hand. Behind him and slightly to the left, a woman with lighter hair is standing, looking down and appearing to write on a notepad. To the right of the man with papers, a woman with dark, shoulder-length hair and glasses, wearing a light-colored jacket (possibly a lab coat), is looking towards him and gesturing with her left hand. On the far right, a man with dark hair and glasses, wearing a suit and striped tie, is looking towards the center of the table. On the table, there are papers, pens, a glass of water, and a coffee mug. The image suggests a collaborative professional environment, relevant to the topic of counseling and treatment planning discussed in the text.]CHAPTER 5: Treatment Planning and Counseling 219
+
+TREATMENT PLANNING
+
+The basis of the client’s treatment plan is the assessment and subsequent interpretive summary. Treatment plans are usually developed once a diagnosis is confirmed, a placement recommendation has been made, and the client has been admitted into an appropriate level of care. The level of care is determined based on the diagnosis of the problem and on the client’s strengths and assets.
+
+Involving clients directly in the treatment planning process is the basis of effective practice, underscoring the importance of a personalized and engaging approach to recovery. The counselor needs to continue to build trust, demonstrate empathy, ensure respect, and create a safe space where open communication can occur. As the SUD counselor and client explore various treatment modalities and recovery strategies together, a person-centered approach dictates that the client’s preferences and readiness for each option are discussed to ensure that the chosen path aligns with their personal values, strengths, and goals.
+
+Developing a treatment plan for SUDs involves a comprehensive approach that integrates philosophical considerations with practical strategies. **While many of these considerations were addressed in Chapter 4, their importance requires reiteration as they relate to treatment planning and counseling.** Here are key considerations:¹,²
+
+**Theoretical Considerations**
+
+1.  **Person-Centered Approach:** Emphasizing the individual’s worth, autonomy, and capacity for self-directed change. The counselor must believe in the client’s potential for recovery and support their journey with empathy and without judgment.
+2.  **Holistic Recovery Orientation:** Understanding problematic substance use as a multifaceted issue that affects the person’s physical health, well-being, social relationships, and purpose in life. This perspective connects treatments and supports that address all aspects of the individual’s life (Heath, Home, Purpose, Community).
+3.  **Biopsychosocial Model:** Recognizing that SUDs result from a complex interplay of genetic, psychological, and social factors. This model supports the use of diverse treatment modalities to address the varied causes of SUDs.
+4.  **Harm Reduction vs. Abstinence:** Philosophically, counselors may need to balance the goal of harm reduction (minimizing the negative consequences of substance use) with the ideal of abstinence, depending on the client’s goals, situation, and readiness for change.
+5.  **Ethical Principles:** Upholding confidentiality, informed consent, and the client’s right to self-determination. The counselor must navigate ethical dilemmas with a commitment to do no harm and to respect the dignity and rights of the client.220 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**Practical Considerations**
+
+1.  **Assessment and Diagnosis:** Using
+    the findings from assessments to
+    understand the nature and severity
+    of the SUD, co-occurring disorders
+    and other conditions, and the client's
+    strengths, needs, and preferences.
+
+2.  **Individualized Treatment Planning:**
+    Developing a tailored plan that
+    considers the client's unique situation
+    and characteristics (e.g., age, gender),
+    including their substance use history,
+    motivation level, support system, and
+    personal goals.
+
+3.  **Evidence-Based Practices:** Employing
+    treatment methods and interventions
+    that have been proven effective
+    through research, such as Cognitive
+    Behavioral Therapy (CBT), Motivational
+    Interviewing (MI), and medication-
+    assisted treatment (MAT).
+
+4.  **Cultural Responsiveness:** Recognizing
+    and respecting the cultural background
+    and identity of the client and adapting
+    treatment approaches to be culturally
+    sensitive and inclusive.
+
+5.  **Continuum of Care:** Planning for
+    various levels of intervention, from
+    detoxification to outpatient or residential treatment and aftercare support, ensuring that the treatment
+    plan is flexible and can evolve according to the client's changing needs.
+
+6.  **Engagement and Retention Strategies:** Implementing techniques to engage clients in the treatment
+    process actively and maintain their participation over time, instilling hope, and recognizing that building
+    a therapeutic alliance is key to successful outcomes.
+
+7.  **Outcome Evaluation:** Regularly reviewing and adjusting the treatment plan based on the client's progress,
+    setbacks, and changing needs, incorporating feedback from the client, family members, and other
+    stakeholders involved in their care.
+
+[Image: A photograph of a dark chalkboard with a wooden frame. On the left side of the chalkboard, three small, light-colored square pieces of paper are arranged vertically, each with a large, dark capital letter: "T" at the top, "I" in the middle, and "P" at the bottom. To the right of these letters, the corresponding words are written in white chalk: "THEORY" next to "T", "INTO" next to "I", and "PRACTICE" next to "P". A thick, white chalk arrow starts to the left of "T", curves around it, goes down past "I", and points towards "PRACTICE", visually connecting the concept of "Theory Into Practice" (TIP).]
+
+For a concurring set of principles, see NIDA's most recent **Principles of Drug Treatment, 3rd Edition (2018)**³ in
+**Appendix E.**CHAPTER 5: Treatment Planning and Counseling 221
+
+**The Treatment Plan**
+
+The treatment plan is typically crafted through a cooperative effort between the client, the SUD counselor, and a multidisciplinary team. Many organizations may create an early, concise version of the treatment plan (the initial treatment plan), with a more elaborate and thorough plan developed later. The completion timeline for the treatment plan, along with its revisions, is governed by specific regulations and the policies of the organization. Once the plan is formulated, it is routinely revised to reflect the person’s evolving needs and advancements in their conditions.
+
+A comprehensive treatment plan is a detailed document that outlines the strategy for addressing an individual’s substance use and any co-occurring disorders. Like the interpretive summary, there is no standard format for a treatment plan; however, it typically includes many key components or sections that ensure a holistic approach to treatment and recovery.4, 5
+
+1.  **Client Information.** This section includes basic information about the client, such as their name, date of birth, contact information. It may also include information about the client’s support system, such as family or friends.
+
+2.  **Brief Summary.** A concise summary (taken from the interpretive summary) provides an overview of the client’s substance use history, including the substances used, patterns of use, and any previous attempts at recovery. It also covers co-occurring disorders, such as mental health or medical conditions, and assesses the client’s readiness for change. This section forms the basis for understanding the client’s needs and challenges.
+
+3.  **Diagnosis.** Based on the assessment, this section outlines the client’s diagnoses, including the primary substance use disorder and any secondary diagnoses, such as co-occurring mental health disorders (MHDs). The diagnoses are typically based on criteria from the Diagnostic and Statistical Manual of Mental Disorders (DSM–5–TR).
+
+4.  **Interventions, Strategies, and Supports.** This section is “the meat” of the treatment plan. It defines the concrete strategies and techniques that will be used to facilitate the client’s progress to achieve their personal goals. This includes a tailored set of interventions and supports, such as individual and group counseling, medication-assisted treatment (MAT), psychoeducation, relapse prevention strategies, linkage to peer support, and referrals to community resources. The interventions are chosen based on their evidence-based effectiveness and relevance to the client’s specific needs.
+
+    [Text box to the right of item 4]
+    Chapter 6 details the prevailing
+    evidence-based treatment practices
+    that need to be considered as
+    in developing this section of the
+    treatment plan.
+    [/Text box]
+
+    This part of the treatment plan is crafted using goals and objectives that are personalized, specific, measurable, achievable, relevant, and time-bound (SMART, as detailed in the following section). Both short-term and long-term objectives are included; short-term objectives address issues that can be achieved relatively quickly to help maintain motivation by providing early successes while also setting a direction for sustained recovery.
+
+It is important to reiterate that treatment plans need to take into consideration special population needs (as described in Chapter 3), such as age, gender, culture, sexual orientation, disability, etc. For example, when developing treatment plans for women and men, the treatment plan may include several gender-related services.6
+
+> **Gender-Specific Group Therapy:** Programs that provide separate counseling groups for men and women can address gender-specific issues more effectively. Women’s groups might focus on topics like trauma, especially from physical or sexual abuse or relationship issues. Men’s groups might address societal pressures, anger management, masculinity norms, and how these impact substance use and recovery.222 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+* **Parenting and Childcare Support**: Women entering treatment are likely to be mothers. For many women, the relationships with their children are highly important. Services that enhance parenting, family/couple relationships and childcare can be a part of the treatment plan.
+
+* **Health and Wellness Programs**: The treatment plan may address physical health, including sexual and reproductive health, are essential, especially for pregnant women with SUDs. Women's services should include access to gynecological care, prenatal care, and education on the impact of substance use on reproductive health. Men might prioritize physical health and fitness, integrating health and wellness programs, or addressing cardio-vascular health.
+
+**5. Timeline and Responsibilities.** This detail is often included in the specific goals and objectives. The timeline outlines the expected duration of treatment and sets milestones for evaluating progress toward the treatment goals. It provides a schedule for when specific interventions will be implemented and when goals and objectives will be reviewed and updated. Details for the responsibilities of both the client and the treatment provider are important to clarify what expected from the client in terms of participation and adherence to the treatment plan, as well as the support and services the provider will offer.
+
+**6. Consent and Confidentiality.** The treatment plan includes a section on consent, where the client acknowledges their agreement with the plan and consents to the proposed treatments. It also outlines the confidentiality policies, ensuring the client understands their rights regarding privacy and information sharing.
+
+**7. Crisis Plan.** A crisis plan may be included to address potential emergencies, such as recurrence of substance use or mental health crises. It outlines steps the client and treatment provider will take in case of a crisis, including contact information for emergency services and support networks.
+
+**8. Review and Adjustment Mechanism.** Finally, the plan incorporates a mechanism for regular review and adjustment. This ensures that the treatment plan remains responsive to the client's evolving needs and progress, allowing for modifications as necessary to optimize treatment outcomes.
+
+**Writing SMART Goals and Objectives**
+
+The creation of measurable, attainable, and realistic long and short-term goals is of utmost importance. First, it lays down a clear direction for the treatment process, offering both the counselor and the client a unified vision of the objectives to be achieved. This clarity helps to boost the client's motivation and engagement with the treatment process. Second, achievable goals serve as milestones that, when reached, reinforce the client's belief in their ability to change, thereby enhancing their motivation further. Third, measurable objectives are essential for the ongoing monitoring and evaluation of the treatment's effectiveness, enabling timely adjustments to the plan based on the client's progress.
+
+There is a tendency to focus on long-term goals related to sustained recovery and the prevention of recurrence of substance use; however, short-term goals provide immediate targets to work toward. Together, they build a foundation for long-term success beyond the immediate treatment period. This dual focus not only guides the immediate treatment process but also supports the client's journey towards a lasting recovery.
+
+The **SMART model** is one example that outlines effective goal setting elements.7
+
+* **Specific** goals clearly identify what the outcome is going to be in a clear, straightforward statement. These often answer questions such as who, what, where, when, why, or how and use action verbs such as develop, implement, coordinate, and plan.
+
+* **Measurable** goals support the specific element by determining detailed outcomes that can be measured with tangible results. Identify how the goal will be measured; this information will determine when the goal is completed.CHAPTER 5: Treatment Planning and Counseling 223
+
+» **A**ttainable goals ensure that
+the goal can be realistically
+obtained provided current
+abilities, resources, and
+barriers.
+
+» **R**elevant goals are in line with
+the client's current aspirations
+and long-term goals. They
+address the current challenges
+and difficulties for which
+services are being sought.
+
+» **T**ime-sensitive goals have
+an end date; intermediate
+dates may also be found in
+the objectives and strategies.
+This helps track and monitor
+progress and is intended to
+help the client to move forward
+and not become stagnant. It may also indicate whether current services are still appropriate or new
+services need to be employed.
+
+S specific
+  strategic
+  significant
+M measurable
+  meaningful
+  motivational
+A attainable
+  achievable
+  adjustable
+Goal R relevant
+       realistic
+setting results
+T timely
+  tractable
+  tangible
+[Image: A close-up, slightly angled view of the tip of a silver ballpoint pen, pointing downwards and to the left. The pen is a common retractable type, positioned to the right of the SMART acronym.]
+
+While not everyone is equally ready to make a change, research shows that even the smallest shift that moves an
+individual in the right direction is worthwhile, because: »»
+
+» Goal setting helps people clarify their values, make decisions, and monitor their progress.
+    » **Long-term goal:** (Client name) will obtain stable, long-term housing within six months of entry into
+    case management services.
+    » **Short-term goal:** (Client name) will apply to one or more appropriate long-term housing program(s)
+    within 60 days of entry into case management services.
+
+» Long-term goals often cannot be reached immediately; they must be broken up into smaller steps.
+
+» Reaching smaller goals improves self-esteem and creates a sense of satisfaction and motivation to
+continue to move towards a long-term goal.
+
+To make the treatment plan achievable, goals may need to be prioritized and some goals may get deferred.
+Deferred goals can always be addressed later as putting too much in the treatment plan may make it
+overwhelming and prevent progress. Goals are usually written starting with “1” or “A” – e.g., Goal 1. (Client name)
+will complete an educational program to become a Certified Nursing Assistant.
+
+**OBJECTIVES**
+
+It is important to distinguish between goals and objectives in the context of treatment planning. **Goals** are the
+broad outcomes to be achieved, while **objectives** are specific, measurable steps to reach these goals. Objectives
+should also follow the SMART criteria. Objectives describe incremental, achievable, and progressive **behaviors**
+that will contribute to the achievement of a goal. Objectives should narrow down the goal into specific actions
+or milestones. Smaller steps inspire hope by allowing clients to experience change as realistic. For instance,
+if the goal is to reduce alcohol use, an objective could be, “Identify triggers for alcohol use and develop coping
+strategies in the first two weeks.” This objective specifies the action (identify and develop) and the focus
+(triggers and coping strategies).
+
+Objectives also indicate that goal achievement is an ongoing process. One possible question to ask during
+objective development is “What is the first small step that you can take toward making a change?” Use the client’s224 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+language whenever possible in writing the objective. In addition, it is best to use wording for objectives
+that address a positive change for the future instead of what the client wants to stop doing. Here are other
+considerations when crafting objectives:
+
+» What will the client do that indicates that a goal is attained?
+» Is the criteria for measurement a part of the objective statement?
+» Is the objective realistic – is it something that the client really can achieve?
+» Does the objective have a singular focus, so it is clear?
+
+Throughout the course of care, goals may remain the same. Objectives, however, need continual monitoring and
+revision or discontinuation. When an objective is discontinued, make sure to notate why it has been discontinued
+or if it was achieved. **Action steps** might also accompany objectives to further define interventions. These steps
+are listed along with whom, how, and when the step will be accomplished.
+
+In summary, setting measurable, attainable, and realistic goals is a fundamental part of creating an effective
+treatment plan for SUDs. It not only guides the treatment process but also supports the client’s journey towards
+recovery by providing direction, motivation, and a framework for evaluating progress.
+
+**Example of Writing Objectives within a SMART Goal**
+
+*NOTE: This scenario assumes the client has completed any educational prerequisites needed for a welding apprenticeship
+program. When writing a goal or objective an actual date for accomplishment is used; this example does not include dates,
+only estimations of time for illustrative purposes.*
+
+**SMART Goal:**
+(Client name) will apply for an apprenticeship program for welding within the
+next four months.
+
+**Objectives:**
+1. Within the first 30 days, (client) will research and compile a list of at least five welding apprenticeship
+programs, including details on application requirements, program length, and associated costs.
+2. Within the first 60 days, (client) will review and select which welding apprenticeship program or
+programs that will be applied to.
+3. Within 120 days, (client) will assemble all necessary application materials, including updating a
+resume to highlight relevant skills and experiences, writing a cover letter tailored to each program, and
+gathering any required recommendations.
+4. Before the end of the four-month period, (client) will submit applications to all selected apprenticeship
+programs.
+
+Each objective can have related action steps, such as conduct online research for welding apprenticeships,
+take a resume writing class, and get feedback on accuracy and completeness of application materials.[Layout: The page has a header at the top right. The main content is in a single column on the left. A sidebar with lists is on the right side of the page.]
+
+CHAPTER 5: Treatment Planning and Counseling 225
+
+**Issues that Impact Treatment Completion and Recovery**8
+
+SUD counselors should be aware of periods when clients may be more vulnerable to stopping treatment or having a recurrence of problematic substance use. Studies indicate that early treatment, particularly within the first 30 days, may be a challenging period for clients. For example, one study of 5,707 participants in intensive outpatient treatment for an SUD found that 13.8% dropped out before 14 days of treatment, and 31.6% dropped out before 30 days of treatment.9 **Thus, it is critical for counselors to work with clients on the specific issues that may contribute to this increased vulnerability.**
+
+**Understanding cravings.** Being able to identify cravings and manage them is essential for recovery from problematic substance use. Cravings are strong psychological desires to consume a substance or engage in an activity. They are symptoms of abnormal brain adaptations that result from SUDs. The brain becomes accustomed to the presence of a substance, which, when no longer there, produces a powerful desire to obtain and consume it. Clients can be matched to various types of services and interventions can help them manage and reduce cravings, such as medication-assisted treatment (MAT), linkage to peer support, or groups that teach coping strategies to manage cravings, such as recognizing triggers, developing avoidance strategies, and applying problem-solving skills.
+
+**Managing withdrawal.** Withdrawal includes the physical, cognitive, and affective symptoms that occur after chronic use of a substance is reduced abruptly or stopped among individuals who have developed tolerance to it.¹⁰ One way to help clients manage withdrawal is to offer education about the symptoms and help them develop realistic attitudes toward recovery. Counselors should also be able to direct them to withdrawal management groups to support their recovery, remind them that recovery is a process that may include managing long-term symptoms, and explain to clients that it is normal to not feel fully recovered within the first weeks after reducing use or beginning abstinence. Clients should be reassured that, although symptoms may continue indefinitely, they can be managed. Counselors should advise clients about ways to reduce or cope with symptoms, encouraging them to focus on incremental improvements.¹¹
+
+**Developing coping and stress-management skills.** Helping clients to develop coping and stress management skills can further support their recovery process. Counselors should have focused discussions clients to gain more information about situations or triggers that may have put them at higher risk for recurrence in the past. Once these are identified, the SUD counselor should work with clients to develop specific coping and stress management skills tailored to individual triggers and give them tools to address similar events in the future. Understanding these triggers helps clients use specific strategies for coping with these triggers.¹²
+
+**Enhancing self-efficacy to deal with high-risk situations.** While working towards recovery, individuals with problematic substance use need to develop skills for negotiating high-risk situations for recurrence. Developing this self-efficacy is a key part of this process.
+
+**Self-efficacy** is commonly understood as a person’s belief in their ability to take action to achieve a desired outcome.¹³ In the context of substance use, a person with high self-efficacy has confidence in their ability to abstain or reduce such use in high-risk situations. An individual with low self-efficacy, on the other hand, is unsure of their ability to do
+
+**Coping Skills**
+
+*   Learning and practicing stress reduction techniques.
+*   Scheduling time for relaxation.
+*   Getting more sleep.
+*   Learning and applying problem-solving techniques.
+*   Identifying recreational activities.
+*   Engaging in positive reframing
+*   Positive reframing occurs when a client considers an alternative positive meaning of or perspective on a situation.
+*   Writing or journaling.
+*   Using “urge surfing” techniques, or an approach to manage urges by observing the craving without overreacting to it.
+
+**Avoidance Coping Strategies**
+
+*   Trying not to think about a problem.
+*   Distracting oneself with other activities.
+*   Avoiding people associated with past substance use.
+*   Altering travel routes to avoid triggering places.
+*   Removing drug paraphernalia from the home.[Layout: A single column of text. A header is present at the top. The right edge of the image shows the spiral binding of a book.]
+
+226 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+so. Research indicates that people in recovery with higher levels of self-efficacy have a greater likelihood of
+achieving their recovery goals.¹⁴ Because self-efficacy is so critical to the recovery process, counselors should
+work with clients to ensure they develop these skills.
+
+**Developing a balanced lifestyle, which includes healthy leisure and recreational activities.** Clients need to
+learn the value of developing a balanced lifestyle that includes recreational and leisure activities, including
+how to incorporate them into their recovery. Leisure activities may offer opportunities for clients to develop or
+practice social skills as well as improve mood and reduce cravings for substances. Counselors should provide
+psychoeducation that encourages clients to develop recreational or healthy leisure activities, noting that these
+can help them feel better during and after active participation in the activity.¹⁵
+
+**Responding safely to recurrences of use to avoid escalation of problematic substance use.** Recurrence of
+problematic substance use does happen, and clients should be made aware of this. After the recurrence occurs,
+counselors should schedule a meeting to reassure their clients that they can get back on track. Counselors and
+their clients should review the events leading up to the recurrence and identify warning signs, including events
+of the previous weeks.
+
+**Addressing health and wellness to support recovery, including through healthy nutrition, physical activity, and
+sleep.** Counselors can help clients develop new health and wellness goals to support them in their recovery.
+These can include setting goals to improve work, education, health, and nutrition; spending time with family,
+significant others, and friends; participating in spiritual or cultural activities; or developing new hobbies.
+
+**RECURRENCE OF PROBLEMATIC SUBSTANCE USE¹⁶**
+
+<table><tr><td>**Recurrence** is a return to problematic substance use after a period of resolved substance use-related problems. Many individuals in recovery experience recurrence, although doing so isn't inevitable.</td><td>Just as the concept of recovery has evolved over time, so too has the concept of **recurrence**. A recovery orientation views the recurrence of problematic substance use not as a failure on the part of the client, but as an indication of the need to work with the client on adjusting the treatment plan or recovery plan, or both, as applicable. While the term "relapse" is still widely used, the shift in addressing recurrence in clients with SUDs now focuses more on understanding and preventing the recurrence of substance use by integrating modern strategies and treatments. According to the 2016 Surgeon General's report on addiction, more than 60% of people treated for an SUD have a recurrence within a year of being discharged from treatment—a recurrence rate that the report notes is comparable to those for other chronic diseases like diabetes and asthma.¹⁷ A 2018 study of U.S. adults with any prior SUDs found that the prevalence of past-year persistent use or recurrent SUD was 38.1%.¹⁸</td></tr></table>
+
+Counselors should be aware of common **triggers** linked to recurrence of use. Triggers refer to specific stimuli or
+experiences that can increase the likelihood of a person returning to substance use after a period of abstinence.
+These triggers can be **external** (environmental or social cues that can provoke cravings or thoughts associated with
+substance use) or **internal** (emotions or thoughts that can lead to substance use). Triggers can directly precede a
+recurrence or occur months in advance.
+
+Examples of triggers include:
+» People, places, and things (such as drug paraphernalia) that a client associates with substance use
+» Relationship difficulties, such as with family, friends, or a partner
+» Stressful situations
+» Cravings or urges
+» Anger, loneliness, boredom, or fatigue
+» Unaddressed mental health–related conditions
+
+[Image: The right edge of the page shows the black plastic coils of a spiral-bound book.]CHAPTER 5: Treatment Planning and Counseling 227
+
+[Image: A close-up, slightly blurred, black and white photograph of a group of young adults in a social setting, possibly a bar or party. They appear to be laughing and interacting. One woman in the foreground is smiling broadly, looking towards the right. Another person behind her is also smiling. There are glasses visible, and the background is dark with out-of-focus lights, suggesting a dimly lit environment.]
+
+**Warning signs** of recurrence often precede triggers. These warning signs can be categorized as emotional,
+mental, and behavioral. Being aware of these warning signs can help SUD counselors identify when clients in
+recovery may need more support.
+
+**Emotional warning signs include:**
+» Feeling shame or guilt
+» Not expressing emotions
+» Becoming socially withdrawn
+» Becoming uncommunicative, such as at mutual-help meetings
+
+**Mental warning signs include:**
+» Craving substances
+» Downplaying the effects of past use or fantasizing about past use
+» Bargaining with oneself about use
+» Considering ways to control use
+» Looking for recurrence opportunities
+» Planning a recurrence
+
+**Behavioral warning signs include:**
+» Not maintaining healthy boundaries
+» Not seeking support
+» Not practicing self-care, including physical self-care like healthy sleeping and eating
+» Not going to mutual-help meetings
+» Reengaging with people, places, and things associated with past use
+
+Traditional “relapse prevention” programs have been geared to help individuals improve self-control through
+the combination of behavioral skills training, cognitive interventions, and lifestyle change procedures.19 The goal
+is to teach individuals how to anticipate and cope with relapse (recurrence). Strategies centered on identifying
+high-risk situations and developing strategies to avoid relapse triggers are still the primary focus; however,
+relapse prevention programs have grown to include a broader range of techniques and approaches.
+
+1.  **Therapeutic Interventions.** Cognitive Behavioral Therapy (CBT) is a cornerstone in the treatment
+    of SUDs, emphasizing the role of cognition (ways of thinking) in substance use and recurrence/
+    relapse. Programs have integrated CBT techniques to help individuals identify and challenge thoughts,
+    develop coping strategies for dealing with cravings and triggers, and improve problem-solving skills.
+    Motivational Interviewing (MI) has been incorporated into relapse prevention programs to address
+    ambivalence towards change and enhance motivation for recovery.20 Mindfulness-based interventions and228 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+neurofeedback are also gaining attention for their potential to enhance emotional regulation and reduce
+cravings.²¹ These evidence-based practices are explored in Chapter 6.
+
+2. **Medications:** Pharmacotherapy (medication-assisted treatment) can be instrumental in relapse
+prevention, especially for certain types of substance dependencies such as opioid, alcohol, and nicotine
+use disorders. Medications like naltrexone, buprenorphine, and methadone for opioid use disorder, or
+disulfiram, naltrexone, and acamprosate for alcohol use disorder, help reduce cravings and normalize
+brain function. These medications, when used as part of a comprehensive treatment plan that includes
+therapy, can significantly improve outcomes and help maintain sobriety.
+
+3. **Peer Support:** Linkage with a peer specialist or attendance in mutual support groups, such as Alcoholics
+Anonymous (AA) or Narcotics Anonymous (NA), offer invaluable social support and encouragement from
+individuals who have experienced similar challenges. The shared experiences and collective wisdom found
+in peer support groups can empower individuals in recovery, providing them with strategies to cope with
+cravings, triggers, and the stresses of daily life without resorting to substance use. Peer support also
+fosters a sense of belonging and community, which is essential for emotional well-being and recovery.
+
+4. **Monitoring:** Regular monitoring, including drug testing, can be an effective component of a relapse
+prevention plan. It serves both as a deterrent to substance use and as an early detection method for
+relapse, allowing for prompt intervention. Monitoring is often used in conjunction with recovery
+programs and can be tailored to fit the individual's needs, providing accountability and support
+throughout the recovery journey.
+
+5. **Emerging Interventions:** Innovative approaches to relapse prevention are continually being developed and
+researched. These include digital interventions such as smartphone apps designed to support recovery
+by offering resources, reminders, and access to support networks. An emerging area is the use of virtual
+reality (VR) technology in combination with mindfulness-based interventions to simulate high-risk
+situations in a controlled environment, allowing individuals to practice coping strategies.²², ²³
+
+Tailoring these strategies to meet the individual needs of those in recovery is crucial, as is ongoing evaluation
+and adjustment of the relapse prevention plan to ensure it remains effective over time.
+
+**RECOVERY PLANNING**
+
+Recovery and treatment planning are
+complementary components. The concept of
+recovery planning was introduced over two
+decades ago.²⁴ It delineated a dichotomy in which
+professional staff at medical model programs
+controlled the treatment planning process and its
+implementation against practices in which clients
+were more directly responsible for developing
+their own recovery plans, within a context of
+help from peers and recovering staff. Like other
+traditional practices that have morphed and
+evolved, so has the concept of recovery planning.
+
+Today, the terms "treatment planning" and
+"recovery planning" are often used in the same
+context and can overlap in goals and objectives.
+Both plans serve as foundational strategies aimed
+at guiding individuals towards recovery and
+improved well-being. As noted in this chapter,
+treatment plans are now guided by modern
+philosophies of person-centered care – plans are
+
+WRAP²⁷
+
+The Wellness Recovery Action Plan (WRAP) is a self-
+management and recovery system developed by a group of
+people who were searching for ways to overcome their own
+mental health issues and move on to fulfilling their life dreams
+and goals. It is a structured system for monitoring behavioral
+health conditions, and, through planned responses, reducing,
+modifying, or eliminating those problematic behaviors
+or symptoms. It emphasizes personal responsibility, self-
+advocacy, education, and support.
+
+WRAP was developed in 1997 by Mary Ellen Copeland and a
+group of peers in Vermont, USA. It is based on the principle that
+people who have various health challenges can find ways to
+manage their conditions and move towards recovery.[Layout: Single column with a header. A text box is on the right side of the page.]
+
+CHAPTER 5: Treatment Planning and Counseling 229
+
+personalized, goal-oriented, and involve the active participation of clients
+along with a multidisciplinary team of healthcare professionals.
+
+Recovery planning tends to emphasize client-led initiatives more
+strongly, promoting a higher degree of self-management and
+empowerment. Clients are encouraged to take a proactive role in crafting
+a self-management plan that is both broad in scope (during and after the
+primary treatment phase) as well as very specific, much like a relapse/
+recurrence prevention plan. The methodologies employed in recovery
+planning often include peer support, community engagement, and
+activities aimed at enhancing life skills, resilience, and social networks.
+Recovery peer support services are integral to this approach, leveraging
+the lived experiences of individuals who have successfully navigated their
+recovery journey to provide support, mentorship, and guidance.²⁵
+
+Developing a recovery plan is a personalized and dynamic process. It
+requires ongoing effort, self-awareness, and the willingness on the
+part of the client to adjust strategies based on changing needs and
+circumstances. Collaboration with peers, counselors, and support
+networks is also important for creating an effective and comprehensive
+plan. The types of issues that are usually addressed in recovery planning
+include various combinations of these elements:²⁶
+
+Prevent Recurrence of Problematic Substance Use
+» Recognize external triggers (events or circumstances) and early
+warning signs (subtle internal cues) that may indicate worsening
+health.
+» Develop strategies for responding to these triggers and signs to
+prevent substance use.
+» Plan to keep life in balance and ways to reduce stress.
+» Identify and plan for high-risk situations.
+» Focus on specific actions or thoughts to deal with cravings.
+
+Build a Support Network
+» Identify supportive individuals, such as family members, friends,
+peers in recovery, and professionals, who can help, encourage,
+and be a source of accountability.
+» Identify community resources for support such as recovery communities and mutual support groups.
+» Spend time in social situations that involve activities that everyone enjoys that does not involve using.
+
+Use Whole Health Strategies
+» Compile a list of self-care strategies, personal resources, activities, and practices that improve well-being
+— include exercise, hobbies, social activities, relaxation techniques, medication, therapy, and any other
+wellness strategies.
+» Plan for routine health check-ups.
+
+Create an Action Plan for Crisis Situations
+» Have a detailed plan for responding to crises, including when and how to seek help, what treatments to
+follow, and who to contact (family, friends, health professionals).
+» Outline steps for recovery following a crisis, how to address any lingering issues, and strategies for
+preventing future crises.
+
+[Text box on the right side of the page]
+**Remember, there are many**
+**Pathways of Recovery**
+
+Recovery has many pathways, and
+it is ultimately up to clients in or
+seeking recovery to determine which
+pathway or pathways they follow.
+Some clients may pursue multiple
+approaches to recovery at the same
+time or for overlapping periods;
+some may try different approaches
+in sequence; and some may find a
+single approach that works for them
+and stick with it.
+
+Some may choose:
+> natural recovery through self-
+management
+> clinical approaches using the
+support of a professional
+> mutual support through peers
+and recovery organizations
+> faith-based approaches through
+congregation-based support
+services
+> other unique and personalized
+pathways
+[End of text box][Layout: Single column with a header. The right edge of the page shows the coils of a spiral binding.]
+
+230 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**THE COUNSELING PROCESS**
+
+The counseling process for SUDs is dynamic and holistic, emphasizing personal growth, healing, and transformation for people served. Through counseling, SUD counselors guide individuals towards recovery, empowerment, and a healthier lifestyle. At its core, the process is about building a strong therapeutic relationship, characterized by trust, empathy, and unconditional positive regard.
+
+To reiterate the aspects of the therapeutic process thus far – the process begins with engagement where SUD counselors establish a connection with their clients. This phase is crucial for building trust and rapport, which are the foundation of effective treatment. Following engagement, a comprehensive assessment is conducted to understand the depth and nature of the client’s substance use, along with any co-occurring disorders, medical, or psychosocial factors. Armed with a thorough understanding of the client’s needs, the counselor collaborates with them to develop a personalized treatment plan. This plan outlines specific, measurable goals and objectives, tailored interventions, and a timeline for achieving these goals.
+
+This section on the counseling process details the intervention phase where the bulk of therapeutic work happens. SUD counselors intertwine theoretical orientations and counseling skills to guide their clients in meeting their goals, offering support, insight, and professional expertise every step of the way. Counselors also employ a variety of evidence-based practices, such as Cognitive Behavioral Therapy (CBT), Motivational Interviewing (MI), and others, to help clients develop coping skills, enhance motivation, and address underlying issues contributing to problematic substance use. Individual, group, and family counseling, along with psychoeducational and support groups, are traditional therapeutic methods.
+
+**Counseling Microskills**
+
+**Microskills** in counseling refers to the foundational interpersonal communication skills that counselors use to effectively engage with clients, facilitate the therapeutic process, and promote positive outcomes in counseling. These skills are considered “micro” because they represent the basic, elemental techniques that underpin more complex therapeutic interventions.²⁸
+
+Microskills are the building blocks of effective counseling and include a wide range of verbal and non-verbal communication strategies, such as active listening, empathy questioning, reflecting, summarizing, and focusing, among others. Each microskill serves a specific purpose in the counseling session, from establishing rapport and fostering a safe and trusting environment...to eliciting information, understanding the client’s perspective, and facilitating client insight and action. Here are several important counseling microskills:²⁹, ³⁰
+
+1.  **Attending Behavior.** Attending refers to how the counselor presents to the client physically, psychologically, and emotionally. This includes maintaining eye contact, adopting an open and inviting posture, and using appropriate facial expressions to convey interest and empathy. Verbal attending involves staying on topic and focusing on the client’s narrative without interrupting or redirecting prematurely. Attending gestures and actions by the counselor encourage clients to speak more openly and demonstrate the counselor’s engagement with the conversation.
+
+2.  **Listening.** These skills are essential for understanding the client’s perspective. Active listening involves fully concentrating on what is being said rather than just passively ‘hearing’ the message of the speaker. It includes giving full attention to the speaker, understanding their message, responding appropriately, and remembering the information.
+
+3.  **Eliciting and Tracking Skills.** These involve asking open-ended questions, making reflective responses, restatements, and paraphrasing to clarify client statements, which are critical for understanding the client’s perspective and maintaining the flow of the counseling process. Asking questions effectively can steer the conversation in counseling and enrich the client’s responses. In addition, questions are anCHAPTER 5: Treatment Planning and Counseling 231
+
+essential component in many theories and styles of helping, particularly Cognitive Behavioral Therapy
+(CBT), Motivational Interviewing, Solution-focused Brief Counseling, etc.
+
+**4. Reflection and Summarization.** With these skills the counselor rephrases the client's statements in their
+own words, demonstrating that they are actively listening and understanding the client's message. This
+helps to identify and articulate the emotions underlying the client's words; thus, by accurately reflecting
+feelings, counselors help clients to explore their emotional experiences more deeply.
+
+**5. Observation.** Effective observation skills enable counselors to gather a wealth of information about
+their clients without relying solely on verbal communication. These skills involve attentively noticing
+and interpreting a client's non-verbal cues, behaviors, and emotional expressions during counseling
+sessions. Observing the client's emotional responses, such as sadness, joy, anger, or fear, can offer clues
+to the underlying issues or concerns they might be experiencing. This skill also facilitates the counselor's
+analysis of patterns in the client's behavior or emotional responses across sessions, as well as any
+discrepancies between what they say and how they behave or react.
+
+**6. Focusing.** Focusing during the counseling session helps clients pay attention to their internal experiences,
+emotions, and thoughts that are often outside of their immediate awareness. It involves the counselor's
+guiding clients to explore their feelings related to specific issues, allowing for deeper insight, and
+understanding of their problems. Focusing is crucial in helping clients identify and articulate their
+feelings and thoughts, which can be particularly beneficial in processing and resolving complex emotional
+states.
+
+**7. Confrontation.** Confrontation refers to the skill of challenging clients on inconsistencies, contradictions,
+or behaviors that are counterproductive to their well-being and goals. This technique helps to bring to
+the client's attention to behaviors, thoughts, or feelings that they might not be aware of or are avoiding.
+**The goal of confrontation is not to criticize or blame but to encourage self-exploration and foster**
+**accountability, leading to personal growth and change.**
+
+**8. Influencing.** This skill involves the counselor's ability to affect clients' perspectives, emotions, or
+behaviors in a way that supports their therapeutic goals and promotes positive change. Influencing is
+not about directing or controlling the client but about encouraging exploration, insight, and action that
+contribute to the client's growth. Influencing also involves helping clients reframe negative or unhelpful
+thoughts into more positive or realistic viewpoints. It's about shifting perceptions in a way that opens
+new possibilities for coping and problem-solving.
+
+As will be explored in Chapter 6, microskills are emphasized in specific ways in prevailing evidence-based
+treatment practices and programs. Having a foundation in these skills facilitates the adoption of effective
+treatment approaches. In addition, proficiency in counseling microskills is particularly effective when
+working with culturally diverse populations. They can enhance the therapeutic relationship, promote cultural
+responsiveness, improve communication, facilitate individualized care, promote empowerment and autonomy,
+and help to avoid cultural misinterpretations.³¹
+
+**Therapeutic Alliance**
+
+A good client-counselor relationship is widely recognized as an important component of effective counseling,³²
+including counseling people with SUDs.³³, ³⁴ The therapeutic alliance refers to the collaborative relationship
+between a counselor and a client. It encompasses the **mutual understanding and agreement on treatment goals,**
+**the tasks involved in reaching these goals,** and the **development of a bond** characterized by mutual trust,
+respect, and understanding.
+
+Lebow, Kelly and colleagues found "a considerable amount of research literature has identified the powerful role
+of the therapeutic alliance in treatment in helping clients enter treatment, remain in treatment longer, to be
+confident and explore problems, to experience less distress, and to produce better outcomes. Likewise, treatment[Layout: Single column page with a header. The header contains the page number on the left and the document title on the right. The main content consists of introductory paragraphs, a numbered list, and a section with a distinct heading.]
+
+232 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+programs are more likely to engage clients more successfully and achieve better in-treatment and after
+treatment outcomes when better alliances are created with clients.”35, 36, 37 In addition, the quality of relationships
+developed in the treatment process³⁸ and the recovery-oriented efforts³⁹ made by counselors also serve important
+roles in determining success in engagement.
+
+The components listed below summarize the many attitudes and actions that support an effective therapeutic
+alliance and contribute to the therapeutic process overall.
+
+1.  **Agreement on Treatment Goals**: The counselor and client must concur on the objectives of treatment.
+    This agreement is fundamental to guiding the therapeutic process and ensuring that both parties are
+    working towards a common aim.
+
+2.  **Engagement in Treatment Tasks**: The alliance is strengthened by the collaboration on treatment-related
+    activities and tasks. This involves the client actively participating in the therapeutic interventions and
+    both the counselor and client contributing to the process.
+
+3.  **The Development of a Bond**: The emotional connection between the counselor and the client,
+    characterized by mutual trust, respect, and understanding, is a critical component of the therapeutic
+    alliance. This bond facilitates a safe space for the client to explore issues, learn, and grow.
+
+4.  **Mutual Respect and Empathy**: For the alliance to be effective, there must be mutual respect and
+    understanding between the counselor and client. The counselor’s ability to empathize with the client’s
+    experiences is crucial in building a strong alliance.
+
+5.  **Collaboration and Participation**: The therapeutic alliance involves both the counselor and the client
+    working together collaboratively. The client’s active participation in the therapy process is essential for
+    the success of the treatment.
+
+6.  **Flexibility and Responsiveness**: The counselor must be flexible and responsive to the client’s needs,
+    adjusting the treatment approach as necessary. This adaptability contributes to a stronger therapeutic
+    alliance by demonstrating the counselor’s commitment to the client’s well-being.
+
+**A NOTE ABOUT CLIENT EXPECTANCY**
+
+Client expectancy in counseling refers to the **preconceived notions or anticipations** clients have about the
+counseling process and its outcomes before they begin treatment. Client expectations can be categorized into
+two broad categories, outcome expectations (i.e., how beneficial treatment will be) and treatment expectations
+(i.e., what will happen in treatment).⁴⁰ To expand, this includes beliefs about the nature of the treatment, the role
+of the counselor, the expected outcomes, and the client’s own role and responsibilities within the therapeutic
+process. These expectations can significantly impact the counseling process, influencing clients’ engagement,
+satisfaction, and the effectiveness of the therapeutic relationship.
+
+Research has shown that client expectations can affect the therapeutic alliance and is a strong predictor of
+treatment outcomes. For instance, clients who enter SUD treatment with positive expectations about counseling
+are more likely to form a strong therapeutic alliance, which in turn, contributes to better treatment outcomes.⁴¹
+Furthermore, common understanding of client-counselor expectations for the relationship can enhance the
+working alliance, highlighting the importance of aligning expectations at the outset of the relationship.
+
+Clients’ expectations about counseling can also be influenced by their personal characteristics, previous
+experiences with SUD treatment, cultural background, and the information they receive from the counselor or
+other sources before treatment begins.⁴² Addressing and managing these expectations early in the counseling
+process can help in setting realistic goals, improving the therapeutic alliance, and maximizing the effectiveness
+of treatment.CHAPTER 5: Treatment Planning and Counseling 233
+
+**Theoretical Approaches**⁴³
+
+The prevailing theoretical approaches in counseling people with SUDs today are diverse and cater to different aspects of recovery from problematic substance use, psychological well-being, and whole-health issues. These approaches are grounded in various psychological theories and research findings. Here are some of the most influential and widely practiced theoretical orientations for counseling practice:
+
+1.  **Cognitive/Behavioral:** This orientation is grounded in the combination of cognitive and behavioral psychological theories. Its theoretical basis lies in the understanding that an individual's thoughts, feelings, and behaviors are interconnected, and that altering one of these components can lead to changes in the others. Cognitive Behavioral Therapy (CBT) is a short-term, goal-oriented psychotherapy treatment that takes a hands-on, practical approach to problem-solving. It aims to change patterns of thinking or behavior that are behind people's difficulties, and so change the way they feel.
+
+2.  **Psychodynamic:** This theory focuses on the psychological roots of emotional pain. Its basic tenants require a thorough exploration of the client's personality and self-examination, as well as the use of the counselor-client relationship as a window into problematic relationship patterns in the client's life.
+
+3.  **Humanistic:** This orientation includes several therapies that take a more holistic view of the individual, including Person-Centered Therapy (developed by Carl Rogers) and Gestalt Therapy. These approaches emphasize the person's capacity for self-direction and understanding of one's own development in the context of relationships.
+
+4.  **Recovery Orientation:** A recovery-oriented approach to counseling accepts that recovery from problematic substance use has many pathways and works holistically with the individual's chosen recovery goal. That goal could be abstinence, controlled use, or somewhat reduced use. This represents a move away from the traditional approach to addressing problematic substance use which involved acute, episodic, specialized treatment that emphasized abstinence.
+
+[Image: A photograph showing the word "HOPE" written on a steamy or fogged-up window. The letters are large and clear where the condensation has been wiped away. Droplets of water are visible on the surface. The background outside the window is blurred and indistinct. The 'O' in 'HOPE' is drawn as a heart shape.]234 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+A significant aspect of a recovery orientation is helping people **find hope** for recovery.
+
+Hope is a door to the future, to potential, to possibilities, to a better life. Hope is, at its most basic level, the individual’s belief that recovery is possible. Hope is also the belief that one is inherently connected to, and therefore valuable to, others.44 It is the catalyst for change, and the enabler of the other factors involved in “activating” recovery.45
+
+**5. Integrative or Holistic**: This approach combines elements from different theories and tailors the treatment according to the client’s needs. The belief here is that no single therapeutic approach works for every client in every situation.
+
+**6. Brief Therapies**: Brief therapies have gained substantial popularity and acceptance in the field of counseling due to their focused, time-efficient approach to treatment. These therapies are designed to produce targeted results within a limited number of sessions, often making them a practical choice for clients and healthcare systems alike. One example, Solution-Focused Brief Therapy (SFBT), focuses on what clients want to achieve through counseling rather than on their troubles in general. It encourages clients to focus positively on what they do well, their strengths, and how they can use these to achieve change in their lives.
+
+**7. Cultural Responsiveness**: This approach takes into consideration the cultural, societal, and personal factors influencing the client. It emphasizes cultural humility and cultural responsiveness for the counselor and addresses the unique challenges faced by individuals from diverse backgrounds.
+
+**8. Family and Systems Therapies**: These therapies view an individual’s problems in the context of the larger unit – the family. The approach seeks to understand the dynamics within the family and how they affect the individual. It often involves multiple family members in the therapy process.
+
+Each of these theories offers a different perspective on the counseling process, emphasizing various aspects of the human experience. SUD counselors may ascribe to or specialize in one or more of these approaches, and they often integrate elements from different approaches to best meet the needs of their clients.
+
+[Image: A black and white photograph showing a group of approximately eight to ten people of diverse ages and ethnicities sitting in a circle of chairs, seemingly engaged in a group therapy or support group session. The focus is slightly soft. Some individuals are looking towards the center, while others are looking at each other. The mood appears to be one of focused discussion or listening. The image is taken from a slightly low angle, looking into the circle.]CHAPTER 5: Treatment Planning and Counseling 235
+
+**COUNSELING METHODS**
+
+To begin, it is important to address the terms used and their implications. The terms “therapy” and “counseling” in the behavioral health field are often used interchangeably; however, they raise concerns in several areas, primarily concerning the scope, context, and professional identity associated with each term. While both therapy and counseling aim to improve individual well-being, their perceived distinctions and overlapping uses contribute to ongoing discussions among professionals and policymakers.
+
+» **Definition and Scope:** The terms “therapy” and “counseling” can denote different scopes of practice and approaches to treatment. Counseling typically refers to a process focused on facilitating personal and interpersonal functioning across the lifespan, with an emphasis on emotional, social, vocational, educational, health-related, and developmental concerns. One widely agreed upon definition is – _Counseling is a professional relationship that empowers diverse individuals, families, and groups to accomplish mental health, wellness, education, and career goals._⁴⁶
+Therapy, or psychotherapy, implies a more intensive process provided by licensed behavioral health professionals. Psychotherapy is a type of treatment that can help individuals experiencing a wide array of behavioral health conditions and emotional challenges. Certain types of psychotherapies can help identify the psychological root causes of one’s condition so a person can function better and have enhanced emotional well-being and healing.⁴⁷ Providers of therapy are typically psychiatrists, psychologists, and licensed clinical social workers, licensed marriage and family therapists, and licensed professional (or mental health) counselors.
+
+» **Professional Identity and Training:** The terms also reflect differences in professional identity and training. For example, individuals providing counseling services might come from a variety of educational backgrounds (social work, psychology, human services, education, nursing, etc.) and may have different levels of academic preparation, training, and licensure/certification. Therapists are typically required to have specific professional qualifications and licensure to diagnose and treat behavioral health conditions. The distinction is significant in terms of the competencies and regulatory standards applicable to each profession.
+
+» **Legal Considerations:** The legal recognition of the terms “therapy” and “counseling” varies by jurisdiction, affecting professional practice, reimbursement, and the legal scope of work. Ethical considerations also arise in the use of these terms, especially concerning clarity in the services offered, informed consent, and the expectations set for clients.
+
+The term “counseling” will be used in this study guide as entry level SUD counselors may or may not have the academic preparation, training, or licensure/certification at the level for “therapy.”
+
+**Understanding Transference and Countertransference**
+
+Before the review of counseling methods, it is important to consider the concepts of “transference” and “countertransference” which reflect the emotional dynamics that occur between the counselor and the client. **Transference** describes the projection of the client’s feelings, attitudes, desires, and expectations from past relationships onto the counselor, often unconsciously. It occurs when a client’s previous experience with other people and with a counselor overlap. For example, the client may regard the counselor as an “authoritative father,” “know-it-all older brother,” or “interfering mother.” Transference plays a critical role in counseling by revealing the client’s unconscious feelings towards significant others, which are redirected towards the counselor. This dynamic offers a valuable window into the client’s internal world, allowing the counselor to address deep-seated issues. If a strong transference develops, it is an important task for the counselor to behave authentically and at the same time with an understanding of the client’s behavior.⁴⁸[Layout: The page has a header at the top with a page number on the left and a title on the right. Below the header is a single column of text. At the bottom of the page is a photograph.]
+
+236 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**Countertransference**, on the other hand, involves the counselor’s emotional responses to the client’s transference. Countertransference was initially seen as an obstacle to counseling but is now recognized as a vital tool for understanding the client’s relational patterns. It is considered to be a normal part of the counselor’s treatment experience. Particularly when working with clients who have complicated and co-occurring problems, counselors are as vulnerable as clients to feelings of pessimism, despair, and anger, as well as desires to abandon treatment. Less experienced counselors may find it harder to identify countertransference, access feelings evoked by interactions with clients, name those feelings, and keep feelings from interfering with the counseling relationship.49 The counselor’s awareness and management of their own emotional reactions can significantly impact the therapeutic process, enhancing empathy and insight.50
+
+Working with clients with co-occurring conditions may raise countertransference issues. Because people with SUDs and MHDs are highly stigmatized by the public, stigma can also be present among counselors. For example, mental health counselors who usually do not treat people with SUDs may not have worked out their own feelings about problematic substance use, which can influence their interactions with these clients. SUD counselors working with clients who have mental health conditions may have more negative beliefs about and express more negative attitudes towards these clients. These negative attitudes toward clients can have a significant impact on treatment services and outcomes. For example, countertransference may result in counselors failing to offer timely, appropriate treatment or having poor communication with clients. In both instances, counselors need to self-reflect to understand their responses and can benefit from working with supervisors to uncover and correct underlying harmful thoughts and attitudes.
+
+[Image: A photograph showing a young man with dark hair, a beard, and glasses, wearing a plaid shirt. He is seated and looking towards the right, with his hands clasped in front of him. He appears to be in a counseling session, listening intently. The background is blurred, suggesting the focus is on the man.][Layout: Single column of main text with a header. A sidebar is on the right side of the page, within the main text area. The top right corner of the page contains the chapter title and page number. The left edge of the page shows a spiral binding.]
+
+CHAPTER 5: Treatment Planning and Counseling 237
+
+**Individual Counseling**
+
+Individual counseling is a one-on-one, collaborative process between a counselor and a client where the client can explore their feelings, beliefs, and behaviors. It is a vital component of SUD services, offering a personalized and flexible approach to support individuals in achieving their recovery, health, and wellness goals. Within a supportive and confidential space for self-disclosure, individual counseling can facilitate a deep, personal understanding and encourage self-discovery and personal growth. The foundation of individual counseling is the therapeutic relationship should be built on trust, empathy, and unconditional positive regard.⁶ Counselors can employ a variety of evidence-based techniques and interventions tailored to the client's goals and needs.
+
+**Family Counseling**⁵², ⁵³
+
+Family and social support are important to long-term recovery for people who have problematic substance use or SUDs. Substance use can affect the entire family in significant ways. Families experience hardships, losses, and trauma because of problematic substance use of a loved one.⁵⁴ For example, couples affected by problematic substance use exhibit worse relationship functioning, more frequent intimate partner violence, and greater risk of marital dissolution.⁵⁵ As such, families should be included in treatment and recovery services (with the client's permission). Research has shown that clients with social systems supportive of treatment are more likely to enter treatment, complete treatment, and have better outcomes. Family-based interventions, therefore, are considered among the most effective approaches for treating SUDs and are widely used to support recovery.⁵⁶
+
+Family counseling includes a series of family-based interventions that use family dynamics and strengths to address challenges. It addresses the dynamics within family units, aiming to improve communication, resolve conflicts, and promote a healthier family environment. Family counseling includes various approaches, such as couples and family counseling, which have been shown to be as effective as individual counseling for a wide range of issues. It can increase motivation for people to sustain recovery and foster healing for family members by providing tools and the support they need.
+
+Family counseling is designed to reduce problematic substance use by altering elements of the family dynamic that directly or indirectly support substance use, while simultaneously improving the quality of family relationships. It can help family members understand:
+
+» How problematic substance use affects the person in recovery.
+» How problematic substance use affects the whole family.
+» How family members can adjust or change behaviors to support people in recovery on their recovery path.
+
+State laws and rules often dictate who can provide family counseling and may require the counselor to hold a professional license. In SUD treatment organizations, counselors with specific training in family counseling approaches may be permitted to offer targeted support to families dealing with these issues. It is always important to know the types of services an SUD counselor can provide within their scope of practice. If the provision of family counseling in the counselor's setting is not available or if the SUD counselor must be licensed, an unlicensed counselor can usually provide family psychoeducational groups to educate family members and dispel stigma and misconceptions about problematic substance use. This can help support both family members and the person in recovery. Family psychoeducation is addressed later in this chapter.
+
+[Sidebar]
+**Unconditional Positive Regard**
+
+Providing clients with unconditional positive regard from the outset of counseling work with them is a key aspect of strengths-based, person-centered counseling, regardless of the therapeutic approach used. Unconditional positive regard refers to caring about, accepting, and valuing someone regardless of what they do or say.
+[/Sidebar]238 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+[Image: A black and white photograph of a multi-generational family smiling. In the front center is a young boy. To his left is an older woman with short, dark hair wearing a patterned top. Behind the older woman is another woman with long, dark hair, smiling. To the right of the boy is an older man wearing a plaid shirt, a hat, and glasses. Behind the older man is a young man, and to the young man's right is a young woman with long, dark hair and a choker necklace. They are all posed closely together, appearing happy.]
+
+**DEFINING FAMILY**
+
+Defining family is a complex task. Although many consider the group of people with whom they share close emotional connections or kinship as their “family,” family has no single definition. Some consider family as those connected by birth, marriage, or adoption.
+
+Family can also include people who share a household or emotional connections. Some families are blended or intergenerational within the household and include extended family members, such as grandparents, other relatives, and close friends. Other families arise from adoption and foster parenting processes. Some families have members that do not share biological connections but consider themselves family. Regardless of their makeup, all “families” function as within the system and should be included.
+
+**Group Counseling**
+
+Demand has increased for effective treatments of SUDs. Because of its effectiveness and economy of scale, group counseling has come to be regarded as a powerful method that achieves results that are not always experienced by the client in individual therapy. One reason groups work so well is that they engage therapeutic forces— like affiliation, support, and peer confrontation—and these properties enable clients to bond with a culture of recovery. Another advantage of group modalities is their effectiveness in treating problems that accompany problematic substance use, such as depression, isolation, and shame.
+
+Groups can support individual members in times of pain and trouble, and they can help them grow in ways that are healthy and creative. Formal counseling groups can be a powerful source of persuasion, stabilization, and support. In the hands of a skilled, well-trained group leader, group counseling can be a very effective method[LLM OCR returned no text for this page]240 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**COUNSELOR SKILLS USED IN GROUP COUNSELING**
+
+A group counselor utilizes a broad range of skills to manage and facilitate the group effectively. These skills are conducive to a group environment where members can share, learn, and grow together.
+
+» **Active Listening:** Listening attentively to each member’s contributions, demonstrating understanding and empathy.
+
+» **Observation:** Keenly observing group dynamics, non-verbal cues, and interactions between members to assess the group’s progress and identify any issues that need addressing.
+
+» **Facilitation:** Guiding discussions in a way that encourages participation from all members, keeping the group focused on its goals, and ensuring a safe and respectful environment.
+
+» **Conflict Resolution:** Managing disagreements or conflicts within the group constructively, helping members to understand different perspectives, and working towards resolution.
+
+» **Empathy:** Showing genuine care and understanding for members’ experiences and emotions, creating a supportive atmosphere that fosters trust and openness.
+
+» **Feedback:** Providing constructive and balanced feedback to group members about their behaviors, thoughts, and feelings, promoting self-awareness and personal growth.
+
+» **Modeling:** Demonstrating effective communication and interpersonal skills, setting an example for group members to follow.
+
+**CHARACTERISTICS OF AN EFFECTIVE GROUP LEADER**59
+
+Group counseling is a dynamic and complex process that requires a unique set of skills from the counselor to effectively facilitate the group’s progress. Conducting group counseling involves several stages and the application of various techniques to encourage healing, growth, and development among group members.
+
+An effective group leader possesses a unique blend of qualities and skills essential for fostering a therapeutic environment that promotes healing and growth. The leadership role for providing group counseling requires a blend of professional skills, personal qualities, and an ongoing commitment to growth and development.
+
+**Leadership Style and Role:** Effective group leaders adapt their leadership style to the needs of the group, balancing directive and non-directive approaches to facilitate productive group dynamics and individual member growth. Leaders maintain a focus on the group’s objectives while being responsive to the evolving dynamics and needs of its members. They are skilled in managing group processes, including conflict resolution, fostering cohesion, and promoting a safe and supportive environment for all members.
+
+**Therapeutic Skills:** Mastery of certain therapeutic skills is vital for effective group therapy leadership. These include the ability to confront behaviors constructively, stimulate emotional engagement, enhance group cohesiveness, provide meaningful feedback, model effective communication, and facilitate self-disclosure in a way that promotes personal insight and group solidarity. These skills are foundational in creating a therapeutic environment where members can engage openly and work towards their individual and collective goals.
+
+**Group Preparation and Structure:** Prior to the commencement of group sessions, effective leaders take deliberate actions to set the group up for success. This involves making informed decisions about the group’s structure, such as its size, duration, and membership constancy, and establishing clear goals and procedures. Effective leaders also engage in discussions with potential group members to set expectations and foster commitment to the group’s process and outcomes.
+
+**Personal Qualities:** Beyond technical skills and knowledge, the personal qualities of a group leader are crucial for effectiveness. Empathy, authenticity, patience, and the ability to inspire trust and respect are among the key personal characteristics that enhance a leader’s effectiveness. Leaders who demonstrate these qualities are betterCHAPTER 5: Treatment Planning and Counseling 241
+
+able to connect with group members on a meaningful level.
+
+**Professional Development and Reflection:** Effective group leaders are committed to ongoing professional
+development and reflective practice. They seek out supervision, training, and opportunities for self-reflection to
+enhance their skills and effectiveness as leaders. This commitment to personal and professional growth supports
+the continuous improvement of the therapeutic environment they create for group members.
+
+**GROUP PROCESS**
+
+All groups go through stages of development. The most
+used framework for understanding stages of group
+development was introduced in the mid-1960s by Bruce
+W. Tuckman. Although many authors have written
+variations and enhancements to Tuckman’s work, his
+descriptions of *Forming, Storming, Norming, Performing* and
+*Adjourning* provide a useful framework.⁶⁰
+
+[Image: A black and white, somewhat grainy photograph showing a group of people, possibly in a circle, with their hands reaching towards the center or towards each other. The focus is on the hands, suggesting connection, support, or a group activity. The individuals are silhouetted or in shadow, making their features indistinct.]
+
+» **Forming:** In this initial stage, group members are
+   introduced. They start to understand the group’s
+   purpose and their role within it. Members often
+   exhibit polite behavior, and there is a high
+   dependency on the leader for guidance and
+   direction. Uncertainty and anxiety about the
+   group process are common.
+
+» **Storming:** As members begin to assert their
+   opinions, conflicts and competition may arise,
+   leading to a “storming” phase. This period is
+   characterized by struggles for power and status
+   within the group. Members may challenge the
+   leader, the rules, and each other. The storming
+   stage is crucial for the growth of the group, as it
+   allows for the airing of differences and the development of more open and trusting relationships.
+
+» **Norming:** After working through conflicts, the group begins to establish norms and roles. Cooperation
+   improves, and a sense of camaraderie develops. Members agree on goals and norms, and the group
+   develops a stronger identity. There is more sharing of personal information and support within the group,
+   leading to stronger bonds and commitment.
+
+» **Performing:** The group reaches a level where it can effectively work towards its goals. Members are
+   competent, autonomous, and able to handle decision-making processes without supervision. Interactions
+   are more task-oriented and focused on problem-solving. The group has a clear structure and functioning,
+   and energy is directed towards task completion and productivity.
+
+» **Adjourning** (or Mourning): This final stage occurs in groups that have a predefined end point. Members
+   prepare for disbandment and reflect on their experiences and achievements. There can be feelings of loss
+   and sadness as the group concludes. The focus is on wrapping up and acknowledging the group’s work
+   and relationships.
+
+These stages are not always linear and can overlap or recur as groups continue to develop and face new
+challenges. The counselor’s role is to facilitate progression through these stages, helping the group to navigate
+conflicts, establish norms, and achieve its objectives. SAMHSA uses different wording to describe the stages;
+however, the flow is the same.⁶¹ The following table provides a summary of the group leader’s primary tasks and
+the issues that may arise within the group.[Layout: The image displays a page with a header and a three-column table. The header contains the page number and the title of a study guide. The table columns are "GROUP STAGE", "COUNSELOR TASKS", and "PARTICIPANT ISSUES". Each row in the table corresponds to a specific group stage, and details the tasks for the counselor and the issues faced by participants during that stage.]
+
+242 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+| GROUP STAGE | COUNSELOR TASKS | PARTICIPANT ISSUES |
+|---|---|---|
+| **Beginning Stage** (equivalent to Forming): | » Provide structure and clarify the purpose and goals of the group. <br> » Help members understand the group process and their roles. <br> » Establish trust and safety, encouraging open and respectful communication. <br> » Facilitate initial interactions and guide members in setting group norms and expectations. | » Anxiety about fitting in and understanding group expectations. <br> » Uncertainty about the group's purpose and their role within it. <br> » Initial hesitancy to share personal thoughts and feelings. |
+| **Early Phase** (equivalent to Storming) | » Manage conflicts and assist in resolving disagreements among members. <br> » Support the group in navigating power dynamics and status struggles. <br> » Encourage members to express their thoughts, feelings, and concerns openly. <br> » Help the group work through resistance and challenges to group cohesion. | » Conflict arising from differences in personalities, opinions, and expectations. <br> » Resistance to group influence or feedback. <br> » Struggles for power and control within the group. |
+| **Middle Phase** (equivalent to Norming and Performing) | » Promote further development of group cohesion and trust. <br> » Facilitate deeper personal sharing and support among group members. <br> » Encourage and support group autonomy in problem-solving and decision-making. <br> » Guide the group in working effectively towards its goals, fostering productivity and collaboration. | » Navigating interpersonal dynamics as members assume roles within the group. <br> » Balancing the need for individuality with group cohesion. <br> » Dealing with the pressure of task completion and maintaining group performance. |
+| **Ending Phase** (equivalent to Adjourning or Mourning) | » Prepare members for the conclusion of the group, addressing any issues related to termination. <br> » Facilitate reflection on the group's journey, achievements, and learning. <br> » Help members plan for the application of new skills and behaviors outside the group. <br> » Support members in processing feelings of loss and change associated with the group's ending. | » Feelings of loss or sadness as the group concludes. <br> » Anxiety about maintaining progress and applying learned skills independently. <br> » Reflecting on personal and group achievements and transitions. |[LLM OCR returned no text for this page]244 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**THE COUNSELOR AS AN EDUCATOR**
+
+Education, in the context of SUD services, is the process of providing information on a variety of topics to clients, their families and significant others, and community groups. While SUD counselors have the obligation to help clients acquire knowledge and skills in dealing with many issues related to problematic substance use and recovery, many have not had any formal preparation as an “educator.” The role of educator encompasses specific knowledge and skill sets such as: understanding and applying the principles of learning theory; using specific teaching skills to accommodate individual learning styles; and making adaptations for culture, age, and linguistic ability among learners.
+
+**Learning Styles**
+
+Effective educational strategies necessitate an understanding and incorporation of various learning styles to optimize engagement and comprehension among clients. There are three primary learning styles – **auditory, visual, and kinesthetic** – each offer unique pathways for learning and can significantly enhance the delivery and reception of educational content. A learning style is an individual’s preferred and most effective method of learning new information and skills. Learning styles can be fluid but change depending on the task to be accomplished. A learning style is not a measure of someone’s ability or intelligence, but rather a preference for one mode over another.⁶⁴
+
+**Auditory Learning Style:** Auditory learners process information best through listening. Strategies to engage auditory learners include:
+
+» **Oral Presentations and Discussions:** Delivering content through spoken words, such as lectures or group discussions, allows auditory learners to absorb information effectively.
+» **Use of Stories and Anecdotes:** Sharing personal experiences or case studies related to substance use and recovery can help auditory learners connect with the material on a deeper level.
+» **Audio Materials:** Providing podcasts, audio recordings of sessions, or other relevant audio materials can support ongoing learning outside the counseling environment.
+
+**Visual Learning Style:** Visual learners understand and retain information better when it is presented in a visual format. Strategies to support visual learners include:
+
+» **Visual Aids:** Employing charts, infographics, videos, and other visual tools can help convey complex information, such as the effects of substances on the brain, in an accessible manner.
+» **Written Materials:** Handouts, brochures, and workbooks allow visual learners to review information at their own pace, reinforcing learning through reading and visualization.
+» **Digital Platforms:** Utilizing educational software (e.g. PowerPoint) and online resources that incorporate interactive visual elements can engage visual learners and support varied learning experiences.
+
+**Kinesthetic Learning Style:** Kinesthetic learners grasp information best through doing and experiencing. Engaging kinesthetic learners can involve:
+
+» **Role-Playing and Simulations:** Activities that simulate real-life scenarios, such as role-playing situations involving refusal skills, can help kinesthetic learners develop practical skills and rehearse coping strategies.
+» **Hands-On Activities:** Engaging clients in activities that involve movement, such as stress-relief exercises or mindfulness walking, can help kinesthetic learners better integrate psychoeducational content.
+» **Interactive Workshops:** Workshops that incorporate physical activities, crafts, or other tactile experiences can enhance learning by allowing kinesthetic learners to actively participate in the educational process.[Layout: Single column with a header and a footer. A decorative spiral binding is visible on the left side of the page.]
+
+CHAPTER 5: Treatment Planning and Counseling 245
+
+Most people have one predominant learning mode, but some have a balance between two or even all three. Some
+people are aware of their preference; they know their “comfort zone”, which helps them approach their own
+learning more efficiently. An integrated approach that combines auditory, visual, and kinesthetic strategies can
+maximize the effectiveness of psychoeducational interventions. By recognizing and addressing the diverse ways
+in which individuals learn, counselors can create more inclusive and effective educational experiences.
+
+**CULTURALLY RESPONSIVE TEACHING**
+
+Teaching from a cultural perspective is more than recognizing that there is a classroom of learners who vary
+according to their social and cultural characteristics. **Culturally responsive teaching** is an instructional approach
+that recognizes the importance of including learners’ cultural references in all aspects of learning. The term was
+coined by researcher Geneva Gay, who wrote that “when academic knowledge and skills are situated within the lived
+experiences and frames of reference for students, they are more personally meaningful, have higher interest appeal, and are
+learned more easily and thoroughly.”⁶⁵
+
+Geneva Gay’s research highlights the significance of creating inclusive and effective educational environments.
+Her work identifies five essential components that collectively form the foundation of culturally responsive
+teaching.
+
+1. **Developing a Cultural Diversity Knowledge Base**: Teachers should understand the cultural backgrounds
+of their learners. This involves recognizing and valuing the cultural experiences and perspectives learners
+bring to their learning environments, including their traditions, languages, and histories.
+
+2. **Including Cultural Representations in Teaching**: The curriculum and teaching materials should reflect the
+cultural diversity of the learners. This means incorporating texts, examples, and resources from various
+cultures to make learning more relevant and meaningful to all learners.
+
+3. **Designing Culturally Relevant Curriculum**: Beyond just including diverse cultural materials, the
+curriculum itself should be designed in a way that it connects with and is relevant to the learners’ own
+lives. It should build on their existing knowledge and cultural backgrounds to deepen understanding and
+engagement.
+
+4. **Demonstrating Cultural Caring and Building a Learning Community**: Culturally responsive teaching
+involves showing respect and care for learners as individuals and as members of various cultural groups.
+Creating a supportive and inclusive classroom environment where learners feel valued and understood is
+crucial. This also includes establishing high expectations for all learners, providing equitable support to
+achieve those expectations.
+
+5. **Communicating with Culturally Responsive Strategies**: Effective communication is key in culturally
+responsive teaching. This means employing teaching strategies that are responsive to the cultural norms
+of communication of the learners. Teachers should be aware of and sensitive to the linguistic styles and
+preferences of their learners, adapting their methods to ensure clear and effective communication.
+
+In the context of psychoeducation, particularly within groups dealing with SUDs and MHDs, culturally
+responsive teaching is vital for creating an inclusive, supportive, and effective educational environment. Here
+are some pointers for using these the principles of culturally responsive teaching:
+
+* **Understand and acknowledge the rich diversity in cultural backgrounds, experiences, and perspectives
+of participants.** This recognition involves appreciating how culture influences individuals’ understanding
+of health, illness, recovery, and the meaning they attribute to their experiences with substance use and
+mental health.
+
+* **Integrate participants’ cultural knowledge and experiences into the psychoeducational content.** This
+might include discussing how cultural beliefs and practices impact substance use and recovery, addressing
+stigma within specific cultural contexts, and exploring culturally specific coping mechanisms and support
+systems.246 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+» **Identify and build on the strengths and assets that individuals’ cultural backgrounds bring to the recovery process.** This approach encourages participants to draw on their cultural resources as sources of resilience and support.
+
+» **Use language that is inclusive and reflective of participants’ cultural contexts.** This may involve offering translation services or materials in different languages, using culturally relevant examples and metaphors, and being mindful of non-verbal communication patterns that vary across cultures.
+
+» **Create a culturally safe environment:** The overarching goal of culturally responsive teaching is to create an environment where all participants feel culturally safe and respected. This involves being sensitive to cultural nuances in group dynamics, addressing cultural stereotypes and biases, and fostering an atmosphere of mutual respect and understanding.
+
+**Psychoeducation**
+
+An extensive study of psychoeducation was conducted in 2021. The authors undertook a comprehensive literature review and qualitative content analysis to obtain a set of principles and practices of psychoeducation. From their synthesis of the information collected, they also arrived at a consolidated definition of psychoeducation:⁶⁶
+
+Psychoeducation is a brief process of therapy focused on the communication of varied aspects of disease- and/or treatment-related information. The intent is to provide information, and such information is often used to justify or motivate action.
+
+The 2021 study revealed that there are specific practices that comprise the effective delivery of psychoeducational material. To be most effective in delivering psychoeducation, SUD counselors must adopt a strategic and empathetic approach, ensuring that every client feels understood, respected, and engaged. The following recommended practices are adapted from the study.
+
+**Start with a Strong Foundation:** An effective counselor begins with a clear rationale for the information being presented. This involves explaining why the information is important and how it can benefit the client in their recovery journey. Establishing this foundation helps clients see the value in what they’re learning and motivates them to pay attention.
+
+**Structured Delivery:** Maintaining focus through a well-structured presentation of information is crucial. This means organizing content logically, moving from general concepts to specific details, and breaking down complex ideas into manageable parts. Such a structure makes the learning process smoother and more coherent for clients.
+
+**Emphasizing Clarity and Relevance:** Using plain language and client-specific terminology ensures that the material is accessible to everyone, regardless of their educational background or familiarity with medical or field-specific terms. This approach minimizes confusion and helps clients relate more personally to the information being shared.
+
+**Pacing and Chunking:** Delivering information at a moderate pace and in small, meaningful units allows clients to absorb and understand the material without feeling overwhelmed. This strategy also provides space for reflection and integration of new knowledge.
+
+**Building Complexity:** “Scaffold” information to gradually introduce concepts in order of increasing difficulty to ensure that foundational knowledge is established before more complex ideas are introduced. This method supports a deeper and more comprehensive understanding of the subject matter.
+
+**Adapting to Learning Needs:** Adjusting teaching methods to meet the individual learning needs of clients is fundamental. This means being attuned to how different clients prefer to receive and process information and tailoring the educational approach accordingly.[Layout: Single column page. A header spans the top. Below the header, a title is followed by a two-column list of sample topics. Below this list are several paragraphs of text.]
+
+CHAPTER 5: Treatment Planning and Counseling 247
+
+**Sample Topics in Psychoeducational Groups**
+
+Understanding SUDs:
+    > Nature and neuroscience of addiction
+    > Stages of addiction and recovery
+    > Impact of substance use on the brain and body
+
+Mental Health Awareness:
+    > Co-occurring disorders and their interaction with SUD
+    > Common mental health conditions
+    > Understanding stress and its effects
+
+Coping Strategies:
+    > Stress management techniques
+    > Emotional regulation skills
+    > Coping with cravings and triggers
+
+Relapse Prevention:
+    > Identifying and managing high-risk situations
+    > Developing a personal relapse prevention plan
+
+Life Skills Development:
+    > Effective communication skills
+    > Problem-solving and decision-making skills
+    > Time management and goal setting
+
+Health and Wellness:
+    > Importance of physical activity and nutrition in recovery
+    > Mindfulness and relaxation techniques
+
+Social and Family Dynamics:
+    > Building and maintaining healthy relationships
+    > Setting boundaries
+    > Family roles in recovery
+
+Cultural and Community Resources:
+    > Exploring cultural identity and its impact on recovery
+    > Community resources and support networks
+    > Stigma and advocacy
+
+**Cultural and Linguistic Sensitivity:** Recognizing and respecting the diverse cultural and linguistic backgrounds of clients is essential. Adapting teaching methods to accommodate these differences ensures that all clients feel included and understood.
+
+**Observing Non-Verbal Cues:** Paying attention to non-verbal indicators of attention and comprehension allows counselors to adjust their teaching strategies in real-time. This ensures that clients remain engaged and that the pace and depth of information delivery match their needs.
+
+**Engaging Clients in the Learning Process:** Asking clients what they already know about a topic not only activates prior knowledge but also makes the learning experience more collaborative. Encouraging clients to ask questions fosters an environment of openness and curiosity, while asking questions to check understanding helps reinforce key concepts and identify areas that may need further clarification.
+
+Psychoeducational groups are appropriate for people of all ages and educational levels and can be delivered in a variety of settings. A variety of topics can be addressed. Creating and leading psychoeducational groups demands considerable attention. The facilitator of these groups must be extensively prepared with information, skills, and a deep understanding of the group topics and the intended audience. The adjacent sidebar shows examples of the variety of topics that are commonly addressed through psychoeducation.
+
+Psychoeducation is typically a highly structured format consisting of providing problem-focused or skill-building education in time-limited groups. There is opportunity for discussion of the presented material but there is very little true processing of personal issues. The use of manuals or other educational materials is fundamental in the delivery of psychoeducation. They provide a structured framework for sessions, ensuring that all essential topics are covered in a systematic and coherent manner. This structure helps group facilitators stay on track, ensures that the program meets its educational objectives and ensures consistency in the information delivered across different groups and sessions. Lastly, many manuals include exercises, activities, and homework assignments designed to facilitate skill development. These practical components allow participants to apply what they’ve learned in real-world situations, enhancing the learning experience.248 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+Psychoeducational groups are versatile and can (and should) be tailored to meet the specific needs and interests of their members. By combining education with skill development and peer support, these groups play a vital role in the recovery and well-being of individuals.
+
+**FAMILY PSYCHOEDUCATIONAL GROUPS**
+
+Family psychoeducational groups provide families with the knowledge and skills needed to better understand and support a family member with problematic substance use or SUDs, thereby improving the overall well-being of both the individual and the family unit. Some of the primary goals of psychoeducation are to help family members prevent the individual with SUDS or co-occurring MHDs from have a recurrence of use or symptoms, and to promote their re-integration (if in residential care) into their home and community. To achieve that goal, family psychoeducation programs seek to provide families with the information they need and the coping skills that will help them deal with their loved one's disorder(s).
+
+[Image: A black and white, slightly grainy photograph taken from a high angle, looking down at a group of approximately 10-12 people sitting in a circle of chairs in a room. The room has wooden floors, large windows letting in natural light, and a partially visible brick wall. The individuals are diverse in appearance and are mostly looking towards the center of the circle, suggesting a group discussion or therapy session.]
+
+An associated goal of psychoeducational programs is support for the clients' families. Research indicates that such programs provide support and help family members feel more knowledgeable and better able to cope with their relatives' conditions.⁶⁷ Although the primary focus of family psychoeducation groups is improved client outcomes, essential intermediate goals are to reduce stress and strain, and promote the well-being of the family. Family psychoeducational programs go beyond mere education by directly engaging with clients and their families to enhance communication, reduce stress and burden, and foster a supportive environment.
+
+Family psychoeducation promotes recovery and has shown promising results for a variety of conditions, including severe mental health and substance use disorders.⁶⁸, ⁶⁹ The design and development of family psychoeducational groups follow the same principles and practices involved in balancing content and process in the delivery of meaningful and effective family interventions. These programs contribute to improved outcomes for both individuals and their families, highlighting the critical role of family engagement in the recovery process.[LLM OCR returned no text for this page]250 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+9. **Substance use.** The problematic use of substances can cause two types of problems - acute, where the client’s judgment is compromised during periods of intoxication, and chronic, where judgment may be impaired more generally. During SUD treatment, a crisis can be precipitated by a reoccurrence of use or overdose.
+
+10. **Chronic pain.** Chronic pain may cause the individual to view suicide as a method for ending pain or it may compromise their judgment.
+
+11. **Poor impulse control.** Certain individuals have poor impulse control because of organic or functional problems. Individuals with a bipolar diagnosis and/or borderline, antisocial, or histrionic personality disorders may have impulse control deficits.
+
+12. **Anger.** When individuals are angry, they appear to lose appropriate problem-solving ability.
+
+13. **New life circumstances.** Changing jobs, marital status, homes, or family status are all stressors that are vulnerability factors.
+
+**Crisis Prevention**
+
+The best way to handle a crisis situation is to prevent it. This involves the use of a wide range of non-physical and verbal strategies focused on preventing and deescalating disruptive behavior. Crisis prevention also involves early assessment of clients for their potential for agitated or assaultive behavior along with the development of appropriate plans of care for managing these behaviors. Strategies aimed at helping clients manage their own behavior, such as stress and anger management groups, can also be effective.
+
+For example, the prevention of violent and aggressive behavior needs to start on admission to a treatment program. In the very first meeting, clients need to be assessed and asked about past violent incidents, whether they have ever been put in seclusion or restraint, whether they have ever experienced abuse as a child or adult, and whether they have ever hurt anyone else. These kinds of questions need to be asked first, since the answers will let staff know who may be at higher risk for conflict and aggression and who may need specialized treatment planning to prevent these incidents.
+
+The SUD counselor and other staff need to be able to recognize **agitation** which can quickly escalate from anxiety to high anxiety, to agitation, to aggression. Agitation is a behavioral pattern that usually is connected to different underlying emotions. When working with an agitated client, there are four main objectives: (1) ensure the safety of the client, staff, and others in the area; (2) help the client manage emotions and distress and maintain or regain control of their behavior; (3) avoid the use of restraint when at all possible; and (4) avoid coercive interventions that escalate agitation.⁷⁶
+
+**VERBAL DE-ESCALATION**
+
+One of the strategies most highly recommended is non-physical “verbal de-escalation.” **Verbal de-escalation** is aimed at meeting the agitated person’s immediate needs, and calming the situation so that it does not escalate, resulting in danger or damage to the individual, program staff or property. This technique involves the use of calm, empathetic communication to de-escalate tension and prevent the situation from worsening. It is essential for counselors and other staff responders to listen actively, validate the individual’s feelings, and use clear, straightforward language to communicate. The effectiveness of verbal de-escalation lies in its ability to reduce anxiety and aggression, thereby preventing the escalation of a crisis.
+
+Clients showing agitation can often present challenges and test the authority, expertise, or qualifications of the staff who are intervening in crisis prevention. To shift focus from their own vulnerabilities, an agitated person is particularly adept at identifying and exploiting the vulnerabilities of the staff responders. To effectively manage these situations, a responder must be adept at acknowledging and managing their own responsesCHAPTER 5: Treatment Planning and Counseling 251
+
+to countertransference and negative emotions. This involves recognizing their own susceptibilities, avoiding
+retaliatory, argumentative, or defensive behaviors, and not engaging in unproductive interactions with the client.
+Such actions by staff can worsen the situation. It’s also crucial for the counselor and other staff to understand
+their own limitations when handling agitated individuals, recognizing that these encounters can be demanding.
+At times, the most appropriate course of action may involve seeking additional support or intervention.77
+
+Here is an example of the use of de-escalation skills:
+
+**Counselor:** I see that you’re feeling really upset because your family didn’t come to visit. It’s understandable to feel
+let down and angry when we’re expecting to see our loved ones, and they don’t show up.
+
+**Client:** Yeah, it’s like they don’t even care! Every time I think things are getting better, something like this happens.
+It’s just so frustrating!
+
+**Counselor:** That sounds incredibly painful and disappointing. When we feel neglected by the people we care about,
+it can stir up a lot of intense emotions. It’s okay to feel this way, and I’m here to support you through it.
+
+**Client:** It just makes me so angry. I don’t want to deal with this anymore.
+
+**Counselor:** You’re dealing with a lot, and it’s normal to feel overwhelmed. Let’s take a moment to focus on your
+breathing and try to calm these intense feelings. Can we try that together?
+
+**Client:** Fine, I’ll try it. But it probably won’t help.
+
+**Counselor:** It’s alright. Just trying is a good step. Let’s take a deep breath in... and slowly let it out. Let’s do a few
+more, focusing on the air moving in and out. Sometimes, taking a moment to pause can help us start to feel a little
+more grounded.
+
+**Client:** (After several breaths) I guess I feel a little better now. It’s just so hard, you know?
+
+**Counselor:** Absolutely, and it’s okay to feel that way. You’ve taken a big step by expressing your feelings and trying
+to manage them. How about we explore some ways you can communicate your feelings to your family or find
+support in other ways?
+
+This dialogue demonstrates the use of verbal de-escalation techniques by acknowledging the client’s feelings,
+offering support, encouraging calming techniques, and gently steering the conversation towards positive coping
+strategies.
+
+[Image: A black and white photograph depicting two people in what appears to be a counseling session. On the left, a man with a beard, wearing a patterned jacket, is looking towards the right with a serious expression. On the right, a woman with dark hair, wearing a knitted cardigan, is looking down, her hands clasped in front of her, appearing distressed or contemplative. The background is slightly blurred, focusing on the two individuals. The image likely illustrates the counselor-client interaction discussed in the text.]252 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**Steps in Crisis Intervention**
+
+Crisis intervention is a process by which a response team or individual identifies, assesses, and intervenes with the person in crisis to return the individual to their prior level of functioning as quickly as possible and to lessen any negative impact. When applied effectively this process results in the acquisition of new skills and coping mechanisms, leading to positive change.
+
+Crisis intervention requires that the person experiencing crisis receive timely and skillful support to help cope with their situation before further physical or emotional deterioration occurs. Crisis responders need to address that person’s distress, impairment, and instability by operating in a logical and orderly process as dictated by a valid, systematic crisis intervention model. The use of a comprehensive model allows the novice as well as the experienced clinician to be mindful of maintaining the fine line that allows for a response that is active and directive enough but does not take problem ownership away from the client. In general, the following steps are employed:78
+
+» **Assessing the Severity of the Crisis.** The first step in crisis intervention is assessing the severity of the problem. If the person in crisis is physically injured, or violent, some immediate steps need to be taken to safeguard this person and those around them. More typically, the person in crisis is confused, anxious, and unsure of what to do next. This is not an immediate medical emergency. There is some time to assess the problem and deal with solutions.
+
+» **Forming a Connection.** To assist a person in crisis it is necessary to form a human connection or establish rapport with them. The person must feel the responder cares about them and is concerned about the situation. When crisis intervention is done in person, the responder’s body language, facial expressions and eye contact will all convey caring and interest. With crisis intervention done by telephone, only the words used, the tone of voice, the speed of speaking, the loudness of the voice, and the inflection used can convey caring and interest. The initial response to a person in crisis should be a response that demonstrates empathy. This is the communication to the person in crisis that the responder understands the feelings being expressed by the person in crisis.
+
+» **Exploring the Problem.** The next step in crisis intervention is exploring the problem. In crisis intervention it is important to focus on the immediate situation. One of the main differences between crisis intervention and traditional counseling is this emphasis on the present and immediate past. Delving into someone’s unhappy past is not a wise use of time during a crisis intervention. The goal of crisis intervention is to help the person through the immediate crisis by restoring the person to their previous level of functioning. The tools used to explore the problem in a crisis intervention setting are active listening and paraphrasing.
+
+» **Dealing with Feelings and Emotions.** The feelings, not only the content, of the material presented must be examined so that a complete picture of the crisis, through the eyes of the person in the crisis, can be obtained. Many people have difficulty expressing their feelings. When they are in crisis they may seem unaffected or detached and emotionless about their situation. Conversely, there are some individuals who become overly emotional during a crisis. They may be crying or overwrought to an extent that makes communication nearly impossible.
+
+» **Generating Alternative Solutions.** After the counselor has heard a considerable amount of detail regarding the present crisis and the feelings underlying those facts, the best practice is to summarize their understanding of the situation to this point. This step is in preparation for discussing alternative possible solutions. After this summary, the person with the crisis may modify the situation by adding new details, or correcting their interpretation of what the counselor has heard.
+
+» **Development of an Action Plan.** The final step in crisis intervention is the development of an action plan. The action plan lays out the steps that will be taken by the person to resolve the crisis. The action plan needs to be specific, concrete, and in small mutually agreed upon increments. The action plan should be developed by the person in crisis with the assistance of the counselor.CHAPTER 5: Treatment Planning and Counseling 253
+
+The action plan must be very specific regarding time. The person is desperately looking for some relief. To give them hope of moving in a positive direction today, and to see some concrete examples of some resolution by tomorrow will greatly benefit the person. There should also be a specific follow-up plan. If the action steps run into a snag, or if there are unanticipated complications, there needs to be further contact so that the plan can be modified. It is also beneficial to have follow-up to monitor progress.
+
+In summary, SUD counselors are critical team members in crisis prevention and intervention, employing verbal de-escalation techniques and a structured approach to crisis management. Their expertise and empathetic engagement are central in fostering resilience and recovery in individuals facing day-to-day challenges. Anyone who works with agitated clients should receive ongoing crisis prevention and intervention training, particularly in de-escalation techniques. The integration of specialized training and continuous professional development can enhance proficiency in crisis intervention.
+
+[Image: A black and white photograph depicting a group therapy or counseling session. In the center, an older man with a white beard and balding head is sitting, looking distressed with his head in his right hand, and holding glasses in his left hand in his lap. A woman on the left, wearing a striped shirt, has her right hand on his left shoulder, offering comfort. A man on the right, wearing a checkered shirt over a t-shirt, has his left hand on the older man's right shoulder, also appearing to offer support. All three are seated. The background is somewhat blurry but appears to be an indoor setting with windows or wall panels.]254 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+DISCHARGE PLANNING AND TERMINATION
+
+The termination phase is important in the counseling of clients SUDs, serving as a critical bridge from intensive therapeutic support to increased self-reliance. Termination strategies should focus on preparation, effective communication combined with emotional support, and post-termination follow-up to ensure a smooth transition for clients. This transition underscores a client’s move towards recovery independence, making the termination phase as significant as the initial stages of counseling.79 Decisions around termination must prioritize the client’s best interest, steering clear of abrupt endings without clinical justification.
+
+Preparing for discharge, while signaling progress, also ushers in a period of adjustment and vulnerability. SUD counselors play a crucial role in ensuring this transition is as smooth and supportive as possible, thereby setting the stage for sustained recovery. As the time for discharge or termination approaches, the counselor begins by engaging the client in reflective conversations about their transition out of primary treatment. This involves reviewing the milestones achieved, the challenges encountered, and the coping strategies developed throughout the treatment process. Such discussions not only reinforce the client’s progress but also bolster their confidence in their ability to manage outside the structured environment of the treatment program.
+
+Simultaneously, the counselor initiates goal-setting sessions focused on post-treatment life. This involves collaboratively identifying realistic, achievable goals that align with the client’s values and aspirations. By setting goals related to personal growth, relationships, career, and health, the counselor helps the client envision a future where they are not defined by their past struggles with substances. An essential part of the discharge planning involves preparing the client for potential triggers and challenges that lie ahead. This may involve revisiting the relapse/recurrence prevention plan, which includes identifying early warning signs, strategies to manage cravings, and steps to take in case of a recurrence. This plan involves leveraging the support systems established during treatment, such as peer support, family, friends, mutual support groups, and ongoing therapeutic interventions. The counselor may also schedule follow-up sessions or check-ins to monitor the client’s adjustment and provide ongoing support as needed.
+
+Termination requires the client to make use of such newly gained assets as self-knowledge, emotional strength, recognition of feelings, and the ability to express the need for autonomy. For some clients, ending treatment is associated with pride and emotional relief.80 For others, this phase brings up various emotional responses, from anxiety to sadness or even resistance. Clear, empathetic communication along with emotional support strategies are fundamental. The counselor needs to support clients through these emotions, bolstering the new skills they have learned, and reinforce self-efficacy, as well as reflecting positive aspects of the therapeutic relationship. Engaging clients in planning their termination reinforces autonomy, helping them see it not as an end but as a transition to a new phase of independence. Such conversations are not only about closure but also about celebrating growth, preparing for future challenges, and ensuring clients are aware of their accomplishments and resilience.81
+
+There are many reasons why clients terminate services. In the best scenario, the client’s termination is a mutually agreed upon cessation of treatment that occurs as a collaborative process between client and counselor. There are unplanned and involuntary discharge circumstances, however, in which the client self-terminates services or is required to leave a program. The term against medical advice (AMA) indicates that a client “left against medical advice or discontinued care.”82 Historically, SUD treatment programs have used the term “administrative discharge (AD)—also referred to as “disciplinary discharge,” “discharge for cause,” or “discharge upon staff request”—which is the adversarial termination of services due to a client’s failure to comply with program rules and expectations.82
+
+Unplanned discharge is a serious problem in behavioral health treatment settings and especially among residential settings. It is important to handle an unplanned discharge as a safety measure as data reflects a host of issues that face clients and their families, such as high rates of symptomatic deterioration, overdose, criminal offending, incarceration, or death.84 In cases where the termination is not voluntary but necessitated by external factors, the counselor needs to take extra care to address any feelings of abandonment or anxiety. This includesCHAPTER 5: Treatment Planning and Counseling 255
+
+discussing the reasons for termination, emphasizing the progress made, and reassuring the client of their continued worthiness of support and care.
+
+Ultimately, the counselor’s actions during the discharge or termination phase are guided by a deep commitment to the client’s long-term well-being. By carefully planning the transition, connecting the client with resources, and reinforcing their coping skills and self-efficacy, the counselor lays the groundwork for a successful continuation of the recovery journey beyond the confines of the treatment program. By adhering to best practices, such as early preparation, ethical consideration, effective communication, emotional support, and post-termination planning, counselors can facilitate a positive and empowering termination process. Ultimately, the goal is to ensure that clients feel prepared, supported, and confident in their ability to maintain their progress independently.
+
+**Discharge Plan**
+
+There has been a shift in focus in recent years to be more attentive to the continuing care phase of treatment (or, levels of care). The continuing care phase involves providing some form of less-intensive, tapered care (e.g., standard outpatient treatment, community-based self-help/support groups). The overarching goal of any continuing care model is to sustain treatment gains attained in the primary phase to manage problematic substance use, reach goals of stable housing, recovery, self-sufficiency, and increase quality of life.
+
+[Image: Four black circular icons with white line art and labels below them.
+Top-left icon: A heart with a heartbeat (electrocardiogram) line running through it. Label: **Health**
+Top-right icon: A house outline with a shield and checkmark inside the shield, positioned on the roof. Label: **Home**
+Bottom-left icon: Two hands cupped upwards, holding a heart. Label: **Purpose**
+Bottom-right icon: An abstract design of four curved lines pointing inwards towards a central point, resembling a stylized pinwheel or community symbol. Label: **Community**]
+
+Many terms are used to describe the period after primary treatment services – aftercare, continuing care, or discharge. Organizations vary in the terms used; however, the same types of information and plans are usually interchangeable. As seen earlier in this study guide, recovery planning should be a component of the primary treatment phase and the recovery plan should be continually updated, including at the time of discharge. The recovery plan may be a separate document or one-in-the-same as the discharge plan.
+
+Discharge planning may vary widely in its extent and formality, depending on a client’s needs and resources available to support this process. It results in a written plan, and often is developed by one individual, typically the counselor working most closely with the client. Ideally, discharge planning is performed by a planning team that includes the client, family members when appropriate, a community caseworker, resource specialists, and representatives from community service providers.⁸⁵
+
+The purpose of the discharge plan is to summarize the services delivered, the progress towards meeting goals and objectives, and any recommendations post discharge, including continuing care and recovery supports. Discharge, despite taking place at the end of a treatment program, should be a core consideration from the very beginning of the course of services. Early, effective planning facilitates the transition from primary treatment to other services and support is critical for long-term recovery.
+
+Good discharge planning is recovery-oriented, focusing on the client’s recovery capital and services/supports in the areas of health, home, purpose, and community. For example, it weaves together people and agencies who provide ongoing SUD services, linkages recovery communities, stable and permanent housing, community services (e.g., health, transportation, work, medication management, etc.) to support recovery and a “life worth living.”
+
+The discharge plan is person-centered in the identification of post-treatment activities, support groups, referrals, and any other necessary follow-up activities that will support and enhance client progress following discharge.256 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**ELEMENTS OF A DISCHARGE PLAN**
+
+While formats will vary among organizations, discharge plans are more complete when they include all of the following:
+» Presenting problems/issues and reason for services/reason for discharge
+» Treatment goals/methods/outcomes
+» Statement of client’s well-being at time of discharge
+» Referral sources and ancillary services to address issues affecting stability (e.g., medical, mental health, vocational training, employment, housing, finances, etc.)
+» Recovery-specific issues (triggers, relapse prevention, mutual aid groups, social integration, supportive relationships, etc.)
+» Signature, date, and SUD counselor credentials
+
+Information describing the reasons for discharge is also included. A brief description of the clients’ status at discharge and prognosis for the future should also be included. As previously noted, recommendations for post discharge activities or services could include participation in continuing care groups, mutual aid meetings, medications at discharge, and referral to other services or practitioners. The plan may also indicate what the client should do in the event of a recurrence or crisis (return for services, contact crisis line, etc.).
+
+**THE COUNSELOR/CLIENT RELATIONSHIP**
+
+As noted above, some clients may experience an emotional response when ending the therapeutic relationship even if there is a mutual agreement that services are no longer necessary. Even if the client has been doing well for some time, the relationship with the counselor can be viewed as a safety net and, without it, evokes uncertainty and concern. This may trigger ambivalence and doubt about the impending change. For the client, this could signal frustration or anxiety about the perceived loss of an existing safety net or an end to the professional relationship that has brought stability and support.
+
+Some clients may even perceive termination as a personal loss or abandonment and grieve the ending relationship. The counselor can normalize these feelings for the client by identifying that these are typical reactions and help the client identify healthy coping skills for managing those thoughts and emotions. The counselor can also discuss with the client how their situation has improved including the client’s increased identification and access to resources, knowledge and utilization of healthy coping skills, and utilization of a healthy support system.⁸⁶ When all is said and done, most people feel better when they have had the opportunity to say goodbye.
+
+[Image: A black and white photograph depicting three people in what appears to be a professional or counseling setting. On the left, a woman with blonde, wavy hair is smiling and looking towards the right. Next to her, slightly behind, a man with dark hair is also smiling and looking towards the right. On the far right, a third person, mostly out of focus, is seen from the shoulder, shaking hands with the man. This third person is wearing a light-colored blazer. The setting suggests an office or a comfortable room.][Layout: Single column page. Header at the top right contains chapter title and page number. Main content starts with a bold, centered title "SUMMARY" followed by five paragraphs. A spiral binding is visible on the left edge of the page.]
+
+CHAPTER 5: Treatment Planning and Counseling 257
+
+**SUMMARY**
+
+This chapter provides extensive guidance for SUD counselors regarding overarching theoretic approaches to counseling and the essential skills and strategies that are necessary for effective client treatment planning and treatment delivery. The many intricacies of treatment, recovery, and discharge planning are emphasized to ensure the plans address the specific needs, circumstances, and desires of each client. Various counseling methods are explored, emphasizing the need for the counselor’s adaptability in applying the most suitable techniques to foster client engagement and progress.
+
+A significant focus is placed on the role of psychoeducation in SUD treatment. There are research-based methods for delivering effective psychoeducation, which when used, can positively impact a clients’ understanding of the nature of their disorder and the critical aspects of the recovery process. This knowledge empowers clients and their families, enhances their motivation, and supports adherence to treatment protocols.
+
+Crisis prevention and intervention strategies are also discussed as crucial elements in therapeutic environments. There are practical tools and techniques for counselors to identify early signs of a crisis and effectively intervene to prevent escalation and support client safety. The importance of staff training and practice in crisis prevention and intervention cannot be stressed enough.
+
+Finally, the chapter addresses the sensitive phase of client termination. It offers guidelines for concluding the therapeutic relationship ethically and effectively, ensuring that termination is a planned and therapeutic process that reinforces the client’s long-term recovery strategies.
+
+By integrating these components into their practice, SUD counselors are better prepared to navigate the complexities of SUD treatment, from initial assessment to successful client discharge.
+
+1258 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**ENDNOTES**
+
+[Layout: A page with a header, a main title "ENDNOTES", followed by two columns of numbered endnotes. The left column contains endnotes 1-11, and the right column contains endnotes 12-22.]
+
+1  Maruish, M. E. (2019). Essentials of treatment planning,
+second edition. Hoboken, NY: Wiley Publishers.
+
+2  SAMHSA (2023). Counseling approaches to promote recovery
+from problematic substance use and related issues. Treatment Improvement Protocol (TIP) Series 65. Publication No. PEP23-02-01-003. Rockville, MD: Substance
+Abuse and Mental Health Services Administration.
+https://store.samhsa.gov/product/tip-65-counsel-
+ing-approaches-promote-recovery-problematic-sub-
+stance-use-and-related-issues
+
+3  National Institute on Drug Abuse (2018). Principles of
+drug addiction treatment: A research-based guide. Rockville,
+MD: National Institutes of Health, U.S. Department of
+Health and Human Services; 2012. (NIH Publication No.
+12-4180). https://nida.nih.gov/sites/default/files/po-
+dat-3rdEd-508.pdf
+
+4  Ibid.
+
+5  Marin County Health and Human Services. (2022, Jan.).
+Clinical documentation guide. BHRS Documentation
+Manual v 1/05/2022. https://www.marinhhs.org/sites/
+default/files/files/servicepages/2022_01/january_2022_
+bhrs_clinical_documentation_guide.pdf
+
+6  SAMHSA (2016). Guidance document for supporting women
+in co-ed settings. HHS Publication No. (SMA) 16-4979. Rock-
+ville, MD: Substance Abuse and Mental Health Services
+Administration. https://store.samhsa.gov/sites/default/
+files/sma16-4979.pdf
+
+7  Central Washington University (n.d.). Examples of SMART
+Performance and Development Goals. http://www.cwu.edu/
+hr/sites/cts.cwu.edu.hr/files/documents/pm_SMART_
+goals.pdf.
+
+8  SAMHSA (2023). Counseling approaches to promote recovery
+from problematic substance use and related issues. Treatment Improvement Protocol (TIP) Series 65. Publication No. PEP23-02-01-003. Rockville, MD: Substance
+Abuse and Mental Health Services Administration.
+https://store.samhsa.gov/product/tip-65-counsel-
+ing-approaches-promote-recovery-problematic-sub-
+stance-use-and-related-issues
+
+9  Wilke, E., Markon, K. E., & Freedland, T. A. (2022). Pre-
+dictors of client dropout from intensive outpatient treatment
+for substance use disorders. Research Brief No. 9. Center
+for Practice Transformation, University of Minnesota.
+https://practicetransformation.umn.edu/wp-content/
+uploads/2023/01/ResearchBrief_EarlyDropout_Final.pdf
+
+10 Recovery Answers. (n.d.). Addictionary®. https://www.
+recoveryanswers.org/addiction-ary/
+
+11 SAMHSA. (2010). Protracted withdrawal. Substance Abuse
+Treatment Advisory, 9(1). https://store.samhsa.gov/sites/
+default/files/sma10-4554.pdf
+
+12 SAMHSA (2019). Enhancing motivation for change in
+substance use disorder treatment. Treatment Improve-
+ment Protocol (TIP) Series 35. SAMHSA Publication No.
+PEP19-02-01-003. Substance Abuse and Mental Health
+Services Administration. https://store.samhsa.gov/
+product/tip-35-enhancing-motivation-change-sub-
+stance-use-disorder-treatment/pep19-02-01-003
+
+13 Kruger, E. S., Serier, K. N., Pfund, R. A., McKay, J. R.,
+& Witkiewitz, K. (2021). Integrative data analysis of
+self-efficacy in 4 clinical trials for alcohol use disorder. Alcoholism, Clinical and Experimental Research, 45(11),
+2347–2356.
+
+14 Worley J. (2017). Recovery in substance use disorders:
+What to know to inform practice. Issues in Mental Health
+Nursing, 38(1), 80–91.
+
+15 SAMHSA (2010). Protracted withdrawal. Substance Abuse
+Treatment Advisory, 9(1). https://store.samhsa.gov/sites/
+default/files/sma10-4554.pdf
+
+16 SAMHSA (2023). Counseling approaches to promote recovery
+from problematic substance use and related issues. Treatment
+Improvement Protocol (TIP) Series 65. Publication No.
+PEP23-02-01-003. Rockville, MD: Substance Abuse and
+Mental Health Services Administration.
+
+17 Office of the Surgeon General. (2016). Facing addiction in
+America: The Surgeon General’s report on alcohol, drugs, and
+health. U.S. Department of Health and Human Services.
+
+18 McCabe, S. E., West, B. T., Strobbe, S., & Boyd, C. J.
+(2018). Persistence/recurrence of and remission from
+DSM–5 substance use disorders in the United States:
+Substance-specific and substance-aggregated correlates.
+Journal of Substance Abuse Treatment, 93, 38–48.
+
+19 Marlatt, G. A. Gordon, J. R. (1985). Relapse prevention.
+New York: Guilford Press.
+
+20 Morin, J. G., Harris, M., & Conrod, P. J. (2014). A Re-
+view of CBT treatments for substance use disorders. In,
+Oxford Handbook Topics in Psychology (online edn, Oxford
+Academic, 3 Mar. 2014). https://doi.org/10.1093/oxford-
+hb/9780199935291.013.57,
+
+21 Ramadas, E., Lima, M., Caetano, T., Lopes, J., & Dixe,
+M. (2021). Effectiveness of mindfulness-based relapse
+prevention in individuals with substance use disorders:
+A systematic review. Behavioral Sciences, 11. https://doi.
+org/10.3390/bs11100133
+
+22 Chen, X., Wang, D., Zhou, L., Winkler, M., et al. (2018).
+Mindfulness-based relapse prevention combined with
+virtual reality cue exposure for methamphetamine use
+disorder: Study protocol for a randomized controlled
+trial. Contemporary clinical trials, 70, 99–105 . https://doi.
+org/10.1016/j.cct.2018.04.006.[Layout: The page has a header. The main content is a list of references formatted in two columns.]
+
+CHAPTER 5: Treatment Planning and Counseling 259
+
+23 Carter, T., Heaton, K., et al. (2023). Relapse prevention and prediction strategies in substance use disorder: A scoping review. Journal of Addictions Nursing 34(2) 146– 157. | DOI: 10.1097/JAN.0000000000000527 https:// journals.lww.com/jan/abstract/2023/04000/relapse_ prevention_and_prediction_strategies_in.7.aspx
+
+24 Borkman, T. J. (1998). Is recovery planning any dif- ferent from treatment planning? Journal of Substance Abuse Treatment, 15(1), 37–42. doi: 10.1016/S0740- 5472(97)00247-x. PMID: 9534325.
+
+25 Eddie, D., Hoffman, L., Vilsaint, C., Abry, A., Bergman, B., Hoeppner, B., Weinstein, C., & Kelly, J. (2019). Lived experience in new models of care for substance use disorder: A systematic review of peer recovery support services and recovery coaching. Frontiers in Psychology, 10. https://doi.org/10.3389/fpsyg.2019.01052.
+
+26 Alberta Health Services (n.d.). Recovery management: Planning for success. https://www.albertahealthservices. ca/amh/Page2485.aspx
+
+27 Wellness Recovery Action Plan (n.d.). What is WRAP? Advocates for Human Potential, Inc. https://www.well- nessrecoveryactionplan.com/what-is-wrap/
+
+28 Ivey, A. E., Ivey, M. B. & Zalaquett, C. P. (2018) In- tentional interviewing and counseling: Facilitating client development in a multicultural society (9th Edition). Cengage Learning. Kindle Edition.
+
+29 Ibid.
+
+30 Jane, J. (2001). Basic counseling skills. In, Locke, D. C., Myers, J. E., & Herr, E. L., The handbook of counseling. SAGE Publications, Inc. https://doi. org/10.4135/9781452229218.
+
+31 Ivey, A. E., Ivey, M. B. & Zalaquett, C. P. (2018) In- tentional interviewing and counseling: Facilitating client development in a multicultural society (9th Edition). Cengage Learning. Kindle Edition.
+
+32 Bachelor, A. (1995). Clients’ perception of the therapeu- tic alliance: A qualitative analysis. Journal of Counseling Psychology, 42, 323–337.
+
+33 Luborsky, L., McLellan, A. T., Woody, G. E., O’Brien, C. P., & Auerbach, A. (1985). Counselor success and its determinants. Archives of General Psychiatry, 42, 602–611.
+
+34 Saarnio, P. (2002). Factors associated with dropping out from outpatient treatment of alcohol–other drug abuse. Alcoholism Treatment Quarterly, 20, 17–33.
+
+35 Lebow, J., Kelly, J., Knobloch–Fedders, L., & Moos, R. (2006). Relationship factors in treating substance use disorders. Principles of therapeutic change that work, 293, 317.
+
+36 Dundon, W. D., Pettinati, H. M., Lynch, K. G., et al. (2008). The therapeutic alliance in medical-based in- terventions impacts outcome in treating alcohol depen- dence. Drug Alcohol Dependence, 95(3), 230–6. Epub 2008 Mar 10. PMID: 18329827; PMCID: PMC2600892.
+
+37 Meier, P., Barrowclough, C., & Donmall, M. (2005). The role of the therapeutic alliance in the treatment of substance misuse: a critical review of the literature. Addiction, 100 3, 304–16 . https://doi.org/10.1111/J.1360- 0443.2004.00935.X.
+
+38 Kvrgic, S., Cavelti, M., Beck, E. et al. (2013). Therapeutic alliance in schizophrenia: the role of recovery orienta- tion, self-stigma and insight. Psychiatry Research, 209, 5–20.
+
+39 Dixon, L. B., Holoshitz, Y. & Nossel, I. (2016). Treatment engagement of individuals experiencing mental illness: review and update. World Psychiatry, 15(1), 13–20.
+
+40 Wang, K., Chung, H., Stuart-Mayer, S. L., Schreier, B., et al. (2022). The relationship between clients’ expectation of therapist support and challenge and treatment out- come: A response surface analysis. Psychotherapy, 59(3), 470–486. https://doi.org/10.1037/pst0000440
+
+41 Field, T., Beeson, E., Jones, L., & Miller, R. (2017). Counselor allegiance and client expectancy in Neurosci- ence-Informed Cognitive-Behavior Therapy: A 12-month qualitative follow-up. Journal of Mental Health Counseling, 39, 351–365. https://doi.org/10.17744/MEHC.39.4.06.
+
+42 Center for Substance Abuse Treatment. Substance Abuse (2006). Clinical issues in intensive outpatient treatment. Rockville (MD): SAMHSA Treatment Improvement Pro- tocol (TIP) Series, No. 47. https://www.ncbi.nlm.nih. gov/books/NBK64095/
+
+43 SAMHSA (2023). Counseling approaches to promote recovery from problematic substance use and related issues. Treatment Improvement Protocol (TIP) Series 65. Publication No. PEP23-02-01-003. Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+44 Davidson, L., O’Connel, M.J., Staeheli, M., Weingar- ten, R. et al. (2001). Concepts of recovery in behavioral health: History, review of the evidence, and critique. Psychiatric Services, 52(4), 482–5.
+
+45 Acharia, T & Gius, M. (2017). The importance of hope against other factors in the recovery of mental illness. Psychiatria Danubina, 29(Suppl 3), 619–622.
+
+46 Kaplan, D. M., Tarvydas, V. M. & Gladding, S.T. (2014). 20/20: A vision for the future of counseling: The new consensus definition of counseling. Journal of Counseling & Development, 92, 366–372. https://doi.org/10.1002/ j.1556-6676.2014.00164.x
+
+47 American Psychiatric Association (2023, April). What is psychotherapy? https://www.psychiatry.org/pa- tients-families/psychotherapy[Layout: Two columns. A header is at the top of the page.]
+260 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+48 Prasko, J., Ociskova, M., Vanek, J., Burkauskas, J., et al. (2022). Managing transference and countertransference in cognitive behavioral supervision: Theoretical frame- work and clinical application. *Psychology Research and Behavior Management, 11*(15), 2129-2155. doi: 10.2147/ PRBM.S369294. https://www.ncbi.nlm.nih.gov/pmc/ar- ticles/PMC9384966/
+
+49 SAMHSA (2020). *Substance use disorder treatment for peo- ple with co-occurring disorders*. Treatment Improvement Protocol (TIP) Series, No. 42. SAMHSA Publication No. PEP20-02-01-004. Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+50 Cowan, A., Welton, R., & Kay, J. (2016). Transference and countertransference. In Editor(s): Howard S. Friedman, *Encyclopedia of Mental Health (Second Edition)*, Academic Press, pages 324-328. https://doi.org/10.1016/B978-0- 12-397045-9.00195-6.
+
+51 SAMHSA (2023). *Counseling approaches to promote recovery from problematic substance use and related issues*. Treatment Improvement Protocol (TIP) Series 65. Publication No. PEP23-02-01-003. Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+52 Ibid, pages 96-97.
+
+53 SAMHSA (2020). *Substance use disorder treatment and family therapy*. Treatment Improvement Protocol (TIP) Series 39. SAMHSA Publication No. PEP20-02-02-012. Substance Abuse and Mental Health Services Adminis- tration.
+
+54 Black, C. (2018). *Unspoken legacy: Addressing the impact of trauma and addiction within the family*. Central Recovery Press.
+
+55 Hogue, A., Schumm, J. A., MacLean, A., & Bobek, M. (2022). Couple and family therapy for substance use disorders: Evidence-based update 2010-2019. *Journal of Marital and Family Therapy, 48*(1), 178-203.
+
+56 Ibid.
+
+57 Center for Substance Abuse Treatment (2015, revised). *Substance abuse treatment: Group therapy*. Treatment Improvement Protocol (TIP) Series, No. 41. HHS Publication No. (SMA) 15-3991. Rockville, MD: Substance Abuse and Mental Health Services Administration. https://store. samhsa.gov/sites/default/files/sma15-3991.pdf
+
+58 Ibid, pages 9-36.
+
+59 Ibid, pages 91-101.
+
+60 Tuckman, B. W. (1965). Developmental sequence in small groups. *Psychological Bulletin, 63* (6), 384-399. doi:10.1037/ h0022100. PMID 14314073.
+
+61 Center for Substance Abuse Treatment (2015, revised). Substance Abuse Treatment: Group Therapy. Treatment Improvement Protocol (TIP) Series, No. 41. HHS Pub- lication No. (SMA) 15-3991. Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+62 SAMHSA (2016). *Guidance document for supporting women in co-ed settings*. HHS Publication No. (SMA) 16-4979. Rock- ville, MD: Substance Abuse and Mental Health Services Administration. https://store.samhsa.gov/product/guid- ance-document-supporting-women-co-ed-settings/ sma16-4979
+
+63 Ibid.
+
+64 Sarvenaz Hatami (2013, Oct.). Learning styles. *ELT Jour- nal, 67*(4), 488-490. https://doi.org/10.1093/elt/ccs083
+
+65 Gay, G. (2010). *Culturally responsive teaching: Theory, research, and practice (Multicultural Education Series)*, 2nd Edition. New York, NY: Teachers College Press.
+
+66 Magill, M., Marino, S. & Wampold, B. (2021). The princi- ples and practices of psychoeducation with alcohol or other drug use disorders: A review and brief guide. *Jour- nal of Substance Abuse Treatment, 126*. 108442. DOI:https:// doi.org/10.1016/j.jsat.2021.108442
+
+67 Dixon, L., Lucksted, A., Stewart, B., et al. (2004). Out- comes of the peer-taught 12-week family-to-family education program for severe mental illness. *Acta Psychi- atric Scan, 109*, 207-215.
+
+68 Pitschel-Walz, G. (2010). Family psychoeducation. *Schizophrenia Research, 117*. https://doi.org/10.1016/j. schres.2010.02.015.
+
+69 Murray-Swank, A. B. & Dixon, L. (2004). Family psychoeducation as an evidence-based practice. *CNS Spectrums, 9*(12), 905-912. DOI: https://doi.org/10.1017/ S109285290000972X.
+
+70 Baldwin, B.B. (1979). Crisis intervention: An overview of theory and practice. *The Counseling Psychologist, 8*(2), 43- 52.
+
+71 Roberts, A.R. (Ed.) (2005). *Crisis intervention handbook: Assessment, treatment, and research (3rd ed.)*. New York: Oxford University Press.
+
+72 Crisis Prevention Institute (n.d.). *Nonviolent Crisis Inter- vention®*. https://www.crisisprevention.com/our-pro- grams/nonviolent-crisis-intervention/.
+
+73 Jacobson, G. (1980). Crisis theory. *New Directions for Mental Health Services, 6*. https://doi.org/10.1002/ yd.23319800603
+
+74 Roberts, A.R. (Ed.) (2005). *Crisis intervention handbook: Assessment, treatment, and research (3rd ed.)*. New York: Oxford University Press.[Layout: Two columns of text. A header is at the top of the page. The left side of the page shows a spiral binding.]
+
+CHAPTER 5: Treatment Plamning and Counseling 261
+
+75 Dattilio, F.M., & Freeman, A. (Eds.). (1994). Cogni-
+tive-behavioral strategies in crisis intervention. New York:
+Guilford.
+
+76 Richmond, J. S., Berlin, J. S., Fishkind, A. B., et al.
+(2012). Verbal de-escalation of the agitated patient:
+Consensus statement of the American Association
+for Emergency Psychiatry Project BETA De-escala-
+tion Workgroup. Western Journal of Emergency Medicine,
+13(1):17–25. doi: 10.5811/westjem.2011.9.6864. PMID:
+22461917; PMCID: PMC3298202. https://www.ncbi.nlm.
+nih.gov/pmc/articles/PMC3298202/
+
+77 Ibid.
+
+78 Roberts, A.R. & Ottens, A. J. (2005). The seven-stage
+crisis intervention model: A road map to goal attain-
+ment, problem solving, and crisis resolution. Journal of
+Brief Treatment and Crisis Intervention, 5(4), 329–339.
+
+79 Vasquez, M. & Bingham, R. & Barnett, J. (2008). Psycho-
+therapy termination: Clinical and ethical responsibilities.
+Journal of Clinical Psychology, 64, 653–65. DOI:10.1002/
+jclp.20478.
+
+80 Roe, D., Dekel, R., Harel, G., Fennig, S., & Fennig
+S. (2006). Clients’ feelings during termination of
+psycho-dynamically oriented psychotherapy. Bul-
+letin of the Menninger Clinic, 70(1), 68–81. doi:0.1521/
+bumc.2006.70.1.68. PMID: 16545033.
+
+81 Norcross, J. C., Zimmerman, B. E., Greenberg, R. P.,
+& Swift, J. K. (2017). Do all therapists do that when
+saying goodbye? A study of commonalities in termina-
+tion behaviors. Psychotherapy, 54(1), 66–75. https://doi.
+org/10.1037/pst0000097
+
+82 Centers for Medicare and Medicaid Services (2021). Re-
+search Data Assistance Center (ResDAC) Data Documen-
+tation. Patient Discharge Status Code Values. https://
+resdac.org/sites/datadocumentation.resdac.org/files/
+Patient Discharge Status Code Values.txt
+
+83 White, W.L., Scott, C. K., Dennis, M. L. &, Boyle, M. G.
+(2005). It’s time to stop kicking people out of addiction
+treatment. Counselor, 6, 12–25.
+
+84 Williams, Izaak L. (2018) Involuntary termination from
+substance use disorder treatment: Unknown phantoms,
+red flags, and unexplained medical data. Journal of Hu-
+man Services: Training, Research, and Practice, 3 (2), Article
+1. https://scholarworks.sfasu.edu/jhstrp/vol3/iss2/1/
+
+85 Backer, T.E., Howard, E.A. & Moran, G.E. (2007). The
+role of effective discharge planning in preventing
+homelessness. Journal of Primary Prevention, 28, 229–243.
+https://doi.org/10.1007/s10935–007–0095–7
+
+86 Norcross, J. C., Zimmerman, B. E., Greenberg, R. P.,
+& Swift, J. K. (2017). Do all therapists do that when
+saying goodbye? A study of commonalities in termina-
+tion behaviors. Psychotherapy, 54(1), 66–75. https://doi.
+org/10.1037/pst0000097

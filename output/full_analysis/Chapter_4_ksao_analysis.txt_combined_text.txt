@@ -1,0 +1,1854 @@
+
+
+### Chapter_4 ###
+
+153
+
+**CHAPTER 4:**
+EVIDENCE-BASED SCREENING
+AND ASSESSMENT154 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**INTRODUCTION**
+
+The philosophies of healthcare have evolved significantly over the years, shifting from an illness-oriented service to a more holistic and person-centered approach. This transition emphasizes understanding and catering to the individual's health needs, values, and preferences. The key aspects of these overlapping philosophies can be summarized as follows:
+
+**Embracing Individuality:** Healthcare has increasingly recognized the uniqueness of individuals and is moving away from one-size-fits-all solutions. This requires a relational foundation that is based on trust, empathy, compassion and responsiveness to individual needs and values. Personalized treatment and care plans that respect individual preferences and life circumstances are the norm.
+
+**Recovery-orientation:** As detailed in Chapter 1, there has been considerable advancement in the understanding of problematic substance use and recovery. Recovery is a highly personal journey toward wellness, satisfying relationships, engagement in community, and a sense of meaning and purpose. Practice standards for screening, assessment, treatment, and recovery support need to address a range of biological, psychological, and sociocultural considerations.
+
+[Image: Four black circular icons arranged in a 2x2 grid are displayed to the right of the "Recovery-orientation" and "Person-Centered Care" paragraphs.
+Top-left icon: A white line drawing of a heart with an EKG/heartbeat line through its center. Below this icon is the label "Health".
+Top-right icon: A white line drawing of a house with a shield containing a checkmark within its roof outline. Below this icon is the label "Home".
+Bottom-left icon: A white line drawing of two cupped hands holding a small sprout or plant. Below this icon is the label "Purpose".
+Bottom-right icon: A white abstract line drawing, possibly representing interconnected figures or a community network. Below this icon is the label "Community".]
+
+**Person-Centered Care:** Person-centered care is one of the key quality indicators in healthcare. Person-centered care has been an organizing principle for health and behavioral health systems as they move towards more integrated health care delivery. This approach prioritizes the client's own perspectives and tailors care to individual needs, values, and preferences.¹ It emphasizes the importance of understanding the client beyond their substance use and other potential conditions, ensuring that care is respectful and responsive.
+
+**Strengths-Based Approach:** Current practices emphasize a strengths-based model, where the focus is on the individual's strengths, capabilities, and resources. This shift encourages empowerment and self-efficacy in managing health and wellness.
+
+**Holistic Care:** Holistic care is integral to modern healthcare philosophies. It involves understanding and addressing the physical, mental, social, and spiritual well-being of individuals. Research indicates that health, happiness, and meaning can be cultivated most effectively by adopting a holistic framework.²
+
+**Integration of Care:** As noted in Chapter 2, there's a growing emphasis on integrating various elements of care, ensuring coordination and continuity across different health care providers and settings.³
+
+As such, effective screening and assessment for substance use disorders requires a person-centered and strengths-based approach that integrates comprehensive, evidence-based screening and assessment tools, awareness of co-occurring conditions, consideration of biopsychosocial factors, and use of a recovery-orientation.[Layout: Single column of text with a header and a decorative spiral binding graphic on the left. The header contains chapter information on the left and a page number on the right.]
+
+CHAPTER 4: Evidence-based Screening
+155
+
+**OVERARCHING ISSUES FOR SCREENING AND ASSESSMENT**
+
+**Supporting People in Making Choices**
+
+Person-centered care embodies the recovery movement as it places the person at the heart of everything that is undertaken to facilitate their recovery. Person-centered care and planning are, first and foremost, about always considering the perceptions, needs, “truths,” preferences and priorities, as well as experiences, of the person seeking help. Many health care providers agree with these concepts and feel that they are already person-centered in their daily work. However, being truly person-centered often requires a profound shift in attitudes, policies, and practices.
+
+The focus in a recovery-oriented relationship is assisting people in building their lives in the ways that they desire. This is achieved by actively encouraging the person’s leadership in all aspects of decision-making. Professional expertise remains an essential ingredient, but one that is applied effectively to support informed choice, shared decision-making, and the client’s self-management.
+
+In order to empower people to take a more active role in their treatment and recovery and make informed decisions, there must be an intentional focus on person-centered care used by SUD counselors for collaborative and “productive interactions” about choices and decisions. Secondly, counselors need to use effective decision support strategies that assist the person in understanding choices, making decisions regarding specific service areas, and building capacity to make decisions, in general. These strategies play an important part in operationalizing a person-centered approach.
+
+Respecting clients as partners in the full course of care:
+» Emphasizes the importance of autonomy, self-determination, and self-management.
+» Adopts a hopeful attitude.
+» Actively encourages the client’s participation in all aspects of decision-making.
+» Respects and values a client’s inherent worth and importance.
+» Affirms a belief in a client’s capacity to recover, thrive, and lead a meaningful and contributing life.
+» Celebrates each client’s effort and achievement.⁴
+
+Counselors are often concerned about the ability of the client to make “the right” decisions or think the client will make decisions about their care that can be harmful. Using a person-centered approach requires the counselor to recognize that clinical decision-making is affected by many factors, including how to best reduce risks of harm while promoting the client’s autonomy and personal recovery. The term **dignity of risk** is used to describe the right of individuals to choose to take some risk in engaging in life experiences.⁵ This is also considered as a “right to failure.”
+
+People with substance use and/or mental health conditions may feel subject to a double standard in attitudes towards their ability for self-determination. In the process of receiving professional services, they seem to have somehow given up their “right” to make risky or potentially self-defeating choices without intervention from authorities, clinicians, service providers, or even family members wishing to protect them. Over-protectiveness, taking away people’s choices, or not allowing them to take risks or try new things crushes hope. In addition, when people are denied the dignity of risk, they are denied the opportunity to learn and recover. Part of one’s responsibility in recovery involves the self-management of one’s condition, autonomy in one’s life choices, and the willingness to take informed and planned risks to grow.
+
+One of the biggest barriers is fear – of the unknown, of the legal ramifications, of failure. Counselors worry that if a person takes a risk and fails that it might mean they are doing a bad job. It is important to understand that there are positive aspects of risk. One outcome can be successes to be celebrated; or the risk could not have156 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+a successful outcome which allows people to evaluate their choices and learn to make alternate choices and
+actions. By supporting dignity of risk and encouraging the client to make choices and take chances, counselors
+help clients to combat learned helplessness and bolster self-esteem, self-respect, empowerment, hope and
+support recovery.
+
+SHARED DECISION-MAKING
+
+**Shared decision-making (SDM)**
+is considered a best practice in
+behavioral and physical health
+that helps people have informed,
+meaningful, and collaborative
+discussions with service providers
+about their health care services. It
+involves tools and resources that
+offer objective information. Shared
+decision making is the essence of
+person-centered care and practice.
+Care plans (e.g., treatment, recovery,
+discharge plans) should be based
+on goals, objectives, and outcome
+measures that were developed
+through shared decision-making.⁶
+
+[Image: A diagram titled "The SHARE Approach" set against a black background with white text. Below the title, it reads "5 Essential Steps of Shared Decision Making". Five numbered circular icons are arranged horizontally, connected by dotted lines, each representing a step.
+1. A dark gray circle with a white "1". Below it, the text reads: "Seek your patient's participation".
+2. A dark gray circle with a white "2". Below it, the text reads: "Help your patient explore & compare treatment options *".
+3. A dark gray circle with a white "3". Below it, the text reads: "Assess your patient's values & preferences".
+4. A dark gray circle with a white "4". Below it, the text reads: "Reach a decision with your".
+5. A dark gray circle with a white "5". Below it, the text reads: "Evaluate your patient's decision".
+The text for the title "The SHARE Approach" is large and prominent. The steps are clearly labeled below each numbered icon.]
+
+Shared decision-making recognizes
+that there are often several
+treatment approaches and options,
+that each one has potential risks and benefits, and that the client's values, goals and preferences influence their
+choices. It also recognizes that people are usually free to decide whether or not to follow a clinician's advice.
+
+This is particularly important when it comes to behavioral health care. Common mental health conditions like
+depression and anxiety can be treated in many ways, but people with these conditions are often unaware of
+different options. For people with an opiate use disorder, medication-assisted treatments are now an option to
+consider. SDM educates and empowers persons seeking services to make a choice that best suits them.
+
+Tools, called decision aids can be used to facilitate a shared-decision-making conversation. These tools can help
+clients understand the clinical evidence and help them identify their preferences. Decision aids are offered in
+a variety of forms, from printed brochures to interactive electronic tools. Decision aids do not advise people or
+advocate for one option over another – they prepare people to make informed, values-based decisions with their
+health care provider.
+
+Strengths-based Approach
+
+The terms **person-centered** and **strengths-based** are typically used simultaneously. A strengths-based
+strategy reflects a shift from a deficit approach to a strengths-based and solution-focused approach. This type
+of approach views people not only as capable and possessing a unique array of personal and environmental
+strengths, but also challenges service providers to focus their efforts and support toward helping people achieve
+life goals and roles that anyone else in the community might pursue.⁷
+
+No single, agreed-upon set of principles for using a strengths-based approach exists. Several leading theorists
+of the strengths-based model have articulated principles that apply to working with people who are recovering
+from problematic substance use. Two prominent theorists, Charles A. Rapp and Richard J. Goscha, developed six
+basic principles for using the model in mental health services.⁸CHAPTER 4: Evidence-based Screening 157
+
+» Principle #1: People can recover, reclaim, and transform their lives.
+» Principle #2: The focus is on an individual’s strengths, rather than deficits.
+» Principle #3: The community is viewed as an oasis of resources.
+» Principle #4: The client is the director of the helping process.
+» Principle #5: The worker–client relationship is primary and essential.
+» Principle #6: The primary setting for our work is in the community.
+
+The strengths-based assessment is started during the engagement phase of the helping relationship and should be frequently updated as the counselor learns more about a person’s talents, skills, environmental strengths, interests, and aspirations. A collaborative, strengths-based, and person-centered assessment identifies clients’ current coping skills and abilities, family, social, and recovery supports. Counselors should view strengths broadly to include people’s values; interpersonal skills; talents; knowledge and resilience gained from previous efforts to overcome problematic substance use, stressful life events, or adversity (including trauma); spirituality and faith; personal hopes, dreams, and goals; family, friend, and community connections; cultural and family narratives of resilience; and general skills in daily living.
+
+**Recovery Capital**
+
+Successful recovery is dependent upon the presence of both internal assets (qualities, strengths, characteristics, and skills possessed by the person in recovery) and external assets (resources outside of the individual). Focusing on recovery capital shifts the emphasis from the pathology of an SUD to the quality of life that the individual can acquire in recovery.⁹
+
+The concept of **recovery capital** reflects the belief that everyone has strengths and resilience and that building on them is central to the recovery process. Having greater recovery capital is associated with positive outcomes, such as SUD treatment completion, attendance at follow-up appointments, and meeting one’s recovery plan goals.¹⁰, ¹¹
+
+SUD counselors need to understand the concept of recovery capital and incorporate it into their practice by working with clients to help them identify, access, and build their own recovery capital. Recovery capital is usually divided into four categories.
+
+**Personal recovery capital** includes “physical recovery capital,” such as food, access to transportation, and safe housing as well as “human recovery capital,” such as values, knowledge, educational and job skills, problem-solving skills, internal motivation or commitment to recovery, and self-awareness.¹²
+
+**Family/social recovery capital** includes intimate relationships; biological family; family of choice; friends; and relationships at school, work, faith-based institutions, and community organizations that support individuals’ recovery efforts.¹³
+
+**Community recovery capital** includes attitudes, policies, and resources in clients’ communities that promote recovery from substance use–related problems through multiple pathways.
+
+**Cultural recovery capital** includes the availability of traditional and other culturally based pathways of recovery that help support clients from that culture. Cultural recovery capital also includes the values and beliefs associated with a culture that support recovery.¹⁴
+
+Assessing recovery capital is a vital part of the recovery process. Individuals should draw on and use the recovery capital available to them to support the recovery journey, but they often do not recognize the recovery capital they have or what is available to them. One important role of SUD counselors is to help the client to identify and use their recovery capital. By understanding the specific resources and supports a client has, counselors can tailor their approaches to leverage these strengths, fostering a more effective and personalized recovery plan.[Layout: Single column page with a header at the top. A diagram is present in the upper right quadrant of the main text area.]
+
+158 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**Motivational Approaches/Promoting Change**
+
+Everyone is unique in experiences, perception, skills,
+readiness, and commitment. These factors influence
+a client’s motivation to pursue change and engage in
+activities that will promote change. While clients may
+have similar experiences, challenges, and goals, it is
+important to remember that the motivation behind the
+goals, and the avenue to reach those goals, may look very
+different.
+
+Change has been described as a continuous process.
+Change involves being motivated to do something
+different and then engaging in modified behaviors over an
+extended period of time. Behavioral health providers are
+often equipped with valuable strategies and interventions
+for helping people make changes and yet, the people they
+serve do not always take advantage of these interventions.
+
+**Motivational Interviewing (MI)**, a widely used and studied practice in health and behavioral health, is a style of
+interaction to facilitate change. As the name implies, its primary purpose is to strengthen motivation for change
+– the person’s own motivation. MI provides a way to work with individuals to increase motivation to engage in
+treatment services and enhance overall motivation for behavior change. MI is not about fixing people. It doesn’t
+come from a deficit view that people are lacking something that needs to be instilled.
+» MI rests on a strength-based framework that recognizes the value of each human being and their
+freedom to choose what they will do and how they will be.
+» MI is a person-centered approach that seeks to enhance an individual’s motivation to change by
+exploring and resolving ambivalence. It has been framed as a “guiding” style of communication as
+compared to a more “directive” style.
+» This style or a “way of being” with clients uses a specific set of skills that are used to convey empathy,
+enhance motivation, and encourage clients to consider and plan change.¹⁵
+
+MI views individuals as the experts on their lives and the behavioral health professional collaborates with them
+to look at thoughts and ways of addressing client-identified concerns.
+
+There are many benefits to using MI:
+
+1. The aspects, principles, and values of MI are like those that guide and are embraced by a wide range of
+helping professionals.
+
+2. MI has a rich body of evidence that supports its use with populations at risk and people seeking SUD and
+mental health disorder (MHD) treatment.
+
+3. MI has been found to be effective in clients from diverse backgrounds and settings and seems to fit well
+with concepts of cultural competency.¹⁶
+
+4. MI is a flexible approach as a stand-alone or in combination with other interventions.¹⁷
+
+MI is, first and foremost, a **conversation about change**. It can be brief or prolonged, but it is always a
+collaborative conversation. Being motivated is incomplete without commitment. As part of strengths-based,
+person-centered screening, assessment and counseling, SUD counselors can use a strategy from MI called
+**decisional balancing** to better understand what clients with active substance use think they are getting out
+of such use and to help them find reasons to address it. When clients observe that the costs of substance use
+outweigh the benefits, they may be motivated to reduce or stop it. Decisional balancing can be used for any type
+of decision.
+
+[Image: A hand-drawn diagram illustrating components related to "Motivational Interviewing". A central rectangle is labeled "Motivational Interviewing". Arrows point from this central rectangle towards several ovals.
+- An arrow points upwards to an oval labeled "Change (engaging)".
+- An arrow points to the right to an oval labeled "goal".
+- An arrow points downwards to an oval labeled "oriented counseling".
+- An arrow points to the left to an oval labeled "Cons".
+- An arrow points from the bottom left, upwards towards the central rectangle, from an oval labeled "(positive)".
+- An arrow points from the bottom right, upwards towards the central rectangle, from an oval labeled "(problem)".]CHAPTER 4: Evidence-based Screening                                                                                      159
+
+**AMBIVALENCE**
+
+Consider that most people who need to make a change are **ambivalent** about doing so. They see the reasons to change and reasons not to. Ambivalence is simultaneously wanting and not wanting something or wanting both of two incompatible things. It is fundamental to human nature, and, unfortunately, people can remain stuck there a long time. A common pattern is to think of a reason for changing, and then think of a reason not to change. MI, at its core, is about helping people find a way out of ambivalence and setting a direction for change.
+
+MI is an evidence-based, person-centered approach for helping people resolve ambivalence about changing behaviors. Conversations about behavior change happen on a regular basis in a variety of contexts within helping professions. Although individuals may recognize the value of changing their behavior, they are often reluctant to make changes, due to competing motivations. For example – “*I want to cut down on my drinking because I know it is causing problems in my relationships, but it really helps me cope with the stress in my job.*”
+
+MI is comprised of sets of principals, specific skills, and strategies for working with an individual to reduce ambivalence and identify a clear focus for change. The practice of MI involves the integration of these skills and techniques. As a style of interaction and a set of interviewing skills, MI can be artfully woven into other practices once the SUD counselor achieves confidence and competence in using the MI skills. Someone who is good at MI makes it look fluid and easy; however, skill development in MI is not a one-time learning event. Like developing any complex skill (e.g. playing the piano, learning tennis), MI takes considerable practice with feedback from a supervisor or a coach who is competent as an MI practitioner. More information on MI principles and strategies can be found in Chapter 6.
+
+**A NOTE ABOUT STAGES OF CHANGE**
+
+In Chapter 1, the Transtheoretical Model for Change (TTM) was described as a useful framework to assist SUD counselors understand the process of change and how they can guide people through this process. Prochaska and DiClemente conceptualized the change process as a sequence of stages through which people typically progress as they think about, initiate, and maintain new behaviors.¹⁸ In the early editions of Miller and Rollnick’s publications on Motivational Interviewing, MI strategies were linked to exploration of stage-specific motivational conflicts that could hinder the change progress.
+
+In 2013, Miller and Rollnick indicated that MI and TTM have sometimes been confused as the same concepts.¹⁹ MI is not meant to be a comprehensive theory of change and the TTM stages of change are not an essential part of MI. They are, however, complimentary processes and familiar to many practitioners in the human services. TTM is, therefore, still considered as a foundational piece in understanding the phases or stages that make up the change process.
+
+**Cultural Considerations**
+
+Culture is a process that happens between individuals and groups within communities that shapes personal identity and gives social meaning and significance. Culture also shapes the very meaning of health and approaches to healing at multiple levels. For many ethnic minority individuals and families, the process of engaging in substance use or mental health treatment involves the complex challenge of navigating individual and culturally derived sets of beliefs, attitudes, and practices. As such, cultural considerations are infused throughout this study guide.
+
+As a recovery principle, consideration of culture is important at all levels of operation— individual, programmatic, and organizational—across behavioral health treatment settings. It is also important in all activities and at every treatment phase: outreach, initial contact, screening, assessment, placement, treatment, continuing care and recovery services, research, and education.²⁰ Culturally responsive approaches provide individuals with more opportunities to access services that reflect a cultural perspective to their presenting problems. These services will likely provide a greater sense of safety from the individual’s perspective,160 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+supporting the belief that culture is essential to healing.²¹
+
+Chapter 9 of this study guide examines important concepts and practices that demonstrate a commitment to
+cultural responsiveness – among those, cultural humility and cultural competence. **Cultural humility** refers
+to the counselor’s ability to maintain an interpersonal stance that is other-oriented (or open to the other) in
+relation to aspects of cultural identity that are most important to the client.²² This encompasses the counselor’s
+openness to accepting that their own cultural identities and experiences will limit their perspective and
+awareness in understanding the cultural experiences of others. Specific attitudes and practices include openness,
+respect, consideration, humility, and interest regarding the client’s cultural identity and experiences.²³
+
+**Culturally competent** counselors are aware of their own culture and values, and they acknowledge their own
+assumptions and biases about other cultures. Moreover, culturally competent counselors strive to understand
+how these assumptions affect their ability to provide culturally responsive services to individuals from similar
+or diverse cultures. Cultural competence includes addressing the person individually rather than applying
+general treatment approaches based on assumptions and biases. This highlights the need for counselors, to take
+time to build a relationship with each person they serve, to understand their preferences, and to assess for and
+access services that will meet their needs.²⁴
+
+**Trauma**
+
+Chapter 2 examined the importance of understanding the impact of trauma on people with substance use and
+co-occurring conditions. In short, not addressing traumatic stress symptoms, trauma-specific disorders, and
+other symptoms/disorders related to trauma can impede successful substance use screening, assessment and
+treatment planning. In addition, unrecognized and ignored trauma symptoms can lead to poor engagement in
+treatment, premature termination, greater risk for relapse of psychological symptoms or substance use, and
+worse outcomes.²⁵
+
+Effective screening and assessment can prevent misdiagnosis and inappropriate treatment planning. People
+with histories of trauma often display symptoms that meet criteria for other disorders. Without screening,
+clients’ trauma histories and related symptoms often go undetected, leading providers to direct services toward
+symptoms and disorders that may only partially explain client presentations and distress. Universal screening
+for trauma history and trauma-related symptoms can help SUD counselors identify individuals at risk of
+developing more pervasive and severe symptoms of traumatic stress.²⁶
+
+[Image: A black and white photograph showing three people, likely in a discussion or counseling session. In the center, a Black woman with short curly hair and glasses, wearing a light-colored top, is speaking and gesturing with both hands. To her left, a Black man with short hair, wearing a light-colored t-shirt, is attentively listening, with his head slightly tilted. To the woman's right, a portion of a third person with long dark hair is visible. The lighting is somewhat dim, creating areas of deep shadow and highlighting the subjects.]CHAPTER 4: Evidence-based Screening
+161
+
+ENGAGING THE CLIENT
+
+Making a connection between the client and the counselor or the program is known as engagement. All too
+often, the work of engagement is taken for granted. Usually, clients arrive at substance use or mental health
+facilities in active crisis or otherwise seeking help. While staff must certainly know how to respond to any
+client’s presenting needs, they must also know how to ensure that the client feels welcomed, respected, listened
+to, and understood.
+
+The first moments of interaction between a counselor and a person seeking care can set the tone and course of
+treatment. This first interaction can start a journey to recovery and a satisfying life—or it can leave a person
+unsure or even hopeless about their future and unwilling to go back a second time.27 Unsuccessful engagement
+may lead to poor clinical outcomes and a return to problematic substance use. When clients are deeply engaged,
+however, they are more likely to bond with counselors, support treatment goals, participate willingly in
+assessment and treatment activities, remain in treatment as recommended and, ultimately, to successfully
+achieve and maintain recovery.28
+
+Engagement can be challenging. People with lived experience of an SUD commonly report feeling devalued and
+dismissed by many of the professionals with whom they come into contact. Key themes include feeling excluded
+from decisions, receiving subtle or overt threats of coercive treatment, being made to wait excessively long when
+seeking help, being given insufficient information about one’s condition or treatment options, being treated in
+a demeaning manner, being told they would never get well, and being spoken to or about using stigmatizing
+language.29, 30 Many practical strategies and tools can be used to improve engagement. Implementing these
+strategies requires counselors (and other program staff) to also feel engaged with the work they are doing.
+
+Welcoming Strategies
+
+Engagement begins when a program makes initial contact with clients or family members and is enhanced by
+a warm, inviting environment and respectful, nonjudgmental interactions between clients and program staff at
+all levels. Thus, engagement is facilitated by a welcoming approach.
+
+The first strategy for providing a welcoming atmosphere includes having a pleasant physical environment,
+offering refreshments, and being greeted by friendly staff. Offering privacy for initial interviews can also help
+clients to feel more comfortable. Importantly, treating all clients and their family members with respect related
+to their ethnic, cultural and linguistic diversity, sexual orientation and gender identity, religious and spiritual
+background, age, and socioeconomic issues is also essential to helping clients feel welcomed.
+
+Once individuals are in contact with the program, they stand on the far side of a yet-to-be-established
+therapeutic relationship. It is up to counselors and other staff members to bridge the gap. Handshakes, facial
+expressions, greetings, and small talk are simple gestures that establish a first impression and begin building
+the therapeutic relationship.31
+
+Welcoming is not just a matter of everyone being nicer. Welcoming involves a deliberate approach in using these
+strategies as a “clinical practice” and to building a welcoming environment throughout the organizational
+culture.32 This requires a purposeful implementation strategy that supports and empowers staff to produce the
+“product” of welcoming, plus empowering the practice of welcoming with clients.
+
+A welcoming outreach approach will:
+» Make the first contact personal and engaging.
+» Be deliberately and systematically applied to clinical and non-clinical aspects of the organization.
+» Treat all individuals and their family members equally and with respect related to their ethnic, cultural,
+and linguistic diversity, sexual orientation and gender identity, religious and spiritual background, age
+and socioeconomic issues.162 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**Stigma**
+
+Problematic substance use is one of the most heavily stigmatized health conditions.³³ Stigma, can be subtle or it can be obvious—but no matter the magnitude, it can lead to harm. **Stigma** is discrimination against an identifiable group of people, a place, or a nation. The term represents a mixture of attitudes, beliefs, behaviors, and structures that interact at different levels of society (i.e., individuals, groups, organizations, systems).
+
+Stigma involves two primary components – a **label** and a **stereotype.**³⁴
+
+1. The label (e.g., “addict”) links the person to a set of undesirable characteristics that work to form a stereotype (i.e., beliefs held about a group of people with an SUD).
+
+2. When a person links a label to another person, and they believe the stereotype, they react negatively to the person. For example, a stereotype might be – *people with SUDs are dangerous, incapable of managing treatment, or at fault for their condition*. This can result in the person placing a more social distance from the person with a SUD, engaging in discriminatory ways, or supporting potentially harmful activities towards the stereotyped individual.
+
+There are three primary types of stigma.
+
+» **Public stigma** involves the negative or discriminatory attitudes that others have about substance use, misuse, and people with SUDs. Individuals with SUDs are likely to be seen as dangerous and unpredictable, unable to make decisions about treatment or are to be blamed for their own condition.³⁵ These negative attitudes may lead to unfair treatment and discrimination. Public stigma can also contribute to self-stigma for individuals with SUD, causing feelings of marginalization and social exclusion³⁶ and acting as a barrier to help-seeking and treatment.³⁷
+
+[Image: A black and white photograph of a piece of spiral-bound notebook paper lying on a textured surface, possibly a corkboard. The paper has "STOP STIGMA" written on it in large, block, hatched letters. The word "STOP" is above "STIGMA". Two push pins are visible, one to the left of the paper and one below it. The bottom right corner of the paper is slightly curled up, and some faint lines suggesting a graph or chart are visible underneath the curled corner.]
+
+» **Self-stigma** refers to the negative attitudes that people with SUDs have about their own condition. Self-stigmatization results from public stigmatization when a person internalizes the negative stereotypes associated with their SUD.³⁸ This changes their perceptions of themselves – as less deserving, as blameworthy and powerless. People who self-stigmatize may experience embarrassment and shame. They may avoid social interactions and have difficulty managing their recovery process.
+
+» **Institutional stigma** is more systemic, involving policies of government and private organizations that intentionally or unintentionally limit opportunities for people with an SUD. For example, In the workforce, people with an SUD may not be able to get a job, keep a job or be promoted.³⁹CHAPTER 4: Evidence-based Screening 163
+
+**Language Matters**
+
+Words and language are critically important in the behavioral health field where discrimination and
+disempowerment may hinder people from getting the help they need. Over the last few decades, attention to
+appropriateness in language – **person-first language** – has become an established practice by those in health
+and behavioral health care, social services, education, and government. Respectful language emphasizes the
+person, not the condition or disability.
+
+Person-first language has been widely adopted to replace negative terms that have been used to label people
+by their health or behavioral health conditions or disabilities. For instance, expressions such as “person with a
+disability” carry neutral rather than derogatory connotations and distinguish the person from their diagnosis or
+perceived membership in a group. Language related to substance use and mental health conditions must do the
+same.⁴⁰
+
+[Table: 3 columns, 9 rows including header. Column headers are: Stigmatizing terminology, Appropriate terminology, Why change? This old terminology...]
+
+| Language Matters Examples                                                                                                                                                                |                                                                                                                                                               |                                                                                                                                                                          |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stigmatizing terminology**                                                                                                                                                             | **Appropriate terminology**                                                                                                                                   | **Why change? This old terminology...**                                                                                                                                  |
+| “addict” or “alcoholic” or “crackhead” or “junkie”                                                                                                                                       | a person with a substance use disorder or a person with alcohol use disorder                                                                                  | labels a person by their substance or substance use condition                                                                                                            |
+| “a schizophrenic” or “an anorexic”                                                                                                                                                       | a person who has or is being treated for schizophrenia or anorexia                                                                                            | labels a person by their mental health condition.                                                                                                                        |
+| “relapsed” “slipped”                                                                                                                                                                     | resumed or experienced a recurrence of substance use or substance use disorder symptoms                                                                     | judgmental and implies failure on the part of the individual                                                                                                             |
+| “habit”                                                                                                                                                                                  | a substance use disorder                                                                                                                                      | inaccurately implies that a person is choosing to use substances or can choose to stop. “Habit” may undermine the seriousness of the disease                          |
+| “crazy” “deranged” “mad”                                                                                                                                                                 | the person’s behavior was unusual or erratic                                                                                                                  | describes behavior that implies existence of a mental health condition or is inaccurate                                                                                  |
+| “dirty” drug screen                                                                                                                                                                      | testing positive for substance use                                                                                                                            | conveys a judgmental attitude about the test results                                                                                                                     |
+| “clean”                                                                                                                                                                                  | not currently using substances                                                                                                                                | implies the person is completely free from substance use                                                                                                                 |
+| “non-compliant with treatment”                                                                                                                                                           | facing barriers to treatment adherence                                                                                                                        | blames the person by attacking their character as non-compliant; ignores the fact that other factors may influence the person’s decision to not receive treatment at that time |
+| “former addict”                                                                                                                                                                          | a person in recovery or a person in long-term recovery                                                                                                        | perpetuates stigma and does not convey the nature of the recovery process                                                                                                |164 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+It is important to assess the way we use language and how the use of language reinforces negative biases or promotes empowerment and strengths. Here are some tips for avoiding stigmatizing language.
+
+» Perform a “language audit” of existing organizational materials for language that may be stigmatizing, then replace with more inclusive language.
+
+» Take a personal inventory of the terms you may use; change the use of slang that is mocking or derogatory, such as disturbed, mental patient, insane, crackhead, felon, strung-out, in denial, etc.
+
+» Be thoughtful in everyday conversations and set an example in using person-centered terminology with co-workers, persons served, and the public.
+
+» Avoid the use of common terms, used in everyday language, that have the potential for perpetuating stigma in society, such as “My supervisor went nuts when I didn’t finish an assignment on time.”⁴¹
+
+[Image: A black and white photograph of a diamond-shaped road sign. The sign is white with a black border and black text that reads "Respectful Communication". The sign is mounted on a black pole. The background is a cloudy sky.][Layout: Single column layout with a header. A spiral binding is visible on the left side of the page. An image is present on the right side of the page, partially overlapping with the text.]
+
+CHAPTER 4: Evidence-based Screening
+165
+
+**SETTING THE STAGE FOR EFFECTIVE SCREENING AND ASSESSMENT**
+
+The processes involved in screening and assessment are underpinned by an important set of skills that: (1) establishes rapport and an effective working alliance with the client; (2) facilitates a welcoming atmosphere for interviewing and service delivery; and, (3) assists in motivating and engaging the client in identified service needs. As the first contact with the client is critical, the perception of the counselor or interviewer as respectful, nonjudgmental, and attentive to creating a strong connection in which the client feels valued and understood.
+
+**Working or “Therapeutic” Alliance**
+
+Building a strong therapeutic or working alliance with clients involves several key skills and approaches. The development of an alliance begins with the first interaction and develops over time. The importance of the working relationship should not be underestimated. Having a knowledgeable, understanding, and approachable counselor is vital to promoting and maintaining engagement. A working alliance is based on establishing trust and a healthy rapport, which provides the foundation for a candid dialogue and an effective problem-solving relationship.
+
+**Empathy**
+
+The term “empathy” is used to describe a wide range of experiences. Empathy is generally defined as the ability to sense other people’s emotions, coupled with the ability to imagine what someone else might be thinking or feeling. Empathy starts with the belief that it is valuable to take the time to clearly understand the other person’s perspective, exhibiting a sense of curiosity and openness, and abandoning judgment about how a person views the world.
+
+There are two types of empathy:42
+
+» **Cognitive empathy** is the ability to perceive emotions in others and the capacity to imagine their experiences by simulating them in our mind to see the world from their point of view. This allows us to gain an understanding of their experiences of the world. (UNDERSTAND)
+
+» **Affective empathy** is the way a person feels emotionally when confronted with the suffering of another person. Empathy can trigger the brain to mirror and respond as if we are feeling similar experiences as other people. We hear about a painful experience someone else went through and, for most people, our brain responds as if we are feeling a similar pain even though we have never been in such a situation.43 (FEEL)
+
+Empathy allows people to feel respected and validated, particularly in their experience of difficult situations. The display of empathy is integral to promoting client change44 and will help the alliance between counselor and client. The empathetic relationship of counselors with their clients reinforces their cooperation towards designing a therapeutic plan with interventions based on person-centered practices and increases the client’s satisfaction from the therapeutic process as a whole.45
+
+[Image: A black and white photograph depicting a counseling session. A person with short, dark hair, wearing glasses and a dark top, is seated on the left, leaning forward with their right hand gently placed on the shoulder of another person. The second person, on the right, has curly dark hair and is wearing a suit; they are seated with their head bowed, covering their face with both hands, conveying distress. A leafy plant is visible in the foreground on the left. The background is blurred, suggesting a focus on the two individuals.]166 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+Rapport
+“Establish rapport” and “build rapport” are phrases familiar to the SUD counselor and other health care professionals. Establishing rapport is an expected outcome of first meetings with clients. Whether the counselor will see the client only for a brief screening or assessment interview or for an ongoing therapeutic relationship, building rapport and establishing a positive relationship is critical if the client is to successfully engage in and complete the treatment process.
+
+Rapport refers to the bond of trust, mutual respect, and understanding that develops between a counselor and their client. It means a having sense of connection with the person. This connection is considered a foundational element of an effective therapeutic relationship, enabling clients to feel safe, valued, and open to sharing their thoughts and feelings. Rapport facilitates communication, enhances cooperation, and supports the entire course of care, leading to better outcomes.46
+
+Developing rapport involves several key components and actions by the counselor. As noted earlier, it begins with creating a welcoming and non-judgmental environment that fosters open communication. Counselors demonstrate empathy, actively listen, and validate the client’s experiences and feelings. Building rapport also requires consistency, reliability, and the counselor’s genuine interest in the client’s well-being. The process includes understanding the client’s cultural, social, and personal background to tailor the approach in a manner that resonates with the client’s unique perspective.47
+
+Establishing rapport is not a one-time task but an ongoing effort throughout the course of care. It involves continuous attention to the client’s needs, adaptive communication strategies, and the reinforcement of the alliance. The counselor’s ability to be present, authentic, and empathetic plays a critical role in deepening the rapport over time.
+
+[Image: A black and white photograph shows two people sitting on a couch, facing each other. The person on the left, a Black man with short hair, is wearing a plaid, button-down shirt and light-colored pants. He is smiling and gesturing with his right hand as he speaks. The person on the right, a woman with dark, shoulder-length hair, is wearing a light-colored collared shirt and jeans. She is looking at the man and appears to be listening intently, holding a notepad and pen in her lap. The image depicts a counseling or therapy session, illustrating the concept of rapport being discussed in the text.][LLM OCR returned no text for this page]168 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+1.  **Be clear** – use simple, direct language, free from jargon and pompous phraseology.
+2.  **Be concise** – be prepared and know the key issues in any situation and communicate them succinctly.
+3.  **Be comprehensive** – keep in mind all the key issues and be self-aware to not ignore conversations that make you uncomfortable.
+4.  **Be courteous** – courtesy includes the use of “good manners” but courtesy also includes showing respect for people and their uniqueness, as well as conveying respect for diversity.
+
+There are many important communication skills; here are some key skills.
+
+**1 Active Listening** is the foundation of effective
+communication, involving paying full attention to
+the speaker, understanding their message, providing
+feedback, and responding appropriately. Active listening helps
+establish trust between parties. Active listening involves
+making a conscious effort to hear not only the words that
+another person is saying but, more importantly, try to
+understand the complete message being sent.⁵² When the
+counselor truly listens and shows empathy for others, the
+climate is set so the person can feel “safe” in speaking up with
+questions, concerns, or confidential information.
+
+It takes a lot of concentration and determination to be an active
+listener. This requires the listener to set aside all other thoughts¨
+and behaviors and concentrate on the message – and then ask
+questions, reflect, and paraphrase to ensure they understand the
+message.
+
+Here are some key active listening techniques.⁵³
+
+1.  **Pay Attention.** One goal is to set a comfortable tone that gives the other person an opportunity to think
+    and speak. Allow “wait time” before responding. Don’t cut the person off, finish their sentences, or start
+    formulating an answer before they’ve finished. Pay attention to personal body language as well as your
+    frame of mind when engaging in active listening. Be focused on the moment, make eye contact, and
+    operate from a place of respect as the listener.
+2.  **Provide Feedback.** Our personal filters, assumptions, judgments, and beliefs can distort what we hear.
+    This may require reflection (clarifying and paraphrasing) what is being said and asking questions. “What
+    I’m hearing is…” and “Sounds like you are saying…” are great ways to reflect. This also includes skills such
+    as: Focusing – helping to direct the person’s attention to a single topic, and Summarizing – putting
+    together key ideas and feelings into a brief statement.
+3.  **Defer Judgment.** Even when good listeners have strong views, they suspend judgment, hold any
+    criticisms, and avoid interruptions like arguing or making their point right away.
+4.  **Respond Appropriately.** Active listening is a model for respect and understanding. The listener needs
+    to resist the need to immediately respond with a better or different insight. It is important to gain
+    information and perspective. Listeners should be candid, open, and honest in their responses and provide
+    opinions respectfully.
+
+**2 Nonverbal communication** involves aspects of communication other than the actual words used.
+This involves factors such as voice, eye contact, posture and body movements, facial expressions,
+gestures, touch, and proximity. There are several elements of one’s voice including tone, volume, rate,
+and inflections that are critical elements of nonverbal communication. All these factors dictate that
+counselors be aware of their nonverbal communication so they can recognize potentially problematic body
+
+[Image: A black and white photograph is positioned on the right side of the page, partially overlapping the text area. It depicts a person, likely female, with short, dark, curly hair, shown in profile facing left. Her chin rests on her right hand, with fingers curled beneath it, conveying a contemplative or attentive posture. In the blurred foreground, several round, light-colored objects, possibly fruit like apples in a bowl, are visible. The image aligns with the theme of "Active Listening" discussed in the adjacent text.]CHAPTER 4: Evidence-based Screening 169
+
+language and consciously change it.
+
+The ability to understand and use nonverbal communication, or body language, is a powerful tool that can help
+counselors connect with clients in a positive way and reinforce mutual understanding and respect.⁵⁴ Maintaining
+an attentive posture, making frequent eye contact, and appropriately using silence are also critical non-verbal
+skills for counselors. When messages are confusing, however, both connection and trust in relationships are
+damaged. For example, it is important that counselors ensure their non-verbal messages are congruent with
+their verbal messages. In addition, it is important to be aware that different personal and cultural factors can
+influence the way that nonverbal communication is interpreted. While most people in the western cultures find
+eye contact to be respectful and engaging, some may feel challenged by engaging in direct eye contact.⁵⁵
+
+3 **Empathy**: Empathic communication refers to the ability to understand and share the feelings of another.
+It is a two-way process that involves not only recognizing and sharing emotions but also responding to
+them in a supportive and non-judgmental manner. This skill helps to promote trust, reduce conflict, and
+enhance social harmony.⁵⁶ Examples of empathic communication are:
+
+» Using verbal affirmations to show that the speaker’s feelings are understood. Phrases like “It sounds like
+you’re feeling…” can be helpful.
+
+» Acknowledging and validating the other person’s perspectives, even if the counselor does not agree with
+their perspective. Validation can be as simple as saying, “I can see why you would feel that way.”
+
+4 **Questioning**. The counselor should use questions for clarification to understand clients, to motivate
+them to pursue a specific topic, and to help clarify thoughts. The use of open-ended questions – those
+that cannot be answered with a simple yes or no – can help the client to express feelings and convey
+information. Asking one question at a time, rather than piling questions one on top of the other will help
+avoid a feeling that the client is being interrogated. Avoiding use of the word “why” and other confrontational
+questions is also important in establishing a positive relationship.
+
+5 **Observing**. The counselor should consciously observe the client to see information that is conveyed non-
+verbally. Things such as dress and appearance may be signals that reflect an individual’s state of mind,
+body-image, self-concept, or cultural identification. You can also look for clues as to whether there may
+be signs of negative effects on the body from drugs, alcohol, inadequate diet, or domestic violence. It is
+important to observe gait, posture, gestures, facial expressions, and affect as well to get a complete picture of
+the client.
+
+The interviewer has several goals in the initial interview: (1) establishing trust, rapport, and effective
+communication with the client; (2) facilitating the client’s understanding of the rationale, purposes, procedures
+associated with the screening and assessment process; (3) exploring the client’s problems and expectations; and
+(4) determining whether further assessment is needed. The first step in developing an effective relationship or
+rapport with a client is to make them feel comfortable. Comfort can be communicated by the counselor’s own
+comfort level and the ability to convey warmth and respect to the client. One way to convey respect is to support
+a client’s skills and strengths. Through exploration and support, the counselor can also reassure the client they
+are interested in them and desire to help them in concrete, active ways.170 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**SCREENING**
+
+Screening is the process by which the SUD counselor, the client, and available significant others review the current situation, symptoms, and other available information to determine the most appropriate initial course of action – given the client’s needs and characteristics and the available resources. The screening process is also used to help to determine whether the person seeking services is eligible and appropriate for admission to an agency or program or whether they need to be referred to another agency that can help to meet their needs.
+
+[Image: A black and white photograph showing a close-up of a person's right hand holding a pen, about to write on a sheet of paper on a clipboard. The handwritten word "Depression," is visible on the paper. Below this, there are some faint, illegible marks. The spiral binding of a notebook or pad is visible on the right edge of the image. The background is out of focus.]
+
+The main goal of screening is to identify everyone who might have problematic substance use and/or co-occurring conditions and related service needs. Screening instruments help to determine the immediacy needed for intervention due to specific substance use, health, or life issues. Screening also addresses crisis and any emergency needs. Information collected during screening is generally considered ‘immediate or current’ and observable. This allows the SUD counselor or other health care professional to determine the need for further evaluation and possible immediate treatment or intervention.
+
+Screening typically includes the use of a brief self-report or clinical interview to determine whether someone warrants further assessment. While short screens for SUDs may include as few as four or five key questions, a comprehensive screening process can look for psychoactive substance toxicity, intoxication, and withdrawal symptoms; aggression or danger to others; potential for self-inflicted harm or suicide; and co-occurring MHDs. It can also include exploration of a variety of related service needs including medical, housing, victimization, trauma, and so on.
+
+**Evidence-based Instruments**
+
+The use of **evidence-based screening and assessment instruments** is the recognized and desired standard of care. Evidence-based practices are interventions for which there is consistent scientific evidence showing that they improve client outcomes.⁵⁷ Thus, evidence-based screening and assessment instruments are those that have been extensively researched and have proven effectiveness. It is important, however, to recognize that although various instruments have demonstrated strong effectiveness across administrations and groups of individuals, it is likely that certain populations were not a part of the research studies. For example, there may be no validated assessment tools for SUD in certain populations (e.g., people with intellectual disabilities, specific cultural groups). In these cases, clinicians and researchers often need to use instruments validated in other groups or for other purposes or create/adapt mainstream instruments for their purpose.⁵⁸ The selection of evidence-based screening and assessment instruments may also be influenced by a balance of research evidence with other practical considerations such as ease of accessibility, flexibility and length of administration, and item wording.⁵⁹CHAPTER 4: Evidence-based Screening 171
+
+**Widely Used Evidence-based Screening Instruments for SUDs⁶⁰,⁶¹**
+
+The **Alcohol Use Disorders Identification Test (AUDIT)** was developed by the World Health Organization It is a simple 10-question tool designed to screen for excessive drinking. It has been validated in a wide range of settings and cultures.
+
+The **Drug Use Disorders Identification Test (DUDIT)** is a screening tool aimed at identifying individuals with drug use problems and disorders. It consists of a series of questions that cover various aspects of drug use, including patterns of use, drug-related behaviors, and the psychological and social consequences of drug use. The DUDIT is designed to complement the Alcohol Use Disorders Identification Test (AUDIT) for a comprehensive assessment of substance use.
+
+The **Drug Abuse Screening Test (DAST 10)** is a brief diagnostic instrument designed to screen for the problematic use of drugs other than alcohol. Comprising 10 items, it assesses drug use behaviors and potential drug-related problems. The DAST-10 is widely used in clinical and research settings to identify individuals who may benefit from further assessment, intervention, or treatment for substance use issues.
+
+The **Cut down, Annoyed, Guilty, and Eye-opener (CAGE) questionnaire** is a concise and widely used screening tool for identifying potential problems with alcohol. It asks individuals about their need to cut down on drinking, annoyance at criticism about their drinking, feelings of guilt about drinking, and whether they need a morning drink to steady their nerves or to get rid of a hangover. The simplicity and brevity of the CAGE questionnaire make it a valuable tool for initial screening in various settings.
+
+The **Alcohol, Smoking, and Substance Involvement Screening Test (ASSIST)** screens for risky substance use. Developed by the World Health Organization (WHO), the ASSIST identifies the use of tobacco, alcohol, and other substances, assessing the risks associated with their use rather than diagnosing substance use disorders. The ASSIST is structured to be administered by a health worker or trained staff within a few minutes, making it suitable for use in a variety of healthcare settings.
+
+The **Brief Screener for Tobacco, Alcohol, and Other Drugs (BSTAD)** is designed to quickly assess the use of tobacco, alcohol, and illicit drugs among clients and young adults. Developed with the support of NIDA, the BSTAD aims to identify individuals who may be at risk for substance use disorders. It asks about the frequency and types of substance use, including tobacco products, alcohol, marijuana, and other illicit drugs, over a specified period, typically the past year or past month. The strength of the BSTAD lies in its brevity and ease of administration.
+
+The **Car, Relax, Alone, Friends/Family, Forget, Trouble (CRAFFT) Screening Test** is a brief, self-administered tool designed to screen individuals for high-risk alcohol and other drug use disorders simultaneously. It asks about substance use in contexts that may indicate risk (e.g., using while driving, using to relax, using when alone), with the goal of identifying young people who may need further assessment, intervention, or treatment for substance use issues.[Layout: Single column of text. A header is at the top. The right edge of the image shows the spiral binding of a book.]
+
+172 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**The Cannabis Use Problems Identification Test (CUPIT)** is designed to identify individuals who may have problematic or harmful patterns of cannabis use. It assesses the frequency of use, dependence symptoms, and the psychological and social impacts of cannabis consumption. The goal of CUPIT is to help healthcare professionals determine if an individual's cannabis use is risky and if they might benefit from further evaluation or intervention.
+
+**The Global Appraisal of Individual Needs - Short Screener (GAIN-SS)** is a brief, comprehensive screening tool designed to identify individuals who may have substance abuse and MHDs. It is used across various settings to quickly assess the need for further evaluation in areas such as substance use, mental health status, crime/violence risk, and environmental risk factors. The GAIN-SS helps in directing individuals to the appropriate level of care.
+
+**The Tobacco, Alcohol, Prescription medication, and other Substance use (TAPS) Tool** is a screening and assessment instrument designed to evaluate the use of these substances in individuals. It identifies the level and type of substance use, including tobacco, alcohol, prescription medications (used non-medically), and illicit drugs.
+
+**The Opioid Risk Tool (ORT) for Opioid Use Disorder (OUD)** is a self-report screening instrument designed to predict the risk of opioid use disorder among people being considered for opioid therapy for pain management. It assesses factors such as personal and family history of substance abuse, age, history of pre-client sexual abuse, and psychological diseases.
+
+**The Adult Substance Abuse Subtle Screening Inventory - 4 (SASSI-4)** identifies high or low probability of SUDs and includes a prescription drug scale that identifies individuals likely to be abusing prescription medications. It also provides a measure of profile validity and clinical insight into level of defensiveness and willingness to acknowledge experienced consequences of substance use disorder.
+
+**The adolescent version - Adolescent Substance Abuse Subtle Screening Inventory (SASSI-A3)** - identifies high or low probability of SUDs in clients 13 to 18 years of age. The SASSI-A3 also addresses family and social risk factors, level of defensive responding, consequences of substance misuse teens endorsed, and a prescription drug abuse scale that identifies teens likely to be abusing prescription medication.
+
+**The Screening to Brief Intervention (S2BI)** is designed to quickly assess the frequency of substance use (including tobacco, alcohol, and drugs) among adolescents and young adults. It categorizes substance use into three levels: non-use, use, and problematic use, based on the frequency of use reported. The S2BI is intended to facilitate early identification of substance use behaviors. Its simple format allows for easy integration into clinical settings, helping to prompt conversations about substance use and related health interventions.
+
+[Image: The right side of the page shows the black plastic spiral binding of a book, with evenly spaced rings.][LLM OCR returned no text for this page][LLM OCR returned no text for this page]CHAPTER 4: Evidence-based Screening 175
+
+**Uses and Disclosures with Opportunity to Agree or Object** – By asking the individual outright, or by circumstances that clearly give the individual the opportunity to agree, comply, or object, a covered entity can get informal permission for a disclosure. An example of this may be when an individual is incapacitated.
+
+**Incidental Use and Disclosure** – It is important to note that covered entities are not required to eliminate every risk of an incidental use or disclosure of PHI. With the provisions that the covered entity has adopted reasonable safeguards as required by the Privacy Rule and the information being shared was limited to the “minimum necessary,” a disclosure that was “incident” to an otherwise permitted use or disclosure is permitted.
+
+**Medical Emergencies:** Disclosure of PHI without consent is allowed in medical emergencies. This is particularly applicable when the information is crucial for providing emergency care or when obtaining consent is not feasible due to the individual’s condition. In such cases, PHI may be disclosed to medical personnel directly involved in the patient’s care to ensure they receive the appropriate treatment and interventions necessary during the emergency. This disclosure aims to protect the patient’s health and well-being, considering the urgency and potential risks involved in emergency situations.
+
+**Public Interest and Benefit Activities** – The HIPAA Privacy Rule permits use and disclosure of PHI, without an individual’s authorization or permission, for 12 national priority purposes, including: for victims of abuse, neglect or domestic violence, as required by law, court order, or part of law enforcement processes, health oversight activities, organ donation, research and identification of a deceased person.
+
+**Informed Consent**
+
+Informed consent is the process by which clients are informed of their rights regarding screening, assessment, and treatment, as well as how their PHI is handled. Informed consent is one of the most basic and important concepts in the delivery of ethical services because it establishes the client’s independence and right to self-determination in receiving services.⁶⁷ In recent years, the concept of informed consent has broadened to include the idea of “person-centered or person-directed care.” This concept focuses on the assumption that the individual has the right to choose or refuse treatment; it also defines the parameters of and sets goals for treatment/service outcomes.
+
+Ensuring that the consent for services given by clients is fully informed requires careful attention throughout the course of care.
+
+[Image: A black and white photograph showing two women sitting across from each other at a desk in what appears to be an office or medical setting. The woman on the left, with lighter hair, is looking towards the other woman and appears to be writing on a clipboard. The woman on the right, with darker hair and wearing what looks like a medical uniform with a stethoscope around her neck, is gesturing with her right hand towards the clipboard or the other woman. There is a bright window or light source behind them. The image likely depicts a healthcare professional interacting with a patient or colleague, possibly discussing or filling out paperwork related to informed consent or patient care.]176 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+» The client or the client's substitute decision-maker needs to fully understand what will happen during
+the course of care, the risks and benefits of participating in or refusing services, the possible outcomes,
+and alternative options.
+
+» The client must realize that they have the right and the power to consent to – and more importantly,
+to refuse to consent to – any service offered. Unless there is a court order, clients who are receiving
+involuntary behavioral health services still have a right to consent to or refuse treatment.
+
+Beyond consents for specific services, HIPAA requires covered programs to follow specific rules when handling
+protected health information. The use and disclosure of PHI requires certain types of consent including
+nonverbal consent or written consent depending on how the information will be used. An **authorization** needs to
+be obtained from the client; it is the consent of an individual providing explicit authorization to use or disclose
+their personal information. Authorizations should have certain elements to be considered valid.
+
+1. The information that is going to be disclosed should be defined and clear to the individual providing their
+consent.
+
+2. Each form should include a spot for the individual to print their name to that it is obvious who is
+providing authorization.
+
+3. Explicit information about who may use or disclose the PHI as a direct result of providing authorization.
+
+4. A detail of each use or disclosure that will be a result of the authorization. An individual providing
+authorization should understand any way that their information is planned to be used or disclosed.
+
+5. A date of expiration where the authorization is no longer valid, and their information can no longer be
+used or disclosed.
+
+6. Finally, there should be an area where the individual providing their authorization can provide their
+signature.
+
+[Logo: The logo consists of the word "Focus" in a bold, sans-serif font, with a stylized "o" that resembles a target or a concentric circle pattern. To the right of "Focus" is a colon, followed by "PHI" in a lighter, pixelated or dot-matrix style font. Below the logo, in very small print, it says "The Center of Excellence for Protected Health Information".]
+
+**Focus:PHI**
+
+The Center of Excellence for
+Protected Health Information (also
+known as the CoE-PHI) is funded
+by SAMHSA to assist people and
+organizations to understand and
+apply federal health privacy laws and
+regulations – on the job, specific to
+their task or role, and to help patients
+and families know what their rights
+are when seeking and receiving
+treatment for Substance Use
+Disorders and Mental Health.
+**https://coephi.org/**
+
+With regards to behavioral health, consent is obtained from the client
+for a variety of purposes. It is required to speak with someone involved
+in the client's case, in most circumstances. Consent should always be
+obtained in writing with the signature and date of the client or the
+client's legal substitute decision maker. When someone with legal
+authority to make decisions for the client, such as a parent or legal
+guardian, then the decision maker can be spoken to as though they are
+the client and are typically required to supply consent on the client's
+behalf.
+
+There are some emergency situations when minimal information can
+be provided for safety or security or for coordination of care. Counselors
+are also allowed to speak with other providers for coordination of care
+without a consent; however, obtaining consent is still best practice. This
+assists with trust and rapport while also allowing the counselor to share
+more information than would be permitted in a non-consent referral.
+More information about confidentiality and the law can be found in
+Chapter 9.
+
+The most current and comprehensive information on federal
+confidentiality laws can be found on the **Focus: PHI** website. This site
+offers information for a variety of service providers and has accessible
+formats, such as fact sheets and free online courses. You are highly
+encouraged to visit this site.CHAPTER 4: Evidence-based Screening 177
+
+**ASSESSMENT**
+
+The assessment process for substance use disorders is multifaceted, involving a combination of self-reports, clinical interviews, biological testing, and more, to gain a comprehensive understanding of the individual's substance use and its implications. This process is crucial for identifying the severity of the disorder, any co-occurring conditions, and the most appropriate treatment interventions. As with other health conditions, the choice of assessment tools will depend on the specific circumstances of the individual, including the substances used, the presence of co-occurring disorders, and the treatment setting.
+
+**Purpose and Definition of Assessment**
+
+The flow from screening to assessment to treatment planning usually follows a common flow of events; however, the nature of substance use disorders as a chronic and often reoccurring condition can vary the process flow. The preliminary screening and risk assessment is designed to determine acuity of needs and whether the client presents a risk to self or others. The information gleaned from this screening feeds into the initial assessment. The **assessment** continues the process in defining the nature of the substance use and other conditions and problematic issues, determining a diagnosis, and developing specific treatment recommendations for addressing the identified conditions and issues, as depicted in the chart below.
+
+The assessment is an in-depth evaluation that confirms the presence of a problem, determines its severity, and specifies treatment options for addressing the problem. It also surveys client strengths and resources for addressing life problems. A comprehensive substance use assessment evaluates the severity and nature of the
+
+**Relationship Among Screening, Assessment and Treatment Planning**68
+
+[Image: A flowchart illustrating the relationship among screening, assessment, and treatment planning.
+The flowchart starts with a circular element labeled "CONTACT" which has an arrow pointing right to a rectangular section labeled "SCREENING".
+Under "SCREENING", there are two black rectangular boxes. The top box is "SUBSTANCE ABUSE" with an arrow pointing downwards to the bottom box "MENTAL ILLNESS". There is a double-headed arrow between these two boxes, indicating a bidirectional relationship.
+From the "SCREENING" section, a thick black arrow points right to a rectangular section labeled "ASSESSMENT".
+Within the "ASSESSMENT" section, there are several gray rectangular boxes. At the bottom is "BIOPSYCHOSOCIAL, SUBSTANCE ABUSE & FUNCTIONAL ASSESSMENT". An upward arrow points from this box to "DIAGNOSIS". Another upward arrow points from "DIAGNOSIS" to "READINESS FOR CHANGE".
+To the right of "READINESS FOR CHANGE" is a vertical gray bar labeled "INITIAL SERVICE NEEDS". To the right of this bar is another vertical gray bar labeled "LEVEL OF CARE". An arrow points from "READINESS FOR CHANGE" to "INITIAL SERVICE NEEDS", and another arrow points from "INITIAL SERVICE NEEDS" to "LEVEL OF CARE".
+A thick black arrow points right from the "ASSESSMENT" section (specifically from "LEVEL OF CARE") to a rectangular section labeled "TREATMENT PLANNING".
+Under "TREATMENT PLANNING", there are two black rectangular boxes. The top box is "SERVICE AUTHORIZATION" with an arrow pointing downwards to the bottom box "TREATMENT PLAN". There is a double-headed arrow between these two boxes.
+There are also feedback loops. An arrow goes from "LEVEL OF CARE" in "ASSESSMENT" back to "BIOPSYCHOSOCIAL, SUBSTANCE ABUSE & FUNCTIONAL ASSESSMENT" in "ASSESSMENT".
+Another arrow goes from "TREATMENT PLAN" in "TREATMENT PLANNING" back to "CONTACT".][LLM OCR returned no text for this page]CHAPTER 4: Evidence-based Screening 179
+
+[Image: A black and white photograph depicting an older man with white hair and glasses, wearing a collared shirt, looking down at a laptop. He appears to be in a dimly lit room, possibly an office or study, with a blurred background. The focus is on the man and the laptop.]
+
+assessment process. This base knowledge supports early identification, accurate assessment, effective treatment planning, comprehensive care, client safety, and the development of therapeutic relationships. **Appendix D** contains lists of indicators and common signs and symptoms for problematic substance use.
+
+The types of assessment methods for SUD are varied and include structured interviews, evidence-based tools, self-report questionnaires, clinician ratings, and biological measures.
+
+**SUBSTANCE USE AND MENTAL HEALTH ASSESSMENT METHODS**
+
+**1. Structured Interviews:**
+    >   **Diagnostic Interviews**: Conducted by trained professionals, these interviews use standardized criteria, such as the Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR)⁷⁰, to determine the presence and severity of a substance use disorder.
+    >   **Comprehensive Assessment**: A more in-depth interview that is used to convey substance use but also co-occurring disorders, psychosocial factors, and the individual's medical history.
+
+**2. Evidence-based Assessments and Tests**: Standardized assessments, tests, and questionnaires (e.g., GAIN-I, Addiction Severity Index, Beck Depression Inventory) can effectively identify, diagnose, and monitor substance use and its related disorders.
+
+**3. Observational Methods**: Counselors and other health care providers may look for physical signs of substance use or withdrawal, such as changes in appearance, behavior, or physical health indicators.
+
+**4. Self-Report Questionnaires**: Clients provide information about their substance use, including types of substances used, frequency, quantity, and any associated risks or behaviors. These are also used for mental health issues like depression, anxiety, PTSD, etc. These can be filled out by clients ahead of appointments.180 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+5.  **Digital Health Platforms:** This includes the use of apps and online platforms that provide tools for self-monitoring and reporting substance use, triggers, and cravings. Some platforms also provide educational resources or interventions. Online apps for mental health screening and monitoring have increased. These tools can track mood, behaviors, and symptoms over time, providing data for assessment.
+
+6.  **Biological Testing:**
+    ›   **Urine, Blood, Hair, and Saliva Tests:** These can confirm recent or chronic substance use, providing objective data to supplement self-reported information.
+    ›   **Breathalyzers:** Commonly used for alcohol screening to measure blood alcohol concentration (BAC) non-invasively.
+
+7.  **Collateral Information:**
+    ›   **Reports from Family or Friends:** Input from close contacts can provide additional perspectives on the individual's substance use patterns and impacts.
+    ›   **Reports from Referral Sources:** Medical, employment, and/or legal records, and previous treatment records to provide a comprehensive understanding of the individual's substance use and its impact.
+
+8.  **Assessment of Readiness to Change:** Tools like the Transtheoretical Model (Prochaska and DiClemente) assess an individual's readiness to engage in treatment and change behaviors, guiding personalized intervention strategies.
+
+9.  **Recovery:** Measurements of recovery capital such as the Assessment of Recovery Capital (ARC) and the Strengths and Barriers Recovery Scale (SABRS) are brief and easy to administer and can be a useful complement in the assessment process.
+
+**HEALTH CONDITIONS**
+
+1.  **Questionnaires and Self-Reports:** Used for initial screening of various conditions, including cardiovascular risk factors, diabetes, and more. These tools can gather information about symptoms, lifestyle, and family history.
+
+2.  **Physical Exams:** A comprehensive physical examination by a health care provider can identify signs of various health conditions, from cardiovascular issues to potential malignancies.
+
+3.  **Blood Tests:** Used to screen for conditions like diabetes, high cholesterol, thyroid dysfunction, and infections. Blood tests can provide a wealth of information about the body's functioning.
+
+4.  **Imaging Tests:** Techniques such as X-rays, MRI, CT scans, and ultrasounds are used to visualize internal structures of the body, helping in the diagnosis of conditions like fractures, tumors, and organ issues.
+
+5.  **Genetic Testing:** Used to identify genetic predispositions to certain conditions, such as breast cancer (BRCA1/2 gene mutations), heart disease, and more.
+
+**Collateral Data Resources**
+
+Many information sources may be used to **obtain relevant history and related information to establish eligibility and appropriateness, and to facilitate the assessment process.** These sources include the client as well as other pertinent collateral sources. Interviews with the client are more comprehensive than the brief interviews used for screening with a more thorough and systematic method of gathering information. Such interviews can reveal valuable information about the person that complements recorded or archival information and helps to provide an accurate evaluation of the person's problems and needs. An assessment interview may also be the foundation for a positive, trusting relationship between the counselor and the client.CHAPTER 4: Evidence-based Screening 181
+
+There may already be existing information about the client that has been gathered and recorded by other
+professionals. Written reports and records from schools, employers, previous treatment experiences, and
+criminal justice agencies also contain information that may be relevant to the client’s substance use problems.
+Interviews may be conducted to get current information to supplement written records. In addition to the
+client, other possible informants include parents, teachers, peers, employers, and significant others (referred
+to as collateral sources). Of course, collateral sources, including parents, spouses, and other family members,
+cannot be contacted for information without the client’s written consent. Finally, testing instruments, including
+drug testing, can be used to verify or confirm information collected by other methods. Screeners and assessors
+must use multiple sources in conjunction with a client report because relying on any one source may lead to an
+underestimate or overestimate of the problem.
+
+Previous treatment or other service records may be the most *objective* source of information that is obtained
+during the assessment since these records have been completed by professionals who have been trained in
+behavioral health services and who do not have an emotional investment in the perspective they present. It is
+important to realize that some of the information received in this way may not be timely or may no longer be
+accurate. Care should be taken to confirm that any information gathered from existing records is still valid
+before relying on it to make treatment recommendations.
+
+**Evidence-based Assessments**
+
+As noted earlier, the use of evidence-based assessment instruments helps to bolster the reliability of client self-
+reports.
+
+[Image: A small, indistinct graphic, possibly a stylized logo or symbol, appears in the center of the page, below the text "As noted earlier, the use of evidence-based assessment instruments helps to bolster the reliability of client self-reports." and above the black text box. It looks like a small, abstract, black ink drawing.]
+
+[Layout: The following text is within a black rectangular box with white text.]
+
+**Widely Used Evidence-based Assessment Instruments for SUDs**
+
+The **GAIN-I, or Global Appraisal of Individual Needs - Initial,** is a comprehensive biopsychosocial assessment
+tool designed to evaluate the various life areas of individuals, particularly focusing on substance use and
+related issues. The GAIN-I is a proprietary instrument that is part of a family of instruments that facilitate
+the diagnosis, treatment planning, and outcome monitoring of individuals with complex behavioral health
+needs. The tool is structured to allow for a systematic collection of data over a person’s lifetime as well as in
+the past 90 days, ensuring that both historical and current needs are assessed. The assessment covers areas
+such as:
+
+1.  **Substance Use:** Evaluates the frequency, duration, and intensity of alcohol, drug, and tobacco use.
+2.  **Physical Health:** Assesses health status, physical conditions, and related needs.
+3.  **Mental Health:** Screens for symptoms of common MHDs, including depression, anxiety, trauma, and
+    psychotic disorders.
+4.  **Risk Behaviors:** Identifies behaviors that increase the risk of harm to self or others.
+5.  **Environmental and Social Support:** Looks at living conditions, social networks, and support systems.
+6.  **Legal:** Reviews legal issues and involvement with the criminal justice system.
+7.  **Vocational:** Assesses employment status, history, and educational needs.
+
+The GAIN-I generates several types of scores that inform treatment planning, including severity indices
+for each main domain, which help in prioritizing treatment needs and interventions. It is designed to be
+administered by trained professionals through an interview format, and it can take between 1 to 2 hours to
+complete, depending on the respondent’s situation.[Layout: The page has a header at the top. The main content is a single column. There is a visual representation of a spiral binding on the right edge of the page, which is not part of the textual content itself but a feature of the physical document.]
+
+182 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**The Addiction Severity Index (ASI)** is a semi-structured interview designed to assess substance use and related areas. Developed in the 1980s, the ASI is widely used to evaluate the severity of addiction and its impact on various aspects of a person’s life. The ASI covers seven key domains:
+
+1.  **Medical Status:** Assesses physical health issues and medical treatment needs.
+2.  **Employment/Support Status:** Evaluates employment history, job skills, income sources, and financial support systems.
+3.  **Drug Use:** Gathers information on the types and patterns of drug use, including frequency and routes of administration.
+4.  **Alcohol Use:** Assesses the patterns and impact of alcohol consumption.
+5.  **Legal Status:** Reviews legal issues and criminal history, including pending charges and probation/ parole status.
+6.  **Family/Social Relationships:** Examines relationships with family and friends, including any social support and conflicts.
+7.  **Psychiatric Status:** Screens for symptoms of MHDs and treatment history.
+
+The interview typically takes about an hour to complete and is designed to be administered by a trained clinician. The ASI provides both qualitative and quantitative information, generating severity ratings for each domain that reflect the individual’s perceived need for treatment and the interviewer’s objective assessment of treatment needs. A teen version is also available – the **T-ASI-2**.
+
+**Structured Clinical Interview for DSM (SCID)** is a semi-structured interview guide for making the major DSM (Diagnostic and Statistical Manual of Mental Disorders) diagnoses. It is often used in clinical research settings to ensure that study participants meet specific diagnostic criteria. For substance use disorders, the SCID provides a detailed assessment based on the DSM criteria, helping to identify specific substance-related disorders alongside other psychiatric conditions.
+
+**The Alcohol Use Disorder and Associated Disabilities Interview Schedule, DSM-5 Version (AUDADIS-5)** is a structured diagnostic interview tool designed to assess alcohol use disorder (AUD) and related conditions. It is an updated version of the instrument to align with the criteria set forth in the Fifth Edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5). The AUDADIS-5 provides a comprehensive evaluation of alcohol use, drug use, and related psychiatric disorders, making it a valuable tool for both clinical and research purposes. Key features and areas covered by the AUDADIS-5 include **Alcohol Use Disorders, Drug Use Disorders, Associated Psychiatric Disorders, and Disabilities** (disabilities and impairments associated with substance use and psychiatric disorders, providing insights into how these conditions affect an individual’s functioning and quality of life).
+
+The AUDADIS-5 is designed for use by trained interviewers who can administer it in various settings and population surveys. Its structured format ensures consistency and reliability in diagnosing AUD and related disorders across different populations and contexts.
+
+**The Composite International Diagnostic Interview (CIDI)** is a comprehensive, fully structured interview designed for use in epidemiological studies of mental health and substance use. It is unique in that it can be administered by trained lay interviewers, not just healthcare professionals. The CIDI assesses a wide range of mental and substance use disorders according to the definitions and criteria of the DSM and International Classification of Diseases (ICD).CHAPTER 4: Evidence-based Screening 183
+
+The **Psychiatric Research Interview for Substance and Mental Disorders, DSM-5 Version (PRISM-5)**, is a semi-structured diagnostic interview designed to assess the presence of psychiatric disorders, particularly in individuals with SUDs, according to the criteria set forth in the Diagnostic and Statistical Manual of Mental Disorders (DSM–5). Key aspects of the PRISM-5 include:
+
+1. **Comprehensive Coverage:** It covers a wide range of psychiatric disorders, including mood disorders, anxiety disorders, psychotic disorders, personality disorders, and SUDs. The PRISM-5 is designed to differentiate between primary psychiatric disorders and those that are substance-induced.
+
+2. **Substance Use Disorders:** It provides an in-depth assessment of problematic substance use, and SUDs. It aligns with DSM-5’s criteria for SUDs, emphasizing the continuum of substance use severity.
+
+3. **Co-occurring Disorders:** It is specifically designed to identify and evaluate co-occurring disorders, facilitating a comprehensive understanding of the individual's mental health status.
+
+4. **DSM-5 Alignment:** With its update to reflect DSM-5 criteria, the PRISM-5 includes changes such as the integration of disorders for each substance and the inclusion of newer diagnostic categories.
+
+It is important that the diverse information collected across sources is coherently incorporated into a diagnostic picture. Failure to do so may result in a treatment plan or referral that is irrelevant or inappropriate for the client. Also, assessors need to evaluate the relative validity of the information from different sources and should not assume that the client's self-report is necessarily less valid than other information sources. In addition, the assessment process is likely to be most helpful and informative when a variety of techniques are used. All assessment instruments and methods are tools to guide clinical decision-making.[LLM OCR returned no text for this page]CHAPTER 4: Evidence-based Screening | 185
+
+» **Cognitive and learning deficits**
+    › WHO Disability Assessment Schedule 2.0 (WHODAS 2.0)
+
+» **Past and present trauma**
+    › The Primary Care PTSD Screen for DSM-5
+    › The PTSD Checklist for DSM-5
+
+The assessment of MHDs also involves a variety of evidence-based instruments, which can include structured
+interviews, questionnaires, and rating scales. These tools are designed to provide a reliable and valid assessment
+of various MHDs. Some of the key instruments include:75
+
+**1. Structured Clinical Interviews**: These are used to systematically evaluate the presence of MHDs.
+Examples include:
+
+    › **Structured Clinical Interview for DSM-5 (SCID-5)**: The SCID-5 is a semi-structured interview guide
+    for making the major DSM-5 diagnoses. It is considered a gold standard for psychiatric diagnosis and
+    is used widely in research and clinical settings.
+
+    › **Mini International Neuropsychiatric Interview (MINI)**: The MINI is a short, structured diagnostic
+    interview used for the classification of DSM-5 and ICD-10 psychiatric disorders. It can be
+    administered in a relatively brief period, making it convenient for high-volume settings.
+
+    › **Composite International Diagnostic Interview (CIDI)**: The CIDI is a comprehensive, fully structured
+    interview designed to assess mental disorders according to the definitions and criteria of ICD-10 and
+    DSM-5. It can be administered by trained lay interviewers.
+
+    › **Diagnostic Interview Schedule (DIS)**: The DIS is a structured interview used to diagnose mental
+    disorders based on the criteria of the DSM-5. It can be administered by non-clinician interviewers.
+
+**2. Self-Report Questionnaires**: These questionnaires allow individuals to report their symptoms, thoughts,
+and feelings. Examples include:
+
+    › **Beck Depression Inventory (BDI)**: This is a 21-item inventory that measures the intensity of
+    depression in adults and adolescents. Each item is rated on a 4-point scale, ranging from 0 to 3,
+    based on severity.
+
+    › **Patient Health Questionnaire (PHQ-9)**: The PHQ-9 is a 9-item instrument that is used to screen,
+    diagnose, monitor, and measure the severity of depression. It is particularly valued for its simplicity
+    and brevity.
+
+    › **Generalized Anxiety Disorder 7 (GAD-7)**: This is a 7-item instrument for screening and measuring
+    the severity of generalized anxiety disorder. Each item is rated on a scale from 0 to 3.
+
+    › **Symptom Checklist-90-Revised (SCL-90-R)**: The SCL-90-R is a 90-item self-report symptom
+    inventory designed to reflect the psychological symptom patterns of community, medical, and
+    psychiatric respondents. It covers a broad range of psychological problems and symptoms of
+    psychopathology.
+
+    › **Traumatic Life Events Questionnaire (TLEQ)**: This assesses exposure to potentially traumatic events
+    across a person’s lifespan. It covers a wide range of traumatic experiences.
+
+**3. Rating Scales**: These are often used to assess the severity of certain symptoms or disorders. For example,
+the **Hamilton Depression Rating Scale (HDRS)** is commonly used to measure the severity of depressive
+symptoms.
+
+**4. Personality Assessments**: Instruments like the **Minnesota Multiphasic Personality Inventory (MMPI)**
+are used to assess personality traits and can help in diagnosing personality disorders.186 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+5. **Behavioral Assessments:** These include observations and specific behavioral tests that can be useful in diagnosing conditions like Attention Deficit Hyperactivity Disorder (ADHD), such as the **Diagnostic Interview for ADHD in Adults (DIVA 2.0)**, and Autism Spectrum Disorder (ASD).
+
+6. **Trauma Assessments:** Assessing trauma and its impact on mental health is a critical aspect of clinical practice, requiring specialized tools to accurately identify and understand the breadth and depth of trauma-related symptoms and disorders.
+
+    > **Clinician-Administered PTSD Scale (CAPS):** Considered the gold standard in PTSD assessment, the CAPS is a structured interview that assesses the frequency and intensity of PTSD symptoms, as described in the DSM-5. It is used widely in both research and clinical settings.
+
+    > **PTSD Checklist (PCL):** The PCL is a self-report rating scale for assessing PTSD symptoms in relation to specific stressful experiences. It’s available in several versions, including the PCL-5, which aligns with DSM-5 criteria. It is easy to administer and is used for screening purposes as well as to monitor symptom change over time.
+
+    > **Posttraumatic Symptom Scale-Interview Version for DSM-5:** The PSS-I-5 is a widely utilized PTSD. It is a semi-structured interview providing a categorical diagnosis, as well as a measure of the severity of PTSD symptoms as defined by DSM-5. It can be administered by any trained person and takes 15-25 minutes.
+
+7. **Cognitive Tests:** These tests are designed to evaluate cognitive functions such as memory, attention, and reasoning. Examples include the **Wechsler Adult Intelligence Scale (WAIS)** and the **Mini-Mental State Examination (MMSE)**.
+
+8. **Functional Assessment:** Instruments like the **Global Assessment of Functioning (GAF)** scale are used to assess a person's overall level of functioning and ability to carry out daily activities.
+
+Using a variety of assessment instruments is crucial. Different assessment tools can provide a more comprehensive understanding of the person's symptoms, functioning levels, and the interplay between their mental health and substance use issues. Some instruments are better suited for identifying specific MHDs, while others are designed to assess the severity and impact of substance use. Using a multipronged assessment approach ensures a more accurate diagnosis, facilitates the development of an effective, individualized treatment plan, and ultimately, improves outcomes by addressing both the mental health and substance use aspects of the person's condition. This holistic approach recognizes the importance of treating the whole person, rather than focusing on one issue at a time, and is essential for the successful management of co-occurring conditions.
+
+**Risk Assessments**
+
+At both the screening and assessment stages, one of the most important roles that the counselor plays is to observe the client and to assess for signs of psychoactive substance toxicity, intoxication, and withdrawal; aggression or danger to others; potential for self-inflicted harm or suicide; and coexisting mental health problems. If any of these conditions are present, the counselor should take immediate action to get the client to medical care, psychiatric care, or other safe intervention. Proceeding with screening or assessment at this stage is inappropriate, both for the safety and well-being of the client and for the accuracy of screening or assessment results. If necessary, law enforcement or emergency medical personnel should be summoned to assure safe transfer of the client to the appropriate location.
+
+The signs of drug toxicity (also known as drug overdose) and alcohol intoxication can vary depending on the substance used, the amount ingested, and the individual’s body response. However, there are common symptoms associated with each that can help identify these conditions:[Layout: The page has a header with "CHAPTER 4: Evidence-based Screening" on the left and "187" on the right. The main content is a two-column layout with titles "DRUG TOXICITY" and "ALCOHOL INTOXICATION". Below this, there is a citation and a concluding paragraph. A spiral binding is visible on the left edge of the page.]
+
+CHAPTER 4: Evidence-based Screening 187
+
+| DRUG TOXICITY                                                                                                                                                                    | ALCOHOL INTOXICATION                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Drug toxicity can result from the use of prescription medications, over-the-counter drugs, or illicit substances. The specific signs can vary widely depending on the drug, but common symptoms are shown below. | Alcohol intoxication, or drunkenness, occurs as the level of alcohol in the bloodstream increases. Symptoms typically become more severe as the blood alcohol concentration (BAC) rises.                            |
+| » **Nausea and vomiting:** Often an early sign of toxicity.                                                                                                                    | » **Impaired judgment and lowered inhibitions:** Leading to risky behaviors.                                                                                                                                         |
+| » **Abdominal pain:** Can occur with many types of drug overdoses.                                                                                                               | » **Mood swings:** Rapid emotional changes or exaggerated emotions.                                                                                                                                                  |
+| » **Drowsiness or sedation:** Common with opioids, benzodiazepines, and other central nervous system depressants.                                                                | » **Slurred speech:** Difficulty speaking clearly.                                                                                                                                                                 |
+| » **Confusion or delirium:** May occur with many types of drugs, especially in high doses.                                                                                         | » **Coordination problems:** Trouble walking or standing up, clumsiness.                                                                                                                                              |
+| » **Agitation or paranoia:** More common with stimulants or hallucinogens.                                                                                                       | » **Drowsiness or sedation:** Especially at higher levels of intoxication.                                                                                                                                             |
+| » **Seizures:** Can occur with overdoses of many drugs, including stimulants and certain antidepressants.                                                                          | » **Nausea and vomiting:** Often occurs at higher levels of intoxication.                                                                                                                                              |
+| » **Respiratory depression:** Especially with opioids, this is a critical and life-threatening symptom.                                                                          | » **Confusion or disorientation:** Not knowing where one is or what time it is.                                                                                                                                      |
+| » **Irregular heart rhythms or tachycardia:** Common with stimulants and some prescription medications.                                                                            | » **Memory blackouts:** Inability to remember events that occurred while intoxicated.                                                                                                                                    |
+| » **High or low blood pressure:** Depending on the drug involved.                                                                                                                | » **Respiratory depression:** In severe cases, leading to a risk of death.                                                                                                                                           |
+| » **Hallucinations:** Especially with hallucinogens and some types of stimulants.                                                                                                  | » **Hypothermia (lowered body temperature) or hyperthermia:** Depending on the environment and level of activity.                                                                                                    |
+| » **Hyperthermia (elevated body temperature):** Particularly with MDMA (ecstasy) and other stimulants.                                                                             | » **Coma:** In cases of severe intoxication, which can be life-threatening.                                                                                                                                          |
+| » **Loss of consciousness:** A severe sign that can precede a fatal outcome.                                                                                                       |                                                                                                                                                                                                                      |
+
+*Citations for table: 76,77*
+
+Both drug toxicity and alcohol intoxication require immediate medical attention, especially if severe symptoms are present, as they can be life-threatening. It’s crucial to recognize these signs early to seek appropriate help.[Layout: The page has a header at the top. The main content area below the header is broadly divided into two vertical sections. A narrower section on the left contains a list of risk assessment types. A wider section on the right contains explanatory text. An image is located at the bottom of the page, below both these sections. A spiral binding is visible along the entire right edge of the page.]
+
+188 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**Risk Assessment for Violence**
+
+RISK ASSESSMENTS
+FOR VIOLENCE
+
+**Assessing Risk**
+ › STATIC-99
+ › Violence Risk Appraisal Guide-
+   Revised (VRAG-R)
+ › Level of Service Inventory-
+   Revised (LSI-R)
+
+**Structured Professional
+Judgment**
+ › Historical, Clinical, Risk-20 –
+   HCR20
+ › The Short-Term Assessment of
+   Risk and Treatability – START
+ › Structured Assessment of
+   Violence Risk in Youth – SAVRY
+
+Risk assessments for violence are usually addressed along two paths.
+The first is violence risk assessment to estimate and attempt to limit the
+likelihood that a violent event will occur. While this type of assessment
+is highly desirable, this type of assessment of risk is exceptionally
+difficult to do well. There are challenges inherent in making such
+judgments and the consequences of erroneous decisions can have serious
+repercussions.⁷⁸
+
+Risk assessment focuses on the probability of violence. It is an estimate
+for an individual, who usually has a history of violence, based upon
+their comparison to a known group. In contrast, a threat assessment
+focuses on targeted violence by a person of concern, who may not have a
+known history of violence, and encompasses a behavioral and profiling
+focus. There are many variables and contexts to consider, resulting in a
+complex process.
+
+Violence risk can be evaluated through formal risk assessment
+instruments and may consider factors such as offending trajectories,
+including the age of onset, severity, frequency, and personality traits.
+Risk consideration focuses on individual factors and extends to
+family, community, and cultural factors. No two individuals are alike;
+consequently, preventing harm is not a simple task. The factors that lead
+to adverse outcomes, such as violence, suicide, and related outcomes,
+vary by the individual. It is, therefore, necessary to understand each
+individual’s particular vulnerabilities and strengths related to such
+events.⁷⁹
+
+[Image: A piece of white paper with jagged, torn edges is centrally placed over a dark, textured, possibly gray or black, background. The white paper has the words "Reduce Risk" printed on it in a large, bold, black, serif font. The paper appears to be peeled or torn from the top, creating a three-dimensional effect and suggesting something is being revealed or emphasized. The background has a rough texture, resembling coarse fabric or a distressed surface.]
+
+Reduce RiskCHAPTER 4: Evidence-based Screening 189
+
+Some risk assessment tools are structured instruments designed to predict an outcome of a specific population
+over a particular period. These tools, based on past risk factors, do not consider current situations or
+context. Other tools use structured professional judgment are created by identifying risk factors coupled with
+observations on the part of the professional. These allow for professional judgment when making decisions
+regarding violence risk – which research has recommended as the preferred approach.⁸⁰, ⁸¹
+
+**INTIMATE PARTNER VIOLENCE**
+
+The second type of risk assessment is for **intimate partner violence (IPV).** IPV is a pervasive issue that involves
+physical, sexual, psychological harm, or threats of such harm between intimate partners. This form of violence
+can occur among heterosexual or same-sex couples and does not require sexual intimacy. The perpetrators of
+IPV can be both men and women, although women are more frequently the victims. It is estimated that 41% of
+female-identifying individuals and 26% of male-identifying individuals experience IPV at some point during
+their lives.⁸² IPV is a complex phenomenon that is influenced by multiple factors, including societal, relational,
+and individual aspects. Among the individual factors, problematic substance use is notably linked to IPV, both as
+a risk factor for perpetration and as a consequence of victimization.⁸³
+
+Routine screening in populations without signs or symptoms of abuse could identify abuse not otherwise known,
+prevent future abuse from occurring, and reduce morbidity and mortality. Because of fear, intimidation, and
+lack of support, many individuals do not disclose abuse unless directly questioned, and many who are directly
+questioned will not disclose. Many screening questionnaires are available that could be used in behavioral
+health and primary care settings: ⁸⁴
+
+» **Humiliation, Afraid, Rape, Kick (HARK).** The HARK screening tool is a brief instrument designed to
+identify victims of IPV by asking about specific forms of abuse: humiliation, fear, rape, and physical
+violence. It is concise and allows healthcare providers to quickly assess for IPV without extensive training.
+The HARK has been validated in various settings, showing effectiveness in identifying individuals
+experiencing IPV.
+
+» **Hurt/Insult/Threaten/Scream (HITS).** The HITS instrument is a simple, yet effective tool for screening
+individuals for IPV. It consists of four questions that ask respondents how often their partner hurts,
+insults, threatens, and screams at them. Scores are totaled to indicate the presence of IPV, with higher
+scores suggesting greater severity of abuse. HITS is known for its ease of use.
+
+» **Woman Abuse Screening Tool (WAST).** The WAST is designed to identify women experiencing IPV,
+focusing on both physical and emotional abuse. It comprises eight questions that explore the dynamics
+of the respondent’s relationship, specifically looking at feelings of tension, arguments, and physical
+harm. WAST is notable for its ability to capture the nuance of abusive relationships, providing healthcare
+providers with a comprehensive view of the respondent’s situation.
+
+» **Abuse Assessment Screen (AAS).** The AAS is a widely used screening instrument specifically designed
+to identify cases of IPV and abuse. It consists of a series of questions that inquire about physical, sexual,
+and emotional abuse, both currently and in the past year. The AAS has been validated across diverse
+populations and settings, demonstrating its effectiveness in identifying victims of IPV.
+
+» **Conflict Tactics Scales (CTS2).** The revised Conflict Tactics Scales (CTS2) measure the extent and
+severity of partner violence, including psychological aggression and physical assault. The scales have
+been used on participants from diverse cultural backgrounds, including African Americans and Hispanic
+Americans, in over 20 different countries and they have been translated into at least 15 different
+languages.⁸⁵190 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**Risk Assessment for Suicide**
+
+Suicide is a major public health concern. Suicide is among the leading causes of death in the United States. Based on recent mortality data, suicide in some populations is on the rise. According to the Centers for Disease Control and Prevention (CDC) WISQARS Leading Causes of Death Reports in 2021:
+
+» Suicide was the twelfth leading cause of death overall in the United States, claiming the lives of over 48,183 people.
+
+» The suicide rate among males was approximately four times higher than the rate among females. Males make up 50% of the population but nearly 80% of suicides.
+
+» Suicide was the second leading cause of death among individuals between the ages of 10–14 and 25–34, the third leading cause of death among individuals between the ages of 15–24, and the fifth leading cause of death among individuals between the ages of 35 and 44.⁸⁶
+
+Suicidal behavior can be broadly subdivided into suicide-related behavior and suicide-related communication.
+
+» **Suicide** is defined as death caused by self-directed injurious behavior with intent to die as a result of the behavior.
+
+» **A suicide attempt** is a non-fatal, self-directed, potentially injurious behavior with intent to die as a result of the behavior. A suicide attempt might not result in injury.
+
+» **Suicidal ideation** refers to thinking about, considering, or planning suicide.
+
+» **Suicidal threat** refers to any interpersonal action, verbal or non-verbal, without a direct self-injurious component, that a reasonable person would interpret as communicating or suggesting that suicidal behavior might occur in the near future.⁸⁷
+
+Suicide is intricately linked to mental health and substance use disorders due to a complex interplay of psychological, biological, and social factors. MHDs and substance use can significantly influence an individual's thoughts, feelings, and behaviors, increasing the risk of suicide in several ways:⁸⁸, ⁸⁹, ⁹⁰
+
+1.  **Psychological Distress:** MHDs such as depression, bipolar disorder, and anxiety can lead to significant psychological distress. Symptoms such as profound sadness, hopelessness, and unbearable anxiety can overwhelm individuals, making suicide seem like a viable option to escape their suffering.
+
+2.  **Impaired Judgment and Increased Impulsivity:** SUDs can impair judgment and increase impulsivity, factors that are closely associated with suicide risk. Alcohol and drugs can lower inhibitions, leading individuals to act on suicidal thoughts that they might have resisted when sober. Substance use can exacerbate the symptoms of underlying mental health conditions, further increasing the risk of suicide.
+
+3.  **Social Isolation:** Both MHDs and SUDs can lead to social isolation, as individuals may withdraw from family, friends, and social activities. This isolation can exacerbate feelings of loneliness and despair, increasing the risk of suicide. Moreover, the stigma associated with these disorders can prevent individuals from seeking help, further isolating them, and diminishing their chances of recovery.
+
+4.  **Comorbidity:** The co-occurrence of MHDs and SUDs presents a particularly high risk for suicide. Individuals with co-occurring diagnoses often experience more severe symptoms of both disorders, leading to greater functional impairment and an increased risk of suicide.
+
+The National Alliance for Suicide Prevention, in conjunction with the national Suicide Prevention Resource Center (SAMHSA, HHS) created a recommended standard of care for people with suicide risk.⁹¹ They address the importance of suicide prevention actions in behavioral health care organizations, particularly in outpatient care. They note that inpatient care is designed to initiate treatment, mitigate immediate risk, and prepare patients for continuing care post-hospitalization; however, outpatient behavioral health settings have a longer-term,CHAPTER 4: Evidence-based Screening 191
+
+ongoing role in treating individuals who may
+be or have been suicidal. Therefore, the ability
+to provide suicide safe care should be a core
+responsibility of behavioral health settings,
+and competence and confidence in working
+with these individuals are essential.
+
+Here is their recommended standard of care:
+
+» On intake and periodically, **assess all
+individuals for suicide risk** using a
+standardized instrument or scale.
+
+» Stratify all individuals according to
+the level of risk.
+
+> Based on the level of risk, asking
+probing questions about suicidal
+ideation, plans, intent, and
+lethality will be necessary.
+
+> For those who have presented
+with a recent attempt, inquiry
+should be made about all these
+aspects when the individuals the
+attempt and also their current
+suicidal ideation. Past attempts
+should also be probed with special
+reference to attempts made in the
+recent past and the most severe
+attempts.
+
+» For all individuals with elevated risk:
+
+> As part of the treatment plan, complete a collaborative safety plan during the same visit.
+
+> As part of safety planning, provide information on telephone crisis lines, including the National
+Suicide Prevention Lifeline. Carry out steps to reduce access to lethal means, including asking family
+members and significant others to assist.
+
+> Engage the individual in treatment with a licensed or other appropriately credentialed professional,
+preferably one who has training in suicide, including risk assessment and safety planning.
+
+» Reassess risk and review and/or update the individual’s safety plan at every visit until the risk is
+reduced.⁹²
+
+[Image: Two wooden blocks are stacked on top of each other, resting on a textured burlap surface. The top, smaller block has the word "SUICIDE" printed on it in large, black, bold, uppercase letters. The bottom, larger block has the word "PREVENTION" printed on it in large, black, bold, uppercase letters.]
+
+As with other screening and assessment instruments and tools, there is a variety of choices that have a strong
+research evidence base whether it’s to screen for immediate risk, to measure the severity of suicidal ideation,
+or to explore behaviors associated with increased risk. The choice of tool depends on the clinical setting, the
+population being served, and the specific needs of the assessment process. It’s also important to note that these
+tools should be used as part of a comprehensive assessment, including clinical interview and consideration of
+the individual’s history, circumstances, and mental health status.192 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**Widely Used Evidence-based Suicide Screening & Assessment Tools**
+
+**Ask Suicide-Screening Questions (ASQ)** from the National Institute of Mental Health
+
+The ASQ toolkit was developed and validated by a team from the National Institute for Mental Health (NIMH). ASQ is a four-item suicide-screening tool designed to be used for people of all ages in emergency departments, inpatient units, and primary care facilities. A Brief Suicide Safety Assessment (BSSA) is available to be used when patients screen positive for suicide risk on the ASQ.
+
+The toolkit is organized by the medical setting in which it will be used: emergency department, inpatient medical/surgical unit, and outpatient primary care and specialty clinics. The ASQ is free of charge and available in multiple languages. All toolkit materials are available on the NIMH website at https://www.nimh. nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials.
+
+**Columbia-Suicide Severity Rating Scale (C-SSRS) - Triage version**
+
+The Columbia-Suicide Severity Rating Scale (C-SSRS) evidence-supported screening tool was developed by Columbia University, the University of Pennsylvania, and the University of Pittsburgh supported by the National Institute of Mental Health (NIMH). The C-SSRS Triage version features questions that help determine whether an individual is at risk of suicide. There are brief versions of the C-SSRS often used as a screening tool (first two questions) that, based on patient response, can lead to the administration of the additional questions to triage patients. The protocol and the training on how to use it are available free of charge at https://cssrs.columbia.edu/.
+
+**The Patient Health Questionnaire-9 (PHQ-9) Depression Scale**
+
+The Patient Health Questionnaire-9 (PHQ-9) Depression Scale is a validated and widely used nine-item tool used to diagnose and monitor the severity of depression. The last question of the PHQ-9 screens for the presence and duration of suicide ideation. It is available in Spanish and other languages and has also been modified for the adolescent population. All screening tools and instruction manuals are available at no cost. https://www.phqscreeners.com/select-screene
+
+**SAFE-T Pocket Card: Suicide Assessment Five-Step Evaluation and Triage (SAFE-T) for Clinicians**
+
+This suicide assessment, developed by SAMHSA, can be used by behavioral health professionals during their first contact with an individual at risk of suicidal behavior and completed suicide. The five-step assessment includes identification of risk and protective factors; conducting an inquiry about suicidality; determining level of risk and selecting an appropriate intervention; and documenting the process, including a follow-up plan. It is available at no cost at https://store.samhsa.gov/product/safe-t-pocket-card-suicide-assessment-five-step-evaluation-and-triage-clinicians/sma09-4432.
+
+**The Suicidal Behaviors Questionnaire-Revised (SBQ-R)**
+
+The Suicidal Behaviors Questionnaire-Revised (SBQ-R) is a brief self-report measure of past suicidal behavior that has been used for people of all ages. The SBQ-R consists of 4 items that provide a forum to self-report suicidal attitudes, ideation, and previous as well as possibility of future suicide attempts.CHAPTER 4: Evidence-based Screening 193
+
+**DRUG TESTING**
+
+The current use of drug testing spans various sectors and reflects its importance in ensuring safety, compliance, and health. Many employers require drug testing as part of their pre-employment screening process to ensure a drug-free workplace. In legal contexts, drug testing can be used in cases of drug-related offenses, custody disputes, and as part of parole or probation requirements to ensure compliance with drug-free terms. Workers in transportation (e.g., pilots, truck drivers) and other safety-sensitive positions (e.g., operators of heavy machinery) are subject to drug testing to ensure public and workplace safety.
+
+SUD treatment programs use drug testing extensively. Drug testing in SUD treatment is a:
+» part of the initial assessment of a client being evaluated for a diagnosis of an SUD.
+» screen to prevent potential adverse effects of medications used as a part of treatment (pharmacotherapy).
+» component of the treatment plan for an SUD.
+» way to monitor the client’s use of substances.
+» way to assess the efficacy of the treatment plan (i.e., level of care).
+» way to document abstinence for legal matters, disability determinations, custody disputes, or reinstatement in certain professions (e.g., lawyers, health care providers, airline pilots).⁹³
+
+**Types of Drug Tests and Methods**
+
+Drug testing methodologies are broadly categorized into initial (screening) and confirmatory types of analysis. Initial tests, which can be conducted on-site (point-of-care testing, POCT) or in laboratories using **immunoassays**, are designed to quickly identify the presence of drugs but are generally less accurate in terms of sensitivity and specificity compared to confirmatory tests. The main advantage of screening tests is their rapid turnaround time, facilitating swift decision-making for further intervention. These tests are recommended when timely results are important.
+
+In cases where initial test outcomes are questioned, a **confirmation test**, employing more precise methods is recommended to validate the findings. Confirmatory testing is crucial for instances where initial screenings are positive or when screening for substances that do not have immunoassays available. In federal workplace testing, all positive initial screening test results must be followed by a confirmatory test. In clinical settings, however, confirmatory testing is at the practitioner’s discretion. Laboratories do not automatically perform confirmatory tests. When a client’s screening test (either a point-of-care test (POCT) or laboratory test) yields unexpected results (positive when in SUD treatment, or negative if in pain management treatment), the practitioner decides whether to request a confirmatory test. In addition, a confirmatory test may not be needed; clients may admit to drug use or not taking scheduled medications when told of the drug test results, negating the necessity of a confirmatory test.
+
+There are different types of drug tests that can be administered:
+
+1. **Breath analysis** – Breath alcohol analysis is commonly used, particularly by law enforcement. Breathalyzers are devices for estimating blood alcohol content (BAC) from a breath sample. They are the most commonly used chemical sobriety test due to their accessibility, convenience, and inexpensive cost.
+
+2. **Urine** – Urine tests are the most common types of drug tests administered, and they are primarily used to detect drug usage within a period of one week to one month.
+
+3. **Saliva** – Saliva tests measure drug usage within the past day and are easy to administer. However, some drugs inhibit salivary secretions and make collection difficult.
+
+4. **Sweat** – These tests are relatively uncommon in treatment settings. Sweat tests are used to measure cumulative drug use over time.[LLM OCR returned no text for this page][LLM OCR returned no text for this page][Layout: The page has a header at the top. The main content is in a single column. On the right side of the lower half of the page, there is a photograph.]
+
+196 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+Confirmatory drug testing is like a detective work in science, where the goal is to accurately identify and
+measure drugs in specific samples. Over time, the tools and techniques used for confirmation tests have evolved
+significantly. The popular method in the past several decades has been Gas Chromatography/Mass Spectrometry
+(GC/MS). This method was “the gold standard” because it was very accurate at identifying and measuring
+specific drugs in samples.
+
+However, as the need to test for multiple drugs at one time increased, and the demand for faster results grew,
+scientists started to look for more advanced techniques. Newer Multi-Target Screening (MTS) procedures are
+being used such as Liquid Chromatography-Mass Spectrometry (LC-MS) which is a sophisticated analytical tool
+that first separates complex mixtures into individual components and then identifies each component based
+on its mass. This means it can test for many different drugs in a single run, making it much faster and more
+efficient. This makes LC-MS incredibly useful for analyzing complex samples in fields such as pharmaceuticals,
+drug test analysis, and biochemistry, where knowing the exact composition of a sample is crucial. This evolution
+allows for quicker and more comprehensive drug test results, which is crucial in ensuring accuracy and
+timeliness.¹⁰¹
+
+CUT-OFF LEVELS
+
+The US Department of Health and Human Services
+(DHHS, SAMHSA) establishes the Mandatory Guidelines
+for Federal Workplace Drug Testing Programs, which
+many other departments, including Department of
+Transportation, follow for regulated drug testing. These
+guidelines specify the initial and confirmatory drug test
+cut-off levels for substances such as marijuana, cocaine,
+opiates (including codeine, morphine, and heroin),
+amphetamines (including methamphetamine, MDMA),
+and PCP.
+
+The SAMHSA guidelines serve as a key benchmark for
+drug testing, including within SUD treatment programs,
+which often follow these federal guidelines to ensure
+consistency, reliability, and legal compliance – especially
+when they are part of a network that receives federal
+funding or must comply with federal regulations. The
+use of SAMHSA’s cut-off scores helps these programs
+to standardize their testing procedures and to make
+informed decisions about treatment plans based on
+objective criteria. However, it’s important to note that
+while many SUD treatment programs may adhere to
+SAMHSA guidelines, there can be variations based on
+the specific policies of the program, state regulations, or
+the requirements of insurance providers. Some programs
+might use different cut-off levels or additional tests for
+substances not covered by SAMHSA guidelines, depending
+on their clinical judgment, the population they serve, or
+other factors.
+
+These values were developed to help eliminate **false positive results**. A false positive occurs when the test
+incorrectly indicates the presence of a drug or its metabolites in an individual’s sample, even though the person
+did not actually use that substance. Reasons for false positives include:
+
+» **Cross-Reactivity**: Some substances can chemically resemble the targeted drug in a test, leading to cross-
+reactivity where the test cannot distinguish between the drug and the other substance.
+
+[Image: A close-up photograph shows a laboratory pipette labeled "AD-200 μl" dispensing a clear liquid into one of the circular wells of a white microplate or similar laboratory tray. The background is dark. The image illustrates laboratory procedures related to sample testing.][Layout: Single column page with a header at the top right and a footer at the bottom left. The main content consists of text paragraphs and a table. A spiral binding is visible on the left edge of the page.]
+
+CHAPTER 4: Evidence-based Screening 197
+
+» **Medications:** Prescription medications are a common source of false positives. For example, certain antidepressants, decongestants, and pain relievers can trigger false positives for amphetamines, opioids, and other substances.
+
+» **Over-the-Counter (OTC) Products:** Some OTC products, such as cough suppressants or sleep aids, contain ingredients that might result in a false positive for substances like opioids or marijuana.
+
+» **Technical Errors:** Mistakes in the handling, storage, or analysis of the sample can also lead to false positive results. This includes contamination of the sample, incorrect test administration, or misinterpretation of the results.¹⁰²
+
+It is important to note that legitimate false positives are only an issue in the screening phase. Once LC-MS/MS (liquid chromatography-tandem mass spectrometry) is used to analyze a specimen, confirmation (positive or negative) is made with precision.¹⁰³
+
+**False negatives** can also occur. This happens when the urine drug concentration is below the threshold level set by the laboratory performing the test. Issues such as dilute urine, the duration of time between ingestion of the drug and time of testing, and the quantity of the drug ingested may affect the occurrence of false negatives.
+
+The following table shows the current cut-off levels for specific drugs for the initial and confirmatory tests per federal law.¹⁰⁴ Results are reported as positive or negative based on the cut-off levels. Positive results indicate that the drug concentration in the blood is above the predetermined threshold; negative results are reported when the drug concentration is below the threshold.
+
+[Table: 4 columns. Column headers are: INITIAL TEST ANALYTE, INITIAL TEST CUTOFF, CONFIRMATORY TEST ANALYTE, CONFIRMATORY TEST CUTOFF. All column headers are in uppercase.]
+
+Row 1:
+INITIAL TEST ANALYTE: Marijuana metabolite (THCA)
+INITIAL TEST CUTOFF: 50 ng/mL
+CONFIRMATORY TEST ANALYTE: THCA
+CONFIRMATORY TEST CUTOFF: 15 ng/mL
+
+Row 2:
+INITIAL TEST ANALYTE: Cocaine metabolite (Benzoylecgonine)
+INITIAL TEST CUTOFF: 150 ng/mL
+CONFIRMATORY TEST ANALYTE: Benzoylecgonine
+CONFIRMATORY TEST CUTOFF: 100 ng/mL
+
+Row 3:
+INITIAL TEST ANALYTE: Codeine/Morphine
+INITIAL TEST CUTOFF: 2000 ng/mL
+CONFIRMATORY TEST ANALYTE (two lines):
+Codeine
+Morphine
+CONFIRMATORY TEST CUTOFF (two lines, corresponding to analytes):
+2000 ng/mL
+4000 ng/mL
+
+Row 4:
+INITIAL TEST ANALYTE: Hydrocodone/Hydromorphone
+INITIAL TEST CUTOFF: 300 ng/mL
+CONFIRMATORY TEST ANALYTE (two lines):
+Hydrocodone
+Hydromorphone
+CONFIRMATORY TEST CUTOFF (two lines, corresponding to analytes):
+100 ng/mL
+100 ng/mL
+
+Row 5:
+INITIAL TEST ANALYTE: Oxycodone/Oxymorphone
+INITIAL TEST CUTOFF: 100 ng/mL
+CONFIRMATORY TEST ANALYTE (two lines):
+Oxycodone
+Oxymorphone
+CONFIRMATORY TEST CUTOFF (two lines, corresponding to analytes):
+100 ng/mL
+100 ng/mL
+
+Row 6:
+INITIAL TEST ANALYTE: 6-Acetylmorphine
+INITIAL TEST CUTOFF: 10 ng/mL
+CONFIRMATORY TEST ANALYTE: 6-Acetylmorphine
+CONFIRMATORY TEST CUTOFF: 10 ng/mL
+
+Row 7:
+INITIAL TEST ANALYTE: Phencyclidine
+INITIAL TEST CUTOFF: 25 ng/mL
+CONFIRMATORY TEST ANALYTE: Phencyclidine
+CONFIRMATORY TEST CUTOFF: 25 ng/mL
+
+Row 8:
+INITIAL TEST ANALYTE: Amphetamine/Methamphetamine
+INITIAL TEST CUTOFF: 500 ng/mL
+CONFIRMATORY TEST ANALYTE (two lines):
+Amphetamine
+Methamphetamine
+CONFIRMATORY TEST CUTOFF (two lines, corresponding to analytes):
+250 ng/mL
+250 ng/mL
+
+Row 9:
+INITIAL TEST ANALYTE: MDMA4/MDMA5
+INITIAL TEST CUTOFF: 500 ng/mL
+CONFIRMATORY TEST ANALYTE (two lines):
+MDMA
+MDMA
+CONFIRMATORY TEST CUTOFF (two lines, corresponding to analytes):
+250 ng/mL
+250 ng/mL
+
+88 FR 70768 - Mandatory Guidelines for Federal Workplace Drug Testing Programs. Federal Register Vol. 88, No.196, October 12, 2023[LLM OCR returned no text for this page]CHAPTER 4: Evidence-based Screening 199
+
+**Substance Use Disorder Diagnosis**
+
+DSM-5-TR criteria are used by health care professionals to assess whether an individual's substance use is problematic and constitutes a disorder. Although many SUD counselors are not credentialed to provide formal diagnoses, it is important that they know the standards by which such diagnoses are made. Substance-related disorders are categorized into ten classes based on use of the following substances: alcohol, caffeine, cannabis, hallucinogens, inhalants, opioids, sedatives, hypnotics and anxiolytics, stimulants, tobacco, and other (or unknown) substances. These SUDs span a wide variety of problems arising from substance use and cover a total of 11 different criteria (categorized in four domains):¹⁰⁸
+
+**1. Impaired Control:**
+    *   Using the substance in larger amounts or over a longer period than was originally intended.
+    *   Persistent desire or unsuccessful efforts to cut down or control substance use.
+    *   Spending a great deal of time in activities necessary to obtain, use, or recover from the substance's effects.
+    *   Craving, or a strong desire or urge to use the substance.
+
+**2. Social Impairment:**
+    *   Recurrent substance use resulting in a failure to fulfill major role obligations at work, school, or home.
+    *   Continued substance use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of the substance.
+    *   Important social, occupational, or recreational activities are given up or reduced because of substance use.
+
+**3. Risky Use:**
+    *   Recurrent substance use in situations in which it is physically hazardous.
+    *   Substance use is continued despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by the substance.
+
+**4. Pharmacological Criteria:**
+    *   Tolerance, as defined by either a need for markedly increased amounts of the substance to achieve intoxication or desired effect, or a markedly diminished effect with continued use of the same amount of the substance.
+    *   Withdrawal, as manifested by either the characteristic withdrawal syndrome for the substance or the substance (or a closely related substance) is taken to relieve or avoid withdrawal symptoms.
+
+Anyone meeting any two of the 11 criteria during the same 12-month period would receive a diagnosis of a SUD. The severity of the substance use disorder is then determined based on the number of criteria met:
+    *   Mild: 2–3 criteria
+    *   Moderate: 4–5 criteria
+    *   Severe: 6 or more criteria
+
+Clinicians can also add “in early remission,” “in sustained remission,” “on maintenance therapy,” and “in a controlled environment.”[LLM OCR returned no text for this page][Layout: Single column with a header. The header has "CHAPTER 4: Evidence-based Screening" on the left and "201" on the right.]
+
+CHAPTER 4: Evidence-based Screening 201
+
+3. **Substance/Medication-Induced Mental Disorders:** This category includes a wide range of mental disorders such as psychotic disorders, bipolar and related disorders, depressive disorders, anxiety disorders, obsessive-compulsive and related disorders, sleep disorders, sexual dysfunctions, delirium, and neurocognitive disorders that are directly caused by the use of a substance. For a disorder to be classified under this category, the substance involved must be capable of producing the mental disorder, and the disorder must be significantly related to the recent use of the substance.
+
+For each of these categories, the DSM-5-TR provides criteria that include the type of substance, the symptoms experienced, the duration of the symptoms, and the degree to which the symptoms interfere with normal functioning. It is also important for the diagnosis to rule out other causes for the symptoms to ensure that they are directly related to substance use. The DSM-5-TR emphasizes the importance of identifying the specific substance involved because the treatment and prognosis can vary significantly depending on the substance.
+
+Because people vary greatly in how they respond to both intoxication and withdrawal given the same exposure to the same substance, and because different substances may be taken at the same time, prediction of any particular substance-related syndrome has its limits. What is most important is to continue to evaluate psychiatric symptoms and their relationship to abstinence or ongoing substance abuse over time. Most substance-induced symptoms begin to improve within hours or days after substance use has stopped. Notable exceptions to this are psychotic symptoms caused by heavy and long-term amphetamine abuse and the dementia (problems with memory, concentration, and problem solving) caused by using substances directly toxic to the brain, which most commonly include alcohol, inhalants like gasoline, and amphetamines.¹¹³
+
+Recognizing and accurately diagnosing SIDs is crucial for effective treatment. Differentiating between substance-induced and independent psychiatric disorders is essential, as it informs treatment planning and prognosis. Treatment approaches for SIDs should address both the substance use and the induced psychiatric symptoms, often requiring integrated treatment strategies that combine pharmacotherapy, psychotherapy, and support for withdrawal and recovery processes.
+
+**International Classification of Diseases (ICD)**
+
+The International Classification of Diseases (ICD-11) is the 11th revision of the ICD, a global health information system used to classify diseases and related health problems. Developed by the World Health Organization (WHO), ICD-11 was officially adopted by WHO Member States and came into effect on January 1, 2022. It represents a significant update from its predecessor, ICD-10, which has been used since 1994. The ICD-11 reflects advances in health and medical science over the past few decades.
+
+Efforts were made to make ICD-11 user-friendly for healthcare professionals, including through the provision of online training materials and a more intuitive classification system. Key features and improvements of ICD-11 include:¹¹⁴
+
+1. **Digital Adaptability:** ICD-11 was designed to be fully compatible with electronic health applications and information systems, facilitating more effective and efficient data collection, analysis, and sharing.
+
+2. **Comprehensive Coverage:** It includes significant improvements in the classification of diseases, with updates and additions that reflect modern health and medical practices.
+
+3. **Innovative Structure:** The coding system in ICD-11 is more detailed and flexible, allowing for a more precise diagnosis and classification of diseases.
+
+4. **Integration of Traditional Medicine:** For the first time, ICD-11 includes chapters on traditional medicine conditions, recognizing the role of traditional medicine in healthcare systems in various parts of the world.
+
+5. **Specificity and Flexibility:** ICD-11 provides more clinical detail than ICD-10, allowing for a more accurate description of health conditions. This is particularly important for rare diseases and conditions that were not adequately classified in previous revisions.202 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**LEVELS OF CARE CRITERIA**
+
+**American Society of Addiction Medicine - ASAM Criteria®115**
+
+The **ASAM Criteria** is the most widely used and comprehensive set of standards for placement, continued service, and transfer between levels of care for people with SUDs and co-occurring conditions. The ASAM Criteria began as a collaboration with national and state organizations that was focused on developing one unified set of standards for determining patient admission, continued service, and transfer criteria. It was first published in 1991, then called the ASAM Patient Placement Criteria. The name was updated in 2013 with the third edition. The 4th edition was released in 2023.
+
+*The ASAM Criteria* define standards for a complete system of care, including:
+
+1. assessing patients’/clients’ needs across six dimensions, including factors critical to recovery such as withdrawal potential, medical needs, emotional and behavioral conditions, readiness to change, potential for relapse, and an individual’s living situation and support systems.
+
+2. using research-based decision rules that interpret the multidimensional assessment and match patients/clients to the proper level and type of care.
+
+3. placing each patient/client on a continuum of treatment services based upon individual needs.
+
+4. establishing characteristic service standards for each level of care within that continuum.
+
+5. setting proper staffing levels, assessment and treatment planning needs, therapeutic requirements, and ensuring proper support systems and documentation.
+
+The ASAM criteria delineates a range of **specific levels of care**. The criteria are designed to help clinicians more effectively assess and meet the needs of clients with co-occurring mental and substance-related disorders. The criteria are applied across a continuum to determine an appropriate level of care.
+
+» **Recovery Residence.** This level (new in the 4th edition) provides a structured living environment for individuals recovering from SUDs. They are designed to support individuals in their recovery by offering a stable and substance-free living situation alongside peer support and, in some cases, access to recovery and treatment services.
+
+» **Level 1: Outpatient Services.** This level of care is designed for individuals who do not need 24-hour supervision and can manage most of their recovery with less frequent clinical interventions. It’s suitable for those with a stable living situation and a supportive social environment.
+
+> **1.0: Long-term Remission Monitoring.** This level is designed to support individuals who have successfully completed more intensive SUD treatment programs and have maintained a period of remission. Individuals receive ongoing monitoring and occasional support to help sustain their recovery over the long term.
+
+> **1.5: Outpatient Therapy.** This level involves regular therapy sessions, typically ranging from one to several times a week, based on need. This can include individual, group, and family sessions. The objective is to provide therapy and support while the individual continues to live at home and potentially maintain employment or education.
+
+> **1.7: Medically Managed Outpatient.** This level of service provides more intensive medical, psychiatric, and other therapeutic interventions. It is suitable for individuals with conditions that require more frequent contact with medical professionals for monitoring and management but do not necessitate 24-hour care. This could include regular assessments, medication management, and treatment for co-occurring mental health conditions that can be managed in an outpatient setting.CHAPTER 4: Evidence-based Screening 203
+
+**The ASAM Criteria Continuum of Care for Adult Addiction Treatment**¹⁵⁷
+
+[Diagram: A hierarchical chart illustrating "The ASAM Criteria Continuum of Care for Adult Addiction Treatment". It has five main horizontal bands, each representing a level of care or a related service.
+The first band, labeled "Level 4: Inpatient" on the left, has a single rounded rectangle on the right containing a circle with the number "4" and the text "Medically Managed Inpatient".
+The second band, labeled "Level 3: Residential" on the left, has three rounded rectangles on the right. The first contains a circle with "3.1" and the text "Clinically Managed Low-Intensity Residential". The second contains a circle with "3.5" and the text "Clinically Managed High-Intensity Residential". The third contains a circle with "3.7" and the text "Medically Managed Residential".
+The third band, labeled "Level 2: IOP/HIOP" on the left, has three rounded rectangles on the right. The first contains a circle with "2.1" and the text "Intensive Outpatient (IOP)". The second contains a circle with "2.5" and the text "High-Intensity Outpatient (HIOP)". The third contains a circle with "2.7" and the text "Medically Managed Intensive Outpatient".
+The fourth band, labeled "Level 1: Outpatient" on the left, has three rounded rectangles on the right. The first contains a circle with "1.0" and the text "Long-Term Remission Monitoring". The second contains a circle with "1.5" and the text "Outpatient Therapy". The third contains a circle with "1.7" and the text "Medically Managed Outpatient".
+The fifth band, labeled "Recovery Residence" on the left, has a single rounded rectangle on the right containing a circle with "RR" and the text "Recovery Residence*".
+]
+
+Level 4: Inpatient
+4 Medically Managed Inpatient
+
+Level 3: Residential
+3.1 Clinically Managed Low-Intensity Residential
+3.5 Clinically Managed High-Intensity Residential
+3.7 Medically Managed Residential
+
+Level 2: IOP/HIOP
+2.1 Intensive Outpatient (IOP)
+2.5 High-Intensity Outpatient (HIOP)
+2.7 Medically Managed Intensive Outpatient
+
+Level 1: Outpatient
+1.0 Long-Term Remission Monitoring
+1.5 Outpatient Therapy
+1.7 Medically Managed Outpatient
+
+Recovery Residence
+RR Recovery Residence*
+
+The continuum of care includes four broad treatment levels, 1 through 4. Within these four broad levels of care, decimal numbers express further gradations of treatment intensities and types of care provided. The continuum also includes programs with enhanced biomedical capabilities (ie, Level 3.7 BIO) to manage patients with medical comorbidities and enhanced capabilities to treat patients with co-occurring mental health conditions (ie, co-occurring enhanced [COE] levels of care, which include Levels 1.5 COE, 1.7 COE, 2.5 COE, 2.7 COE, 3.5 COE, 3.7 COE, and 4 Psychiatric). Please see Chapter 12: Integrating Care for Co-occurring Mental Health Conditions for further details.
+
+* The Dimensional Admission Criteria may recommend a recovery residence in addition to an outpatient level of care (ie, Levels 1 and 2).
+
+Used with permission. From *The ASAM Criteria, Fourth Edition* © Copyright American Society of Addiction Medicine 2023. All rights reserved.
+
+» **Level 2. Intensive Outpatient/High Intensity Outpatient Programs.** This level is for individuals with complex needs, such as those with co-occurring disorders. These programs offer a structured and comprehensive approach to treatment, surpassing the resources available in standard outpatient services.
+
+> **2.1 Intensive Outpatient Programs (IOP).** This level is designed for individuals who require more support than traditional outpatient services can provide but do not need 24-hour supervision. It is ideal for those who have a stable living situation and sufficient social supports but need intensive treatment for an SUD. Treatment typically involves multiple sessions per week across three to five days per week. IOP provides a combination of group therapy, individual counseling, and educational programs.
+
+> **2.5 High Intensity Outpatient Programs (HIOP).** HIOP provides a more rigorous and structured treatment program than lower levels of outpatient care. Treatment sessions typically occur multiple times per week, often for several hours each day. This frequency allows for a concentrated approach to treatment. HIOP includes a blend of group therapy, individual counseling, medical oversight, and educational sessions. The primary goal is to stabilize the individual's SUD at a level where they do not require more intensive, residential care.
+
+> **2.7 Medically Managed Intense Outpatient.** This level is a specialized form of an IOP that integrates more substantial medical oversight and psychiatric care into the treatment process. This level is appropriate for individuals with more complex and severe SUDs, often accompanied by co-occurring MHDs, who require regular medical monitoring but do not need 24-hour care.204 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+» **Level 3. Residential.** Services in this level are designed for individuals experiencing significant functional impairments due to SUD or requiring a higher level of stability than what can be achieved at home. Residential treatment programs provide round-the-clock care, seven days a week.
+
+> **3.1 Clinically Managed Low-Intensity Residential Services.** Residential services at this level consist of a setting where people live, such as a group home. Individuals receive a minimum of five hours of clinical services weekly, focusing on teaching essential recovery skills such as relapse prevention and emotional management. Services include outpatient recovery support, a structured living environment, 24-hour staffing, house meetings, and a community promoting life skills development.
+
+> **3.5 Clinically Managed High-Intensity Residential Services.** This level is for individuals who require a structured environment and intensive care but do not need the full medical resources of a hospital-based program. This level of care is suitable for those with severe SUDs who need 24-hour support. Individuals engage in intensive group therapy, individual counseling, and other therapeutic modalities that address substance use disorders, co-occurring MHDs, and behavioral issues.
+
+> **3.7 Medically Monitored Intensive Inpatient Services.** This level is for individuals requiring intensive inpatient care due to withdrawal risks or other medical needs necessitating close observation, treatment, or follow-up. It is especially beneficial for those who have experienced repeated recurrences of substance use or who have not succeeded in lower levels of care due to complex needs that require an immersive, supportive environment to achieve sustained recovery.
+
+» **Level 4. Medically Managed Inpatient Services.** As the most intense level of treatment, this level has the highest and most intensive level of care for those with severe conditions that require acute medical intervention. This level is provided in a hospital setting or a facility that offers 24-hour nursing care and daily physician care, catering to individuals with severe and complex medical conditions, and MHDs. Combining high-level medical and clinical oversight, services include drug and alcohol detoxification, medication-assisted treatment, daily physician consultations, and comprehensive management of co-occurring disorders. Despite the medical focus, therapeutic interventions such as individual therapy, group sessions, and family counseling are integral components of treatment, with the goal to stabilize the individual’s conditions rapidly and safely.
+
+The 4th edition of ASAM’s criteria updated the six dimensions that are used to create a holistic, biopsychosocial assessment of an individual to be used service placement, planning and treatment across all services and levels of care. The six dimensions are:
+1.  Intoxication, Withdrawal and Addiction Medications
+2.  Biomedical Conditions
+3.  Psychiatric and Cognitive Conditions
+4.  Substance Use-Related Risks
+5.  Recovery Environment Interactions
+6.  Person-Centered Considerations
+
+Each of the four levels of care, in combination with the six dimensions, is designed to provide a continuum of services that can be tailored to meet the individual needs of those with substance use disorders, ranging from those who need minimal intervention to those who require intensive and medically managed inpatient services.
+
+The intended use of the ASAM Criteria encourages (and in some states – mandates) service providers to conduct a standard, multidimensional assessment as people enter treatment, covering the six dimensions described above; use the results to determine the appropriate level of care to meet each patient’s needs; and develop an individualized treatment plan. As people progress through treatment, providers use these same assessment and treatment matching processes to determine whether to increase or decrease the level of care to best meet evolving treatment needs.CHAPTER 4: Evidence-based Screening 205
+
+**Level of Care Utilization System for Psychiatric and Addiction Services (LOCUS)**¹¹⁷
+
+The Level of Care Utilization System for Psychiatric and Addiction Services (LOCUS) is a standardized tool designed to evaluate the service needs of individuals with psychiatric and/or substance use disorders. Developed by the American Association of Community Psychiatrists, LOCUS is intended to assist counselors, care managers, and mental health professionals in making consistent and objective decisions regarding the most appropriate level of care for people. The system is based on a comprehensive assessment of the individual’s clinical situation across six dimensions:
+
+1.  **Risk of Harm** – Evaluates the potential risk the individual poses to themselves or others.
+2.  **Functional Status** – Assesses the individual’s ability to maintain daily activities and responsibilities.
+3.  **Comorbidity** – Considers the presence of co-occurring mental health or substance use disorders.
+4.  **Recovery Environment** – Looks at the individual’s living situation, support system, and any environmental stressors or supports.
+5.  **Treatment and Recovery History** – Reviews the individual’s past and current treatment experiences, including responses and adherence.
+6.  **Engagement and Treatment Acceptance** – Assesses the individual’s willingness and readiness to participate in treatment.
+
+Based on the assessment across these dimensions, LOCUS provides a recommendation for one of six levels of care, ranging from least intensive (e.g., outpatient services) to most intensive (e.g., inpatient hospitalization). Each level of care is defined by a combination of service variables: the care environment, clinical services, support services and crisis stabilization and prevention services. A menu of available service options is constructed for each service intensity level, based partly on local resources, that fall within defined parameters. This consideration of multiple dimensions of an individual’s condition ensures a holistic view of their needs, supporting more tailored and effective care planning.
+
+[Image: A black and white photograph taken from a low angle, looking up at the corner of a multi-story modern building. The building has large, dark windows and lighter-colored siding. The word "HOSPITAL" is visible in large, capital letters on the facade of the building, with "University of Iowa" in smaller letters underneath it, though "University of Iowa" is partially obscured. The sky is light and cloudy.]206 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**THE INTERPRETIVE SUMMARY**
+
+Assessments are tools that are used to guide the gathering of information. They provide structure but do not draw conclusions. The SUD counselor is now called upon to use skills to evaluate and interpret the various sources of data to meet the client’s needs. The counselor must organize the information and observations made during the assessment phase and interpret or make clinical judgements about what the client is experiencing. This is known as **case conceptualization.**¹¹⁸ The counselor uses conceptual skills to weave together the different pieces of information about the client’s presenting problems or conditions into larger groupings of clinical concerns that help form the targets for change that will be addressed by future planning.
+
+This chapter has detailed the many aspects of screening and assessment used to understand the complexity of problematic substance use and co-occurring conditions, and their impact on the individual has been detailed. **The interpretive summary** that follows this assessment is a pivotal document. It synthesizes diverse findings into a coherent narrative, offering both the counselor and the client a clear understanding of the current challenges and the next steps in the treatment process.
+
+The process of synthesizing the data gathered from these diverse sources into an interpretive summary is both an art and a science. Counselors must use several different skills to determine the appropriateness of an assessment and the relevance of the information gathered. One important skill is **critical thinking.** Critical thinking skills help analyze information, look at alternative perspectives and possibilities, and come to a systematic conclusion.¹¹⁹ This facilitates the counselor’s ability to integrate quantitative findings with qualitative insights, creating a narrative that not only diagnoses but also tells the story of the individual’s encounter with substance use and its consequences. The narrative summary serves multiple purposes: it validates the client’s experiences, outlines the severity and scope of the substance use disorder, identifies co-occurring conditions, and sets the stage for a tailored treatment plan that addresses the unique needs of the individual.
+
+Applying critical thinking skills involves several steps, each requiring careful thought, analysis, and synthesis of information. Here is how a counselor can effectively apply these skills:
+
+1.  **Gathering Comprehensive Information:** The counselor begins by collecting detailed information through assessments, which may include clinical interviews, standardized questionnaires, psychometric tests, and observations. Critical thinking is crucial in selecting the right tools and interpreting the responses accurately.
+
+2.  **Analyzing Assessment Data:** Once the data is collected, the counselor critically analyzes it to identify patterns, discrepancies, and significant indicators of substance use behavior. This involves looking beyond the surface to understand the underlying factors contributing to the disorder, such as psychological, social, and environmental influences.
+
+3.  **Evaluating the Reliability and Validity of Information:** Critical thinking involves evaluating the reliability and validity of the information obtained. The counselor must discern which information is most relevant and trustworthy, considering potential biases, inaccuracies, or misinterpretations that could affect the assessment’s outcomes.
+
+4.  **Synthesizing Information from Various Sources:** The counselor synthesizes information from the assessment with knowledge from research, theory, and clinical practice. This requires integrating diverse pieces of information to form a comprehensive understanding of the client’s SUD.
+
+5.  **Identifying Core Issues and Needs:** Through critical analysis, the counselor identifies the core issues and needs of the client. This involves distinguishing between symptoms of the SUD and underlying causes, such as trauma or co-occurring MHDs.CHAPTER 4: Evidence-based Screening 207
+
+6.  **Developing an Interpretive Summary**: The interpretive summary is a critical synthesis of the assessment findings. It outlines the counselor's understanding of the client's substance use disorder, incorporating analysis of the severity, impact, and potential factors contributing to the disorder. This summary provides a foundation for treatment planning, highlighting areas of need and potential interventions.
+
+7.  **Applying Ethical Considerations**: Throughout this process, critical thinking also involves applying ethical considerations, such as confidentiality, informed consent, and cultural sensitivity. The counselor must critically evaluate how these ethical principles impact the assessment process and the development of the interpretive summary.
+
+8.  **Formulating Treatment Recommendations**: Finally, based on the critical analysis and synthesis of information, the counselor formulates personalized treatment recommendations. These recommendations are grounded in evidence-based practices and tailored to the client's unique needs, strengths, and preferences.
+
+Throughout this process, critical thinking enables the counselor to navigate complex information, assess the validity and relevance of data, integrate diverse sources of information, and develop insightful, evidence-based conclusions that guide effective treatment planning for substance use disorders. The counselor then applies a theoretical approach to infer, explain, or interpret the identified themes which this is used to match treatment approaches. ¹²⁰
+
+**Writing the Interpretive Summary**
+
+The interpretive summary is also a tool for engagement and education, offering clients a mirror to their current state and a map towards recovery. It demystifies the clinical assessment process, making the findings accessible and understandable to clients, thereby fostering a collaborative therapeutic relationship. Through this document, clients can see their challenges laid out clearly, understand the basis for their treatment plan, and feel empowered to participate actively in their recovery journey.
+
+**PRIORITIZATION OF NEEDS**
+
+Assessments identify client needs and resources so that SUD counselors can properly assist clients with achieving goals. The intent of the assessment should be identified to help frame the discussion and narrow the focus. Assessments should identify existing resources that can be used to assist the client in achieving goals as well as potential barriers to accessing services or reaching their goals.
+
+SUD counselors can use the framework of **Maslow's Hierarchy of Needs**¹²¹ to prioritize client needs and services. This Hierarchy is an historical and commonly used structure to understand human needs. Maslow’s pyramid is built from the bottom up with physiological needs setting the foundation. The theory states that people will address those needs that are most fundamental and will significantly struggle with being able to adequately address any issue unless all the preceding needs are met. For example, many clients report their
+
+[Image: A diagram of Maslow's Hierarchy of Needs, depicted as a pyramid divided into five horizontal levels. The title above the pyramid is "MASLOW'S PYRAMID" in large, bold, black capital letters. Below this, in smaller text, is "Hierarchical model of human needs". The pyramid levels, from bottom to top, are labeled:
+1.  (Bottom, largest section, dark gray/black): Physiological
+2.  (Second from bottom, medium gray): Safety Needs
+3.  (Middle section, lighter gray): Love and Belonging
+4.  (Second from top, very light gray/white): Esteem
+5.  (Top, smallest section, dark gray/black): Self-actualization]208 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+main area of concern is their personal relationships (love and belongingness) or how they feel about themselves (self-esteem). These concerns, however, are often intertwined with, and overshadowed by, physiological, safety, or security needs.
+
+As noted in this chapter, many psychosocial screening and assessment tools are global and provide an overview of the client's current strengths, challenges, barriers, and goals. Others are very specific to a certain behavior or emotion including those that screen for anxiety, depression, suicide risk, trauma, and alcohol use. These tools, as well as other interview and collateral data, can serve as a basis for prioritization of strategies that can be used to meet those needs.
+
+**STRUCTURE OF THE INTERPRETIVE SUMMARY**
+
+The counselor must provide a written summary of these clinical interpretations and recommendations for appropriate treatment and other services. There are several names (e.g. biopsychosocial assessment, psychosocial evaluation, multi-dimensional assessment, etc.) for the type of summary that reflects the multifaceted approach to understanding and addressing behavioral health issues. The choice of term may depend on the professional setting, the specific focus of the assessment, or the theoretical orientation of the practitioner. For this study guide, the term **interpretative summary** is used.
+
+There is no standard formula for writing the interpretive summary, although many organizations use a prescribed format for the assessment summary or have a required format is required by funders. An interpretive summary that follows the assessment process for substance use disorders is a comprehensive overview that can examine the individual's condition through three lenses: biological, psychological, and social factors. This summary is crucial in understanding the multifaceted nature of SUDs and in developing an effective treatment plan. Here is one example of a comprehensive, structured format for creating an interpretive summary for SUD assessment:
+
+**1. Introduction**
+    »   Brief overview of the purpose of the biopsychosocial assessment.
+    »   Initial observations and reasons for assessment (e.g., referral source, presenting problem).
+
+**2. Biological Factors**
+    »   **Substance Use History:** Types of substances used, patterns of use (frequency, quantity), age of first use, and periods of abstinence or relapse.
+    »   **Family History:** Discussion on family history of SUDs or related MHDs.
+    »   **Neurobiological Factors:** Any known issues with brain chemistry or structure that may influence substance use behavior.
+    »   **Physical Health:** Current physical health status, including any chronic conditions, and how these may impact or be impacted by substance use.
+
+**3. Psychological Factors**
+    »   **Mental Health History:** History of mental health conditions, including any diagnoses, treatments, and responses to treatments.
+    »   **Cognitive Functions:** Assessment of cognitive abilities, including memory, attention, and executive function, and any impacts from substance use.
+    »   **Emotional State:** Current emotional state, including any symptoms of depression, anxiety, or other mood disorders.
+    »   **Personality Traits:** Relevant personality traits or disorders that may influence substance use behavior.
+    »   **Motivation for Change:** Level of readiness to engage in treatment and make lifestyle changes.[Layout: Single column with a header at the top and a footer at the bottom of the page. The left side of the page has a spiral binding effect.]
+
+CHAPTER 4: Evidence-based Screening 209
+
+4.  **Social Factors**
+    » **Family Dynamics:** The role of family relationships in the individual's substance use, including support systems and potential sources of conflict or stress.
+    » **Social Support:** Assessment of the individual's social network, including friends, recovery supports, community, and social isolation factors.
+    » **Employment and Education:** Current employment status, educational attainment, and the impact of substance use on these areas.
+    » **Legal Issues:** Any legal problems related to substance use, such as DUIs or arrests, and their impact on the individual's life.
+    » **Cultural and Environmental Factors:** The influence of cultural background and environmental factors on substance use and treatment access.
+
+5.  **Assessment Findings and Recommendations**
+    » **Summary of Findings:** A synthesis of key points from the biological, psychological, and social assessments.
+    » **Diagnostic Impressions:** Based on the DSM-5-TR or other relevant diagnostic criteria, including the severity of the substance use disorder. A full diagnosis is allowed for authorized professionals. The issue of medical necessity may also be included.
+    » **Treatment Recommendations:** Tailored and prioritized recommendations for treatment and level of care, including the need for medical detoxification, therapy modalities (e.g., cognitive-behavioral therapy, family therapy), support groups, and any recommendations for addressing co-occurring disorders.
+
+6.  **Conclusion**
+    » A concise summary of the assessment findings and the desired, tailored, and integrated treatment approach.
+    » Recommendations for referrals for ancillary services.
+
+This structure ensures a holistic understanding of the individual's substance use disorder, considering the interplay between biological, psychological, and social factors. It forms the basis for a comprehensive treatment plan that addresses the specific needs of the individual. Some interpretive summaries may be briefer in content, so it is important to know the employer's requirements.210 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**SUMMARY**
+
+The philosophies of healthcare have evolved significantly over the years, shifting from an illness-oriented service to a more holistic and person-centered approach. The SUD counselor needs to understand, adhere to practices, and use skills that are underpinned by these philosophies to be responsive to an individual's needs, values, and preferences. We know SUDs, by their very nature, are multifaceted conditions that intertwine with various aspects of an individual's life. Given this complexity, SUD counselors also need to employ a range of tools and methodologies to capture a comprehensive picture of the client.
+
+Evidence-based screening and assessment tools offer structured and validated ways to collect important client data. From structured interviews that adhere to the DSM-5-TR criteria to self-report questionnaires and biochemical assays, each tool contributes a piece to the puzzle of understanding the individual's condition. Recognizing the links between SUDs and MHDs underscores the importance of integrated assessments that address all aspects of an individual's well-being. In addition, the assessment of risky conditions is paramount for ensuring that clients are safe, and care is provided in a manner that is effective, and responsive to their unique needs.
+
+Lastly, the SUD counselor needs to apply critical thinking and be analytical and comprehensive in writing an interpretive summary. This facilitates the next phase of developing a tailored treatment plan that addresses specific needs, risks, and strengths – ultimately enhancing the effectiveness of recommended interventions and supporting recovery.
+
+[Image: A black and white, close-up photograph of a man from the mid-chest up, angled slightly to his right. He has dark hair, a beard, and a mustache, and is looking towards the viewer with a thoughtful expression. His right hand is resting on his chin, with fingers curled beneath it and thumb on his cheek. He wears a light-colored collared shirt. The lighting is dramatic, creating strong contrasts between light and shadow on his face and hand. The background is mostly out of focus, dark on the left and lighter on the right.][LLM OCR returned no text for this page][Layout: Two columns with a header. The header contains a page number on the left and a title on the right. The main content is a list of numbered references, split across two columns.]
+
+212 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+25 SAMHSA (2014). *Trauma-informed care in behavioral health services.* Treatment Improvement Protocol (TIP) Series 57. HHS Publication No. (SMA) 13-4801. Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+26 Ibid.
+
+27 National Alliance on Mental Illness (NAMI, 2016). *Engagement: A new standard for mental health care.* Author.
+
+28 Thompson, S., Bender, K., Lantry, J., & Flynn, P. (2007). Treatment engagement: Building therapeutic alliance in home-based treatment with adolescents and their families. *Contemporary Family Therapy, 29*, 39–55. https://doi.org/10.1007/S10591-007-9030-6.
+
+29 Hamilton, S., Pinfold, V., Cotney, J. et al. (2016). Qualitative analysis of mental health service users’ reported experiences of discrimination. *Acta Psychiatrica Scandinavica, 134*(suppl 446):14–22.
+
+30 Knaak, S., Mantler, E. & Szeto, A. (2017). Mental illness-related stigma in health care: Barriers to access and care and evidence-based solutions. *Health care Management Forum, 30*(2) 111–116.
+
+31 SAMHSA (2014). *Improving cultural competence.* Treatment Improvement Protocol (TIP) Series No. 59. HHS Publication No. (SMA) 14-4849. Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+32 Cline, C. A. & Minkoff, K. (2012). Inspiring a welcoming hopeful culture. In Hunter McQuistion, Wesley E. Sowers, Jules M. Ranz, and Jacqueline Maus Feldman (Eds.), *Handbook of Community Psychiatry*, pp. 93–102. New York, NY: Springer.
+
+33 Kilian, C., Manthey, J., Carr, S., Hanschmidt, F., Rehm, J., Speerforck, S., & Schomerus, G. (2021). Stigmatization of people with alcohol use disorders: An updated systematic review of population studies. *Alcoholism, Clinical and Experimental Research, 45*(5), 899–911. https://doi.org/10.1111/acer.14598
+
+34 Link, B. G. & Phelan, J. C. (2001). Conceptualizing stigma. *Annual Review of Sociology, 27*, 363–385. https://doi.org/10.1146/annurev.soc.27.1.363
+
+35 Yang, L. H., Wong, L. Y., Grivel, M. M., & Hasin, D. S. (2017). Stigma and substance use disorders: An international phenomenon. *Current Opinion in Psychiatry, 30*(5), 378–388. https://doi.org/10.1097/YCO.0000000000000351
+
+36 Maurage, P., Joassin, F., Philippot, P., Heeren, A., Vermeulen, N., et.al (2012). Disrupted regulation of social exclusion in alcohol-dependence: An fMRI study. *Neuropsychopharmacology, 37*(9), 2067–2075. https://doi.org/10.1038/npp.2012.54
+
+37 Yang, L. H., Wong, L. Y., Grivel, M. M., & Hasin, D. S. (2017). Stigma and substance use disorders: An international phenomenon. *Current Opinion in Psychiatry, 30*(5), 378–388. https://doi.org/10.1097/YCO.0000000000000351
+
+38 Matthews, S., Dwyer, R., & Snoek, A. (2017, Jun.). Stigma and self-stigma in addiction. *Journal of Bioethical Inquiry, 4*(2), 275–286. doi: 10.1007/s11673-017-9784-y.
+
+39 Borenstein, J. (2020). Stigma, prejudice and discrimination against people with mental illness. American Psychiatric Association. https://www.psychiatry.org/patients-families/stigma-and-discrimination
+
+40 ONDCP (2017). Changing the language of addiction. Executive Office of the White House, Office of National Drug Control Policy.
+
+41 Hweng, J. D. & Hollingshead, K. (2016). Crazy mad nutters: The language of mental health. Proceedings of the 3rd Workshop on Computational Linguistics and Clinical Psychology: From Linguistic Signal to Clinical Reality, pages 52–62, San Diego, CA. Retrieved from http://www.aclweb.org/anthology/W16-0306.
+
+42 The Greater Good Science Center at the University of California, Berkeley (2023). What is empathy? https://greatergood.berkeley.edu/topic/empathy/definition#what-is-empathy
+
+43 Guidi, C., and Traversa, C. (2021). Empathy in patient care: from ‘Clinical Empathy’ to ‘Empathic Concern’. *Medical Health Care and Philosophy, 24*, 573–585. https://doi.org/10.1007/s11019-021-10033-4
+
+44 SAMHSA (2019). *TIP 35: Enhancing motivation for change in substance use disorder treatment.* SAMHSA Publication No. PEP19-02-01-003. Rockville, MD: Substance Abuse and Mental Health Services Administration. https://store.samhsa.gov/sites/default/files/tip-35-pep19-02-01-003.pdf
+
+45 Moudatsou, M., Stavropoulou, A., Philalithis, A., & Koukouli. S. (2020). The role of empathy in health and social care professionals. *Healthcare (Basel), 8*(1), 26. doi: 10.3390/healthcare8010026. PMID: 32019104; PMCID: PMC7151200. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7151200/#B17-healthcare-08-00026
+
+46 English, W., Gott, M. & Robinson, J. (2022) The meaning of rapport for patients, families, and healthcare professionals: A scoping review. *Patient Education and Counseling, 105*(1), 2–14. ISSN 0738-3991, https://doi.org/10.1016/j.pec.2021.06.003.
+
+47 Ramadhani, L., Karneli, Y. & Hariko, K. (2024). The dance of empathy and understanding: Nurturing rapport in the counselor-client connection. *Jurnal Bimbingan dan Konseling Terapan, 8*(1). https://ojs.unpatti.ac.id/index.php/bkt/article/view/1895CHAPTER 4: Evidence-based Screening 213
+
+48 Dowell N and Berman J. (2012). Therapist nonverbal
+behavior and perceptions of empathy, alliance, and
+treatment credibility. Journal of psychotherapy Inte-
+gration, 23(2). https://www.researchgate.net/publica-
+tion/236025075_Therapist_Nonverbal_Behavior_and_Per-
+ceptions_of_Empathy_Alliance_and_Treatment_Credibility
+
+49 Ardito, R. & Rabellino, D. (2011). Therapeutic alliance
+and outcome of psychotherapy: historical excursus,
+measurements, and prospects for research. Frontiers
+in Psychology, 2, 270. doi: 10.3389/fpsyg.2011.00270.
+PMID: 22028698; PMCID: PMC3198542. https://www.
+ncbi.nlm.nih.gov/pmc/articles/PMC3198542/
+
+50 Koprowska, J. (2020). Communication and interperson-
+al skills in social work, 5th edition. United Kingdom:
+Sage Publishing
+
+51 Ibid.
+
+52 Center for Creative Leadership (2023). What is active
+listening? https://www.ccl.org/articles/leading-ef-
+fectively-articles/coaching-others-use-active-listen-
+ing-skills/
+
+53 Center for Creative Leadership (2023). What is active
+listening? https://www.ccl.org/articles/leading-ef-
+fectively-articles/coaching-others-use-active-listen-
+ing-skills/
+
+54 Segal, J., Smith, M., Robinson. L. & Boose, G. (2024,
+Jan.). Nonverbal communication and body language.
+HelpGuide.org. https://www.helpguide.org/articles/re-
+lationships-communication/nonverbal-communication.
+htm
+
+55 Pennsylvania Department of Human Services (2019).
+Meeting the care needs of residents in a culturally diverse
+environment (2019). Author. http://services.dpw.state.
+pa.us/pch_comptest/Modules/module10.html
+
+56 Halpern, J. 2011. “Clinical Empathy” in from bench to
+bedside: Empathy and the social brain. In ed. Empathy.
+J. Cambridge, MA: MIT Press.
+
+57 Li, S. A., Jeffs L., Barwick M., & Stevens B. (2018).
+Organizational contextual features that influence the
+implementation of evidence-based practices across
+healthcare settings: A systematic integrative review.
+Systematic Reviews, 7, 72–91. https://doi.org/https://doi.
+org/10.1186/s13643-018-0734-5
+
+58 Boness, C. l., Gonzalez, J. C., Sleep, C., Venner, K. L.,
+& Witkiewicz, K. (2024). Top of Form Evidence-based
+assessment of substance use disorder. Assessment, 31(1),
+168–190. doi: 10.1177/10731911231177252
+
+59 Ibid.
+
+60 NIDA (2023, Jan.). Screening and assessment tools
+chart. National Institute on Drug Abuse. https://nida.
+nih.gov/nidamed-medical-health-professionals/
+screening-tools-resources/chart-screening-tools
+
+61 Boness, C. l., Gonzalez, J. C., Sleep, C., Venner, K. L.,
+& Witkiewicz, K. (2024). Top of Form Evidence-based
+assessment of substance use disorder. Assessment, 31(1),
+168–190. doi: 10.1177/10731911231177252
+
+62 Nunes, A. P., Richmond, M. K., Marzano, K., Swenson,
+C. J., & Lockhart, J. (2017). Ten years of Implementing
+Screening, Brief Intervention, and Referral to Treat-
+ment (SBIRT): Lessons learned. Substance Abuse, 38(4),
+508–512. doi:10.1080/08897077.2017.1362369
+
+63 SAMHSA (2023, Oct.) Substance use confidentiality
+regulations: Applying the substance use confidentiality
+regulations. Author. https://www.samhsa.gov/about-
+us/who-we-are/laws-regulations/confidentiality-regu-
+lations-faqs
+
+64 Centers for Disease Control and Prevention (2018,
+Sept.). The Health Insurance Portability and Accountability
+Act of 1996 (HIPAA). Retrieved from https://www.cdc.
+gov/phlp/publications/topic/hipaa.html
+
+65 Focus: PHI (2024). HIPAA. The Center of Excellence for
+Protected Health Information. CAI Legal Action Center.
+https://coephi.org/about-the-laws/hipaa/
+
+66 SAMHSA (2023, Oct.) Substance use confidentiality
+regulations: Applying the substance use confidentiality
+regulations. Author. https://www.samhsa.gov/about-
+us/who-we-are/laws-regulations/confidentiality-regu-
+lations-faqs
+
+67 Walker, R., Logan, T.K., Clark, J. J. & Leukfeld, C,
+(2005). Informed consent to undergo treatment for
+substance abuse: a recommended approach. Jour-
+nal of Substance Abuse Treatment, 29(4), 241–251.
+DOI:https://doi.org/10.1016/j.jsat.2005.08.001
+
+68 Center for Substance Abuse Treatment (2007). Screening,
+assessment, and treatment planning for persons with co-oc-
+curring disorders. COCE Overview Paper 2. DHHS Publication
+No. (SMA) 07-4164. Rockville, MD: Substance Abuse and
+Mental Health Services Administration, and Center for
+Mental Health Services. https://www.addictioncoun-
+selorce.com/articles/101545/OP2-ScreeningandAssess-
+ment-8-13-07.pdf
+
+69 SAMHSA (2020). Substance use disorder treatment for
+people with co-occurring disorders: Updated 2020 [Internet].
+Rockville (MD): Substance Abuse and Mental Health
+Services Administration (US); (Treatment Improvement
+Protocol (TIP) Series, No. 42.) Executive Summary.
+https://www.ncbi.nlm.nih.gov/books/NBK571010/[Layout: Two columns with a header. A sidebar with a spiral binding is on the right.]
+214 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+70 American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). https://doi.org/10.1176/appi.books.9780890425787
+
+71 SAMHSA (2020). Substance use disorder treatment for people with co-occurring disorders: Updated 2020 [Internet]. Rockville (MD): Substance Abuse and Mental Health Services Administration (US), (Treatment Improvement Protocol (TIP) Series, No. 42.) Executive Summary. https://www.ncbi.nlm.nih.gov/books/NBK571010/
+
+72 Ibid.
+
+73 US Preventative Services Task Force (2019, May). Screening for intimate partner violence, elder abuse, and abuse of vulnerable adults: Recommendation statement. American Family Physician, 99(10): Online. PMID: 31083886. https://www.aafp.org/pubs/afp/issues/2019/0515/od1.html
+
+74 American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). https://doi.org/10.1176/appi.books.9780890425787
+
+75 SAMHSA (2020). Substance use disorder treatment for people with co-occurring disorders: Updated 2020 [Internet]. Rockville (MD): Substance Abuse and Mental Health Services Administration (US), (Treatment Improvement Protocol (TIP) Series, No. 42.) Executive Summary. https://www.ncbi.nlm.nih.gov/books/NBK571010/
+
+76 Indiana Department of Health (n.d.) Signs and symptoms of drug misuse. https://www.in.gov/health/overdose-prevention/general-information/signs-and-symptoms-of-drug-misuse/
+
+77 NIAAA (2023, Jan.). Alcohol's effects on health: Research-based information on drinking and its impact. National Institute on Alcohol Abuse and Alcoholism. https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/understanding-dangers-of-alcohol-overdose
+
+78 Beltrani, A. (n.d.). An introduction to violence risk assessments. Palo Alto University. https://concept.paloaltou.edu/resources/business-of-practice-blog/in-tro-violence-risk-assessments
+
+79 Ibid.
+
+80 Ibid.
+
+81 Webb, L. (2012). Tools for the job: why relying on risk assessment tools is still a risky business. Journal of Psychiatric and Mental Health Nursing, 19(2), 132–9 . https://doi.org/10.1111/j.1365-2850.2011.01762.x.
+
+82 Centers for Disease Control and Prevention (2022, Oct.). Fast facts: Preventing intimate partner violence. https://www.cdc.gov/violenceprevention/intimatepartnerviolence/fastfact.html
+
+83 Cafferky, B. M., Mendez, M., Anderson, J. R., & Stith, S. M. (2018). Substance use and intimate partner violence: A meta-analytic review. Psychology of Violence, 8(1), 110. https://doi.org/10.1016/j.cpr.2008.05.001
+
+84 Feltner, C., Wallace, I., Berkman, N., et al. (2018, Oct.). Screening for intimate partner violence, elder abuse, and abuse of vulnerable adults: An evidence review for the U.S. Preventive Services Task Force [Internet]. Rockville (MD): Agency for Healthcare Research and Quality (US); (Evidence Synthesis, No. 169.) Chapter 1, Introduction. https://www.ncbi.nlm.nih.gov/books/NBK533722/
+
+85 Chapman, H. & Gillespie, S. M. (2016). The Revised Conflict Tactics Scales (CTS2): A review of the properties, reliability, and validity of the CTS2 as a measure of partner abuse in community and clinical samples. Aggression and Violent Behavior, 44, 27–35. ISSN 1359-1789, https://doi.org/10.1016/j.avb.2018.10.006.
+
+86 Centers for Disease Control and Prevention – WISQARS (2023, Aug). 10 Leading Causes of Death, United States 2021.https://wisqars.cdc.gov/lcd/?o=LCD&y1=2021&y2=2021&ct=10&c-c=ALL&g=00&s=0&r=0&e=0&ar=lc-diage&at=groups&ag=lc0&a1=0&a2=199
+
+87 Silverman, M. M., Berman, A. L., Sanddal, N.D., O'Carroll, P.W., & Joiner, T. E. (2007). Rebuilding the tower of Babel: A revised nomenclature for the study of suicide and suicidal behaviors. Part 2: Suicide-related ideations, communications, and behaviors. Suicide Life-Threatening Behavior, (37), 264–77.
+
+88 Bilsen J. (2018, Oct.). Suicide and youth: Risk factors. Frontiers in Psychiatry, 30(9), 540. doi: 10.3389/fpsyt.2018.00540. PMID: 30425663; PMCID: PMC6218408. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6218408/
+
+89 Brådvik L. (2018, Sept.). Suicide risk and mental disorders. International Journal of Environmental Research and Public Health, 17(9). doi: 10.3390/ijerph15092028. PMID: 30227658; PMCID: PMC6165520. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6165520/
+
+90 Esang, M. & Ahmed, S. (2018). A closer look at substance use and suicide. American Journal of Psychiatry Residents' Journal, 13(6), 2-12. https://psychiatryonline.org/doi/full/10.1176/appi.ajp-rj.2018.130603
+
+91 National Action Alliance for Suicide Prevention: Transforming Health Systems Initiative Work Group (2018). Recommended standard care for people with suicide risk: Making health care suicide safe. Washington, DC: Education Development Center, Inc. https://theactionalliance.org/sites/default/files/action_alliance_recommend-ed_standard_care_final.pdf
+
+92 Ibid.[Layout: Two columns with a header. The header has "CHAPTER 4: Evidence-based Screening" on the left and "215" on the right.]
+
+CHAPTER 4: Evidence-based Screening 215
+
+93 Substance Abuse and Mental Health Services Adminis­tration (2012). Clinical drug testing in primary care Technical Assistance Publication (TAP) 32. HHS Publication No (SMA) 12-4668. Rockville, MD. https://store.samhsa.gov/sites/ default/files/sma12-4668.pdf
+
+94 Rouen, D., Dolan, K. & Kimber, J. (2001). A review of drug detection testing and an examination of urine, hair, saliva and sweat. Sydney, Australia: National Drug and Alcohol Research Centre, University of New South Wales.
+
+95 Ibid.
+
+96 Substance Abuse and Mental Health Services Adminis­tration (2012). Clinical drug testing in primary care Technical Assistance Publication (TAP) 32, HHS Publication No (SMA) 12-4668. Rockville, MD. https://store.samhsa.gov/sites/ default/files/sma12-4668.pdf
+
+97 Ibid, pages 20-21.
+
+98 Aps, J. K. & Martens, L. C. (2005). Review: The physiol­ogy of saliva and transfer of drugs into saliva. Forensic Science International, 10;150(2-3), 119-31. doi: 10.1016/j. forsciint.2004.10.026. PMID: 15935522.
+
+99 Drugs.ie (n.d.). How long do drugs remain in your sys­tem. Drug and Alcohol Information and Support. https:// www.drugs.ie/drugs_info/about_drugs/how_long_do_ drugs_stay_in_your_system/
+
+100 Mitchell, A. (2022, Nov.). Understanding confirmatory drug testing. Lighthouse Lab Services. https://www. lighthouselabservices.com/understanding-confirmato­ry-drug-testing/
+
+101 Smith, K., Johnson-Davis, K. L., & Shahrokh, K. (2023, March). A new broad-spectrum drug screen for 127 analytes by LC-MS/MS. The Journal of Applied Laboratory Medicine, 8(2), 240-250. https://doi.org/10.1093/jalm/ jfac105
+
+102 Schwebach, A. & Ball, J. (2016). Urine drug screening: Minimizing false-positives and false-negatives to op­timize patient care. US Pharmacist, 41(8), 26-30. https:// www.uspharmacist.com/article/urine-drug-screening­ minimizing-false-positives-and-false-negatives-to­ optimize-patient-care
+
+103 Tsai, I., Weng, T., Tseng, Y. J., et al. (2013). Screening and confirmation of 62 Drugs of abuse and metabolites in urine by Ultra-High-Performance Liquid Chromatog­raphy-Quadrupole Time-of-Flight Mass Spectrometry. Journal of Analytical Toxicology, 37(9), 642-651. https:// doi.org/10.1093/jat/bkt083
+
+104 88 FR 70768 - Mandatory Guidelines for Federal Work­place Drug Testing Programs. Federal Register Vol. 88, No.196, October 12, 2023. https://www.govinfo.gov/app/ details/FR-2023-10-12
+
+105 American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). https://doi.org/10.1176/appi.books.9780890425787
+
+106 World Health Organization. (2019). International statisti­cal classification of diseases and related health problems (11th ed.). https://icd.who.int/
+
+107 Schwitzer, A. M. & Rubin, L. C. (2015). Diagnosis and treatment planning skills: A popular culture casebook ap­proach, second edition, DSM-5 update. Thousand Oaks, CA: SAGE.
+
+108 American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). https://doi.org/10.1176/appi.books.9780890425787
+
+109 SAMHSA (2023). Key substance use and mental health indicators in the United States: Results from the 2022 Na­tional Survey on Drug Use and Health (HHS Publication No. PEP23-07-01-006, NSDUH Series H-58). Center for Be­havioral Health Statistics and Quality, Substance Abuse and Mental Health Services Administration. https:// www.samhsa.gov/data/report/2022-nsduh-annual-na­tional-report
+
+110 Torrens, M., Gilchrist, G., & Domingo-Salvany, A. (2011). Psychiatric comorbidity in illicit drug users: Sub­stance-induced versus independent disorders. Drug and Alcohol Dependence, 113(2-3), 147-156. ISSN 0376-8716, https://doi.org/10.1016/j.drugalcdep.2010.07.013.
+
+111 Vassos, E. (2023). What is the link between sub­stance-induced psychosis and primary psychotic dis­orders? American Journal of Psychiatry, 180(6), 404-406. https://doi.org/10.1176/appi.ajp.20230298
+
+112 American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). https://doi.org/10.1176/appi.books.9780890425787
+
+113 Substance Abuse and Mental Health Services Adminis­tration (2020). Substance use disorder treatment for people with co-occurring disorders: Updated 2020 [Internet]. Rockville (MD): Treatment Improvement Protocol (TIP) Series, No. 42.) https://www.ncbi.nlm.nih.gov/books/ NBK571020/
+
+114 Harrison, J. E., Weber, S., Jakob, R. et al. (2021). ICD­11: An international classification of diseases for the twenty-first century. BMC Medical Informatics & Deci­sion Making, 21 (Suppl 6), 206. https://doi.org/10.1186/ s12911-021-01534-6
+
+115 The ASAM Criteria: Treatment for Addictive, Sub­stance-related, and Co-occurring Conditions, 4th edition (ISBN 979-8-9876803-0-8, copyright © 2023 American Society for Addiction Medicine)”. https:// www.asam.org/asam-criteria/about-the-asam-criteria216 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+116 Waller, R. C., Boyle, M. P., Daviss, S. R., et al. (Eds.)
+(2023). *The ASAM Criteria: Treatment Criteria for Addictive, Substance-related, and Co-occurring conditions*. 4th ed. Hazelden Publishing; pp. 19.
+
+117 Parks, J., Minkoff, K., Golman, M., Sowers, W., Metz, P., & Flaum, M. (2023, Nov.). *Toward a national standard for service intensity assessment and planning for mental health care: The Level of Care Utilization System (LOCUS) family of tools*. American Association for Community Psychiatry, the American Academy of Child and Adolescent Psychiatry and the National Council for Mental Wellbeing, file:///C:/Users/Pam/Downloads/23.11.13_MDI_LO-CUS-White-Paper.pdf
+
+118 Sperry, L. & Sperry, J. (2020). *Case conceptualization: Mastering this competency with ease and confidence*, 2nd edition. New York: Routledge. DOI: https://doi. org/10.4324/9780429288968
+
+119 Benner, P., Hughes, R. G., Sutphen, M. (2008). *Clinical reasoning, decision-making, and action: Thinking critically and clinically*. In: Hughes, R.G (editor), *Patient safety and quality: An evidence-based handbook for nurses* (chapter 6). Rockville (MD): Agency for Healthcare Research and Quality. https://www.ncbi.nlm.nih.gov/ books/NBK2643/
+
+120 Sperry, L. & Sperry, J. (2020). *Case conceptualization: Mastering this competency with ease and confidence*, 2nd edition. New York: Routledge. DOI: https://doi. org/10.4324/9780429288968
+
+121 Maslow, A. H. (1943). A theory of human motiva- tion. *Psychological Review, 50*(4), 370–396. https://doi. org/10.1037/h0054346

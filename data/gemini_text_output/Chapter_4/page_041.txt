@@ -1,0 +1,29 @@
+CHAPTER 4: Evidence-based Screening 193
+
+**DRUG TESTING**
+
+The current use of drug testing spans various sectors and reflects its importance in ensuring safety, compliance, and health. Many employers require drug testing as part of their pre-employment screening process to ensure a drug-free workplace. In legal contexts, drug testing can be used in cases of drug-related offenses, custody disputes, and as part of parole or probation requirements to ensure compliance with drug-free terms. Workers in transportation (e.g., pilots, truck drivers) and other safety-sensitive positions (e.g., operators of heavy machinery) are subject to drug testing to ensure public and workplace safety.
+
+SUD treatment programs use drug testing extensively. Drug testing in SUD treatment is a:
+» part of the initial assessment of a client being evaluated for a diagnosis of an SUD.
+» screen to prevent potential adverse effects of medications used as a part of treatment (pharmacotherapy).
+» component of the treatment plan for an SUD.
+» way to monitor the client’s use of substances.
+» way to assess the efficacy of the treatment plan (i.e., level of care).
+» way to document abstinence for legal matters, disability determinations, custody disputes, or reinstatement in certain professions (e.g., lawyers, health care providers, airline pilots).⁹³
+
+**Types of Drug Tests and Methods**
+
+Drug testing methodologies are broadly categorized into initial (screening) and confirmatory types of analysis. Initial tests, which can be conducted on-site (point-of-care testing, POCT) or in laboratories using **immunoassays**, are designed to quickly identify the presence of drugs but are generally less accurate in terms of sensitivity and specificity compared to confirmatory tests. The main advantage of screening tests is their rapid turnaround time, facilitating swift decision-making for further intervention. These tests are recommended when timely results are important.
+
+In cases where initial test outcomes are questioned, a **confirmation test**, employing more precise methods is recommended to validate the findings. Confirmatory testing is crucial for instances where initial screenings are positive or when screening for substances that do not have immunoassays available. In federal workplace testing, all positive initial screening test results must be followed by a confirmatory test. In clinical settings, however, confirmatory testing is at the practitioner’s discretion. Laboratories do not automatically perform confirmatory tests. When a client’s screening test (either a point-of-care test (POCT) or laboratory test) yields unexpected results (positive when in SUD treatment, or negative if in pain management treatment), the practitioner decides whether to request a confirmatory test. In addition, a confirmatory test may not be needed; clients may admit to drug use or not taking scheduled medications when told of the drug test results, negating the necessity of a confirmatory test.
+
+There are different types of drug tests that can be administered:
+
+1. **Breath analysis** – Breath alcohol analysis is commonly used, particularly by law enforcement. Breathalyzers are devices for estimating blood alcohol content (BAC) from a breath sample. They are the most commonly used chemical sobriety test due to their accessibility, convenience, and inexpensive cost.
+
+2. **Urine** – Urine tests are the most common types of drug tests administered, and they are primarily used to detect drug usage within a period of one week to one month.
+
+3. **Saliva** – Saliva tests measure drug usage within the past day and are easy to administer. However, some drugs inhibit salivary secretions and make collection difficult.
+
+4. **Sweat** – These tests are relatively uncommon in treatment settings. Sweat tests are used to measure cumulative drug use over time.

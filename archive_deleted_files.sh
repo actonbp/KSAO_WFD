@@ -1,10 +1,11 @@
 #!/bin/bash
-# Script to archive files showing as deleted in git status
+# Script to archive files showing as deleted in git status OR to manually archive specific files
 
-echo "=== Archiving files shown as deleted in git status ==="
+echo "=== Archiving specified files and those shown as deleted in git status ==="
 
 # Create archive directories if they don't exist
 mkdir -p archive/old_scripts
+mkdir -p archive/old_docs
 mkdir -p archive/old_directories/academic_viz
 mkdir -p archive/old_directories/creative_viz 
 mkdir -p archive/old_directories/final_viz
@@ -29,6 +30,37 @@ git checkout -- optimal_visualization.py && mv optimal_visualization.py archive/
 git checkout -- run_analysis.py && mv run_analysis.py archive/old_scripts/
 git checkout -- text_viz_helper.py && mv text_viz_helper.py archive/old_scripts/
 git checkout -- umap_study_guide.py && mv umap_study_guide.py archive/old_scripts/
+
+echo "Archiving other specified Python scripts from root..."
+# Test/Sample Scripts
+git checkout -- test_simplified.py && mv test_simplified.py archive/old_scripts/ 2>/dev/null || mv test_simplified.py archive/old_scripts/
+git checkout -- test_analysis_sample.py && mv test_analysis_sample.py archive/old_scripts/ 2>/dev/null || mv test_analysis_sample.py archive/old_scripts/
+git checkout -- test_gemini_api.py && mv test_gemini_api.py archive/old_scripts/ 2>/dev/null || mv test_gemini_api.py archive/old_scripts/
+
+# Older/Potentially Superseded Workflow or Utility Scripts
+git checkout -- run_complete_workflow.py && mv run_complete_workflow.py archive/old_scripts/ 2>/dev/null || mv run_complete_workflow.py archive/old_scripts/
+# Note: analyze_full_textbook.py in root is older, current is in src/ksao/
+git checkout -- analyze_full_textbook.py && mv analyze_full_textbook.py archive/old_scripts/analyze_full_textbook_OLD_ROOT.py 2>/dev/null || mv analyze_full_textbook.py archive/old_scripts/analyze_full_textbook_OLD_ROOT.py
+git checkout -- process_textbook.py && mv process_textbook.py archive/old_scripts/ 2>/dev/null || mv process_textbook.py archive/old_scripts/
+git checkout -- run_ksao_analysis.py && mv run_ksao_analysis.py archive/old_scripts/ 2>/dev/null || mv run_ksao_analysis.py archive/old_scripts/
+# Note: visualize_ksao_network.py in root is older, current is in src/ksao/
+git checkout -- visualize_ksao_network.py && mv visualize_ksao_network.py archive/old_scripts/visualize_ksao_network_OLD_ROOT.py 2>/dev/null || mv visualize_ksao_network.py archive/old_scripts/visualize_ksao_network_OLD_ROOT.py
+git checkout -- analyze_competencies.py && mv analyze_competencies.py archive/old_scripts/ 2>/dev/null || mv analyze_competencies.py archive/old_scripts/
+git checkout -- semantic_chunker.py && mv semantic_chunker.py archive/old_scripts/ 2>/dev/null || mv semantic_chunker.py archive/old_scripts/
+git checkout -- extract_text.py && mv extract_text.py archive/old_scripts/ 2>/dev/null || mv extract_text.py archive/old_scripts/
+
+# Organizational Scripts
+git checkout -- reorganize_repo.sh && mv reorganize_repo.sh archive/old_scripts/ 2>/dev/null || mv reorganize_repo.sh archive/old_scripts/
+
+echo "Archiving specified Markdown files from root to archive/old_docs/..."
+git checkout -- README_KSAO.md && mv README_KSAO.md archive/old_docs/ 2>/dev/null || mv README_KSAO.md archive/old_docs/
+git checkout -- SUMMARY_OF_CHANGES.md && mv SUMMARY_OF_CHANGES.md archive/old_docs/ 2>/dev/null || mv SUMMARY_OF_CHANGES.md archive/old_docs/
+git checkout -- scripts_README.md && mv scripts_README.md archive/old_docs/ 2>/dev/null || mv scripts_README.md archive/old_docs/
+git checkout -- MIGRATION_GUIDE.md && mv MIGRATION_GUIDE.md archive/old_docs/ 2>/dev/null || mv MIGRATION_GUIDE.md archive/old_docs/
+git checkout -- REORGANIZATION_PLAN.md && mv REORGANIZATION_PLAN.md archive/old_docs/ 2>/dev/null || mv REORGANIZATION_PLAN.md archive/old_docs/
+git checkout -- embedding_analysis_steps.md && mv embedding_analysis_steps.md archive/old_docs/ 2>/dev/null || mv embedding_analysis_steps.md archive/old_docs/
+git checkout -- analysis_summary.md && mv analysis_summary.md archive/old_docs/ 2>/dev/null || mv analysis_summary.md archive/old_docs/
+git checkout -- UMAP_README.md && mv UMAP_README.md archive/old_docs/ 2>/dev/null || mv UMAP_README.md archive/old_docs/
 
 # Move visualization files and directories
 echo "Moving visualization files to archive/old_directories..."

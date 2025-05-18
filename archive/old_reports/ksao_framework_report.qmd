@@ -1,0 +1,147 @@
+---
+title: "Integrated KSAO Framework for Substance Use Disorder Counselors"
+subtitle: "A Comprehensive Competency Map Derived from CASAC Textbook Analysis"
+author: "KSAO Workforce Development Project"
+date: today
+format: 
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    code-fold: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+execute:
+  echo: false
+---
+
+```{r setup}
+#| include: false
+library(readr)
+library(knitr)
+library(dplyr)
+```
+
+# Introduction
+
+This document presents the integrated Knowledge, Skills, Abilities, and Other Characteristics (KSAOs) framework for substance use disorder counselors, derived from a comprehensive analysis of the CASAC (Credentialed Alcoholism and Substance Abuse Counselor) certification textbook. The analysis focused on Chapters 1-2 and Appendices, using Google's Gemini 2.5 Pro model to identify and categorize competencies.
+
+This framework is designed to serve as a foundation for evidence-based workforce development in addiction counseling, moving beyond traditional certification requirements to focus on actual competencies required for effective practice.
+
+# Methodology
+
+## Data Sources
+
+The analysis was conducted on the following chapters from the CASAC textbook:
+
+1. **Chapter 1**: Covering SUD terminology, neurobiology, models of addiction, risk factors, stages of addiction, common substances, recovery principles, and the Stages of Change model.
+
+2. **Chapter 2**: Focusing on systems of care, telehealth, harm reduction, trauma-informed systems, social determinants of health, and related topics.
+
+3. **Appendices**: Including commonly used drugs, mental health conditions, medications, and IC&RC domains and job tasks.
+
+## Analysis Process
+
+The analysis followed a rigorous five-step process:
+
+1. **OCR Text Extraction**: Used Gemini 2.5 Pro's multimodal capabilities to extract text from TIFF images of textbook pages.
+
+2. **Chapter-Level KSAO Analysis**: Each chapter was analyzed individually to identify KSAOs, with documentation of the thinking process.
+
+3. **KSAO Integration**: Individual chapter analyses were integrated into a comprehensive framework, resolving redundancies and inconsistencies.
+
+For each KSAO, the analysis identified:
+- Clear name/title
+- Complete description
+- Classification (Knowledge, Skill, Ability, or Other characteristic)
+- Specificity level (general or specialized)
+- Related O*NET occupational categories
+- Stability/malleability (fixed vs. developable)
+- Explicit/tacit orientation (explicitly taught vs. tacitly acquired)
+- Prerequisites or developmental relationships
+
+# Integrated KSAO Framework
+
+```{r}
+#| include: false
+# Read the integrated framework file
+framework_file <- "../output/full_analysis/integrated_ksao_framework.txt"
+framework_text <- readLines(framework_file)
+
+# Find where the actual framework starts (after the thinking process)
+start_line <- which(grepl("^# INTEGRATED KSAO FRAMEWORK", framework_text, ignore.case = TRUE))
+if(length(start_line) == 0) {
+  # If exact heading not found, look for any heading that might indicate the framework
+  start_line <- which(grepl("^#.*KSAO.*FRAMEWORK", framework_text, ignore.case = TRUE))
+}
+
+if(length(start_line) > 0) {
+  framework_content <- framework_text[start_line:length(framework_text)]
+} else {
+  framework_content <- framework_text
+}
+```
+
+```{r, results='asis'}
+# Output the framework content
+cat(paste(framework_content, collapse = "\n"))
+```
+
+# Hierarchical Structure and Developmental Relationships
+
+This section presents the hierarchical organization of KSAOs, showing how they relate to each other in terms of:
+
+1. **Dimensions vs. Sub-dimensions**: Major competency domains and their components
+2. **Developmental Sequences**: The logical progression for acquiring competencies
+3. **Foundational Relationships**: Which KSAOs serve as prerequisites for others
+
+```{r}
+#| include: false
+# Find where the hierarchical structure section starts
+hierarchy_start <- which(grepl("^# Hierarchical Structure", framework_text, ignore.case = TRUE))
+if(length(hierarchy_start) == 0) {
+  hierarchy_start <- which(grepl("^#.*Hierarchical|^#.*Structure|^#.*Relationships", framework_text, ignore.case = TRUE))
+}
+
+if(length(hierarchy_start) > 0 && hierarchy_start < start_line) {
+  # If hierarchy section comes before the framework section
+  hierarchy_end <- start_line - 1
+  hierarchy_content <- framework_text[hierarchy_start:hierarchy_end]
+} else if(length(hierarchy_start) > 0) {
+  # If hierarchy section comes after the framework section
+  hierarchy_content <- framework_text[hierarchy_start:length(framework_text)]
+} else {
+  hierarchy_content <- character(0)
+}
+```
+
+```{r, results='asis'}
+# Output the hierarchy content if it exists
+if(length(hierarchy_content) > 0) {
+  cat(paste(hierarchy_content, collapse = "\n"))
+}
+```
+
+# Applications for Workforce Development
+
+The integrated KSAO framework presented in this document can be applied in multiple ways to enhance workforce development in the field of substance use disorder counseling:
+
+1. **Curriculum Design**: Educational institutions can use this framework to design comprehensive training programs that systematically address all required competencies.
+
+2. **Certification Standards**: Certification bodies can align requirements with evidence-based KSAOs rather than solely focusing on knowledge or hours of training.
+
+3. **Professional Development**: Practitioners can identify gaps in their skill set and target specific areas for improvement.
+
+4. **Supervision Focus**: Clinical supervisors can use the framework to provide structured guidance for developing counselors.
+
+5. **Assessment Tools**: The framework provides a foundation for developing assessment instruments to measure counselor competency.
+
+# Conclusion
+
+This integrated KSAO framework represents a significant advancement in understanding the competencies required for effective substance use disorder counseling. By systematically extracting and organizing KSAOs from authoritative textbook material, this project demonstrates how AI-assisted analysis can support evidence-based workforce development.
+
+The framework highlights the complex, multifaceted nature of SUD counseling, requiring a diverse set of knowledge areas, clinical and interpersonal skills, cognitive abilities, and professional characteristics. It also reveals the developmental nature of these competencies, with clear progression pathways and foundational relationships.
+
+Future work should extend this analysis to the remaining textbook chapters to create a truly comprehensive framework, followed by validation studies with subject matter experts and practicing counselors.

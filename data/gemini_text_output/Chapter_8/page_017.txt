@@ -1,0 +1,21 @@
+[Layout: Single column page with a header. The left edge of the page shows a spiral binding.]
+
+CHAPTER 8: Documentation
+353
+
+**HEALTH INFORMATION TECHNOLOGY AND ELECTRONIC HEALTH RECORDS**
+
+Health information technology (HIT) is the management of health information across computerized systems. It involves the secure storage and exchange of health and other personal information among clients, providers, and entities such as government agencies and insurance companies. HIT encompasses health systems integration, health information exchange, and the use of electronic health records (EHRs). It also incorporates the use of electronic assessment, treatment, monitoring, and support tools.
+
+Traditionally, health and behavioral health care providers have maintained client information as paper records in offices. An EHR, in its simplest form, is a digital version of those paper records. Electronic health records are used in many health systems to improve the collection, sharing, and use of health care information. EHRs help monitor and improve overall quality of care within an organization in many ways:¹¹, ¹², ¹³
+
+» Increasing secure access to client health information with the entire service team, which often includes clients, to improve coordination of services for enhanced client care.
+» Improving confidentiality by limiting who has access to specific information and tracking when information is viewed.
+» Increasing documentation legibility to improve accuracy and reliability.
+» Streamlining the administrative process to communicate information faster and decrease duplicative and unnecessary services.
+» Tracking individual client data and identify data trends over time to provide safer care with more accurate diagnoses and reduction in medical errors.
+» Providing decision aids to guide treatment.
+» Tracking the progress of those who leave a program and monitoring when and if additional services are needed.
+» Delineating requirements for complete documentation to improve accuracy and accountability.
+
+[Image: A stylized, black and white graphic depicting a silhouette of a person from the chest up on the left. Overlaid on the person's chest is a hexagonal icon containing a heart with a plus sign inside. To the right of the person, a series of interconnected hexagonal icons are displayed, each containing a different symbol related to healthcare and technology. These icons include: a magnifying glass, a nurse or doctor, a syringe, a clipboard with a pencil, a section symbol (§), a cloud with an arrow pointing up (cloud storage), a Wi-Fi symbol, an envelope (email), and a padlock (security). A stylized hand appears to be interacting with these icons.]

@@ -1,0 +1,69 @@
+CHAPTER 8: Documentation 341
+
+ACCESS TO PROTECTED
+HEALTH INFORMATION
+
+There are several state and federal laws that dictate how information in the client’s record must be protected and
+how it can be shared. This information is often referred to as protected health information or PHI. Substance use,
+mental health and medical information is generally subject to the provisions of the Health Insurance Portability
+and Accountability Act (HIPAA). Substance use information has additional regulations found in Title 42 Code of
+Federal Regulations (42 CFR), Part 2: “Confidentiality of Alcohol and Drug Abuse Patient Records.” It is important
+for SUD counselors to be familiar with these confidentiality guidelines to properly protect and disclose client’s
+information.
+
+A Closer Look at HIPAA and 42 CFR Part 2², ³
+
+[Layout: Two columns.]
+
+The Health Insurance Portability and
+Accountability Act of 1996 (HIPAA), including
+amendments in the Health Information
+Technology for Economic and Clinical Health
+(HITECH) Act
+
+» Safeguards the privacy and confidentiality of electronically
+transmitted client information from health care providers, health
+plans, and health care clearinghouses.
+» Protects the health insurance coverage of workers and their
+families when there is a change in or disruption of employment.
+» Simplifies the administration of health insurance.
+» Combats waste in health care delivery.
+
+HIPAA Consent Requirements
+
+» Prohibits a healthcare organization from using or disclosing
+protected health information unless authorized by patients,
+except where this prohibition would result in unnecessary
+interference with access to quality health care or with certain
+other important public benefits. They may also release
+information without consent to other involved healthcare
+providers and obtain payments. Mental health therapy notes are
+excluded from this disclosure and still require written consent.
+Disclosure may only include the minimum amount of information
+necessary to fulfill the task.
+
+Federal Confidentiality Regulation of Alcohol and
+Drug Abuse Records (42 CFR Part 2)
+
+» Protects information about any person who has been given a
+substance use diagnosis, has applied for substance use services,
+or been referred to or received substance use treatment from a
+program that receives federal assistance such as Medicare or
+Medicaid funds.
+
+42 CFR Part 2 Consent Requirements
+
+» Specific consent is necessary for disclosure of information
+contained in a client record maintained in any federally assisted
+substance use program. This includes any program that provides
+substance use services and receives federal assistance such as
+Medicare or Medicaid funds.
+» Allows a single consent for all future uses and disclosures for
+treatment, payment, and health care operations.
+» No client consent is necessary for a medical emergency, reports
+of alleged abuse or crimes, and court orders. Consent is also not
+necessary for public health authorities, auditors, research, and
+communicating with business associates.
+» Restricts the use of records and testimony in civil, criminal,
+administrative, and legislative proceedings against patients,
+absent patient consent or a court order.

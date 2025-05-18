@@ -1,0 +1,93 @@
+[Layout: Single column page with a header at the top right and a footer at the bottom left. The main content consists of text paragraphs and a table. A spiral binding is visible on the left edge of the page.]
+
+CHAPTER 4: Evidence-based Screening 197
+
+» **Medications:** Prescription medications are a common source of false positives. For example, certain antidepressants, decongestants, and pain relievers can trigger false positives for amphetamines, opioids, and other substances.
+
+» **Over-the-Counter (OTC) Products:** Some OTC products, such as cough suppressants or sleep aids, contain ingredients that might result in a false positive for substances like opioids or marijuana.
+
+» **Technical Errors:** Mistakes in the handling, storage, or analysis of the sample can also lead to false positive results. This includes contamination of the sample, incorrect test administration, or misinterpretation of the results.¹⁰²
+
+It is important to note that legitimate false positives are only an issue in the screening phase. Once LC-MS/MS (liquid chromatography-tandem mass spectrometry) is used to analyze a specimen, confirmation (positive or negative) is made with precision.¹⁰³
+
+**False negatives** can also occur. This happens when the urine drug concentration is below the threshold level set by the laboratory performing the test. Issues such as dilute urine, the duration of time between ingestion of the drug and time of testing, and the quantity of the drug ingested may affect the occurrence of false negatives.
+
+The following table shows the current cut-off levels for specific drugs for the initial and confirmatory tests per federal law.¹⁰⁴ Results are reported as positive or negative based on the cut-off levels. Positive results indicate that the drug concentration in the blood is above the predetermined threshold; negative results are reported when the drug concentration is below the threshold.
+
+[Table: 4 columns. Column headers are: INITIAL TEST ANALYTE, INITIAL TEST CUTOFF, CONFIRMATORY TEST ANALYTE, CONFIRMATORY TEST CUTOFF. All column headers are in uppercase.]
+
+Row 1:
+INITIAL TEST ANALYTE: Marijuana metabolite (THCA)
+INITIAL TEST CUTOFF: 50 ng/mL
+CONFIRMATORY TEST ANALYTE: THCA
+CONFIRMATORY TEST CUTOFF: 15 ng/mL
+
+Row 2:
+INITIAL TEST ANALYTE: Cocaine metabolite (Benzoylecgonine)
+INITIAL TEST CUTOFF: 150 ng/mL
+CONFIRMATORY TEST ANALYTE: Benzoylecgonine
+CONFIRMATORY TEST CUTOFF: 100 ng/mL
+
+Row 3:
+INITIAL TEST ANALYTE: Codeine/Morphine
+INITIAL TEST CUTOFF: 2000 ng/mL
+CONFIRMATORY TEST ANALYTE (two lines):
+Codeine
+Morphine
+CONFIRMATORY TEST CUTOFF (two lines, corresponding to analytes):
+2000 ng/mL
+4000 ng/mL
+
+Row 4:
+INITIAL TEST ANALYTE: Hydrocodone/Hydromorphone
+INITIAL TEST CUTOFF: 300 ng/mL
+CONFIRMATORY TEST ANALYTE (two lines):
+Hydrocodone
+Hydromorphone
+CONFIRMATORY TEST CUTOFF (two lines, corresponding to analytes):
+100 ng/mL
+100 ng/mL
+
+Row 5:
+INITIAL TEST ANALYTE: Oxycodone/Oxymorphone
+INITIAL TEST CUTOFF: 100 ng/mL
+CONFIRMATORY TEST ANALYTE (two lines):
+Oxycodone
+Oxymorphone
+CONFIRMATORY TEST CUTOFF (two lines, corresponding to analytes):
+100 ng/mL
+100 ng/mL
+
+Row 6:
+INITIAL TEST ANALYTE: 6-Acetylmorphine
+INITIAL TEST CUTOFF: 10 ng/mL
+CONFIRMATORY TEST ANALYTE: 6-Acetylmorphine
+CONFIRMATORY TEST CUTOFF: 10 ng/mL
+
+Row 7:
+INITIAL TEST ANALYTE: Phencyclidine
+INITIAL TEST CUTOFF: 25 ng/mL
+CONFIRMATORY TEST ANALYTE: Phencyclidine
+CONFIRMATORY TEST CUTOFF: 25 ng/mL
+
+Row 8:
+INITIAL TEST ANALYTE: Amphetamine/Methamphetamine
+INITIAL TEST CUTOFF: 500 ng/mL
+CONFIRMATORY TEST ANALYTE (two lines):
+Amphetamine
+Methamphetamine
+CONFIRMATORY TEST CUTOFF (two lines, corresponding to analytes):
+250 ng/mL
+250 ng/mL
+
+Row 9:
+INITIAL TEST ANALYTE: MDMA4/MDMA5
+INITIAL TEST CUTOFF: 500 ng/mL
+CONFIRMATORY TEST ANALYTE (two lines):
+MDMA
+MDMA
+CONFIRMATORY TEST CUTOFF (two lines, corresponding to analytes):
+250 ng/mL
+250 ng/mL
+
+88 FR 70768 - Mandatory Guidelines for Federal Workplace Drug Testing Programs. Federal Register Vol. 88, No.196, October 12, 2023

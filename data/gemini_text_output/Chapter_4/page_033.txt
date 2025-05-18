@@ -1,0 +1,59 @@
+CHAPTER 4: Evidence-based Screening | 185
+
+» **Cognitive and learning deficits**
+    › WHO Disability Assessment Schedule 2.0 (WHODAS 2.0)
+
+» **Past and present trauma**
+    › The Primary Care PTSD Screen for DSM-5
+    › The PTSD Checklist for DSM-5
+
+The assessment of MHDs also involves a variety of evidence-based instruments, which can include structured
+interviews, questionnaires, and rating scales. These tools are designed to provide a reliable and valid assessment
+of various MHDs. Some of the key instruments include:75
+
+**1. Structured Clinical Interviews**: These are used to systematically evaluate the presence of MHDs.
+Examples include:
+
+    › **Structured Clinical Interview for DSM-5 (SCID-5)**: The SCID-5 is a semi-structured interview guide
+    for making the major DSM-5 diagnoses. It is considered a gold standard for psychiatric diagnosis and
+    is used widely in research and clinical settings.
+
+    › **Mini International Neuropsychiatric Interview (MINI)**: The MINI is a short, structured diagnostic
+    interview used for the classification of DSM-5 and ICD-10 psychiatric disorders. It can be
+    administered in a relatively brief period, making it convenient for high-volume settings.
+
+    › **Composite International Diagnostic Interview (CIDI)**: The CIDI is a comprehensive, fully structured
+    interview designed to assess mental disorders according to the definitions and criteria of ICD-10 and
+    DSM-5. It can be administered by trained lay interviewers.
+
+    › **Diagnostic Interview Schedule (DIS)**: The DIS is a structured interview used to diagnose mental
+    disorders based on the criteria of the DSM-5. It can be administered by non-clinician interviewers.
+
+**2. Self-Report Questionnaires**: These questionnaires allow individuals to report their symptoms, thoughts,
+and feelings. Examples include:
+
+    › **Beck Depression Inventory (BDI)**: This is a 21-item inventory that measures the intensity of
+    depression in adults and adolescents. Each item is rated on a 4-point scale, ranging from 0 to 3,
+    based on severity.
+
+    › **Patient Health Questionnaire (PHQ-9)**: The PHQ-9 is a 9-item instrument that is used to screen,
+    diagnose, monitor, and measure the severity of depression. It is particularly valued for its simplicity
+    and brevity.
+
+    › **Generalized Anxiety Disorder 7 (GAD-7)**: This is a 7-item instrument for screening and measuring
+    the severity of generalized anxiety disorder. Each item is rated on a scale from 0 to 3.
+
+    › **Symptom Checklist-90-Revised (SCL-90-R)**: The SCL-90-R is a 90-item self-report symptom
+    inventory designed to reflect the psychological symptom patterns of community, medical, and
+    psychiatric respondents. It covers a broad range of psychological problems and symptoms of
+    psychopathology.
+
+    › **Traumatic Life Events Questionnaire (TLEQ)**: This assesses exposure to potentially traumatic events
+    across a person’s lifespan. It covers a wide range of traumatic experiences.
+
+**3. Rating Scales**: These are often used to assess the severity of certain symptoms or disorders. For example,
+the **Hamilton Depression Rating Scale (HDRS)** is commonly used to measure the severity of depressive
+symptoms.
+
+**4. Personality Assessments**: Instruments like the **Minnesota Multiphasic Personality Inventory (MMPI)**
+are used to assess personality traits and can help in diagnosing personality disorders.

@@ -1,0 +1,26 @@
+CHAPTER 8: Documentation 351
+
+**3. Assessment (A):**
+    >   This section is for the counselor or other healthcare provider's interpretation of the subjective and objective findings.
+    >   Document the client's status through analysis of the problem or situation, possible interaction of the pressing issues, and changes in the status of the problems/issues. Note any changes in the client's condition since the last session.
+
+**4. Plan (P):**
+    >   Outline the plan of care based on the assessment. This may include therapeutic interventions, lifestyle changes or connections to other service providers.
+    >   It can include short- and long-term goals for the client and with specificity about what the client will do before the next session or as general the expectations for the duration of treatment.
+
+An example of this type of documentation is as follows:
+
+[Table: 2 columns, 5 rows. The first row is a header spanning both columns. The remaining 4 rows have the first column as a single letter (S, O, A, P) and the second column containing descriptive text.]
+| **Cocaine Use Disorder (moderate) – Outpatient Individual Session** | |
+| --- | --- |
+| **S** | Sally participated in an individual session today. She discussed using cocaine over the weekend when she ran into an old friend with whom she used to use drugs. She reported feeling very anxious and angry at herself this week. |
+| **O** | Sally was tearful and visibly shaken and related that she felt she had let herself and her family down. Her urine test conducted today is positive for cocaine. |
+| **A** | Sally appears to be in a lapse cycle rather than a return to regular use of cocaine. We reviewed her relapse prevention plan and detailed coping strategies. Using a solution-focused approach, we role-played how she could have handled the situation and practiced ways to handle these situations in the future. Sally was progressively calmer during the session. She stated she felt more confident in how she could handle a potential situation like this in the future. |
+| **P** | Sally agreed to increase the number of individual counseling sessions (to 2 sessions a week) and mutual support meetings she attends to four per week for the next two weeks to prevent another lapse and reinforce successes with coping mechanisms. |
+
+Note that the SUD counselor's assessment is based on both what the client said (that she had let herself and her family down) and what was observed (tearful, visibly shaken). It is also based on the SUD counselor's knowledge and experience (the difference between lapse and recurrence). Descriptive sentences about the client's response to the counselor's intervention were used and the response to the intervention was noted. In addition, the progress note is relatively short; it captures and summarizes pertinent information and captures the changes in the treatment plan (frequency/intensity of services).
+
+Progress notes need to delineate the time and date of the service and are signed, dated, and credentialed by the person delivering the service. The frequency and timeliness of progress notes can be regulated by funders or state administrative rules. For example, it is common to see regulations that are very specific, such as:
+
+*All client-related services must be entered and finalized in the client clinical records within*
+*72-business hours or 3 business days from when the service was provided.*
