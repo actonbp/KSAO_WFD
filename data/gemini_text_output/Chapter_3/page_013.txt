@@ -1,0 +1,21 @@
+[Layout: The page has a header with "CHAPTER 3: Co-Occurring Conditions and Special Populations" on the left and "97" on the right. The main content is in a single column, with a title "PHYSICAL HEALTH". There is a sidebar on the right-hand side of the page containing text.]
+
+CHAPTER 3: Co-Occurring Conditions and Special Populations 97
+
+**PHYSICAL HEALTH**
+
+The majority of the U.S. healthcare resources are used by a small population characterized as high-risk, high-need persons with complex care needs (e.g., adults with multiple chronic conditions). SUDs and MHDs are drivers of poor health and additional healthcare costs.²² People experiencing an SUD and/or a MHD and chronic disease may have difficulty accessing or remaining in care, which can result in additional medical complications.²³ Chronic conditions, including diabetes, hypertension, chronic obstructive pulmonary disease, HIV, and hepatitis C, may require ongoing medical care and, in some cases, medication and medication management.
+
+The comorbidity among SUDs, MHDs, and chronic disease represents triple jeopardy in terms of disease burden to affected individuals. Chronic problematic substance use and/or SUD alone can affect a wide range of organs and systems in the body, which may lead to multiple medical problems and an increased risk for contracting infectious diseases.²⁴ Individuals with either SUD or multiple chronic conditions have been found to be “super-utilizers” of hospital care (e.g., more readmissions, longer stays, higher costs).²⁵ In addition, the presence of SUDs or MHDs may interfere with an individual’s self-care behaviors, affect adherence to treatment regimen, or worsen existing medical diseases, leading to increased disease complications, healthcare resource utilization (e.g., hospitalization), or death.²⁶
+
+Several large population studies that looked at the relationship between SUDs, MHDs, and diseases had consistent findings.²⁷, ²⁸, ²⁹ Although there is some variation, the studies primarily addressed multiple chronic diseases (arthritis, any chronic pain, heart disease, stroke, hypertension, diabetes, asthma, chronic lung disease, peptic ulcer, and cancer) across any mood disorder, anxiety disorder, impulse control disorder, and SUD. Here are some of the findings:
+* An SUD or MHD usually preceded the onset of physical diseases.
+* Those with SUDs and/or MHDs were diagnosed with a greater number of different physical diseases over time, and the onset of the disease(s) was much sooner than people witout SUD/MHD.
+* In analyzing a matrix of possible associations between 16 SUDs/MHDs and subsequent onset or diagnosis of 10 physical conditions (as shown above), all associations were **statistically significant** – meaning all diseases/conditions showed significant prevalence across all SUD/MHD diagnoses.
+* Individuals who gained additional SUD and or MHD diagnoses over their life course were associated with increasing odds of subsequent diagnosis of any of the 10 physical conditions (arthritis, any chronic pain, heart disease, stroke, hypertension, diabetes, asthma, chronic lung disease, peptic ulcer, and cancer).
+
+[Text box on the right]
+An important role for the SUD counselor is to connect clients with the healthcare resources they want and that meet their needs, including a primary care provider who can support them in developing a plan to manage chronic illness or receive preventive care.
+[End of text box]
+
+This data suggests that the detrimental effects of SUDs and MHDs on physical health can accumulate over the life course. If this is the case, then given the early onset of most SUDs and MHDs, and the similarly early development of many chronic physical conditions, treatment of all SUDs/MHDs should optimally include treatments for health and health behaviors, beginning as early in course of treatment for the SUD/MHD.³⁰

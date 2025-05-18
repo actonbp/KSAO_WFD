@@ -1,0 +1,113 @@
+CHAPTER 3: Co-Occurring Conditions and Special Populations 105
+
+Individuals with SUDs are at heightened risk for contracting and transmitting sexually transmitted infections (STIs). Like HIV and viral hepatitis, engaging in risky sexual behavior that often accompanies substance use and injection drug use increases the risk for STIs. In addition, studies have shown that young adults who used an illicit drug were three times more likely to get an STI, and among teens there is an association between substance use and sexual risk behaviors such as ever having sex, having multiple sex partners, not using a condom, and pregnancy before the age of 15 years of age.⁶⁵
+
+Individuals who are involved in the sex trade are particularly vulnerable to HIV and STIs due to high-risk behaviors compounded by substance use. Street-based sex workers often have complex health and social needs due to high prevalence of heroin, cocaine, and injection drug use, poor treatment outcomes, high levels of mental and physical health conditions, and exposure to sexual and physical violence and homelessness.⁶⁶ Sex workers, particularly those with SUDs, may have reduced capacity to negotiate safer sex practices and are often pressured to engage in unprotected sex by clients offering higher payments or drugs.⁶⁷ The criminalization of both sex work and drug use, and the stigmatization of sex workers who use drugs, hinders the delivery of effective and accessible services, including SUD treatment.
+
+Most of the same strategies used to address HIV and viral hepatitis (harm reduction, education, screening, referral to medical care, etc.) can be used proactively to prevent sexually transmitted infection/disease (STI/STD) acquisition and transmission. Specific strategies to address STIs include:⁶⁸
+
+1.  **Screening:** Screening should occur for all sexually active adolescents and for adults at increased risk for STIs. Adults at increased risk for STIs include those who currently have an STI or were diagnosed with one within the past year, do not consistently use condoms, have multiple sex partners, or have sex partners within populations with a high prevalence of STIs. Attention to screening needs to be proactive with populations with a high prevalence of STIs—persons who seek STI testing or attend STI clinics; sexual and gender minorities; persons who are living with HIV, inject drugs, have exchanged sex for money or drugs, or have entered correctional facilities; and some racial/ethnic minority groups.
+2.  **Behavioral Sexual Risk-Reduction Counseling:** Counseling strategies are relevant for both adults and adolescents, however, all sexually active adolescents are at increased risk for STIs and should receive behavioral counseling interventions. The most successful approaches are to provide information on common STIs and STI transmission; assess the person’s risk for acquiring STIs; aim to increase motivation or commitment to safer sex practices; and provide training in condom use, communication about safer sex, problem solving, and other pertinent skills.
+
+[Image: A black and white photograph showing a close-up view of a hand reaching into the back pocket of a pair of denim jeans. A condom packet is partially visible inside the pocket. The image is slightly grainy. The focus is on the hand and the pocket, with the rest of the jeans and the person's torso blurred in the background.]
+
+[Layout: Single column of text with a header and page number. The right edge of the page shows a spiral binding, which is a visual element and not text to be extracted.]
+
+106 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**SPECIAL POPULATIONS**
+
+The SUD treatment field is continually evolving to increase responsiveness to the unique requirements of diverse
+groups like women, youth, older adults, people with CODs, people who identify as LGBTQI+, people who are
+criminal justice involved, veterans, and others. Treatment methods have become more refined, adaptable, and
+comprehensive. Providers now tailor treatments to fit the specific needs of each client, moving away from a
+one-size-fits-all approach. This shift towards customized care is a natural progression of established treatment
+philosophies, underlining the need for practitioners to possess the skills and knowledge to adjust programs to
+suit client-specific needs effectively.
+
+Entry-level SUD counselors are not expected to have in-depth knowledge about every population group; however,
+they should have a fundamental understanding of the needs of diverse groups of people in treatment for several
+reasons.
+
+» **Individualized Treatment:** Understanding the unique backgrounds, cultures, and experiences of diverse
+groups enables counselors to provide individualized treatment plans that are more effective and
+responsive to each client’s specific needs.
+
+» **Cultural Competence:** Knowledge of different cultural, racial, and ethnic backgrounds helps counselors
+build rapport and trust with clients. Cultural responsiveness can improve communication and foster a
+therapeutic alliance, which is crucial for successful outcomes in treatment.
+
+» **Addressing Disparities:** Awareness of how social, economic, and cultural factors contribute to problematic
+substance use and treatment disparities allows counselors to address these issues proactively. This can
+lead to more equitable treatment services and better health outcomes for marginalized groups.
+
+» **Enhanced Outcomes:** Counselors who are educated about the specific needs of diverse people can adapt
+their approaches to be more inclusive and sensitive, leading to better client engagement and treatment
+outcomes.
+
+» **Ethical Practice:** It is part of the ethical responsibility of SUD counselors to understand and respect
+the diversity of clients. This includes being aware of their personal biases and how these can impact
+treatment.
+
+» **Continuous Learning and Improvement:** The field of SUD treatment is constantly evolving. Counselors
+who are knowledgeable about diverse populations are better equipped to learn from a wide range of client
+experiences, contributing to ongoing professional development and improvement of the field.
+
+SAMHSA has produced numerous Technical Assistance (TIP) publications that delve in-depth into the treatment
+needs and recommended practices for specific types of disorders (MHDs, HIV/AIDS) and/or specific population
+groups (women, adolescents, older adults, persons in the criminal justice system, etc.). This section provides
+brief highlights of the treatment considerations for several groups; however, it is prohibitive to try to address
+every special population. Users of this study guide are encouraged to access the many free resources that are
+available through federal initiatives (e.g., SAMHSA, NIDA, NIAAA, NIMH, CDC) and their sponsored training and
+technical assistance centers to advance their knowledge and skills for many special population groups.
+
+CHAPTER 3: Co-Occurring Conditions and Special Populations 107
+
+**Women/Pregnant Women**
+
+Women with SUDs have unique biopsychosocial needs that should be addressed if their treatment is to be successful. Extensive research indicates there are notable differences in the prevalence, origin, comorbidities, and treatment responses to SUDs between men and women. These differences are attributed to a range of biological, genetic, environmental, and behavioral factors. Prevalence rates for SUDs vary widely based on substance types, with alcohol use disorders being reported most often for both men and women. Polysubstance use is common in both genders, although it is reported more frequently in men. In the most recent data shows that the gender gap in substance use prevalence and SUDs is narrowing.⁶⁹
+
+2022 National Survey on Drug Use and Health (NSDUH)
+
+**Data Highlights Among People Aged 12 or Older in the U.S.**
+|                                                     | **Male** | **Female** |
+| :-------------------------------------------------- | :------- | :--------- |
+| **Any SUD in Past Year**                            | 20%      | 14.7%      |
+| **Opioid Use Disorder in Past Year**                | 2.2%     | 2.1%       |
+| **Alcohol Use Disorder**                            | 12.6%    | 8.5%       |
+| **Received Substance Use Treatment in the Past Year** | 5.3%     | 4.1%       |
+
+The reasons for initiation of substance use and the subsequent development of SUDs involve a network of factors among women. No biopsychosocial characteristic is solely responsible for substance initiation or progression to the development of an SUD. In general, women (relative to their male counterparts), may have an accelerated course of substance use, progressing more rapidly from initiation of substance use to problems with substances, and from problematic substance use to treatment.⁷⁰ This progression is referred to as a “telescoping” course of illness.⁷¹ While women have a greater biological vulnerability to the adverse consequences of substance use, it is important to note that variations in progression and the consequences of substance use may also be linked to socioeconomic status, racial/ethnic differences, and age.⁷²
+
+[Image: A black and white photograph shows a woman with dark, curly hair pulled back from her face. She is wearing a light-colored, long-sleeved top and is seated, looking down towards her lap. Her hands are clasped in her lap. The background is plain and light. The image is situated on the right side of the page, alongside the text discussing women and substance use disorders.]
+
+108 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**FACTORS THAT HINDER ACCESS TO TREATMENT AND RECOVERY**
+
+From initiation to the development of an SUD, women often follow different pathways. These pathways are influenced by many factors such as stigma, relationships, on-going trauma and interpersonal violence, barriers to treatment-seeking and engagement, and lack of social support for recovery among women.73
+
+**Stigma.** The stigma that surrounds women who have problematic substance use/SUDs is not singular. It consists of multiple overlapping stigmas which can include stigma around SUDs, harm reduction approaches, substance type, gender, race, and economic status. Stigma and shame associated with SUDs results in a reduced chance that the individual will seek treatment; influences the kinds of treatment people are willing to accept; and affects treatment retention as well as the individual’s ability to maintain a recovery-oriented lifestyle.74
+
+Women are stigmatized more than men for using alcohol and other drugs because they are perceived as going against their gender roles and characteristics of perceived female identity. The stigma of substance use is also greater for mothers since they are expected to be the caregivers, raise children, and be more family oriented than fathers.75 The internalization of stigma can exacerbate guilt and shame, while discriminatory and gender-blind services may deter help-seeking.76 Pregnant and parenting women using substances face particular societal criticism. Pregnant women often delay seeking services with serious implications for the mother and the fetus.
+
+**Interpersonal Violence and Trauma.** A history of traumatic events including, but not limited to, sexual and physical assaults, childhood sexual and physical abuse, and domestic violence, are significantly associated with initiation of substance use and the development of SUDs among women.77 A high proportion of women with SUDs have histories of trauma, often perpetrated by persons they both knew and trusted. Research shows that histories of trauma put women at increased risk of co-occurring disorders and these disorders present with more severe symptoms and precipitate worse outcomes for women than those with either MHDs or SUDs alone.78
+
+The actual introduction to substances by a significant other is not uncommon and is often their way of increasing control and establishing power over the woman. This type of coercion is considered a form of intimate partner violence (IPV) which includes such tactics as forcing a partner to use substances or to use more than they want; controlling or interfering with a partner’s SUD treatment; or undermining a partner’s recovery.79 A recent systematic review of the literature stressed the significant relationship between IPV and subsequent substance use, SUD diagnoses, and poorer treatment outcomes.80
+
+**Relationships.** From a sociocultural perspective, women (more than men) tend to define themselves in terms of their webs of social relationships and obligations. Relationships with others have special significance for many women. Women are more likely to be introduced to and initiate alcohol and drug use through significant relationships including boyfriends, spouses, partners, and family members. This influence does not stop with initiation; it extends to greater use and higher incidence of SUDs when they have partners who problematically use substances.81
+
+Problematic substance use can affect a women’s connections and relationships, causing them to leave or abandon many of the relational systems on which they formerly depended—family, friends, and roots in the community. Psychological differences between men and women, and the heightened importance that women place on relationships, greatly influence a woman’s gateway into problematic substance use and into a recurrence of use once during recovery. In addition, a woman’s focus within relationships is often to serve as caretaker, a role that can result in a woman’s not attending to her own needs. Positive, therapeutic relationships, however, can act as powerful tools for supporting a woman’s recovery.82
+
+**Co-occurring Physical and Mental Health Conditions.** Women with SUD have greater susceptibility to, as well as earlier onset of serious medical problems. They often have a range of health concerns and chronic health problems that require prevention, primary care, gynecological, and other specialized services. For example, women who use alcohol heavily can develop cirrhosis and heart muscle and nerve damage with fewer years of heavy drinking in comparison to men. Likewise, illicit drug use is associated with greater risk for liver and kidney diseases, bacterial infections, and opportunistic diseases.83
+
+[Image: A black and white, grainy photograph of a person, likely a woman, viewed from the side and slightly above. Her head is bowed, and her face is partially obscured by shadows and her hands, which are raised towards her face, conveying a sense of distress, sadness, or contemplation. The background is dark and indistinct. The lighting is dramatic, highlighting parts of her hair and hands.]
+
+CHAPTER 3: Co-Occurring Conditions and Special Populations 109
+
+Routine gynecological care is fundamental to the prevention or early detection of a variety of serious health problems, including cervical, breast, and other cancers; HIV/AIDS, STIs, and other infectious diseases; infertility, early onset of menopause; and complications during pregnancy and birth. In addition, women who use alcohol or other drugs may not realize they are pregnant. They may mistakenly associate early signs of pregnancy as symptoms related to use or withdrawal from substances and do not begin prenatal care until well into their pregnancies. Some of the most negative effects of substance use on the developing embryo can occur in the first weeks of pregnancy.
+
+Many women with SUDs are also diagnosed with MHDs. In 2022, 11.1 million women reporting an SUD also reported any MHD in the past year.⁸⁴ Women are more likely to experience certain MHDs, such as depression, anxiety, post-traumatic stress disorder (PTSD), and eating disorders.⁸⁵ The presence of comorbid PTSD is high and primarily due to the experience of trauma exposure related to intimate partner violence, sexual assault, and childhood abuse. Some women report using substances to relieve stress or negative emotions. In addition, women are more vulnerable to developing SUDs or other MHDs following divorce, loss of child custody, or the death of a partner or child. Untreated MHDs among mothers increases the risk for substance use and negatively affect mothers’ ability to care for and respond to their babies.⁸⁶
+
+Women with SUDs also report poorer overall quality of life compared with men.⁸⁷ They are more likely to experience other adverse health outcomes including violence, and particularly IPV.⁸⁸ Problematic substance use in women has been associated with sexual assault, unintended pregnancy, engagement in risky sexual behavior, physical injury, and overdose.⁸⁹ Furthermore, some women who use drugs engage in sex work as a means to obtain drugs or for financial support. Street-based sex workers have complex health and social issues due to high prevalence of injection drug use, poor treatment outcomes, high levels of morbidity and mortality for mental and physical health outcomes, exposure to violence, and homelessness.⁹⁰
+

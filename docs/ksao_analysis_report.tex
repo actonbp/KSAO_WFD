@@ -1,0 +1,1519 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrartcl}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{5}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={KSAO Analysis for Substance Use Disorder Counselors},
+  pdfauthor={KSAO Workforce Development Project},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{KSAO Analysis for Substance Use Disorder Counselors}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Using Gemini AI to Extract Workforce Development Competencies}
+\author{KSAO Workforce Development Project}
+\date{2025-05-17}
+\begin{document}
+\maketitle
+
+\renewcommand*\contentsname{Table of contents}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+
+\section{Introduction}\label{introduction}
+
+This document presents the results of using Google's Gemini 2.5 Pro
+model to analyze textbook content and extract Knowledge, Skills,
+Abilities, and Other Characteristics (KSAOs) for substance use disorder
+counselors. This approach demonstrates how large language models can aid
+in workforce development by systematically identifying competencies from
+authoritative sources.
+
+\section{Analysis Process}\label{analysis-process}
+
+\subsection{Model and Configuration}\label{model-and-configuration}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{AI Model}: Google Gemini 2.5 Pro Preview (05-06)
+\item
+  \textbf{Analysis Date}: May 17, 2023
+\item
+  \textbf{Content Source}: Chapter 1 of CASAC (Credentialed Alcoholism
+  and Substance Abuse Counselor) certification textbook
+\end{itemize}
+
+\subsection{Prompt Used for Analysis}\label{prompt-used-for-analysis}
+
+The following prompt guided the AI model to perform a comprehensive
+analysis of the textbook content:
+
+\begin{verbatim}
+You are an expert in curriculum development and competency mapping for substance use disorder (SUD) counselors. 
+You need to analyze the following textbook content to identify the complete set of Knowledge, Skills, Abilities, 
+and Other Characteristics (KSAOs) required for SUD counselors.
+
+For each identified KSAO, provide:
+1. A clear name/title
+2. A complete description
+3. The classification (Knowledge, Skill, Ability, or Other characteristic)
+4. The specificity level (general or specialized)
+5. Related O*NET occupational categories
+6. Stability/malleability classification (whether this KSAO is relatively fixed or can be developed)
+7. Explicit/tacit orientation (whether this is explicitly taught or tacitly acquired)
+8. Prerequisites or developmental relationships (what must be learned before this)
+
+Additionally, identify any hierarchical structure among these KSAOs:
+- Which KSAOs represent dimensions vs. sub-dimensions
+- How KSAOs relate to each other in terms of development sequence
+- Which KSAOs serve as foundations for others
+
+I NEED YOU TO DOCUMENT YOUR COMPLETE THINKING PROCESS IN DETAIL:
+1. First, carefully read through the textbook content and note key concepts related to KSAOs
+2. For each section or chapter, identify explicit and implicit competencies
+3. Categorize each KSAO, considering its nature (K, S, A, or O)
+4. Analyze relationships between KSAOs to identify hierarchies and dependencies
+5. Evaluate each KSAO's specificity, malleability, and how it's typically acquired
+6. Organize all findings into a systematic framework
+
+Show your thinking process step-by-step as you analyze the text, including your considerations,
+evaluations, and reasoning. Then present your final findings in a structured format.
+\end{verbatim}
+
+\section{Thinking Process
+Documentation}\label{thinking-process-documentation}
+
+The model's detailed thinking process is documented below, showing how
+it systematically analyzed the textbook content to extract KSAOs.
+
+\begin{verbatim}
+Okay, this is an excellent task. I will break down the provided textbook chapter systematically to extract the KSAOs for SUD counselors.
+
+## Detailed Thinking Process:
+
+**Phase 1: Initial Skim and Broad Theme Identification**
+
+I'll first read through the entire chapter quickly to get a sense of the main topics covered. This will help me anticipate the types of KSAOs I might find.
+
+*   **Overall Impression:** This chapter focuses heavily on the scientific understanding of SUDs, including terminology, neurobiology, models of addiction, risk factors, stages of addiction, common substances, and the principles of recovery and recovery-oriented systems of care. It also touches on the Stages of Change model. The "Importance for SUD Counselors" section is a direct pointer to required competencies.
+
+**Phase 2: Section-by-Section Deep Dive for Explicit and Implicit Competencies**
+
+I will now go through each section, highlighting keywords and phrases that suggest a Knowledge, Skill, Ability, or Other Characteristic.
+
+**INTRODUCTION (pp. 10-11)**
+
+*   **Explicit:**
+    *   "Clear language and terminology are critically important..." -> **Knowledge of SUD Terminology**
+    *   Reasons for preferring "SUD" over "addiction" (stigma, medical understanding, person-first language, recovery focus, diversity, policy) -> Deepens **Knowledge of SUD Terminology** and implies **Understanding of Stigma**.
+    *   "Current use of person-first language" -> **Skill in Using Person-First Language**.
+    *   "commitment of this study guide is to use language that is respectful, non-stigmatizing" -> **Other Characteristic: Commitment to Non-Stigmatizing Practice**.
+    *   Understanding "problematic substance use," severity specifiers. -> Further **Knowledge of SUD Terminology**.
+    *   Understanding choice of "client" vs. other terms. -> **Knowledge of Professional Terminology and its Rationale**.
+*   **Implicit:**
+    *   The whole discussion implies an **Ability to Adapt Communication Style** based on evolving best practices.
+
+**CURRENT SCIENTIFIC PERSPECTIVES ON ADDICTION (pp. 12-14)**
+
+*   **Explicit:**
+    *   "SUDs ... are now understood to be chronic illnesses" -> **Knowledge of SUD as a Chronic Illness**.
+    *   NIDA & ASAM definitions of addiction -> **Knowledge of Formal Definitions of Addiction/SUD**.
+    *   "functional changes to brain circuits involved in reward, stress, and self-control" -> **Knowledge of Basic Neurobiology of Addiction**.
+    *   "Theories of Causation" (biological/disease, moral, blended) -> **Knowledge of Addiction Models/Theories**.
+    *   Critiques of models -> **Ability to Critically Evaluate Theories**.
+    *   "empowerment of an individual to be an 'agent' in their own life" -> **Understanding of Client Agency in Recovery**.
+*   **Implicit:**
+    *   The discussion of different models implies the **Ability to Synthesize Complex Information** and explain it.
+
+**FACTORS AFFECTING INDIVIDUAL VARIABILITY AND VULNERABILITY (pp. 14-15)**
+
+*   **Explicit:**
+    *   "Risk factors," "protective factors" -> **Knowledge of Risk and Protective Factors in SUDs**.
+    *   Specific factors: Genetic, Gender, Home/Family (childhood adversity, domestic violence, parental SUD), Peer/School, Method of Administration, Early Use, Survivors of Trauma/Violence -> Expands **Knowledge of Risk and Protective Factors**.
+    *   "Trauma is associated with neurobiological dysfunction" -> **Knowledge of Trauma's Neurobiological Impact**.
+*   **Implicit:**
+    *   Understanding these factors is crucial for assessment -> hints at **Skill in Comprehensive Assessment**.
+
+**Addictive Substances, the Brain, and Behavior (pp. 15-18)**
+
+*   **Explicit:**
+    *   "basic biology of healthy brain function," "neurons," "neurotransmitters," "synapse," "receptors" -> **Knowledge of Basic Neuroanatomy and Neurophysiology**.
+    *   "How addictive substances affect the brain" (mimicking, blocking reuptake) -> **Knowledge of Pharmacodynamics (Basic)**.
+    *   "PRIMARY BRAIN REGIONS INVOLVED IN SUBSTANCE USE DISORDERS" (basal ganglia, extended amygdala, prefrontal cortex) and their functions/roles in SUDs -> **Knowledge of Brain Regions in Addiction**.
+    *   Role of dopamine (reinforcement, habit formation) -> **Knowledge of Key Neurotransmitters in Addiction**.
+    *   "Cues ... can trigger uncontrollable cravings" -> **Knowledge of Conditioned Responses and Cravings**.
+    *   Brain adjustments (fewer neurotransmitters/receptors) leading to reduced pleasure from natural rewards -> **Knowledge of Neuroadaptation in SUDs**.
+*   **Implicit:**
+    *   The complexity suggests an **Ability to Learn and Retain Scientific Information**.
+
+**Stages and Cycles in the Development of Substance Use Disorders (pp. 18-20)**
+
+*   **Explicit:**
+    *   "continuum of stages" (no use to SUD) -> **Knowledge of the Continuum of Substance Use**.
+    *   Definitions: "impulsivity," "positive reinforcement," "negative reinforcement," "tolerance," "cross-tolerance," "physical dependence," "craving," "withdrawal," "compulsivity," "recurrence" -> **Knowledge of Core SUD Concepts and Terminology**.
+    *   "neuroadaptations ... compromise brain function and drive transition" -> Reinforces **Knowledge of Neuroadaptation in SUDs**.
+*   **Implicit:**
+    *   Understanding this progression aids in identifying client stage -> links to **Skill in Assessment**.
+
+**The Brain and Stages of Addiction – A More Advanced Neurobiological Perspective (pp. 20-23)**
+
+*   **Explicit:**
+    *   "three recurring stages: Binge and Intoxication, Withdrawal and Negative affect, and Preoccupation and Anticipation" linked to brain regions -> **Knowledge of Advanced Neurobiological Models of Addiction Stages**.
+    *   Concepts: "incentive salience," "reward deficit & stress surfeit," "executive function deficits" -> Further **Knowledge of Advanced Neurobiology**.
+    *   "Importance for guiding the refinement of behavioral treatment strategies" -> **Understanding the Link Between Neurobiology and Treatment**.
+    *   Reasons understanding neurobiology is important (Treatment Development, Personalized Medicine, Prevention, Reducing Stigma, Policy/Education) -> **Understanding the Broader Implications of SUD Science**.
+*   **Implicit:**
+    *   The depth implies an expectation of ongoing learning in the field.
+
+**COMMONLY USED SUBSTANCES (pp. 24-25)**
+
+*   **Explicit:**
+    *   Categories of drugs (Opioids, CNS Depressants, Stimulants, Cannabis, etc.) -> **Knowledge of Drug Classifications and Types**.
+    *   "Controlled Substances Act (CSA)" and "drug schedules" -> **Knowledge of Legal Aspects of Substances (CSA Schedules)**.
+    *   Appendix B reference: commercial/street names, forms, ways taken, health effects, withdrawal, treatment options -> **Knowledge of Specific Substances (Effects, Risks, Withdrawal)**.
+*   **Implicit:**
+    *   Need to stay updated (info is time-sensitive). -> **Other Characteristic: Commitment to Ongoing Professional Development**.
+
+**Importance for SUD Counselors (pp. 25-26)**
+This section is key as it explicitly links knowledge to counselor functions.
+
+*   **Explicit:**
+    *   "Accurate Assessment and Diagnosis" -> **Skill in SUD Assessment and Diagnosis**.
+    *   "Treatment Planning and Modification" -> **Skill in SUD Treatment Planning**.
+    *   "Safety and Crisis Intervention" (recognize overdose/withdrawal) -> **Skill in Crisis Intervention (Substance-Related)**.
+    *   "Effective Communication" (fosters trust, client feels understood) -> **Skill in Therapeutic Communication**.
+    *   "Education and Prevention" (educating clients/families) -> **Skill in Psychoeducation**.
+    *   "Relapse Prevention" (recognizing early signs) -> **Skill in Relapse Prevention Strategies**.
+    *   "Professional Competence and Ethics" (maintaining understanding, standard of care) -> **Other Characteristic: Adherence to Professional Ethics and Standards**.
+    *   "Collaboration with Healthcare Providers" -> **Skill in Interdisciplinary Collaboration**.
+*   **Implicit:**
+    *   "tailored to the individual's needs" -> **Ability to Individualize Treatment**.
+
+**RECOVERY PERSPECTIVES AND PRINCIPLES (pp. 27-29)**
+
+*   **Explicit:**
+    *   Modern concept of recovery vs. traditional -> **Knowledge of Evolving Recovery Concepts**.
+    *   SAMHSA definition of recovery -> **Knowledge of SAMHSA's Definition of Recovery**.
+    *   Distinctions: clinical, functional, personal, social recovery -> **Knowledge of Dimensions of Recovery**.
+    *   "Recovery is person-centered" -> **Understanding of Person-Centered Principles**.
+    *   SAMHSA's four major dimensions (Health, Home, Purpose, Community) -> **Knowledge of SAMHSA's Recovery Dimensions**.
+    *   Ten principles of recovery (Hope, Person-centered, Many Pathways, Holistic, Peers/Allies, Relationships/Social Networks, Culturally-based, Addressing Trauma, Strengths/Responsibility, Respect) -> **Knowledge of Guiding Principles of Recovery**.
+    *   "Services should be trauma-informed" -> **Knowledge of Trauma-Informed Care Principles**.
+    *   "Services should be culturally grounded, attuned, sensitive, congruent, and competent" -> **Knowledge of Cultural Competence in SUD Treatment** and implies **Skill in Culturally Competent Practice**.
+*   **Implicit:**
+    *   Internalizing these principles -> **Other Characteristic: Recovery-Oriented Mindset**.
+    *   Fostering hope -> **Skill in Instilling Hope**.
+
+**Recovery-Oriented System of Care (ROSC) (p. 29)**
+
+*   **Explicit:**
+    *   Focus on individual, wellness, strengths, comprehensive network -> **Knowledge of Recovery-Oriented Systems of Care (ROSC) Principles**.
+    *   "right help at the right time" -> **Understanding of Service Coordination in ROSC**.
+*   **Implicit:**
+    *   Facilitating transitions, referrals -> **Skill in Care Coordination/Navigation**.
+
+**Landmark Legislation and Policies Facilitating a Recovery Orientation (p. 30)**
+
+*   **Explicit:**
+    *   ADA, Olmstead, IOM report, Medicaid Letter, MHPAEA, ACA, SAMHSA's Leading Change -> **Knowledge of Key Legislation and Policies in SUD/Mental Health**.
+*   **Implicit:**
+    *   Understanding the impact of these on service delivery and client rights -> **Ability to Apply Legal/Policy Knowledge to Practice**.
+
+**The Stages of Change (SOC) Model (pp. 30-32)**
+
+*   **Explicit:**
+    *   "Natural recovery" -> **Knowledge of Natural Recovery**.
+    *   TTM (Prochaska & DiClemente) Stages: Precontemplation, Contemplation, Preparation, Action, Maintenance -> **Knowledge of the Stages of Change Model**.
+    *   "SOC is not a specific counseling method but a framework" -> **Understanding the Application of SOC**.
+    *   "tailor specific counseling strategies to clients in different stages" -> **Skill in Applying the Stages of Change Model**.
+    *   "Recurrence is viewed as a normal ... event ... a learning opportunity" -> **Understanding of Relapse/Recurrence within SOC**.
+*   **Implicit:**
+    *   Assessing client's stage -> Links back to **Skill in Assessment**.
+    *   Flexibility in approach -> **Ability to Adapt Interventions**.
+
+**SUMMARY (p. 32)**
+
+*   Reiterates key knowledge areas: SUD as brain disease, progression, substance knowledge, recovery concepts, ROSC.
+
+**Phase 3: Categorize each KSAO, define attributes, and analyze relationships.**
+
+Now I will list each identified KSAO and assign its attributes.
+
+**Phase 4: Identify Hierarchical Structure**
+
+*   **Dimensions vs. Sub-dimensions:**
+    *   Foundational Knowledge Dimension (e.g., Terminology, Neurobiology, Drug Classifications)
+    *   Clinical Skills Dimension (e.g., Assessment, Treatment Planning, Crisis Intervention)
+    *   Client-Interaction Skills Dimension (e.g., Therapeutic Communication, Psychoeducation)
+    *   Professionalism & Ethics Dimension (e.g., Adherence to Ethics, Lifelong Learning)
+    *   Recovery-Oriented Practice Dimension (e.g., Knowledge of Recovery Principles, Application of ROSC)
+*   **Development Sequence:**
+    1.  Basic knowledge (terminology, core concepts) is foundational.
+    2.  Understanding of SUDs (neurobiology, models, progression) builds on this.
+    3.  Knowledge of substances and recovery principles is then integrated.
+    4.  Skills (assessment, planning, intervention) are developed based on this comprehensive knowledge.
+    5.  Other characteristics (ethics, empathy, cultural humility) influence the *application* of all KSAOs.
+*   **Foundations:**
+    *   **Knowledge of SUD Terminology** is foundational for all communication and understanding within the field.
+    *   **Understanding of Stigma** and **Commitment to Non-Stigmatizing Practice** are foundational to ethical and effective client engagement.
+    *   **Knowledge of Addiction Models/Theories** provides the overarching framework for understanding client experiences and guiding interventions.
+    *   **Basic scientific literacy** (implicit prerequisite for understanding neurobiology).
+
+**Phase 5: Consolidate and Refine**
+
+I will now consolidate similar KSAOs and refine descriptions to ensure clarity and completeness for the final output. For example, "Knowledge of Basic Neurobiology of Addiction," "Knowledge of Brain Regions in Addiction," "Knowledge of Key Neurotransmitters in Addiction," "Knowledge of Neuroadaptation in SUDs," and "Knowledge of Advanced Neurobiological Models of Addiction Stages" can be structured under a primary KSAO like "Comprehensive Knowledge of the Neurobiology of SUDs" with specific sub-components if needed, or listed as distinct but related knowledge areas. For this exercise, I'll aim for a fairly granular list as derived directly from the text.
+
+I will also add a couple of more globally implicit KSAOs:
+*   **Critical Thinking Ability:** Evident from evaluating models, understanding complex interactions.
+*   **Empathy:** While not explicitly stated as a KSAO *to be learned from this chapter*, the focus on person-first language, stigma, and person-centered recovery implies its necessity. The chapter *provides knowledge that supports empathetic practice*.
+\end{verbatim}
+
+\section{KSAO Analysis Results}\label{ksao-analysis-results}
+
+\subsection{Foundational Knowledge
+KSAOs}\label{foundational-knowledge-ksaos}
+
+These KSAOs represent the fundamental understanding required by SUD
+counselors.
+
+\subsubsection{1. Knowledge of SUD Terminology and
+Concepts}\label{knowledge-of-sud-terminology-and-concepts}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Comprehensive understanding and correct use of
+  current, accurate, and non-stigmatizing terminology in the SUD field.
+  This includes ``substance use disorder (SUD),'' ``problematic
+  substance use,'' severity specifiers (mild, moderate, severe),
+  ``person-first language,'' the historical and contemporary
+  connotations of ``addiction,'' and definitions for impulsivity,
+  positive/negative reinforcement, tolerance, cross-tolerance, physical
+  dependence, craving, withdrawal, and compulsivity.
+\item
+  \textbf{Classification:} Knowledge
+\item
+  \textbf{Specificity Level:} Specialized
+\item
+  \textbf{Related O*NET:} 21-1011.00 (Substance Abuse and Behavioral
+  Disorder Counselors), 21-1018.00 (Substance Abuse, Behavioral
+  Disorder, and Mental Health Counselors)
+\item
+  \textbf{Stability/Malleability:} Developable (terminology evolves and
+  is learned)
+\item
+  \textbf{Explicit/Tacit Orientation:} Explicit (directly taught and
+  defined)
+\item
+  \textbf{Prerequisites:} Basic literacy. Foundational for all other
+  SUD-specific KSAOs.
+\end{itemize}
+
+\subsubsection{2. Knowledge of Addiction Models and
+Theories}\label{knowledge-of-addiction-models-and-theories}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Understanding of various historical and
+  contemporary models explaining SUDs, including the disease model (SUD
+  as a chronic brain disorder), the moral model (and its
+  criticisms/limitations), and blended/integrated models that
+  incorporate biological, psychological, social factors, and personal
+  agency.
+\item
+  \textbf{Classification:} Knowledge
+\item
+  \textbf{Specificity Level:} Specialized
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Explicit
+\item
+  \textbf{Prerequisites:} Knowledge of SUD Terminology. Foundational for
+  conceptualizing treatment approaches.
+\end{itemize}
+
+\subsubsection{3. Knowledge of the Neurobiology of
+SUDs}\label{knowledge-of-the-neurobiology-of-suds}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} In-depth understanding of how addictive
+  substances affect brain structure and function. This includes:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Basic neuroanatomy and neurophysiology (neurons, neurotransmitters,
+    synapses, receptors).
+  \item
+    Key brain regions involved in SUDs (basal ganglia, extended
+    amygdala, prefrontal cortex) and their roles in reward, stress,
+    executive function, habit formation, and self-control.
+  \item
+    The role of key neurotransmitters (e.g., dopamine) in reinforcement,
+    pleasure, and motivation.
+  \item
+    Mechanisms of drug action (how drugs mimic/interfere with
+    neurotransmission).
+  \item
+    Neuroadaptations resulting from chronic substance use (e.g., changes
+    in receptor density, altered circuit sensitivity).
+  \item
+    Neurobiological basis of tolerance, withdrawal, craving, and
+    compulsion.
+  \item
+    Advanced neurobiological models of addiction stages (e.g.,
+    Binge/Intoxication, Withdrawal/Negative Affect,
+    Preoccupation/Anticipation) and associated concepts (incentive
+    salience, reward deficit, executive function deficits).
+  \end{itemize}
+\item
+  \textbf{Classification:} Knowledge
+\item
+  \textbf{Specificity Level:} Specialized
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable (complex and evolving
+  field)
+\item
+  \textbf{Explicit/Tacit Orientation:} Explicit
+\item
+  \textbf{Prerequisites:} Knowledge of SUD Terminology, basic
+  biology/chemistry concepts.
+\end{itemize}
+
+\subsubsection{4. Knowledge of Risk and Protective Factors for
+SUDs}\label{knowledge-of-risk-and-protective-factors-for-suds}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Understanding the multifactorial etiology of
+  SUDs, including genetic predispositions, gender-related differences,
+  environmental influences (home, family dynamics, peer groups, school
+  environment), developmental factors (e.g., age of first use), method
+  of substance administration, and the significant impact of trauma
+  (childhood adversity, violence, abuse) and co-occurring mental health
+  conditions.
+\item
+  \textbf{Classification:} Knowledge
+\item
+  \textbf{Specificity Level:} Specialized
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Explicit
+\item
+  \textbf{Prerequisites:} Knowledge of Addiction Models. Essential for
+  assessment and prevention.
+\end{itemize}
+
+\subsubsection{5. Knowledge of the Continuum and Progression of
+Substance
+Use}\label{knowledge-of-the-continuum-and-progression-of-substance-use}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Understanding that substance use exists on a
+  continuum (from no use/beneficial use to problematic use and SUD) and
+  the typical stages/cycles involved in the development of an SUD,
+  including the interplay of impulsivity, reinforcement, tolerance,
+  dependence, craving, withdrawal, and compulsivity.
+\item
+  \textbf{Classification:} Knowledge
+\item
+  \textbf{Specificity Level:} Specialized
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Explicit
+\item
+  \textbf{Prerequisites:} Knowledge of SUD Terminology and Concepts.
+\end{itemize}
+
+\subsubsection{6. Knowledge of Common Substances of Abuse and Drug
+Classifications}\label{knowledge-of-common-substances-of-abuse-and-drug-classifications}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Familiarity with major categories of
+  psychoactive substances (e.g., opioids, CNS depressants, stimulants,
+  cannabis, hallucinogens, inhalants, dissociatives, nicotine, alcohol),
+  including their common forms, typical methods of administration,
+  general physiological and psychological effects, signs of
+  intoxication, withdrawal symptoms, and potential health consequences.
+  This includes knowledge of the Controlled Substances Act (CSA) and
+  drug schedules.
+\item
+  \textbf{Classification:} Knowledge
+\item
+  \textbf{Specificity Level:} Specialized
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable (new substances and
+  formulations emerge)
+\item
+  \textbf{Explicit/Tacit Orientation:} Explicit
+\item
+  \textbf{Prerequisites:} Basic understanding of pharmacology.
+\end{itemize}
+
+\subsubsection{7. Knowledge of Recovery Principles and
+Models}\label{knowledge-of-recovery-principles-and-models}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Understanding of contemporary recovery concepts,
+  including:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    SAMHSA's working definition of recovery and its four dimensions
+    (Health, Home, Purpose, Community).
+  \item
+    The ten guiding principles of recovery (hope, person-centered, many
+    pathways, holistic, peer/ally support, relationships/social
+    networks, culturally-based, trauma-informed,
+    strengths/responsibility, respect).
+  \item
+    Distinctions between clinical, functional, personal, and social
+    recovery.
+  \item
+    The concept of recovery as an individualized, non-linear journey.
+  \end{itemize}
+\item
+  \textbf{Classification:} Knowledge
+\item
+  \textbf{Specificity Level:} Specialized
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Explicit
+\item
+  \textbf{Prerequisites:} Understanding of SUDs as chronic conditions.
+\end{itemize}
+
+\subsubsection{8. Knowledge of Recovery-Oriented Systems of Care
+(ROSC)}\label{knowledge-of-recovery-oriented-systems-of-care-rosc}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Understanding the principles and structure of
+  ROSC, emphasizing person-centered, strengths-based, holistic, and
+  integrated care networks that provide a continuum of services
+  (prevention, treatment, recovery supports) to support long-term
+  recovery.
+\item
+  \textbf{Classification:} Knowledge
+\item
+  \textbf{Specificity Level:} Specialized
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Explicit
+\item
+  \textbf{Prerequisites:} Knowledge of Recovery Principles.
+\end{itemize}
+
+\subsubsection{9. Knowledge of Key Legislation and Policies in
+SUD/Mental
+Health}\label{knowledge-of-key-legislation-and-policies-in-sudmental-health}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Familiarity with landmark legislation and
+  policies impacting SUD treatment, client rights, and service delivery
+  (e.g., ADA, Olmstead Decision, MHPAEA, ACA, SAMHSA initiatives).
+\item
+  \textbf{Classification:} Knowledge
+\item
+  \textbf{Specificity Level:} Specialized (though some aspects are
+  general healthcare knowledge)
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable (laws and policies
+  change)
+\item
+  \textbf{Explicit/Tacit Orientation:} Explicit
+\item
+  \textbf{Prerequisites:} Basic understanding of governmental/legal
+  systems.
+\end{itemize}
+
+\subsubsection{10. Knowledge of the Transtheoretical Model (Stages of
+Change -
+SOC)}\label{knowledge-of-the-transtheoretical-model-stages-of-change---soc}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Understanding the principles of the SOC model
+  (Prochaska \& DiClemente), including the five stages
+  (Precontemplation, Contemplation, Preparation, Action, Maintenance),
+  the cyclical nature of change, and the interpretation of
+  recurrence/relapse as a learning opportunity. Includes understanding
+  of natural recovery.
+\item
+  \textbf{Classification:} Knowledge
+\item
+  \textbf{Specificity Level:} General (used across behavioral health)
+  but applied specifically in SUD.
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Explicit
+\item
+  \textbf{Prerequisites:} Basic understanding of behavior change.
+\end{itemize}
+
+\subsubsection{11. Knowledge of Trauma-Informed Care
+Principles}\label{knowledge-of-trauma-informed-care-principles}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Understanding the prevalence of trauma among
+  individuals with SUDs and the core principles of trauma-informed care
+  (safety, trustworthiness, peer support, collaboration, empowerment,
+  cultural sensitivity) and how to apply them.
+\item
+  \textbf{Classification:} Knowledge
+\item
+  \textbf{Specificity Level:} Specialized (increasingly general in
+  behavioral health)
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Explicit
+\item
+  \textbf{Prerequisites:} Knowledge of Risk and Protective Factors
+  (specifically trauma).
+\end{itemize}
+
+\subsection{Core Skills for SUD
+Counselors}\label{core-skills-for-sud-counselors}
+
+These KSAOs represent the applied competencies.
+
+\subsubsection{12. Skill in Using Non-Stigmatizing and Person-First
+Language}\label{skill-in-using-non-stigmatizing-and-person-first-language}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Ability to consistently communicate about SUDs
+  and individuals with SUDs using respectful, person-first,
+  non-judgmental, and clinically appropriate language, avoiding
+  stigmatizing terms.
+\item
+  \textbf{Classification:} Skill
+\item
+  \textbf{Specificity Level:} Specialized
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable (requires practice and
+  conscious effort)
+\item
+  \textbf{Explicit/Tacit Orientation:} Both (explicitly taught, tacitly
+  reinforced through supervision/modeling)
+\item
+  \textbf{Prerequisites:} Knowledge of SUD Terminology, Commitment to
+  Non-Stigmatizing Practice.
+\end{itemize}
+
+\subsubsection{13. Skill in SUD Assessment and
+Diagnosis}\label{skill-in-sud-assessment-and-diagnosis}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Ability to gather comprehensive information and
+  use knowledge of substance effects, withdrawal symptoms, diagnostic
+  criteria (implicitly, though DSM not detailed here), and contributing
+  factors (risk factors, trauma) to accurately assess the nature and
+  severity of an individual's SUD and identify co-occurring issues.
+\item
+  \textbf{Classification:} Skill
+\item
+  \textbf{Specificity Level:} Specialized
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable (through training and
+  supervised experience)
+\item
+  \textbf{Explicit/Tacit Orientation:} Both (explicit criteria and
+  methods, tacit judgment)
+\item
+  \textbf{Prerequisites:} Comprehensive knowledge KSAOs (Terminology,
+  Neurobiology, Risk Factors, Substances, Continuum of Use), critical
+  thinking.
+\end{itemize}
+
+\subsubsection{14. Skill in SUD Treatment
+Planning}\label{skill-in-sud-treatment-planning}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Ability to collaborate with clients to develop
+  individualized, strengths-based, and culturally appropriate treatment
+  plans that address specific substance use patterns, co-occurring
+  conditions, client goals, and stages of change, incorporating recovery
+  principles.
+\item
+  \textbf{Classification:} Skill
+\item
+  \textbf{Specificity Level:} Specialized
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Both
+\item
+  \textbf{Prerequisites:} Skill in SUD Assessment, Knowledge of Recovery
+  Principles, Knowledge of SOC model.
+\end{itemize}
+
+\subsubsection{15. Skill in Crisis Intervention
+(Substance-Related)}\label{skill-in-crisis-intervention-substance-related}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Ability to recognize and respond effectively to
+  substance-related crises, such as acute intoxication, overdose, or
+  severe withdrawal, by implementing appropriate safety measures and
+  connecting clients to emergency medical services when necessary.
+\item
+  \textbf{Classification:} Skill
+\item
+  \textbf{Specificity Level:} Specialized
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Both (protocols are explicit,
+  judgment in application is tacit)
+\item
+  \textbf{Prerequisites:} Knowledge of Common Substances (effects,
+  withdrawal), basic first aid/CPR often required.
+\end{itemize}
+
+\subsubsection{16. Skill in Therapeutic
+Communication}\label{skill-in-therapeutic-communication}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Ability to establish rapport, build trust, and
+  communicate effectively and empathically with clients and their
+  families. This includes active listening, reflecting, summarizing, and
+  conveying complex information (e.g., about neurobiology or recovery)
+  in an understandable and supportive manner.
+\item
+  \textbf{Classification:} Skill
+\item
+  \textbf{Specificity Level:} General (core counseling skill) but
+  applied with specialized knowledge in SUD.
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Both
+\item
+  \textbf{Prerequisites:} Basic interpersonal skills, Empathy, Knowledge
+  of SUD Terminology.
+\end{itemize}
+
+\subsubsection{17. Skill in
+Psychoeducation}\label{skill-in-psychoeducation}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Ability to educate clients, families, and
+  communities about SUDs, including the nature of the disorder, risks
+  associated with substance use, treatment options, recovery processes,
+  and relapse prevention strategies, in a clear, accessible, and
+  culturally sensitive manner.
+\item
+  \textbf{Classification:} Skill
+\item
+  \textbf{Specificity Level:} Specialized (content is SUD-specific)
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Explicit (delivering information)
+\item
+  \textbf{Prerequisites:} Comprehensive knowledge KSAOs, Skill in
+  Therapeutic Communication.
+\end{itemize}
+
+\subsubsection{18. Skill in Relapse Prevention
+Strategies}\label{skill-in-relapse-prevention-strategies}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Ability to work with clients to identify
+  personal relapse triggers (cues, emotional states, social situations),
+  develop coping mechanisms, and create a plan to prevent or manage
+  recurrence of substance use, normalizing recurrence as part of the
+  recovery process.
+\item
+  \textbf{Classification:} Skill
+\item
+  \textbf{Specificity Level:} Specialized
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Both
+\item
+  \textbf{Prerequisites:} Knowledge of SUD progression, Knowledge of SOC
+  model, Skill in Treatment Planning.
+\end{itemize}
+
+\subsubsection{19. Skill in Interdisciplinary
+Collaboration}\label{skill-in-interdisciplinary-collaboration}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Ability to work effectively as part of a
+  multidisciplinary team, communicating and coordinating care with other
+  healthcare providers (e.g., physicians, psychiatrists, social workers)
+  to address clients' comprehensive needs.
+\item
+  \textbf{Classification:} Skill
+\item
+  \textbf{Specificity Level:} General (important in many healthcare
+  roles)
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Both
+\item
+  \textbf{Prerequisites:} Professional communication skills,
+  understanding of different professional roles.
+\end{itemize}
+
+\subsubsection{20. Skill in Applying the Stages of Change
+Model}\label{skill-in-applying-the-stages-of-change-model}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Ability to assess a client's readiness for
+  change according to the SOC model and tailor counseling strategies and
+  interventions to match their current stage, facilitating movement
+  through the stages.
+\item
+  \textbf{Classification:} Skill
+\item
+  \textbf{Specificity Level:} General (used across behavioral health)
+  but applied with SUD-specific interventions.
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Both
+\item
+  \textbf{Prerequisites:} Knowledge of the SOC Model, Skill in SUD
+  Assessment.
+\end{itemize}
+
+\subsubsection{21. Skill in Culturally Competent
+Practice}\label{skill-in-culturally-competent-practice}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Ability to provide services that are culturally
+  grounded, attuned, sensitive, congruent, and competent, recognizing
+  the influence of culture on an individual's experience of SUD and
+  their pathway to recovery. This involves adapting approaches to meet
+  diverse individual needs.
+\item
+  \textbf{Classification:} Skill
+\item
+  \textbf{Specificity Level:} General (essential in all helping
+  professions) but with specific cultural considerations in SUDs.
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable (requires ongoing
+  learning and self-reflection)
+\item
+  \textbf{Explicit/Tacit Orientation:} Both
+\item
+  \textbf{Prerequisites:} Knowledge of Recovery Principles
+  (culturally-based), Cultural Humility (Other Characteristic).
+\end{itemize}
+
+\subsubsection{22. Skill in Instilling
+Hope}\label{skill-in-instilling-hope}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Ability to convey a genuine belief in the
+  client's capacity for recovery and a better future, thereby fostering
+  hope, which is a catalyst in the recovery process.
+\item
+  \textbf{Classification:} Skill
+\item
+  \textbf{Specificity Level:} General (important in therapeutic
+  relationships)
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable (can be enhanced through
+  technique and genuine belief)
+\item
+  \textbf{Explicit/Tacit Orientation:} Both (explicit encouragement,
+  tacit conveyance through demeanor)
+\item
+  \textbf{Prerequisites:} Empathy, Knowledge of Recovery Principles.
+\end{itemize}
+
+\subsection{Core Abilities for SUD
+Counselors}\label{core-abilities-for-sud-counselors}
+
+Abilities are more general, enduring capacities.
+
+\subsubsection{23. Ability to Synthesize Complex
+Information}\label{ability-to-synthesize-complex-information}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Capacity to integrate diverse and complex
+  information (e.g., neurobiological, psychological, social, and
+  personal factors) into a cohesive understanding of SUDs and individual
+  client presentations.
+\item
+  \textbf{Classification:} Ability
+\item
+  \textbf{Specificity Level:} General
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable (can be improved with
+  practice)
+\item
+  \textbf{Explicit/Tacit Orientation:} Tacit (how one processes and
+  connects information)
+\item
+  \textbf{Prerequisites:} Foundational knowledge KSAOs, critical
+  thinking.
+\end{itemize}
+
+\subsubsection{24. Ability to Critically Evaluate Theories and
+Information}\label{ability-to-critically-evaluate-theories-and-information}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Capacity to analyze different models, theories,
+  and research findings related to SUDs, considering their strengths,
+  limitations, and implications for practice.
+\item
+  \textbf{Classification:} Ability
+\item
+  \textbf{Specificity Level:} General
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Both (critical thinking skills
+  can be taught, application becomes more tacit)
+\item
+  \textbf{Prerequisites:} Foundational knowledge, logical reasoning
+  skills.
+\end{itemize}
+
+\subsubsection{25. Ability to Individualize Treatment
+Approaches}\label{ability-to-individualize-treatment-approaches}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Capacity to tailor interventions and support
+  strategies to meet the unique needs, preferences, strengths, cultural
+  background, and circumstances of each client, rather than applying a
+  one-size-fits-all approach.
+\item
+  \textbf{Classification:} Ability
+\item
+  \textbf{Specificity Level:} General (core to effective counseling)
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable
+\item
+  \textbf{Explicit/Tacit Orientation:} Tacit (involves clinical judgment
+  and creativity)
+\item
+  \textbf{Prerequisites:} Comprehensive knowledge and skills KSAOs,
+  empathy.
+\end{itemize}
+
+\subsection{Other Characteristics (O) for SUD
+Counselors}\label{other-characteristics-o-for-sud-counselors}
+
+These are traits, values, or orientations.
+
+\subsubsection{26. Commitment to Non-Stigmatizing and Ethical
+Practice}\label{commitment-to-non-stigmatizing-and-ethical-practice}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} An underlying professional value system that
+  prioritizes respectful, empathetic, non-judgmental, and ethical
+  conduct, actively working to reduce stigma associated with SUDs and
+  upholding professional standards of care.
+\item
+  \textbf{Classification:} Other Characteristic
+\item
+  \textbf{Specificity Level:} General (core to all helping professions)
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Relatively stable but can be
+  reinforced or challenged.
+\item
+  \textbf{Explicit/Tacit Orientation:} Both (ethical codes are explicit,
+  ingrained values are tacit)
+\item
+  \textbf{Prerequisites:} Personal integrity, understanding of ethical
+  principles.
+\end{itemize}
+
+\subsubsection{27. Empathy}\label{empathy}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} The capacity to understand and share the
+  feelings of another, crucial for building therapeutic rapport and
+  providing effective, client-centered care.
+\item
+  \textbf{Classification:} Other Characteristic
+\item
+  \textbf{Specificity Level:} General
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Can be developed/enhanced, though
+  some innate capacity is often present.
+\item
+  \textbf{Explicit/Tacit Orientation:} Tacit
+\item
+  \textbf{Prerequisites:} Self-awareness.
+\end{itemize}
+
+\subsubsection{28. Recovery-Oriented
+Mindset}\label{recovery-oriented-mindset}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} A fundamental belief in the potential for
+  individuals to recover from SUDs and a commitment to supporting
+  self-directed, holistic, and strengths-based recovery journeys.
+\item
+  \textbf{Classification:} Other Characteristic
+\item
+  \textbf{Specificity Level:} Specialized (though principles are
+  spreading)
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable through education and
+  experience.
+\item
+  \textbf{Explicit/Tacit Orientation:} Both (principles are explicit,
+  internal adoption is tacit)
+\item
+  \textbf{Prerequisites:} Knowledge of Recovery Principles.
+\end{itemize}
+
+\subsubsection{29. Cultural Humility}\label{cultural-humility}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} A lifelong commitment to self-evaluation and
+  self-critique, to redressing power imbalances, and to developing
+  mutually respectful partnerships with communities and individuals from
+  diverse cultural backgrounds.
+\item
+  \textbf{Classification:} Other Characteristic
+\item
+  \textbf{Specificity Level:} General
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable (an ongoing process)
+\item
+  \textbf{Explicit/Tacit Orientation:} Both
+\item
+  \textbf{Prerequisites:} Self-awareness, openness to learning.
+\end{itemize}
+
+\subsubsection{30. Commitment to Ongoing Professional Development /
+Lifelong
+Learning}\label{commitment-to-ongoing-professional-development-lifelong-learning}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Description:} Recognition that the field of SUDs is constantly
+  evolving (new research, substances, treatment approaches, terminology)
+  and a dedication to continuous learning to maintain professional
+  competence.
+\item
+  \textbf{Classification:} Other Characteristic
+\item
+  \textbf{Specificity Level:} General (expected in most professions)
+\item
+  \textbf{Related O*NET:} 21-1011.00, 21-1018.00
+\item
+  \textbf{Stability/Malleability:} Developable (can be fostered)
+\item
+  \textbf{Explicit/Tacit Orientation:} Tacit (drive to learn) but
+  supported by explicit requirements (CEUs).
+\item
+  \textbf{Prerequisites:} Intrinsic motivation, awareness of field
+  dynamics.
+\end{itemize}
+
+\section{Hierarchical Structure Among
+KSAOs}\label{hierarchical-structure-among-ksaos}
+
+\subsection{I. Dimensions (Broad Categories of
+Competencies)}\label{i.-dimensions-broad-categories-of-competencies}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{A. Foundational Scientific Knowledge:} Encompasses
+  understanding the nature of SUDs.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions/KSAOs:} 1 (Terminology), 2 (Addiction Models),
+    3 (Neurobiology), 4 (Risk/Protective Factors), 5
+    (Continuum/Progression), 6 (Substances).
+  \end{itemize}
+\item
+  \textbf{B. Recovery-Oriented Framework Knowledge:} Encompasses
+  understanding the principles and systems that support recovery.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions/KSAOs:} 7 (Recovery Principles), 8 (ROSC), 11
+    (Trauma-Informed Care).
+  \end{itemize}
+\item
+  \textbf{C. Clinical and Intervention Skills:} Encompasses the
+  practical application of knowledge in client care.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions/KSAOs:} 13 (Assessment/Diagnosis), 14
+    (Treatment Planning), 15 (Crisis Intervention), 17
+    (Psychoeducation), 18 (Relapse Prevention), 20 (Applying SOC).
+  \end{itemize}
+\item
+  \textbf{D. Interpersonal and Communication Skills:} Encompasses
+  competencies for effective client engagement.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions/KSAOs:} 12 (Non-Stigmatizing Language), 16
+    (Therapeutic Communication), 19 (Interdisciplinary Collaboration),
+    21 (Culturally Competent Practice), 22 (Instilling Hope).
+  \end{itemize}
+\item
+  \textbf{E. Cognitive Abilities:} Encompasses underlying mental
+  capacities.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions/KSAOs:} 23 (Synthesize Complex Info), 24
+    (Critically Evaluate), 25 (Individualize Treatment).
+  \end{itemize}
+\item
+  \textbf{F. Professional Characteristics and Ethics:} Encompasses
+  values and orientations.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions/KSAOs:} 9 (Legislation/Policy Knowledge -
+    \emph{could also be A}), 10 (SOC Knowledge - \emph{could also be A
+    or B}), 26 (Commitment to Ethics), 27 (Empathy), 28
+    (Recovery-Oriented Mindset), 29 (Cultural Humility), 30 (Lifelong
+    Learning). \emph{Note: KSAOs 9 \& 10 are knowledge but also inform
+    ethical and professional conduct.}
+  \end{itemize}
+\end{itemize}
+
+\subsection{II. Developmental Sequence and Foundational
+Relationships}\label{ii.-developmental-sequence-and-foundational-relationships}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Core Foundation:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Other Characteristics} like \texttt{Empathy\ (27)},
+    \texttt{Commitment\ to\ Ethics\ (26)},
+    \texttt{Cultural\ Humility\ (29)}, and
+    \texttt{Lifelong\ Learning\ (30)} serve as a bedrock for all
+    professional activities.
+  \item
+    \textbf{Knowledge of SUD Terminology (1)} is essential before any
+    deeper learning can occur.
+  \end{itemize}
+\item
+  \textbf{Building Scientific Understanding:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \texttt{Knowledge\ of\ Addiction\ Models\ (2)} provides frameworks.
+  \item
+    \texttt{Knowledge\ of\ Neurobiology\ (3)},
+    \texttt{Risk/Protective\ Factors\ (4)},
+    \texttt{Continuum/Progression\ (5)}, and
+    \texttt{Common\ Substances\ (6)} build a comprehensive scientific
+    understanding of SUDs. This requires the
+    \texttt{Ability\ to\ Synthesize\ Complex\ Information\ (23)} and
+    \texttt{Critically\ Evaluate\ (24)}.
+  \end{itemize}
+\item
+  \textbf{Integrating Recovery and Systemic Perspectives:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \texttt{Knowledge\ of\ Recovery\ Principles\ (7)},
+    \texttt{ROSC\ (8)}, \texttt{Trauma-Informed\ Care\ (11)}, and
+    relevant \texttt{Legislation/Policy\ (9)} are layered on top of the
+    scientific understanding. This is influenced by a
+    \texttt{Recovery-Oriented\ Mindset\ (28)}.
+  \item
+    \texttt{Knowledge\ of\ SOC\ Model\ (10)} provides a framework for
+    understanding client change processes.
+  \end{itemize}
+\item
+  \textbf{Developing Applied Skills:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Interpersonal Skills} like
+    \texttt{Skill\ in\ Using\ Non-Stigmatizing\ Language\ (12)} and
+    \texttt{Therapeutic\ Communication\ (16)} are crucial for client
+    engagement and are developed early.
+  \item
+    \textbf{Clinical Skills} such as
+    \texttt{SUD\ Assessment/Diagnosis\ (13)} rely heavily on all prior
+    knowledge dimensions.
+  \item
+    \texttt{Skill\ in\ Treatment\ Planning\ (14)},
+    \texttt{Applying\ SOC\ (20)}, \texttt{Psychoeducation\ (17)},
+    \texttt{Relapse\ Prevention\ (18)}, and
+    \texttt{Crisis\ Intervention\ (15)} are subsequently developed,
+    applying knowledge and initial assessment skills. These benefit from
+    the \texttt{Ability\ to\ Individualize\ Treatment\ (25)}.
+  \item
+    Skills like \texttt{Interdisciplinary\ Collaboration\ (19)},
+    \texttt{Culturally\ Competent\ Practice\ (21)}, and
+    \texttt{Instilling\ Hope\ (22)} are refined throughout practice and
+    integrate multiple knowledge areas and personal characteristics.
+  \end{itemize}
+\end{enumerate}
+
+\subsection{III. KSAOs Serving as Foundations for Others
+(Examples)}\label{iii.-ksaos-serving-as-foundations-for-others-examples}
+
+\begin{itemize}
+\tightlist
+\item
+  \texttt{Knowledge\ of\ SUD\ Terminology\ (1)} is foundational for
+  almost all other KSAOs.
+\item
+  \texttt{Knowledge\ of\ the\ Neurobiology\ of\ SUDs\ (3)} is
+  foundational for understanding treatment mechanisms, medication (not
+  covered in this chapter but related), and psychoeducation content.
+\item
+  \texttt{Knowledge\ of\ Recovery\ Principles\ (7)} is foundational for
+  \texttt{Skill\ in\ Treatment\ Planning\ (14)} from a recovery-oriented
+  perspective and fostering a \texttt{Recovery-Oriented\ Mindset\ (28)}.
+\item
+  \texttt{Commitment\ to\ Non-Stigmatizing\ and\ Ethical\ Practice\ (26)}
+  underpins \texttt{Skill\ in\ Using\ Non-Stigmatizing\ Language\ (12)}
+  and all client interactions.
+\item
+  \texttt{Skill\ in\ SUD\ Assessment\ and\ Diagnosis\ (13)} is
+  foundational for \texttt{Skill\ in\ SUD\ Treatment\ Planning\ (14)}
+  and
+  \texttt{Skill\ in\ Applying\ the\ Stages\ of\ Change\ Model\ (20)}.
+\end{itemize}
+
+\section{Conclusion}\label{conclusion}
+
+This analysis demonstrates the complex and interconnected nature of the
+competencies required for substance use disorder counselors. The
+systematic extraction of KSAOs from textbook content provides a
+comprehensive framework that can guide curriculum development,
+professional training, certification standards, and evaluation metrics.
+
+The findings highlight several key insights:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Multidimensional Competency Requirements}: Effective SUD
+  counseling requires a blend of scientific knowledge, clinical skills,
+  interpersonal abilities, and professional characteristics.
+\item
+  \textbf{Developmental Progression}: There is a logical progression in
+  how competencies are developed, beginning with foundational knowledge
+  and personal characteristics, moving through scientific understanding,
+  and culminating in applied clinical skills.
+\item
+  \textbf{Integration of Recovery Principles}: Contemporary SUD
+  counseling emphasizes recovery-oriented approaches that recognize
+  individual agency, cultural factors, and multiple pathways to
+  recovery.
+\item
+  \textbf{Scientific Grounding}: A strong understanding of the
+  neurobiology of addiction and evidence-based approaches is essential
+  for effective practice.
+\end{enumerate}
+
+Future work could expand this analysis to additional textbook chapters
+and materials, creating a more comprehensive KSAO framework that
+represents the full spectrum of competencies needed in the field of
+substance use disorder counseling.
+
+
+
+
+\end{document}

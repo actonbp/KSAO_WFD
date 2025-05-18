@@ -1,0 +1,48 @@
+---
+description: Details of key scripts in the KSAO project
+globs: ["**/*.py"]
+alwaysApply: true
+---
+
+# Key Script Details for KSAO Project
+
+This document provides details about the important scripts in the KSAO Workforce Development project.
+
+## Main Entry Point
+
+`src/main.py`: Provides a unified command-line interface for all operations
+- Commands: `ocr`, `analyze`, `visualize`
+- Creates necessary directories and validates requirements
+- Orchestrates calls to other scripts
+
+## OCR Processing
+
+`gemini_ocr.py`: Extracts text from TIFF files using Gemini API
+- Functions:
+  - `extract_text_from_page()`: Processes a single page image
+  - `process_tif_file()`: Handles multi-page TIFF files
+  - `process_entire_book()`: Processes multiple TIFF files as a book
+
+## KSAO Analysis
+
+`src/ksao/analyze_full_textbook.py`: Analyzes text to extract KSAOs
+- Functions:
+  - `gather_all_chapter_text()`: Combines text from multiple chapters
+  - `analyze_full_textbook()`: Sends text to Gemini API for KSAO extraction
+
+`src/ksao/visualize_ksao_network.py`: Creates network visualizations of KSAOs
+- Creates hierarchical relationships between identified KSAOs
+- Generates network graphs for visualization
+
+## Testing and Utilities
+
+`test_gemini_api.py`: Tests Gemini API connectivity
+- Simple script to verify API key and connectivity
+
+`test_simplified.py`: Performs a simplified KSAO extraction
+- Used for testing when full analysis might time out
+
+`archive_deleted_files.sh`: Bash script to move files to archive
+- Preserves old files for reference
+
+When modifying these scripts, maintain consistent error handling, parameter passing, and documentation styles.

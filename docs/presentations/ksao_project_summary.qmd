@@ -1,0 +1,126 @@
+---
+title: "KSAO Workforce Development Project"
+subtitle: "Analyzing Addiction Counseling Competencies"
+author: "KSAO Research Team"
+date: "2025-05-15"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    preview-links: auto
+    logo: "../images/logo_placeholder.png"
+    footer: "KSAO Workforce Development"
+  beamer:
+    theme: Madrid
+    colortheme: dolphin
+    fonttheme: structurebold
+    aspectratio: 169
+    navigation: horizontal
+    section-titles: true
+    link-citations: true
+bibliography: references.bib
+---
+
+## Project Overview
+
+::: {.incremental}
+- **Purpose**: Redesign workforce development for addiction counseling
+- **Focus**: Knowledge, Skills, Abilities, and Other characteristics (KSAOs)
+- **Method**: Using text embeddings to understand competencies
+- **Data Source**: CASAC certification materials
+:::
+
+## Current Approach
+
+- Extract text from certification documents
+- Generate embeddings to understand semantic relationships
+- Cluster related content to identify competency domains
+- Visualize relationships between concepts
+
+## Sample Visualization
+
+![Concept Map of Addiction Counseling Domains](../final_viz/casac_learning_map.png)
+
+## Key Components
+
+::: {.columns}
+::: {.column width="50%"}
+**Data Processing**
+
+- OCR extraction
+- Text chunking
+- Embedding generation
+- Dimensionality reduction
+:::
+
+::: {.column width="50%"}
+**Analysis**
+
+- Clustering
+- Domain classification
+- Visualization
+- Study guide generation
+:::
+:::
+
+## Why KSAOs Matter
+
+::: {.incremental}
+- Current certification is **process-focused**, not outcomes-focused
+- KSAOs provide a measurable framework for competency
+- Enables evidence-based workforce development
+- Can modernize addiction counseling training
+:::
+
+## KSAO Categories
+
+| Category    | Description                               | Example                                      |
+|-------------|-------------------------------------------|----------------------------------------------|
+| Knowledge   | Factual information needed                | Brain reward pathways in addiction           |
+| Skills      | Learned capabilities                      | Motivational interviewing techniques         |
+| Abilities   | Innate talents or capacity to perform     | Empathetic listening                         |
+| Other       | Additional characteristics for success    | Cultural sensitivity, ethical judgment       |
+
+## Project Roadmap
+
+::: {.incremental}
+1. **Complete**: Initial text extraction and analysis
+2. **Complete**: Basic concept visualization and mapping
+3. **In Progress**: Organizing data and visualizations
+4. **Next**: Focus on KSAO extraction methodology
+5. **Future**: Extend to other professional domains
+:::
+
+## Technical Approach
+
+```python
+# Example embedding code
+from sentence_transformers import SentenceTransformer
+
+model = SentenceTransformer('all-mpnet-base-v2')
+embeddings = model.encode(text_chunks, show_progress_bar=True)
+
+# Apply UMAP for visualization
+reducer = umap.UMAP(
+    n_neighbors=30,
+    min_dist=0.1,
+    metric='cosine',
+    random_state=42
+)
+reduced_embeddings = reducer.fit_transform(embeddings)
+```
+
+## Future Directions
+
+::: {.callout-important}
+### Key Questions
+
+- How to systematically extract KSAOs from text?
+- How to validate extracted competencies?
+- How to create assessment frameworks from KSAOs?
+:::
+
+## References {.scrollable}
+
+::: {#refs}
+:::

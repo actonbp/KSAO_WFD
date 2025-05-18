@@ -1,0 +1,54 @@
+---
+description: Workflow guide for KSAO project
+globs: ["**/*.py", "**/*.md"]
+alwaysApply: true
+---
+
+# KSAO Project Workflow Guide
+
+This project follows a specific workflow for processing textbook material to extract KSAOs. Follow these steps when working with new documents or improving existing analysis.
+
+## Complete Workflow
+
+1. **Text Extraction (OCR) Phase**:
+   ```bash
+   python src/main.py ocr --input-dir data/Scan --output-dir data/gemini_text_output
+   ```
+   - Input: TIFF files in data/Scan/
+   - Output: Text files in data/gemini_text_output/
+   - Key script: gemini_ocr.py
+
+2. **KSAO Analysis Phase**:
+   ```bash
+   python src/main.py analyze --input-dir data/gemini_text_output --output-dir output/full_analysis
+   ```
+   - Input: Text files from OCR phase
+   - Output: KSAO analysis in output/full_analysis/
+   - Key script: src/ksao/analyze_full_textbook.py
+
+3. **Visualization Phase**:
+   ```bash
+   python src/main.py visualize --analysis-file output/full_analysis/textbook_ksao_analysis.txt --output-dir output/network_visualizations
+   ```
+   - Input: KSAO analysis from previous phase
+   - Output: Network visualizations in output/network_visualizations/
+   - Key script: src/ksao/visualize_ksao_network.py
+
+## Testing Individual Components
+
+- Test OCR on a single file:
+  ```bash
+  python gemini_ocr.py --single-chapter "Chapter 1.tif"
+  ```
+
+- Test Gemini API connectivity:
+  ```bash
+  python test_gemini_api.py
+  ```
+
+- Test simplified KSAO extraction:
+  ```bash
+  python test_simplified.py
+  ```
+
+Always ensure each component works individually before running the complete pipeline.

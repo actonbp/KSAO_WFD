@@ -1,0 +1,49 @@
+[Layout: The page has a header with the chapter title on the left and page number on the right. Below the header, there is a large image. The main text content is in a single column below the image. A distinct text box is embedded within the main text on the right side.]
+
+[Image: A close-up, black and white photograph showing a medical vial or test tube with a white label. The label prominently displays the text "TEST - HIV" in large, bold, black capital letters. Below "HIV", there is a barcode-like symbol consisting of several vertical black lines. The vial appears to be held or positioned near a gloved hand or another medical instrument, with a blurred background suggesting other medical supplies or a clinical setting. The overall image has a grainy, high-contrast aesthetic.]
+
+CHAPTER 3: Co-Occurring Conditions and Special Populations 101
+
+risky sexual behaviors, increasing the likelihood of HIV transmission. Second, specific modes of substance
+use, particularly injection drug use, provide a direct pathway for HIV transmission through the sharing of
+contaminated needles and other injection equipment. Furthermore, the social environments often associated
+with problematic substance use, such as poverty, marginalization, and limited access to healthcare, contribute to
+the increased risk of HIV exposure.⁵⁶
+
+The opioid epidemic has been escalating for over a decade in the U.S.
+Issues stemming from the opioid epidemic have led to an increased
+prevalence of people who inject drugs (PWID), which further contributes
+to recent increases in HIV cases. Individuals with HIV/AIDS also
+constitute a susceptible group adversely affected by problematic or
+long-term opioid use. They are known to suffer from HIV-related pain
+and are commonly treated with opioids, leading to subsequent opioid
+use disorders.⁵⁷ There has been a noticeable shift in the demographics of
+new HIV diagnoses among PWID. An increase in diagnoses is observed
+among White individuals, young people aged 13–34, and residents outside
+large central metropolitan areas, highlighting a change in the epidemic’s
+geography and affected populations.⁵⁸ Despite the availability of multiple
+evidence-based interventions to treat opioid use disorder and prevent HIV
+acquisition, significant barriers hinder the delivery of these solutions to
+many PWID. These include stigma, discriminatory policies, and lack of
+comprehensive healthcare access.
+
+Opioid use disorder (OUD) and
+infectious diseases are intertwined
+epidemics.⁵⁹ In the 1980s, it was
+realized that human HIV could be
+transmitted via injection drug use.
+Today, infectious diseases linked to
+OUD include HIV and hepatitis A, B,
+and C viruses, as well as bacterial,
+fungal, and other infections.
+
+For individuals living with HIV who experience a co-occurring SUD, effective SUD treatment improves both HIV-
+and SUD-related health outcomes.⁶⁰ However, people with both HIV and SUDs may delay HIV treatment initiation
+and underuse SUD treatment; therefore, personally-tailored and integrated services are necessary to achieve
+both HIV- and SUD-related treatment goals. SUD treatment programs need to be well-equipped to provide HIV
+risk assessments, testing, counseling, and linkage to HIV care providers. They should also provide PrEP (pre-
+exposure prophylaxis) and PEP (post-exposure prophylaxis) prescriptions for those who do not have HIV to
+reduce their risk of contracting HIV.
+
+While there are many considerations when treating SUDs among people with HIV, many approaches have been
+found effective for addressing these complexities and challenges. Providers should:

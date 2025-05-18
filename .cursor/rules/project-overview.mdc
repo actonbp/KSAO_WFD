@@ -1,0 +1,31 @@
+---
+description: Overview of the KSAO Workforce Development Project
+globs: ["**/*.py", "**/*.md", "**/*.qmd"]
+alwaysApply: true
+---
+
+# KSAO Workforce Development Project Overview
+
+This project analyzes Knowledge, Skills, Abilities, and Other characteristics (KSAOs) for substance use disorder counselors using Gemini AI. The repository follows a structured approach to extract KSAOs from textbook materials using OCR and advanced text analysis.
+
+## Main Components
+
+1. **Text Extraction Pipeline**: Uses Gemini OCR to extract text from TIFF scans of textbook pages
+2. **KSAO Analysis Pipeline**: Analyzes extracted text to identify and categorize KSAOs
+3. **Visualization Pipeline**: Creates network visualizations of identified KSAOs
+
+## Directory Structure
+
+- `src/`: Source code with modular structure
+- `data/`: Input data (scans and extracted text)
+- `output/`: Generated outputs (analysis results, visualizations)
+- `docs/`: Documentation and presentations
+
+## Key Files
+
+- `src/main.py`: Central entry point for all functionality
+- `gemini_ocr.py`: OCR processing using Gemini AI
+- `src/ksao/analyze_full_textbook.py`: Core KSAO extraction logic
+- `src/ksao/visualize_ksao_network.py`: Network visualization generation
+
+When developing, ensure your code follows the existing patterns and integrates with the modular structure.

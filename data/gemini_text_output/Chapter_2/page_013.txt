@@ -1,0 +1,74 @@
+CHAPTER 2: Systems of Care                                                                                                    49
+
+healthcare services more convenient for patients/clients, especially those in rural areas, those with small
+children (childcare) and those with mobility restrictions.³⁷ A 2017 review of the literature on telehealth found
+many benefits for both service recipients and service providers, such as: its ease of use; decreased travel time;
+improvements in outcomes and communication; and its low cost. Telehealth can also provide a high-quality
+service, increase access to care, and empower patients/clients to manage their chronic conditions. For healthcare
+organizations, telehealth decreases missed appointments, is a good modality for education, decreases wait times,
+decreases readmissions, and improves medication adherence.³⁸
+
+There are also challenges. To engage in telehealth, both the provider and the client need access to a device
+(i.e., a computer, tablet, or smartphone) and reliable access to the Internet (cellular or broadband). As of 2019,
+most Americans reported owning some type of cell phone, a desktop, or a laptop. Even though many have
+access to a suitable device, individuals may confront specific challenges limiting their ability to use telehealth.
+For example, the age, usability, and functionality of clients’ devices may limit their ability to be used for
+telehealth appointments. Additionally, clients may share devices with others in their home, limiting the types
+of information they would want to store or share through the device. For providers, some organizations struggle
+to have enough laptops to support staff working from home or outside of
+typical shared office space.³⁹
+
+Undoubtedly, telehealth is a tool that facilitates the delivery of treatment
+and other health related activities. Technology alone, however, does
+not bring about desired outcomes. First and foremost, counselors need
+to have a foundation of proficiency in counseling skills and practices.
+Second, their **readiness to deliver telehealth services** is critical. This
+depends on several key factors including personal motivation and
+favorable attitudes about telehealth; level of knowledge about and
+use of the chosen telehealth technology; ability to engage the person
+seeking services; ability to use clinicals skills and practices in a
+virtual environment; and adherence to legal and regulatory standards
+that govern scope of practice and protection of client rights. Due to
+the changing nature of telehealth, counselors should seek continual
+professional development and know current laws and regulations to
+ensure positive outcomes for clients and protect themselves. Professional
+associations and credentialing bodies have supported the use of
+telehealth by updating their practice guidelines to include special issues
+surrounding telehealth.⁴⁰, ⁴¹
+
+Service providers face additional obstacles:
+
+»   **Requirement for provider licensure**: Most states require
+    behavioral health counselors to be licensed (not certified). Some
+    states also require the counselor to be licensed in the state
+    where the client is located, which creates a significant barrier
+    to widespread implementation of telehealth. Several states, however, have taken actions that reduce
+    regulations associated with telehealth, including allowing practitioners (including those out of state)
+    not normally authorized to deliver telehealth services to do so and modifying in-person examination
+    requirements which are a pre-requisite for telehealth services.⁴²
+
+»   **Unpredictable regulatory environment**. Telehealth regulations and reimbursement requirements are still
+    changing.
+
+»   **Privacy concerns**. Patient confidentiality rules, both federal and state, were largely developed before the
+    Internet was used for healthcare delivery. Providers need to be vigilant to protect their clients’ privacy
+    and guard against data breaches and other threats. Providers should also carefully review mobile apps
+    used to support recovery.
+
+                                                                                                [LOGO] **CCHP**
+
+                                                                                                The Center for Connected Health
+                                                                                                Policy (CCHP) is a national resource
+                                                                                                to make telehealth policy accessible
+                                                                                                to everyone. They track and compile
+                                                                                                telehealth-related laws and regulations
+                                                                                                across all 50 states, the District of
+                                                                                                Columbia, Puerto Rico, the Virgin
+                                                                                                Islands, and at the federal level. Their
+                                                                                                free Policy Finder database is updated
+                                                                                                consistently throughout the year.
+                                                                                                **CCHP provides information only, not**
+                                                                                                **legal advice.**
+
+                                                                                                Website: https://www.cchpca.org/all-
+                                                                                                telehealth-policies/

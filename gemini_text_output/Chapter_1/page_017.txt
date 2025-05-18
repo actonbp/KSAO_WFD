@@ -1,0 +1,32 @@
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery
+
+The Controlled Substances Act (CSA), passed in 1970 by the U.S. Federal Government, established a legal framework for regulating the manufacture, importation, possession, use, and distribution of certain substances. One of the key provisions under this Act was the establishment of drug schedules. The CSA created a system of five schedules (I through V) to classify drugs, substances, and certain chemicals used to make drugs. These schedules, updated and published regularly by the US Drug Enforcement Agency, are based on the substance's accepted medical use, potential for abuse, and safety or dependence liability.36
+
+**Schedule I**
+* The drug or other substance has a high potential for problematic use.
+* The drug or other substance has no currently accepted medical use in treatment in the US.
+* There is a lack of accepted safety for use of the drug or other substance under medical supervision.
+* Examples of Schedule I substances include heroin, gamma hydroxybutyric acid (GHB), lysergic acid diethylamide (LSD), marijuana, and methaqualone.
+
+**Schedule II**
+* The drug or other substance has a high potential for problematic use.
+* The drug or other substance has a currently accepted medical use in treatment in the US or a currently accepted medical use with severe restrictions.
+* Problematic use of the drug or other substance may lead to severe psychological or physical dependence.
+* Examples of Schedule II substances include morphine, phencyclidine (PCP), cocaine, methadone, hydrocodone, fentanyl, and methamphetamine.
+
+**Schedule III**
+* The drug or other substance has less potential for problematic use than the drugs or other substances in Schedules I and II.
+* The drug or other substance has a currently accepted medical use in treatment in the US.
+* Problematic use of the drug or other substance may lead to moderate or low physical dependence or high psychological dependence.
+* Anabolic steroids, codeine products with aspirin or acetaminophen, and some barbiturates are examples of Schedule III substances.
+
+**Schedule IV**
+* The drug or other substance has a low potential for problematic use relative to the drugs or other substances in Schedule III.
+* The drug or other substance has a currently accepted medical use in treatment in the US.
+* Problematic use of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in Schedule III.
+* Examples of drugs included in Schedule IV are alprazolam, clonazepam, and diazepam.
+
+**Schedule V**
+* The drug or other substance has a low potential for problematic use relative to the drugs or other substances in Schedule IV.
+* The drug or other substance has a currently accepted medical use in treatment in the U.S.
+* Cough medicines with codeine are examples of Schedule V drugs. The drug or other substance has a low potential for problematic use relative to the drugs or other substances in Schedule IV.

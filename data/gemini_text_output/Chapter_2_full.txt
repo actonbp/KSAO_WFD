@@ -1,0 +1,710 @@
+37
+
+**CHAPTER 2:**
+SYSTEMS OF CARE
+
+38 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**INTRODUCTION**
+
+According to the 2022 National Survey on Drug Use and Health (NSDUH), 36.8 million people living in the United States who need substance use disorder (SUD) treatment did not seek it or did they think they should get it.¹ The data for adolescents, is likewise alarming – among the 1.8 million adolescents (aged 12 to 17) who had an SUD in the past year, 97.5% (or 1.7 million people) did not seek treatment or think that they should get it.² Most people with SUD face prejudice, stigma, and discrimination, and this may be especially true for sub-groups of particularly vulnerable individuals seeking treatment (e.g. racial/ethnic, sexual minority, justice-involved, and others). The stigma surrounding individuals who have SUDs is a pervasive phenomenon that has had detrimental effects on treatment outcomes, healthcare providers, treatments, research, policies, and society as a whole.³ Consequences of such stigma include avoidance of medical and substance use services, decreased retention in treatment, and increased substance use.⁴ The 2022 National Drug Control Strategy emphasizes the importance of having a comprehensive SUD system of care that meets individuals where they are, offering essential services that save lives, enhance health, and provide a full range of prevention, treatment, and recovery support.⁵
+
+This chapter examines the many issues surrounding the provision care for individuals with SUDs, highlighting the need for integrated care systems that also include services for co-occurring mental health and physical health conditions. The chapter addresses the evolution of the SUD treatment service system which has shifted to include more integrated and holistic approaches. These changes are partly in response to the opioid crisis, advancements in telehealth, and a growing recognition of the interconnectedness of substance use, mental health, and physical health. It explores the traditional system of care for SUD with an expanded focus on current harm reduction strategies, and the intersection of the behavioral health systems with primary healthcare, the criminal justice system, and child welfare.
+
+44 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+Both ambulatory and inpatient detoxification have their roles in the continuum of care for SUD, with the choice
+of setting depending on individual client needs and circumstances. The primary goal in both approaches is to
+safely manage withdrawal symptoms, initiate the recovery process, and facilitate transition to ongoing SUD
+treatment.
+
+**Outpatient Programs**
+
+Outpatient treatment programs encompass a range of services and therapies which are delivered in a variety
+of settings, such as clinics, counseling centers, hospitals, or community health facilities. Outpatient treatment
+varies in the types and intensity of services offered. Treatment services typically include individual, group, and
+family counseling. Services can range from weekly counseling to intensive counseling provided several times a
+week.
+» Outpatient treatment is appropriate for individuals whose substance use patterns allow them to remain in
+their own homes and environments while receiving services. These programs serve a diverse population
+of individuals with problematic substance use, including those who:
+    » Do not require 24-hour supervision or medical detoxification.
+    » Are transitioning from inpatient or residential treatment to a less intensive level of care.
+    » Are seeking flexibility to attend treatment while managing work, school, or family responsibilities.
+    » Have a strong support system at home or in the community who can benefit from outpatient services.
+    » Have completed detoxification and stabilization are ready for ongoing recovery support and relapse
+    prevention strategies.
+    » Have co-occurring mental health disorders who require integrated treatment for both conditions.
+
+There are levels of intensity within the outpatient program category. Intensive outpatient programs and partial
+hospitalization programs provide structured treatment for SUDs, but the key difference lies in the intensity and
+type of care.
+» **Intensive Outpatient Programs (IOPs)** are ambulatory services for individuals with SUDs who do not meet
+diagnostic criteria for residential or inpatient treatment or for those who are discharged from 24-hour
+care in an inpatient treatment facility and continue to need more support than the weekly or bi-weekly
+sessions provided in traditional outpatient care. IOP services offer a minimum of 9 hours of service per
+week in three, 3-hour sessions; however, some programs provide more sessions per week and/or longer
+sessions per day, and many programs become less intensive over time. Because services are provided in
+outpatient settings, the duration may be longer than that required for inpatient services. IOPs provide
+structured individual, group, or family counseling as well as psychoeducation about substance use and
+mental health disorders. IOPs allow clients to remain in their own homes and communities, which may
+improve their adjustment to community life.¹⁸ Service settings are usually community-based public and
+private substance use treatment centers or hospital-based inpatient and day treatment; however, online
+synchronous IOP programming and telehealth appointments have steadily evolved to bolster existing
+services and meet the needs of individuals living in rural areas.¹⁹
+» **Partial Hospitalization Programs (PHP)** offer a more intensive level of care than IOPs, usually providing
+treatment services during the day for several hours, five to seven days a week. Clients return home
+at night. PHPs serve as an intermediate step between inpatient care and IOPs, providing medical
+monitoring, psychiatric stabilization, and intensive therapy. They are suitable for clients who require
+more comprehensive medical and psychiatric attention but do not need 24-hour hospitalization.
+PHPs can include medical supervision, medication management, individual and group therapy, and
+other therapeutic activities. They are often used as a step-down from inpatient care or to prevent
+hospitalization for clients whose condition can be managed with intensive day treatment.²⁰
+
+CHAPTER 2: Systems of Care                                                                                                    49
+
+healthcare services more convenient for patients/clients, especially those in rural areas, those with small
+children (childcare) and those with mobility restrictions.³⁷ A 2017 review of the literature on telehealth found
+many benefits for both service recipients and service providers, such as: its ease of use; decreased travel time;
+improvements in outcomes and communication; and its low cost. Telehealth can also provide a high-quality
+service, increase access to care, and empower patients/clients to manage their chronic conditions. For healthcare
+organizations, telehealth decreases missed appointments, is a good modality for education, decreases wait times,
+decreases readmissions, and improves medication adherence.³⁸
+
+There are also challenges. To engage in telehealth, both the provider and the client need access to a device
+(i.e., a computer, tablet, or smartphone) and reliable access to the Internet (cellular or broadband). As of 2019,
+most Americans reported owning some type of cell phone, a desktop, or a laptop. Even though many have
+access to a suitable device, individuals may confront specific challenges limiting their ability to use telehealth.
+For example, the age, usability, and functionality of clients’ devices may limit their ability to be used for
+telehealth appointments. Additionally, clients may share devices with others in their home, limiting the types
+of information they would want to store or share through the device. For providers, some organizations struggle
+to have enough laptops to support staff working from home or outside of
+typical shared office space.³⁹
+
+Undoubtedly, telehealth is a tool that facilitates the delivery of treatment
+and other health related activities. Technology alone, however, does
+not bring about desired outcomes. First and foremost, counselors need
+to have a foundation of proficiency in counseling skills and practices.
+Second, their **readiness to deliver telehealth services** is critical. This
+depends on several key factors including personal motivation and
+favorable attitudes about telehealth; level of knowledge about and
+use of the chosen telehealth technology; ability to engage the person
+seeking services; ability to use clinicals skills and practices in a
+virtual environment; and adherence to legal and regulatory standards
+that govern scope of practice and protection of client rights. Due to
+the changing nature of telehealth, counselors should seek continual
+professional development and know current laws and regulations to
+ensure positive outcomes for clients and protect themselves. Professional
+associations and credentialing bodies have supported the use of
+telehealth by updating their practice guidelines to include special issues
+surrounding telehealth.⁴⁰, ⁴¹
+
+Service providers face additional obstacles:
+
+»   **Requirement for provider licensure**: Most states require
+    behavioral health counselors to be licensed (not certified). Some
+    states also require the counselor to be licensed in the state
+    where the client is located, which creates a significant barrier
+    to widespread implementation of telehealth. Several states, however, have taken actions that reduce
+    regulations associated with telehealth, including allowing practitioners (including those out of state)
+    not normally authorized to deliver telehealth services to do so and modifying in-person examination
+    requirements which are a pre-requisite for telehealth services.⁴²
+
+»   **Unpredictable regulatory environment**. Telehealth regulations and reimbursement requirements are still
+    changing.
+
+»   **Privacy concerns**. Patient confidentiality rules, both federal and state, were largely developed before the
+    Internet was used for healthcare delivery. Providers need to be vigilant to protect their clients’ privacy
+    and guard against data breaches and other threats. Providers should also carefully review mobile apps
+    used to support recovery.
+
+                                                                                                [LOGO] **CCHP**
+
+                                                                                                The Center for Connected Health
+                                                                                                Policy (CCHP) is a national resource
+                                                                                                to make telehealth policy accessible
+                                                                                                to everyone. They track and compile
+                                                                                                telehealth-related laws and regulations
+                                                                                                across all 50 states, the District of
+                                                                                                Columbia, Puerto Rico, the Virgin
+                                                                                                Islands, and at the federal level. Their
+                                                                                                free Policy Finder database is updated
+                                                                                                consistently throughout the year.
+                                                                                                **CCHP provides information only, not**
+                                                                                                **legal advice.**
+
+                                                                                                Website: https://www.cchpca.org/all-
+                                                                                                telehealth-policies/
+
+CHAPTER 2: Systems of Care 53
+
+**Mutual-Help Groups**
+
+**Mutual-help groups**—also known as mutual-aid, mutual-support or self-help—groups—are groups of two or
+more people who share an experience or condition, and who come together to provide condition-specific help
+and support to one another. Members themselves run groups without professional involvement. And, unlike
+professional interventions, people can attend mutual-help groups as intensively and for as long as they desire,
+without insurance approval or divulgence of personally identifying information.
+
+The most popular type of mutual-help group is based on the Twelve Steps of Alcoholics Anonymous (AA). AA and
+other **12-Step programs** are based on a set of guiding principles outlining a course of action for recovery from
+problematic substance use or other behavioral problems. 12-Step programs focus on three key ideas:
+
+1. Acceptance or the realization that substance use disorder is a chronic, progressive disease over which one
+   has no control, that willpower alone is insufficient to overcome the problem, and that abstinence is the
+   goal.
+
+2. Surrendering or giving oneself over to a higher power, accepting the fellowship and support structure of
+   other individuals in recovery, and following the recovery activities laid out by the 12-Step program.
+
+3. Active involvement in 12-Step meetings and related activities.
+
+CHAPTER 2: Systems of Care 55
+
+**SYSTEM APPROACHES**
+
+**Harm Reduction⁵²**
+
+Harm reduction is an evidence-based, proactive approach designed to reduce the negative impacts of problematic substance use.⁵³ It’s focused on meeting people “where they are” and on their own terms,⁵⁴ and includes compassionate and practical strategies that aim to minimize harm related to problematic substance use. The goal of harm reduction is to enhance quality of life without requiring or advising abstinence or reduction of use. According to SAMHSA, harm reduction is a practical and transformative approach that incorporates community-driven public health strategies—including prevention, risk reduction, and health promotion—to empower people who use drugs.
+
+Harm reduction is a set of services, an approach, and a type of organization. Harm reduction has, at times, been reduced to a singular service or group of services, when in fact, its application goes well beyond this. Harm reduction as an approach — with supporting **principles** and **pillars** that can be applied to a variety of contexts — includes the provision of evidence-based treatment.⁵⁵
+
+Within this framework, harm reduction is designed to encourage positive change and reduce the negative health-related consequences of risky behavior that may be associated with substance use.⁵⁶ It is based on the premise that all people inherently deserve services that promote health, regardless of whether they have problematic substance use.⁵⁷ Given that each person in recovery has their own recovery goals (which may or may not include abstinence from substances), harm reduction activities can encourage outcomes that help prevent overdose and infectious disease transmission for people who have problematic substance use.⁵⁸
+
+Harm reduction strategies are also highly effective in supporting safer substance use behaviors. For example, syringe services programs have limited the sharing of syringes, decreased HIV infection rates, and resulted in fewer overdose deaths.⁵⁹ Harm reduction strategies for opioid use disorder (OUD) have reduced the spread of infectious diseases, resulted in fewer opioid overdoses, and improved retention in and access to care.⁶⁰
+
+Harm reduction strategies include conducting overdose education and naloxone distribution to reduce the risk of opioid overdose; offering test strips to check drugs for fentanyl and xylazine and support safer use; and supporting activities of daily living, including providing services to help people who are using substances obtain food, take showers, or connect
+
+**PILLARS**
+> Is guided by people who use drugs and who have lived experience of drug use.
+---
+> Embraces the inherent value of people.
+---
+> Commits to deep engagement and community building.
+---
+> Promotes equity, rights and reparative social justice.
+---
+> Offers the lowest barrier access and noncoercive support.
+---
+> Focuses on positive change, as defined by the person.
+
+**PRINCIPLES**
+> Respect autonomy.
+---
+> Practice acceptance and hospitality.
+---
+> Provide support.
+---
+> Connect family (biological or chosen).
+---
+> Provide many pathways to well-being and across the spectrum of health and social care.
+---
+> Value practice-based evidence and on-the-ground experience.
+---
+> Cultivate relationships.
+---
+> Assist, not direct.
+---
+> Promote safety.
+---
+> Engage first.
+---
+> Prioritize listening.
+---
+> Work toward system change.
+
+56 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+with housing. These activities have been found to reduce the risk of injury, illness, and death associated with
+substance use.⁶¹ According to SAMHSA, harm reduction services can:⁶²
+
+» Connect individuals to overdose education, counseling, and referral to treatment for infectious diseases
+and substance use disorders.
+
+» Distribute opioid overdose reversal medications (i.e., naloxone) to individuals at risk of overdose or to
+those who might respond to an overdose.
+
+» Lessen harms associated with drug use and related behaviors, such as high-risk sexual activity. Such
+behaviors may increase the risk of infectious diseases, including HIV, sexually transmitted infections,
+viral hepatitis, and bacterial and fungal infections.
+
+» Reduce infectious disease transmission among people who use drugs, including those who inject drugs, by
+equipping them with accurate information and facilitating referral to resources.
+
+» Reduce overdose deaths, promote linkages to care, and facilitate colocation of services as part of a
+comprehensive, integrated approach.
+
+» Reduce stigma associated with substance use and co-occurring disorders.
+
+» Promote a philosophy of hope and healing by incorporating people with lived experience of recovery in the
+management of harm reduction services, and connecting service recipients who have expressed interest to
+treatment, peer support workers, and other recovery support services.
+
+» Build community and increase protective factors – for people who use drugs and their families.
+
+SAMHSA and the Centers for Disease Control and Prevention have joined together for the National Harm
+Reduction Technical Assistance Center to provide free help to anyone in the country providing (or planning
+to provide) harm reduction services to their community. This may include syringe services programs, health
+departments, programs providing treatment for substance use disorder, as well as prevention and recovery
+programs.
+
+**HARM REDUCTION METHODS**
+
+Several evidence-based harm reduction methods are available to support recovery from problematic substance
+use. Here are four examples of widely used harm reduction methods. Each intervention includes information for
+SUD counselors who want to connect people in recovery with related resources in their community.
+
+**Safer Injection Practices** - People who inject drugs (PWID) are at higher risk of disease transmission, including
+HIV and hepatitis C virus (HCV), as well as damage to their veins and other potentially serious soft tissue
+infections.⁶³ PWID may also be more likely to engage in high-risk sexual behaviors, such as unprotected sex,
+which may put them at higher risk of other sexually transmitted infections (STIs).⁶⁴ Harm reduction practices
+that educate people about safer injection practices and offer clean supplies are essential for reducing exposure to
+infections and supporting safety with continued use.
+
+Counselors can access many harm reduction resources to share information with PWID about the importance of
+ensuring they have access to clean water and supplies; performing handwashing, basic hygiene, and wound care;
+and understanding other methods for reducing infection. Key areas to discuss include:⁶⁵
+
+» Cleaning hands and skin prior to injections.
+» Using sterile equipment prior to each injection (the next section discusses syringe services programs).
+» Cleaning used syringes with bleach if new syringes are not available.
+» Understanding how to find and care for veins.
+» Practicing appropriate hygiene to prevent infections following an injection.
+
+CHAPTER 2: Systems of Care                                                                                                          57
+
+**Syringe Services Programs** - Access to clean needles and syringes helps to ensure PWID are at reduced risk of
+contracting HIV, viral hepatitis, or other bloodborne infections. More than three decades of research supports
+the use of syringe services as safe, cost-effective, and life-saving programs for people who have problematic
+substance use.⁶⁶
+
+Most community-based syringe services programs provide access to sterile needles, syringes, and other injection
+equipment; facilitate safe disposal of used syringes; and offer a range of other services, including:⁶⁷, ⁶⁸
+    »    Referrals to SUD treatment programs
+    »    Screening, care, and treatment to prevent HIV, STIs, and viral hepatitis
+    »    Sexual health programming, including counseling and condom distribution
+    »    Education about overdose prevention and safer injection practices
+    »    Vaccinations
+    »    Overdose education and naloxone distribution
+    »    Referral to a range of other services
+
+**Naloxone and Overdose Education Kits**
+- Naloxone, a medication that can rapidly
+reverse an opioid overdose, is an essential
+harm reduction tool for people who have
+problematic opioid use. Naloxone attaches
+to opioid receptors and reverses and blocks
+the effects of opioids. The medication,
+which is now available over the counter as
+a nasal spray as well as by prescription,
+can quickly restore normal breathing to
+a person if their breathing has slowed or
+stopped because of an opioid overdose.⁶⁹
+
+SAMHSA recommends that every client
+who has problematic opioid use or
+OUD receive opioid overdose prevention education and naloxone.⁷⁰ Naloxone is generally not harmful. In the
+event of an ongoing overdose, the risk of death associated with opioid overdose is far greater than the risk of
+experiencing adverse effects from naloxone administration. **Chapter 6 in this study guide provides more detailed
+information about the use of Naloxone.**
+
+**Fentanyl and Xylazine Test Strips** - The use of fentanyl has been associated with a significant increase in
+overdose and death rates.⁷¹ Fentanyl is a powerful synthetic opioid that is 50 times stronger than heroin and 100
+times stronger than morphine.⁷² Although pharmaceutically produced fentanyl is prescribed to treat pain, illicitly
+manufactured fentanyl may be added to other substances, making those drugs more powerful and addictive. It is
+also difficult to tell whether a substance contains fentanyl, making the substance more dangerous.⁷³
+
+Fentanyl test strips, which can now be purchased with federal funding, can detect the presence of fentanyl
+within 5 minutes. They are an essential harm reduction tool for reducing overdose and deaths related to this
+substance.⁷⁴ Counselors can learn how to access and use fentanyl test strips through local syringe services
+programs. The North America Syringe Exchange Network's website has a map with links for locating many of
+these programs in their communities.⁷⁵
+
+```json
+[
+  {"box_2d": [45, 34, 54, 50], "text": "58"},
+  {"box_2d": [40, 81, 51, 507], "text": "IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide"},
+  {"box_2d": [100, 34, 127, 443], "text": "Trauma-Informed Systems of Care"},
+  {"box_2d": [132, 36, 205, 874], "text": "Trauma can be a life-changing experience. Traumatic events can happen at any age to any person and may\naffect their daily life and cause long-lasting harm to their physical and mental health and well-being. Traumatic\nevents may be experienced by an individual, a generation, or an entire community or culture. Trauma recovery\nand healing is possible through appropriate and adequate support at these levels.76"},
+  {"box_2d": [208, 36, 364, 871], "text": "SAMHSA defines trauma through three Es: events, the experience of those events, and the long-lasting adverse\neffects of the event.77 Events include the actual or threat of physical or psychological harm and may occur as a\nsingle event or repeatedly over time. How a person experiences these events determines whether it is considered\ntraumatic. The long-lasting adverse effects of an event can occur immediately or be delayed. Thus, individual\ntrauma is a result of an event or series of events that is physically or emotionally harmful, or life threatening,\nand that has lasting adverse effects on a person’s mental, physical, social, emotional, or spiritual well-being.78\nTrauma that affects communities, known as community trauma, includes a range of violence and atrocities\nthat erode the sense of safety within a given community. This type of trauma can also result from attempts to\ndismantle systemic cultural practices, resources, and identities.79"},
+  {"box_2d": [367, 41, 408, 873], "text": "People experience trauma in different ways and may experience multiple traumatic events. Trauma can occur in\nthree forms:80"},
+  {"box_2d": [414, 101, 435, 727], "text": "Acute trauma, referring to one incident of trauma that is relatively short in duration."},
+  {"box_2d": [423, 72, 432, 84], "text": "»"},
+  {"box_2d": [431, 102, 451, 579], "text": "Chronic trauma, which includes repeated and prolonged trauma."},
+  {"box_2d": [439, 73, 448, 85], "text": "»"},
+  {"box_2d": [445, 101, 468, 780], "text": "Complex trauma, or prolonged and repeated trauma that is invasive or interpersonal nature."},
+  {"box_2d": [454, 74, 463, 86], "text": "»"},
+  {"box_2d": [473, 44, 580, 885], "text": "Physically or emotionally harmful or life-threatening experiences (e.g., sexual assault, exposure to gun violence),\ncan lead to trauma that causes lasting adverse effects on a person’s mental, physical, social, and emotional well-\nbeing. Evidence suggests a strong connection between the experience of trauma and problematic substance use.81\nClients with a history of problematic substance use may also have a history of trauma that is connected to this\nuse, even though they may not be able to recall aspects of their trauma. The following summarizes some of the\ntypes of trauma that may affect clients."},
+  {"box_2d": [582, 107, 720, 889], "text": "Adverse Childhood Experiences (ACEs). ACEs are traumatic events or chronic stressors that can\nnegatively impact a child’s health and are outside of their control. ACEs incorporate a variety of events\nand stressors including, but not limited to child abuse and neglect, sexual abuse, domestic violence,\nsubstance abuse, mental illness, crime, extreme economic adversity, bullying and school or community\nviolence, sudden loss of a loved one, sudden and frequent relocation, serious accidents or life-threatening\nchildhood illness, natural disasters, kidnapping, and war. Experiencing ACEs without supportive adults\ncan lead to toxic stress, or an extensive activation of the stress response system. This stress accumulates\nand creates “wear and tear” on the body and brain.82"},
+  {"box_2d": [594, 77, 602, 89], "text": "»"},
+  {"box_2d": [724, 110, 879, 886], "text": "ACEs have been linked with maladaptive health behaviors including, but not limited to physical\ninactivity, alcohol, substance, and tobacco misuse and negative health outcomes, including but\nnot limited to heart disease, cancer, chronic lung disease, skeletal fractures, liver disease, suicide,\ndepression, obesity, and poor self-rated health throughout the lifespan.83 Many studies have linked ACEs\nto problematic substance use later in life.84, 85 For example, experiencing childhood trauma, including\nemotional maltreatment, physical maltreatment, and sexual abuse, increases the risk of problematic\nsubstance use. One study identified a history of ACEs among more than 70% of adolescents with\nproblematic opioid use.86 People with a history of ACEs benefit from trauma-informed and culturally\nsensitive approaches."},
+  {"box_2d": [884, 116, 989, 886], "text": "It is important to note that the National Child Traumatic Stress Network (NCTSN) cautions against\nusing the original 10-item checklist as a tool for risk screening or intervention and service planning\nfor individuals. The rationale is that it captures a narrow experience of childhood adversity, but its use\nas screening or assessment tool is incomplete and can be misinterpreted and misused. The NCTSN is\nbuilding on the foundation of the ACEs research to expand service practices that reflect the rich and\npractically useful context that a trauma-informed approach can provide in addition to ACEs and the ACE"}
+]
+```
+
+64 | IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+15. **Provide Hope—Recovery Is Possible**
+Providing hope involves projecting an attitude that recovery is possible. This attitude also involves viewing clients as competent to make changes that will allow them to deal with trauma-related challenges, providing opportunities for them to practice dealing with difficult situations, and normalizing discomfort or difficult emotions and framing these as manageable rather than dangerous. When this is conveyed consistently, they will begin to understand that discomfort is not a signal to avoid, but a sign to engage—and that behavioral, cognitive, and emotional responses to cues associated with previous traumas are a normal part of the recovery process.
+
+16. **Develop Strategies to Address Secondary Trauma and Promote Self-Care**
+Secondary trauma refers to the trauma that behavioral health service and other providers may experience through exposure to their clients’ traumatic experiences. Working with survivors of trauma may cause additional trauma-related symptoms for counselors. Counselors can reduce the risk of secondary trauma by monitoring their own mental health needs, seeking assistance from behavioral health service providers, and engaging in self-care activities.
+
+**Secondary traumatic stress,**
+Secondary traumatic stress, also
+known as compassion fatigue, is
+emotional duress that can result
+from hearing about another person’s
+firsthand traumatic experiences and
+may manifest in the counselor as
+changes in memory, sense of safety
+and trust, and other symptoms often
+associated with post-traumatic
+stress disorder.
+
+**Compassion fatigue** is a label
+proposed as a less stigmatizing
+way to describe secondary
+traumatic stress, has been used
+interchangeably with that term.
+
+**Burnout** is a form of physical,
+mental, and emotional exhaustion
+caused by chronic work-
+related stress. It can lead to
+depersonalization and reduced
+feelings of personal accomplishment
+because of chronic exposure or
+work with populations which are
+vulnerable and/or suffering.101,102
+
+**SECONDARY TRAUMA AND BURNOUT**
+
+Secondary trauma is a normal occupational hazard for SUD and mental health professionals, particularly those who serve populations that are likely to include survivors of trauma. The demands of providing care to trauma survivors can**not** be ignored. Counselors face significant challenges, including secondary traumatic stress (STS), burnout, and the need for self-care. To help avoid secondary trauma, counselors must be aware of the risks and symptoms. Their symptoms may include physical or psychological reactions to traumatic memories that clients have shared; avoidance behaviors during client interactions or when recalling emotional content in supervision; numbness, limited emotional expression, or diminished affect; somatic complaints; heightened arousal, including insomnia; negative thinking or depressed mood; and detachment from family, friends, and others.100 Over time, secondary traumatic stress can lead to **vicarious traumatization**, the cumulative effect on the clinician after consistent exposure to other people’s traumatic experiences.
+
+One component of secondary trauma is **burnout**, which is associated with too much work and not enough resources to do that work well. Burnout can result in depression and anxiety, physical and emotional exhaustion, and less enjoyment of work. Planning for coping with secondary trauma and preventing burnout is crucial. To promote self-care, SUD counselors should engage in practices that prevent the emotional exhaustion and depersonalization associated with burnout and STS. These practices may include103, 104
+
+» **Professional Supervision and Consultation**: Regular supervision or consultation with experienced colleagues can provide support, allow for emotional processing, and offer new perspectives on challenging cases.
+
+» **Personal Therapy**: Engaging in personal therapy can help counselors understand their own emotional responses and develop strategies for managing secondary trauma.
+
+CHAPTER 2: Systems of Care 65
+
+» **Education and Training:** Continuing education on topics related to trauma, burnout, and self-care can provide counselors with additional strategies and tools for managing their stress and emotional health.
+
+» **Mindfulness and Meditation:** Practices such as mindfulness, meditation, and yoga can help reduce stress, increase emotional regulation, and improve overall well-being.
+
+» **Physical Self-Care:** Regular exercise, adequate sleep, and nutritious eating can help maintain physical health and resilience against stress.
+
+» **Setting Boundaries:** Establishing clear boundaries between work and personal life, including managing work hours and caseloads, can help prevent burnout.
+
+» **Peer Support:** Building a network of supportive colleagues can provide a space for sharing experiences and coping strategies, reducing feelings of isolation.
+
+» **Creative Outlets:** Engaging in creative activities outside of work, like art, music, or writing, can provide emotional release and rejuvenation.
+
+» **Nature and Leisure Time:** Spending time in nature and engaging in leisure activities can be restorative and help counselors disconnect from work stress.
+
+» **Professional Development:** Pursuing interests and goals outside of the direct counseling role, such as teaching, research, or advocacy, can provide a sense of growth and accomplishment.
+
+» **Self-Reflection:** Regular self-reflection on the impact of work can help counselors recognize early signs of burnout or secondary trauma and take proactive steps to address them.
+
+Implementing these strategies consistently can help counselors manage the emotional demands of their work and maintain their own mental health and well-being.
+
+**Social Determinants of Health**
+
+Social determinants of health (SDOH) refer to the conditions in the environments where people are born, live, learn, work, play, worship, and age that affect a wide range of health, functioning, and quality-of-life outcomes and risks. The relationship between SDOH and health outcomes is complex and interdependent, with each determinant potentially affecting health directly and indirectly. Counselors need to recognize and understand the connection between SDOH and problematic substance use to fully support clients in their recovery journey.¹⁰⁵
+
+The U.S. Department of Health and Human Services’ (HHS) Office of Disease Prevention and Health Promotion and Healthy People 2030 groups SDOH into the following five domains.¹⁰⁶, ¹⁰⁷
+
+1.  **Healthcare access and quality:** People lacking access to healthcare may be unable to receive the care they need and may forgo needed preventive care or treatment for illnesses. Limited access to healthcare services can prevent individuals from receiving early intervention and treatment for substance use disorders, leading to more severe and chronic conditions over time.¹⁰⁸
+
+2.  **Education access and quality:** People with higher levels of education are more likely to live healthier lives because of their ability to obtain safe, high-paying jobs. People with less education and poorer quality of education have fewer employment opportunities and are more likely to face health problems, such as heart disease, diabetes, and depression.¹⁰⁹ Lower educational attainment is associated with an increased risk of substance use and SUDs.¹¹⁰ Education can provide knowledge about the risks of substance use, as well as opportunities for economic stability that can reduce vulnerability to substance abuse.
+
+3.  **Social and community context:** Relationships and interactions with family and friends and strong ties with the community are important. The level of connectedness and trust among members of a community helps to create strong social networks that can improve health outcomes by promoting
+
+66 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+mutual aid, disseminating health information
+more effectively, and reducing the impact
+of mental stress. Conversely, experiencing
+interactions involving racism or discrimination
+can negatively affect health.¹¹¹ Strong social ties
+and support networks can act as a protective
+factor against substance use disorders. Isolation
+and lack of social support, on the other hand,
+can increase the risk of substance use and
+hinder recovery efforts. In addition, exposure
+to socially toxic environments (violence,
+poverty, and economic stressors) may increase
+vulnerability to problematic substance use.¹¹²
+
+4. **Economic stability:** A close link exists between
+access to financial resources and health and
+well-being. People living in poverty or with
+financial instability have poorer health. Without
+access to income, people may be more likely
+to forgo needed healthcare or be unable to
+pay for food or housing. Poverty and low
+socioeconomic status are linked to higher rates
+of problematic substance use, as individuals in
+these situations may experience higher levels of
+stress, limited access to healthcare, and greater exposure to drug-using environments.¹¹³
+
+5. **Neighborhood and built environment:** Neighborhood and the built environment encompasses safety,
+housing quality, access to transportation and healthy food, and environmental conditions, such as water
+and air quality. These factors can directly affect health. Where someone lives matters when it comes to
+problematic substance use. For example, researchers have established links between drug overdose and
+a deteriorating urban built environment with such characteristics as dilapidated or burned buildings,
+vandalized public property, and unclean streets.¹¹⁴
+
+Social Determinants of Health
+
+CHAPTER 2: Systems of Care 67
+
+SYSTEMS INTEGRATION
+
+The integration of health, behavioral health, and human service systems
+is a pivotal strategy for addressing and reducing the **health disparities**
+that stem from social, economic, and environmental disadvantages.
+These preventable disparities result in unequal health outcomes, service
+accessibility issues, and differences in the quality of care received by
+various population groups. Integration also provides a method for
+achieving **health equity** which is a continual process of ensuring that
+all individuals or populations have optimal opportunities to attain the
+best health possible.¹¹⁵ Applying the principle of health equity requires
+that barriers to promoting good health are removed and resources are
+allocated among populations and/or communities proportional to their
+need(s). Systems integration not only enhances the reach and effectiveness of services but also ensures that
+interventions are culturally relevant and sensitive to the unique needs of diverse communities.
+
+Integrating systems of care for individuals with SUDs has substantial benefits. These individuals often have
+co-occurring mental health and physical health conditions. Integrated care ensures all conditions are treated
+simultaneously, promoting a more holistic approach to healthcare. The evidence strongly suggests that people
+of all ages living with these co-occurring conditions have higher health costs yet experience poorer health
+outcomes. They, and their families, are faced with significant inequities based on racial, ethnic, and economic
+challenges and can benefit from evidence-based integrated interventions in whatever setting they are best
+engaged. Integrated care models are often more cost-effective, preventing conditions from worsening and
+reducing the need for intensive treatments later. Integration also enhances accessibility, reducing the need for
+clients to navigate multiple healthcare providers by offering a streamlined service that addresses all their health
+needs in one place.¹¹⁷
+
+Primary Care
+
+Integrating SUD services with primary health care is a strategic approach
+to improving access to treatment for the 39.7 million adults and 1.8
+million adolescents in the U.S. who currently do not seek or receive
+necessary SUD treatment. Nearly 95% of those not receiving treatment
+didn’t believe they needed help—but for 1.8 million adults who thought
+they did, barriers to treatment left them unwilling or unable to get
+support.¹¹⁸ Integrated care is vital for expanding access to behavioral
+health services. There are many barriers to accessing specialty substance
+use and mental health services such as provider shortages,¹¹⁹ high out-
+of-pocket costs, and gaps in insurance coverage. In addition, providing
+these specialty treatment services in primary healthcare settings can
+help reduce the stigma associated with these conditions, normalizing
+them as part of overall health care and encouraging more people to seek
+help.
+
+Models for integrating primary care with behavioral health are diverse,
+involving collaborative care models, enhanced use of health IT, adoption
+of the PCMH model, focused training and workforce development,
+supportive policy changes, and specialized programs for different
+populations. There is a continuum of various levels of integration.¹²⁰
+
+**Health disparities** are preventable
+differences in the burden of disease,
+injury, violence, or opportunities
+to achieve optimal health that are
+experienced by socially disadvantaged
+populations.¹¹⁶
+
+**Integratedness** is the degree to
+which programs or practices are
+organized to deliver integrated
+physical and behavioral health
+prevention and treatment services.
+
+Integratedness is also a measure
+of development of both structural
+components (e.g., staffing) and
+care processes (e.g., screening)
+that support the extent to which
+“integrated services” in these
+settings are directly experienced
+by people served and delivered by
+service providers.¹²¹
+
+CHAPTER 2: Systems of Care 69
+
+**Patient-Centered Medical Homes (PCMH).** The PCMH model emphasizes comprehensive, continuous, and
+integrated healthcare services. In a PCMH, primary care providers, behavioral health professionals, and other
+healthcare staff work collaboratively in a coordinated approach to manage all aspects of patient care. This model
+is designed to improve access to healthcare, enhance the patient experience, increase care coordination, and
+improve health outcomes by integrating behavioral health with primary care.
+
+**Training and Workforce Development.** Initiatives aimed at training primary care providers in recognizing
+and managing behavioral health issues are essential for integration. This includes providing primary care
+professionals with resources and training in behavioral health screening, brief interventions, and referral to
+specialized care when needed. Additionally, there are special federal workforce initiatives like loan repayment
+programs, scholarships, and training grants helps to meet the growing demand for integrated care services.
+
+**Policy and Reimbursement Changes.** Federal and state policies are increasingly supporting the integration
+of primary care and behavioral health. This includes changes in reimbursement policies to fund integrated
+care models, such as bundled payments or value-based care arrangements that incentivize holistic and
+patient-centered care approaches. The Affordable Care Act (ACA), for instance, has provisions that support the
+integration of behavioral health into primary care settings, reflecting a systemic shift towards comprehensive
+and coordinated healthcare services. The Drug Addiction Treatment Act (DATA) of 2000 marked a pivotal
+change in the approach to opioid addiction treatment, moving towards a more medicalized and less centralized
+treatment model for opioid use disorders. Expanded funding at the federal level has supported integration, such
+as the Substance Abuse Service Expansion (SASE) and the Access Increases in Mental Health and Substance
+Abuse Services (AIMS) which were initiatives designed to enhance SUD and mental health services at HRSA-
+funded health centers.¹²³ Other recent funding initiatives have been targeted at the opioid crisis (e.g., State
+Opioid Response (SOR, STOR) grants, Tribal Opioid Response grants, State Pilot Grant Program for Treatment for
+Pregnant and Postpartum Women).
+
+**Targeted Programs for Special Populations.** Recognizing the unique needs of specific populations, such as
+pregnant women, children, adolescents, the elderly, and veterans, some initiatives focus on integrating care
+tailored to these groups. For example, programs targeting children and adolescents may integrate pediatric care
+with child and adolescent psychiatry and psychology, while initiatives for veterans might combine primary care
+with specialized behavioral health services addressing PTSD and other service-related health issues.
+
+**Criminal Justice System**¹²⁴
+
+Arrest and incarceration of people with SUDs has had severe
+consequences for individuals, their families and communities,
+and society. Attaching criminal penalties to substance use
+alone has contributed to lost lives, hope and opportunity.
+Untreated SUD is overrepresented in the prison and jail
+populations. It is estimated that 63% of people in jail and
+58% in prison have an SUD.¹²⁵ The impact begins at arrest and
+continues through incarceration, after release, and during
+reentry to communities. Arrest and incarceration for crimes
+related to substance use and possession disproportionately
+impact Black, indigenous, and other historically marginalized
+communities. In fact, Black persons are nearly five times
+more likely to be incarcerated for drug possession than
+White persons. Additional data shows Black Americans are
+incarcerated at 4.8 times the rate of White Americans, and
+Latinx individuals are incarcerated at a rate of 1.3 times the
+rate of White non-Latinx.¹²⁶ Among other racial groups, recent
+data for federal prisons show that Asians represent 1.5% of
+their incarcerated population and Native Americans represent
+2.8%.¹²⁷
+
+CHAPTER 2: Systems of Care                                                                                                  73
+
+Children in foster care often have difficult relationships with their caregivers due to histories of maltreatment and frequent placement changes. These challenges can lead to feelings of instability, isolation, and a lack of emotional support, increasing the risk of turning to substance use as a coping mechanism.143 The **California Evidence-based Clearinghouse for Child Welfare** has an extensive searchable database for prevention and early intervention programs that have been found effective for parents and children in the child welfare system.
+
+**Collaborative Care Models.** Collaborative practice is a systems-change approach that considers both systems-level policy efforts as well as practice-level strategies to improve family recovery, safety, stability, and well-being. Collaboration between agencies improves service delivery and the experiences of children and families who deal with multiple organizations. Collaborative care models involve coordination between child welfare services, SUD treatment providers, mental health professionals, and other social services. These models aim to create a more holistic approach to family care, ensuring that families receive comprehensive services tailored to their specific needs. Collaboration can lead to more effective case management and support for families, helping to navigate the complexities of both the child welfare and healthcare systems. There are two prevailing models: **Casey Family Programs Practice Model** and the **Collaborative Practice Model**144 from Children and Family Futures.
+
+**Problem-Solving Courts.** A variety of court structures are available, such as drug and mental health courts. The **Family Treatment Court (FTC)** is considered a problem-solving court that handles cases of child maltreatment in which parental substance use is a contributing factor. Child protective services, treatment professionals, court personnel, and community partners coordinate services with the goals of ensuring that children have safe, nurturing, and permanent homes; parents achieve stable recovery; and each family member receives the services and supports needed. FTCs have proven to support positive outcomes for families affected by parental substance use disorder, including improved recovery for adults, safety for children, and timely permanency for families.145
+
+**Specialized Programs for Pregnant Women and Parents.** When a potential SUD is identified in the prenatal or postpartum period, the mother must be referred for a comprehensive assessment and, if indicated, engaged in quality treatment services that are culturally responsive, trauma-informed, and family-centered. States using funding from the HHS Substance Abuse Prevention and Treatment Block Grant must prioritize pregnant women for SUD treatment services and provide access to treatment or interim services within 48 hours.
+
+Specialized treatment programs for pregnant women with SUDs and mental health conditions focus on providing care that addresses the unique needs of this population. These programs often include comprehensive services such as obstetric care, substance use treatment, mental health counseling, and support for parenting and child development. By addressing the specific needs of pregnant women and parents, these programs work to improve health outcomes for both mothers and their children and reduce the likelihood of negative child welfare outcomes. Here are several examples:146
+
+»   The Maternal Opioid Misuse (MOM) Model focuses on pregnant and postpartum women with opioid use disorders. MOM provides coordinated service delivery in which individuals receive a variety of services, including specialized medication-assisted treatment, intensive case management, individual and group counseling, and recovery supports.
+
+76 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+Another collaboration is a SAMHSA operated technical assistance center – the **Service Members, Veterans, and**
+**their Families Technical Assistance (SMVF TA) Center**. This federal center works to bring federal, state, and
+community partners together to close military and civilian gaps and strengthen behavioral health services for
+military and veteran families. Focus areas of interagency collaboration include: 1) strengthening infrastructure;
+2) improving behavioral health policies for service members, veterans, and their families; 3) implementing
+behavioral health best practices; and 4) building sustainability. The SMVF TA Center has a joint military and
+civilian interagency Partners Group comprised of leaders from various national organizations and federal
+agencies. The Partners Group works to align agency efforts and help advance federal and state collaboration on
+issues of interest to service members, veterans, and thei families.
+
+States and territories that participate in SAMHSA’s *SMVF Policy Academy* build teams comprised of both civilian
+and military leaders who have the ability and authority to influence and implement state-level policy changes.
+These interagency teams work to develop and implement a strategic plan for enhancing behavioral health
+systems serving active members of the military, veterans, and their families.
+
+84 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+137 Loch, S. F., Stein, B. D., Ghertner R., McNeer, E., et al.
+(2021). Neonatal opioid withdrawal syndrome is asso-
+ciated with infant foster care entry at the county level.
+Health Affairs (Millwood), 40(11), 1776–1783. doi: 10.1377/
+hlthaff.2021.00460
+
+138 Child Welfare Information Gateway (2017). Supporting
+successful reunifications. Washington, DC: U.S. Depart-
+ment of Health and Human Services, Children’s Bureau.
+https://www.childwelfare.gov/pubPDFs/supporting_re-
+unification.pdf
+
+139 Traube, D. E. (2012). The missing link to child safety,
+permanency, and well-being: Addressing substance mis-
+use in child welfare. Social Work Research, 36(2), 83–87,
+https://doi.org/10.1093/swr/svs043
+
+140 Child Welfare Information Gateway. (2019). About CAP-
+TA: A legislative history. Washington, DC: U.S. Depart-
+ment of Health and Human Services, Children’s Bureau.
+https://www.childwelfare.gov/resources/about-cap-
+ta-legislative-history/
+
+141 National Center on Substance Abuse and Child Welfare
+(NCSACW) (2020, July). Module 1. Plan of Safe Care
+learning modules: Preparing for plan of safe care im-
+plementation. Author. https://ncsacw.acf.hhs.gov/files/
+posc-module-1.pdf
+
+142 Matson, P.A., Ridenour, T., Ialongo, N., Spoth, R., et al.
+(2022). State of the art in substance use prevention and
+early intervention: Applications to pediatric primary care
+settings. Prevention Science, 23(2), 204–211. doi: 10.1007/
+s11121-021-01299-4
+
+143 Kim, H. K., Buchanan, R. & Price, J.M. (2017). Pathways
+to preventing substance use among youth in foster care.
+Prevention Science, 18(5), 567–576. doi: 10.1007/s11121-
+017-0800-6
+
+144 Children and Family Futures. (2011). The Collaborative
+Practice Model for family recovery, safety and stability. Ir-
+vine, CA: Author. http://www.cffutures.org/files/Practic-
+eModel.pdf
+
+145 Casey Family Programs (2021, May). What are family
+treatment courts and how do they improve outcomes for
+children and families? Author. https://www.casey.org/
+family-treatment-courts/
+
+146 Casey Family Programs (2023, Oct.). What are some ev-
+idence-based interventions to prevent and mitigate the
+effects of prenatal substance exposure? Author. https://
+www.casey.org/prenatal-substance-exposure-preven-
+tion/
+
+147 Rushovich, B. R., Murray, K. W., Woodruff, K., & Free-
+man, P. C. (2017). A Kinship Navigator Program: A com-
+prehensive approach to support private and voluntary
+kinship caregivers. Child Welfare, 95(3), 111–131. https://
+www.jstor.org/stable/48623627
+
+148 Health.Mil (2021). Update: Mental Health Disorders and
+Mental Health Problems, Active Component, U.S. Armed
+Forces, 2016–2020. Military Health System. https://
+health.mil/News/Articles/2021/08/01/Update-MH-BH-
+MSMR
+
+149 U.S. Department of Veterans Affairs (2024). VA Tran-
+sition Assistance Program (TAP). https://www.ben-
+efits.va.gov/transition/tap.asp#:~:text=About%20
+TAP%20TAP%20serves%20servicemembers%20transition,-
+from%20military%20to%20civilian%20life
+
+150 Veterans Administration (2303, Nov.). Community Care.
+US Department of Veterans Affairs. https://www.va.gov/
+COMMUNITYCARE/programs/veterans/index.asp
+
+151 Uniformed Services University/Center for Deployment
+Psychology. https://deploymentpsych.org/
+
+152 U.S. Department of Veteran Affairs (2024, Jan.)
+MIRECC/CoE. https://www.mirecc.va.gov/index.asp
+

@@ -1,0 +1,56 @@
+---
+description: Gemini API integration guidelines for KSAO project
+globs: ["**/gemini*.py", "**/*gemini*.py", "**/analyze*.py"]
+alwaysApply: true
+---
+
+# Gemini API Integration Guidelines
+
+This project uses Google's Gemini 2.5 Pro Preview model for text analysis and OCR. Follow these guidelines when working with Gemini API integration:
+
+## API Configuration
+
+1. **API Key Setup**:
+   - API key must be stored in a `.env` file (not committed to the repository)
+   - Use the `dotenv` package to load environment variables
+   - Always check if API key exists before making calls
+
+2. **Model Selection**:
+   - Use the latest Gemini model version: `gemini-2.5-pro-preview-05-06`
+   - Avoid hardcoding model names; use variables for easier updates
+
+## Error Handling
+
+1. **Implement robust error handling**:
+   ```python
+   try:
+       response = genai_client.models.generate_content(
+           model="gemini-2.5-pro-preview-05-06",
+           contents=prompt + text
+       )
+   except Exception as e:
+       print(f"API request failed: {e}")
+       # Handle failure appropriately
+   ```
+
+2. **Handle potential timeouts for large documents**:
+   - Consider chunking large texts
+   - Implement retry logic when appropriate
+
+## Prompt Design
+
+1. **Structured Prompts**:
+   - Be explicit and detailed in instructions
+   - Use step-by-step format for complex tasks
+   - Request specific output formats for consistent results
+
+2. **OCR Prompts**:
+   - Request proper paragraph breaks and formatting
+   - Ask for text-only output without additional commentary
+
+3. **KSAO Analysis Prompts**:
+   - Specify detailed KSAO attributes
+   - Request hierarchical analysis
+   - Ask for both reasoning process and structured results
+
+Always test API calls with small examples before processing full documents.

@@ -1,0 +1,87 @@
+[Layout: The page has a header area with the chapter title on the left ("CHAPTER 3: Co-Occurring Conditions and Special Populations") and the page number on the right ("91"). Below this, the main content is in a column on the left, and a sidebar is on the right.]
+
+CHAPTER 3: Co-Occurring Conditions and Special Populations
+91
+
+Integrated interventions are combined in a single session/interaction or
+in a series of interactions/multiple sessions. Integrated interventions can
+include a wide range of techniques. Some examples include:
+    »   Integrated screening and assessment processes.
+    »   Dual recovery mutual-support group meetings.
+    »   Dual recovery therapeutic groups.
+    »   Motivational enhancement interventions (individual or group) that
+        address both MHDs and SUDs.
+    »   Group interventions for people with the triple diagnosis of mental
+        MHD, SUD, and another problem, such as a chronic medical
+        condition (e.g., HIV), trauma, homelessness, or criminality.
+    »   Combined psychopharmacological interventions, in which a person
+        receives medication designed to reduce cravings for substances as
+        well as medication for a MHD.
+
+Integrated interventions for people with CODs can be implemented within
+a single program or across multiple settings. These disorders vary widely
+in severity and impact, requiring different levels of care ranging from
+intensive inpatient services to occasional outpatient treatments. Not
+everyone will need the same services or move through treatment in a
+straightforward path. Clients may move between more and less intensive
+care depending on their symptoms, capabilities, stability, and readiness
+for change. For counselors specializing in SUDs, it’s crucial to work as part
+of or in close collaboration with integrated treatment teams. These teams
+often include various specialists like psychiatrists, psychologists, and
+social workers who work together to create comprehensive, individualized
+treatment plans.
+
+**EVIDENCE-BASED TREATMENTS**
+
+Treating CODs presents unique challenges, as clients can have lower rates
+of retention in services, more frequent recurrence of symptoms, and more
+complex clinical management. SUD counselors need to be prepared for a
+potentially prolonged treatment process and should be adept at managing
+these challenges through continuous monitoring and adjustment of
+treatment plans. The use of evidence-based treatment practices that have
+shown efficacy in treating CODs can help facilitate the treatment process.
+
+Here are several that have high levels of effectiveness for people with
+CODs. These are reviewed in detail in Chapter 6. Evidence-based Practices.
+    »   **Cognitive Behavioral Therapy (CBT):** CBT is effective in treating a range of MHDs and SUDs by helping
+        clients understand the relationship between thoughts, feelings, and behaviors and by developing coping
+        strategies to manage triggers and cravings.
+    »   **Dialectical Behavior Therapy (DBT):** Originally developed for borderline personality disorder, DBT
+        has been adapted for substance use treatment. It helps clients develop skills in mindfulness, distress
+        tolerance, emotion regulation, and interpersonal effectiveness.
+    »   **Medication-Assisted Treatment (MAT):** MAT can be used to manage withdrawal symptoms, reduce
+        cravings, and treat underlying MHDs. Medications like methadone, buprenorphine, and naltrexone for
+        opioid use disorders, along with antidepressants or mood stabilizers, are commonly used.
+    »   **Motivational Interviewing (MI):** This technique enhances a client’s motivation to change by resolving
+        ambivalence, an essential component in treating clients with CODs who may have conflicting feelings
+        about substance use and recovery.
+
+**IMPORTANT NOTE**
+
+Co-occurring disorders are
+complex. They present significant
+challenges for people living with
+these disorders as well as for
+the counselors, administrators,
+supervisors, and programs who
+treat them. To help address the
+full range of symptoms that clients
+experience and optimize outcomes,
+service providers must understand
+the components high-quality
+care for CODs and use treatment
+frameworks, philosophies, and
+approaches empirically shown to net
+the best outcomes.
+
+**The remaining chapters in this
+study guide address quality
+of care factors for people
+with SUDs and CODs** when
+examining philosophies of care,
+comprehensive screening and
+assessment, treatment planning,
+counseling skills, evidence-based
+practices, case management,
+clinical documentation, and ethical/
+professional responsibilities.

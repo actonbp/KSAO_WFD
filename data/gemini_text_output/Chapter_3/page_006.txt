@@ -1,0 +1,29 @@
+[Layout: Single column with a header. An image is placed on the right side of the page, next to the main text body.]
+
+90 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+7. Substance Use and Addictive Disorders (Alcohol Use Disorder, Opioid Use Disorder, Cannabis Use Disorder, Hallucinogen Use Disorder, Inhalant Use Disorder, Sedative, Hypnotic, or Anxiolytic Use Disorder, Stimulant Use Disorder, Tobacco Use Disorder, Other (or Unknown) Substance Use Disorder; Gambling Disorder)
+
+8. Neurodevelopmental Disorders (Autism Spectrum Disorder, Attention-Deficit/Hyperactivity Disorder, Learning Disorders)
+
+[Image: A book cover titled "Substance Use Disorder Treatment for People With Co-Occurring Disorders UPDATED 2020". Below this, it reads "TREATMENT IMPROVEMENT PROTOCOL" and "TIP 42". At the bottom, the logo "SAMHSA" is visible with "Substance Abuse and Mental Health Services Administration" underneath it.]
+
+The MHDs most likely to co-occur with SUDs include depressive disorders, bipolar I disorder, posttraumatic stress disorder (PTSD), personality disorders (PDs), anxiety disorders, schizophrenia and other psychotic disorders, ADHD, and eating disorders.⁷
+
+**Appendix C. Mental Health Disorders** in this study guide contains comprehensive summaries of the various disorders and the medications used to treat them. For more detailed information on specific disorders, diagnostic criteria, and recommended treatments, please access SAMHSA TIP 42: *Substance Use Disorder Treatment for People with Co-Occurring Disorders*.⁸
+
+**Treatment Approaches⁹**
+
+An individual with CODs may participate in recurrent episodes of treatment involving acute stabilization (e.g., crisis intervention, detoxification, psychiatric hospitalization) and specific ongoing treatment (e.g., supported housing, outpatient treatment, or residential treatment). Counselors need to understand that clients may engage in a series of treatment episodes, as many individuals with CODs progress gradually through repeated involvement in treatment.
+
+Providers generally treat CODs in one of three ways:
+
+» **Sequential/serial treatment.** First, the client is offered treatment for either the SUD or the MHD. After successfully completing treatment for one disorder, they are offered treatment for the other.
+
+» **Simultaneous/parallel treatment.** The client receives treatment for both the SUD and the MHD at the same time, but the treatment is offered by different services, primarily in isolation from each other.
+
+» **Integrated service.** The client benefits from the coordinated use of a single treatment plan that focuses on the two conditions simultaneously and uses multiple treatments, such as the combination of psychotherapy and pharmacotherapy.
+
+One of the downsides of sequential treatment is that it delays treatment, decreases motivation, and leads to a poorer outcome. The simultaneous treatment model is often fraught with difficulties in communication and cooperation between services, particularly on matters relating to privacy and confidentiality, in addition to confusion that may arise from different treatment philosophies. The integrated model is currently regarded as the “gold standard.”¹⁰
+
+Treatment that addresses both disorders concurrently with the same provider or treatment team is called **integrated treatment.** This is the preferred method because it addresses all diagnoses and symptoms within one service system/agency/program and through a single team of providers working closely together. Integrated treatments for people with CODs have demonstrated superiority to nonintegrated approaches and help improve substance use, MHD symptoms, treatment retention, cost effectiveness, and client satisfaction.¹¹

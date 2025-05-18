@@ -1,0 +1,25 @@
+[Layout: Single column of text with a header across the top. The right edge of the page shows a spiral binding.]
+
+88 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+The Bidirectional Nature of Co-Occurring Disorders²
+
+Counselors working with clients who have CODs often want to know which disorder developed first. The answer is not always clear because the temporal nature of CODs can be inconsistent and nuanced. In some cases, a MHD may obviously have led to the development of an SUD. An example would be someone with a long-standing major depressive disorder who starts using alcohol excessively to cope and develops alcohol use disorder. In other instances, substance use clearly precipitated the MHD—such as when someone develops a cocaine-induced psychotic disorder. In many cases, it will be uncertain which disorder occurred first. For some clients, there may be a third condition that is influencing both or either of the two comorbid disorders (e.g., HIV, chronic pain). Environmental factors, like homelessness or extreme stress, can also affect one or both disorders. Thus, even when it is clear which disorder developed first, the causal relationship may be unknown.
+
+Though people might have both an SUD and a MHD, that does not mean that one caused the other. Research suggests three possibilities that could explain why SUDs and other MHDs may occur together:³
+
+» Common risk factors can contribute to both SUDs and MHDs. Both can run in families, meaning certain genes may be a risk factor. Environmental factors, such as stress or trauma, can cause genetic changes that are passed down through generations and may contribute to the development of a MHD or SUD.
+
+» MHDs can contribute to substance use and SUDs. Studies found that people with a MHD, such as anxiety, depression, or post-traumatic stress disorder (PTSD), may use drugs or alcohol to help alleviate symptoms. However, although some drugs may temporarily help with some symptoms of MHDs, they may make the symptoms worse over time. Additionally, brain changes in people with MHDs may enhance the rewarding effects of substances, making it more likely they will continue to use the substance.
+
+» Substance use and SUDs can contribute to the development of MHDs. Substance use may trigger changes in brain structure and function that make a person more likely to develop a MHD.
+
+Regardless of the causal relationship between a client’s SUD and MHD, the two are likely to affect, and possibly worsen, one another. This means that both need to be treated with equal seriousness. CODs are not necessarily equal in severity. Often, one disorder is more severe, distressing, or impairing than the other. Recognizing this is important for treatment planning and requires a person-centered rather than cookie-cutter approach to determining diagnosis, comorbidities, functioning, treatment and referral needs, and stage of change.
+
+The notion that SUDs are caused, in whole or in part, by one’s attempts to “self-medicate” symptoms with alcohol or illicit drugs has been a source of debate. SAMHSA cautions that the term “self-medication” should not be used, as it equates drugs that are misused (which usually worsen health) with true medications (which are designed to improve health). Although some people with MHDs may use substances problematically to alleviate their symptoms or otherwise cope, this is not always the case. Counselors should not assume self-medication is the causal link between a client’s MHD and SUD.
+
+Mental Health Disorders
+
+Identifying and diagnosing co-occurring SUDs and MHDs is a complex but essential task for effective treatment. Screening and assessing these disorders accurately require understanding their intertwined symptoms and choosing treatments that address all aspects of a client’s needs. Often, people with these co-occurring disorders either receive treatment for just one issue or none, making a comprehensive approach critical. See Chapter 4 for complete information on effective screening and assessment practices and instruments.
+
+Diagnosing CODs is challenging because symptoms of substance use and mental health issues can overlap and influence each other. For instance, using substances like alcohol and stimulants might cause symptoms similar to MHDs such as anxiety, depression, or psychosis. This makes it hard to tell if the symptoms are due to substance use or an underlying MHD. A detailed assessment and sometimes a period without substance use are necessary to identify the true source of the symptoms.⁵

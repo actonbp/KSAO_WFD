@@ -1,0 +1,697 @@
+CHAPTER 1:
+SCIENTIFIC PERSPECTIVES
+ON SUBSTANCE USE DISORDERS
+AND RECOVERY
+
+10
+IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+INTRODUCTION
+At the outset of this study guide it is important to address terminology. Clear language and terminology are
+critically important in communicating current understandings of disease, risk factors, diagnosis, prognosis,
+treatment options, health, and wellness. Historically, the term "addiction" has been used to describe the most
+serious and chronic use of substances. Today, the term "substance use disorder" is preferred and will be widely
+used in this publication.
+
+The term "addiction" is often viewed as less preferable in contemporary discussions due to a few key reasons:
+
+1. Stigmatization: The word "addiction" can carry negative connotations and stigma. This stigma can be a
+barrier to seeking help, as individuals might fear being judged or labeled negatively.
+
+2. Medical and Psychological Understanding: The understanding of substance use disorders has evolved.
+Terms like "substance use disorder" are more precise and reflect a medical and psychological perspective,
+focusing on the condition as a complex interplay of biological, psychological, and social factors.
+
+3. Person-First Language: Current use of person-first language removes the definition of people by their
+condition ("addict") and uses person-first language ("person with a substance use disorder") that
+acknowledges their humanity and the complexity of their experience.
+
+4. Recovery and Treatment Focus: Using more neutral and clinical terms can help in focusing on recovery
+and treatment rather than the moral or character implications often associated with the term "addiction."
+
+5. Diversity of Experiences: "Addiction" often fails to capture the diversity and complexity of people's
+experiences with substances. Different individuals may have vastly different journeys, and a single term
+may not adequately encompass these variations.
+
+6. Public Policy and Funding: Language can influence public perception and policy. Using terms that reduce
+stigma and emphasize the medical nature of the condition can lead to better support, funding, and
+resources for treatment and research.
+
+It is important to note, however, that language and terminology preferences can vary among individuals,
+communities, and professionals. Some people may still use the term "addiction" while others prefer more
+updated terminology. This study guide will include "addiction" judiciously as research articles and other
+publications cited may use this term. These works have contributed to the history of our modern understanding
+of substance use and substance use disorders.
+
+In addition, terminology has shifted from the use of "substance abuse." Today, it is recommended that
+substance use be used to describe all substances (including alcohol, illegal or prescription drugs, and other
+substances) and that classifications of substance use refer to severity specifiers (e.g., mild, moderate, severe) to
+indicate the severity of use.¹
+
+The term, problematic substance use means the use of any substance in a manner, situation, amount, or
+frequency that causes harm to the person using the substance or to those around them. It replaces substance
+misuse. This term generally refers to usage that is considered moderate; however, use at the level of a substance
+use disorder is also problematic.
+
+Substance use disorder (SUD) is on the severe end of the continuum. It is uncontrolled use of a substance
+despite harmful consequences. People with an SUD have an intense focus on using a certain substance(s) to
+the point where the person's ability to function in day-to-day life becomes impaired. People keep using the
+substance even when they know it is causing or will cause problems.²
+
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery
+11
+
+Lastly, we chose to use the term **client** in this publication to represent people accessing and using substance use related services. There has been recent opposition to the use of "client," as well as the term "patient," as opponents believe it is disempowering and suggests an unequal healthcare relationship. Other terms, such as "person served," "consumer," or "service user," have been suggested as replacements. It is widespread practice, however, for therapists and counselors in non-medical, behavioral health settings to use "client," while practitioners in other healthcare settings generally use the term "patients." A search of current practice publications related to treating substance use disorders shows the use of "client" in current publications from the Substance Abuse and Mental Health Services Administration (SAMHSA.) Given the familiarity with the term, current usage, and ease of writing, the term "client" was selected for this publication with the full intent that this term represents today's person-centered healthcare practices.
+
+Overall, the commitment of this study guide is to use language that is respectful, non-stigmatizing, and aligns with current professional understanding.
+
+
+12 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+CURRENT SCIENTIFIC PERSPECTIVES
+ON ADDICTION
+
+Scientific breakthroughs have revolutionized the understanding of substance use disorders. For example, severe substance use disorders, were once viewed as a moral failing or character flaw but are now understood to be chronic illnesses characterized by clinically significant impairments in health, social function, and voluntary control over substance use. Although the mechanisms may be different, SUDs have many features in common with disorders such as diabetes, asthma, and hypertension. All of these disorders are chronic, subject to relapse, and influenced by genetic, developmental, behavioral, social, and environmental factors.
+
+The National Institute of Drug Abuse (NIDA) defines addiction as:
+"Addiction is a chronic, relapsing disorder characterized by compulsive drug seeking and use despite adverse consequences. It is considered as a brain disorder because it involves functional changes to brain circuits involved in reward, stress, and self-control. Those changes may last a long time after a person has stopped taking drugs."
+
+The American Society of Addiction Medicine (ASAM) updated their definition of addiction in 2019 to reflect a modern understanding and acceptance of addiction as a chronic brain disease, the possibility of remission and recovery, and the roles of prevention and harm reduction in the spectrum of addiction and recovery.
+"Addiction is a treatable, chronic medical disease involving complex interactions among brain circuits, genetics, the environment, and an individual's life experiences. People with addiction use substances or engage in behaviors that become compulsive and often continue despite harmful consequences. Prevention efforts and treatment approaches for addiction are generally as successful as those for other chronic diseases."
+
+Repeated substance use can lead to brain changes that challenge a person's self-control and interfere with their ability to resist intense urges to take the substance. These brain changes can be persistent, which is why an SUD is considered a "relapsing" disease. People in recovery from an SUD are at increased risk for returning to substance use even after years of not taking the substance. Brain imaging studies of people with an SUD show physical changes in areas of the brain that are critical to judgment, decision-making, learning and memory, and behavior control.
+
+All addictive substances have powerful effects on the brain. These effects account for the euphoric or intensely pleasurable feelings that people experience during their initial use of alcohol, drugs or other substances, and these feelings motivate people to use those substances repeatedly, despite the risks for significant harms.
+
+Theories of Causation and Factors that Influence Addiction
+There are many theories about the causes of substance use disorders. Biology, psychology, and social and cultural elements all interplay in complex ways that result in SUDs. Varying theories weigh the elements differently. Together they reflect the fact that there is no one path to an SUD, and no one factor that determines an inevitable outcome. Two general and identifiable sets of views about the causation of addiction have persisted in the public domain: biological/disease views and moral views.
+
+The moral model views addiction as a result of personal weakness, initiated for self-gratification and continued because of an unwillingness or lack of sufficient willpower to stop. In this model, problematic behaviors are seen not as symptoms of a disease or disorder, but rather as the result of bad choices driven by poor character or ethical weakness. This perspective often leads to stigmatization and blame placed on the individual rather than considering biological, psychological, or socio-environmental factors that might contribute to the substance use. Proponents of the moral model believe that people with SUDs can and should be held to moral responsibility for
+
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery 13
+
+their choices and actions - and, by focusing on proper clinical care, SUDs can be addressed with compassion, free from blame, negative attitudes, and harsh treatment or punishment. The moral model, however, has been largely criticized and replaced by more scientifically grounded models.
+
+Research has revealed more exactly how substances work in the brain, and how SUDs can be successfully treated to help people stop and resume their productive lives.⁷ The initial decision to use substances is mostly voluntary; however, when the use progresses to more regular use, a person's ability to exert self-control can become seriously impaired. Today, the disease model of addiction is the prevailing theory - that addiction is an illness and comes about because of the impairment of healthy neurochemical or behavioral processes. Advances in neuroscience have helped us understand how substances affect the brain, leading to the recognition that addiction is a chronic brain disorder that can be treated.
+
+Dr. Nora Volkow, NIDA Director, and colleagues state:
+"Neuroscience research has revealed that addiction is a chronic, relapsing disease of the brain triggered by repeated exposure to drugs in those who are vulnerable because of genetics and developmental or adverse social exposures. As a result, the reward circuit's capacity to respond to reward and motivate actions that are not drug related is decreased, the sensitivity of the emotional circuits to stress is enhanced, and the capacity to self-regulate is impaired. The result is compulsive drug seeking and drug taking despite severe harms and an inability to control the strong urges to consume the drug, even when there is a strong desire to quit."⁸
+
+Simply stated, the disease model emphasizes the brain areas and circuits that encode various functions such as reward and motivation. Brain imaging studies from individuals with a substance use disorder show physical changes in areas of the brain that are critical to judgment, decision making, learning and memory, and behavior control. The pattern of use of a substance is characterized by the loss of control on substance use-related behaviors, the pursuance of those behaviors even in the presence of negative consequences, and a strong motivated activity to continue using. The causation of these behaviors and motivations can be viewed from psychological to biological-molecular levels.⁹
+
+The disease model has also been criticized. Opponents to this model often claim that the biological understanding removes personal responsibility and moral culpability for problematic use of substances, and that individuals will use their "disease" as a "crutch." Thus, they are neither responsible nor to blame as their condition is the result of a disease that has taken hold.¹⁰ Others oppose addiction being labeled as a disease; that it is an unnecessary and negative frame that distracts from the positive and hopeful messages that can accompany a full understanding of addiction as a biobehavioral disorder.¹¹
+
+Blended model. There is an ongoing debate about whether substance use disorders should be viewed as a moral failing or as a disease. Some researchers suggest that neither perspective fully captures the complexity, and that a more nuanced and integrated understanding is needed. We see that scientific advances have contributed significantly to our understanding of the neurobiological pathways in the brain and their roles in substance reinforcement, dependence, conditioned responses, craving, and loss of behavioral control.
+
+Yet, it is known that sustained recovery from substance use comes through the empowerment of an individual to be an "agent" in their own life (meaning the degree to which they are able to make decisions and carry out actions that they choose for themselves) and the restoration of their belief in their ability to affect change and progress. It is argued that individuals must want different goals and make different choices to overcome their SUD, thus the elements of choice and personal responsibility cannot be discounted.¹² Not all interventions that help persons with SUDs involve choice - many things will always lie outside of their control - but, choice and personal responsibility are nonetheless crucial elements in personal change, growth, and recovery.
+
+
+14
+IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+FACTORS AFFECTING INDIVIDUAL VARIABILITY AND VULNERABILITY
+
+The development of an SUD involves complex interactions between the drug's effects, personal factors like genetics and health, social relationships, and cultural influences such as attitudes towards alcohol and other drugs, and their availability. Examining issues like adverse social conditions, childhood experiences, and genetic differences is crucial to understanding why some people develop SUDs and others don’t.13
+
+As with any other disease, vulnerability to developing an SUD differs from person to person. In general, the more risk factors an individual has, the greater the chance that substances will lead to an SUD. Risk factors can be impacted by protective factors which are characteristics associated with a lower likelihood of negative outcomes and can help to reduce a risk factor’s impact. For example, negative life events (risk factors) are associated with substance use as well as anxiety, depression, and other behavioral health issues. Prevention efforts targeting a set of risk or protective factors have the potential to produce positive effects.
+
+Genetic Factors. SUDs are heritable and influenced by complex interactions among multiple genes and environmental factors. Genetic studies have begun to uncover the molecular mechanisms underlying SUDs and related traits, including other psychiatric conditions with which SUDs frequently co-occur. Scientists estimate that genes account for between 40 and 60 percent of a person’s risk of developing an SUD.14
+
+Gender. Gender significantly impacts the risk of developing an SUD. Both men and women show differences in their vulnerabilities to various substances and activities, including drugs, sex, food, gambling, internet use, and physical exercise.15 Hormonal differences, particularly the influence of sex hormones, play a significant role in compulsive behaviors. In addition, the responsiveness to stress and other socio-cultural factors contribute to sex- and gender-based differences in the development of an SUD. Women experience some issues to a greater degree than men which add to their vulnerability, such as intimate partner influences and/or violence, mental health conditions, and higher susceptibility to the addictive properties of substances, craving, and relapse.16
+
+Home and Family. The influence of the home environment is usually most important in childhood. Exposure to childhood adversity, including family dysfunction, domestic violence, parental substance use, and mental health conditions, significantly increases the risk for SUDs.17 Early sexual assaultive trauma, especially before age 10, alters neurophysiological functioning in adolescents and young adults which influences the risk of SUDs and conditions characterized by negative emotion such as depression, anxiety, and phobias.18
+
+Peer and School. Friends and acquaintances have the greatest influence during adolescence. Substance-using peers can sway even those without risk factors to try alcohol, drugs, or other substances (such as inhalants) for the first time. Academic failure or poor social skills can put a child further at risk for problematic use.19
+
+Method of Administration. Smoking a substance or injecting it into a vein increases its addictive potential. Each substance and method of administration carries its own set of risks and potential for progression to an SUD. The speed of onset, meaning the faster the substance reaches the brain, the more intense the high and the greater the addictive potential. Intravenous injection delivers the substance directly into the bloodstream, providing an almost immediate effect. Inhalation, as in smoking, also leads to rapid absorption through the lungs. These methods can increase the risk of developing an SUD compared to slower routes like oral ingestion. The intensity of the effect can produce a “rush” which can be more reinforcing.
+
+Early Use. Although problematic substance use at any age can lead to an SUD, research shows that the earlier a person begins to use alcohol, drugs, or other substances, the more likely they are to progress to more serious use. Young people’s brains are growing and developing until they are their mid-20’s. Early substance use interferes with ongoing neurodevelopment to trigger neurobiological changes that further augment SUD risk. In addition, risk-taking and subsequent drug experimentation during adolescence increases the likelihood of developing an SUD.20
+
+Survivors of Trauma and Violence: Research has shown that traumatic experiences are associated with both behavioral health and chronic physical health conditions, especially when those traumatic events occur during childhood. Substance use, mental health conditions, and other risky behaviors are linked with traumatic experiences.21 For example,
+
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery 15
+
+» Problematic substance use is common among individuals exposed to intimate partner violence, including physical, sexual, and psychological violence. Women who have experienced intimate partner violence are at-risk for transitioning from moderate use to SUD and demonstrate greater SUD symptom severity.²²
+
+» In children, the evidence clearly indicates that childhood trauma has profound and long-lasting effects on mental health, emotional development, and the risk of substance abuse. Childhood trauma is a risk factor for a range of psychiatric disorders and adverse outcomes, including impaired social functioning, poor physical health, self-injurious behavior, and addiction.²³
+
+» Trauma is associated with neurobiological dysfunction. Cumulative trauma triggers, aggravates, and increases the recurrence of mental health symptoms and substance use behaviors. This interplay can result in more complex clinical profiles and worse treatment outcomes.²⁴
+
+Addictive Substances, the Brain, and Behavior²⁵,²⁶
+
+To understand how addictive substances affect the brain, it is important to first understand the basic biology of healthy brain function. The brain is an amazingly complex organ that is constantly at work. Within the brain, a mix of chemical and electrical processes controls the body's most basic functions, like breathing and digestion. These processes also control how people react to the multitudes of sounds, smells, and other sensory stimuli around them. They also organize and direct individuals' highest thinking and emotive powers so that they can interact with other people, carry out daily activities, and make complex decisions.
+
+The brain is made of an estimated 86 billion nerve cells—called *neurons*—as well as other cell types. Each neuron has a cell body, an axon, and dendrites. The cell body and its nucleus control the neuron's activities. The axon extends out from the cell body and transmits messages to other neurons. Dendrites branch out from the cell body and receive messages from the axons of other neurons.
+
+Neurons communicate with one another through chemical messengers called *neurotransmitters*. The neurotransmitters cross a tiny gap, or synapse, between neurons and attach to receptors on the receiving neuron. Some neurotransmitters are inhibitory—they make it less likely that the receiving neuron will carry out some action. Others are excitatory, meaning that they stimulate neuronal function, priming it to send signals to other neurons.
+
+The brain is comprised of many parts with *interconnected circuits* that all work together as a team. Different brain circuits are responsible for coordinating and performing specific functions. Networks of neurons send signals back and forth to each other and among different parts of the brain,
+
+Here's how brain cells communicate.
+
+*Figure showing neuron communication, brain regions including prefrontal cortex, basal ganglia and extended amygdala*
+
+
+16
+IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+the spinal cord, and nerves in the rest of the body (the peripheral nervous system). Others are involved with thinking, learning, emotions, and memory or communicate with muscles, stimulating them into action. The addiction cycle disrupts the normal functions of some of these neuronal networks.
+
+ADDICTIVE SUBSTANCES AND THE BRAIN
+Alcohol, drugs, and other substances interfere with the way neurons send, receive, and process signals via neurotransmitters. Some drugs, such as marijuana and heroin, can activate neurons because their chemical structure mimics that of a natural neurotransmitter in the body. This allows the drugs to attach onto and activate the neurons. Although these drugs mimic the brain's own chemicals, they don't activate neurons in the same way as a natural neurotransmitter, and they lead to abnormal messages being sent through the network.
+Other drugs, such as amphetamine or cocaine, can cause the neurons to release abnormally large amounts of natural neurotransmitters or prevent the normal recycling of these brain chemicals by interfering with transporters. This too amplifies or disrupts the normal communication between neurons.
+
+PRIMARY BRAIN REGIONS INVOLVED IN SUBSTANCE USE DISORDERS
+The brain has many interconnected regions that are responsible for specific functions, such as attention, self-regulation, perception, language, reward, emotion, and movement, along with many other functions. There are three regions in the brain that are the key components of networks that are intricately involved in the development and persistence of SUDs: the basal ganglia, the extended amygdala, and the prefrontal cortex.
+
+>> The basal ganglia are a group of structures located deep within the brain that play a significant role in keeping body movements smooth and coordinated. They are also involved in learning routine behaviors and forming habits. Two sub-regions of the basal ganglia are particularly important in substance use disorders:
+> The nucleus accumbens, which is involved in motivation and the experience of reward, and
+> The dorsal striatum, which is involved in forming habits and other routine behaviors.
+The basal ganglia form a key node of the brain's "reward circuit." Substances over-activate this circuit, producing the euphoria of the "high." But with repeated exposure, the circuit adapts to the presence of the substance, diminishing its sensitivity and making it hard to feel pleasure from anything besides the substance.
+
+>> The extended amygdala and its sub-regions, located beneath the basal ganglia, regulate the brain's reactions to stress—including behavioral responses like "fight or flight" and negative emotions like unease, anxiety, and irritability. This region also interacts with the hypothalamus, an area of the brain that controls activity of multiple hormone-producing glands, such as the pituitary gland at the base of the brain and the adrenal glands at the top of each kidney. These glands, in turn, control reactions to stress and regulate many other bodily processes.
+The extended amygdala plays a role in the development of the stressful feelings that characterize withdrawal after the substance's high fades and thus motivates the person to seek the substance again. This circuit becomes increasingly sensitive with increased substance use. Over time, a person with substance use disorder uses the substance to get temporary relief from this discomfort rather than to get high.
+
+>> The prefrontal cortex is located at the very front of the brain, over the eyes, and is responsible for complex cognitive processes described as "executive function." Executive function is the ability to organize thoughts and activities, prioritize tasks, manage time, make decisions, and regulate one's actions, emotions, and impulses. This is also the last part of the brain to mature, making teens most vulnerable. Shifting balance between this circuit and the circuits of the basal ganglia and extended amygdala makes a person with a substance use disorder seek the substance compulsively with reduced impulse control.
+
+
+**CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery**
+
+Some drugs like opioids also disrupt other parts of the brain, such as the brain stem, which controls basic functions critical to life, including heart rate, breathing, and sleeping. This interference explains why overdoses can cause depressed breathing and death.
+
+**THE ACTIONS OF NEUROTRANSMITTERS**
+
+Simple activities in everyday life can produce small bursts of neurotransmitters in the brain bringing pleasurable feelings. Substance use can hijack that process.
+
+Pleasure or euphoria—the high from substances—is still poorly understood but involves surges of chemical signaling compounds including the body's natural opioids (endorphins) and other neurotransmitters in parts of the basal ganglia (the reward circuit). When some substances are taken, they can cause surges of these neurotransmitters much greater than the smaller bursts naturally produced in association with healthy rewards like eating, hearing or playing music, creative pursuits, or social interaction.
+
+It was once thought that surges of the neurotransmitter dopamine produced by substances directly caused the euphoria, but scientists now think dopamine has more to do with getting people to repeat pleasurable activities (reinforcement) than with producing pleasure directly.
+
+The feeling of pleasure is how a healthy brain identifies and reinforces beneficial behaviors, such as eating, socializing, and sex. Our brains are wired to increase the odds that we will repeat pleasurable activities. The neurotransmitter dopamine is central to this. Whenever the reward circuit is activated by a healthy, pleasurable experience, a burst of dopamine signals that something important is happening that needs to be remembered. This dopamine signal causes changes in neural connectivity that make it easier to repeat the activity repeatedly without thinking about it, leading to the formation of habits.
+
+Just as substances produce intense euphoria, they also produce much larger surges of dopamine, powerfully reinforcing the connection between consumption of the substance, the resulting pleasure, and all the external cues linked to the experience. Large surges of dopamine "teach" the brain to seek substances at the expense of other, healthier goals and activities.
+
+Cues in a person's daily routine or environment that have become linked with substance use because of changes to the reward circuit can trigger uncontrollable cravings whenever the person is exposed to these cues, even if the substance itself is not available. This learned "reflex" can last a long time, even in people who have not used substances in many years. For example, people who have been living a sober lifestyle for a decade can experience cravings when returning to an old neighborhood or house where they used substances.
+
+**Some drugs target the brain's pleasure center**
+
+*Brain reward (dopamine pathways)*
+
+*These brain circuits are important for natural rewards such as food, music, and sex*
+
+
+*While eating food* Typically, dopamine increases in response to natural rewards such as food.
+*While using cocaine* When cocaine is taken, dopamine increases are exaggerated, and communication is denied.
+
+
+*How drugs increase dopamine*
+*Dopamine Transporter*
+*Dopamine Receptor*
+*Cocaine*
+
+
+18
+IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+Over time, the brain of someone who problematically uses substances adjusts by producing fewer
+neurotransmitters in the reward circuit, or by reducing the number of receptors that can receive signals. As a
+result, the person's ability to experience pleasure from naturally rewarding (i.e., reinforcing) activities is also
+reduced.
+
+This is why a person with problematic substance use eventually feels flat, without motivation, lifeless, and/or
+depressed, and is unable to enjoy things that were previously pleasurable. Now, the person needs to keep taking
+substances to experience even a normal level of reward—which only makes the problem worse, like a vicious
+cycle.
+
+Stages and Cycles in the Development of Substance Use Disorders
+Substance use disorders are chronic relapsing conditions that evolve through various cycles and a continuum
+of stages, each characterized by distinct neurobiological and behavioral changes. Understanding these stages is
+crucial for effective treatment interventions.
+
+Historically, there have been differing versions of the stages that lead to SUDs; however, all show similar stages
+and associated behaviors. Here are some examples:
+» Four stage mode: Use, Misuse, Abuse, Dependency/Addiction
+» Five stage model: Experimentation, Regular Use, Risky Use/Abuse, Dependence, Addiction
+» Six stage model: Initial use, Abuse, Tolerance, Dependence, Addiction, Relapse
+
+Substance use occurs on a continuum - ranging from no use to beneficial/medicinal use, non-problematic use,
+problematic use, harmful use, and substance use disorder. Consider this modern depiction of the continuum.
+
+NO USE
+BENEFICIAL USE
+NON-PROBLEMATIC USE
+PROBLEMATIC USE
+POTENTIALLY HARMFUL USE
+SUBSTANCE USE DISORDER
+Taking a substance for an intended use, such as medicinal
+Periodic use without harmful side effects or impacts
+Patterns of risky use that threaten a person's health or safety, and the safety of others
+Regular patterns of use that are leading to harmful impacts
+Uncontrolled use of a substance despite harmful consequences
+
+1. No Use to Beneficial/Medicinal Use: Some individuals never use psychoactive substances, while others
+may use them for medicinal purposes without any harmful effects or addiction.
+
+2. Non-problematic Use: This involves using substances in ways that are not risky or harmful. For a
+significant number of people, substance use does not lead to addiction or problematic behaviors.
+
+3. Problematic Use: This stage is characterized by a pattern of use that begins to have negative impacts on a
+person's life. It includes hazardous or risky use, which can lead to social and personal problems.
+
+4. Harmful Use: This stage involves repetitive substance use that causes physical or psychiatric harm. It is
+more severe than problematic use and can lead to significant health and social issues.
+
+5. Substance Use Disorder: This is the most severe stage, where there is a compulsive need to use the
+substance despite harmful consequences. It involves a combination of behavioral, cognitive, and
+physiological symptoms indicating that an individual continues using the substance despite significant
+substance-related problems.
+
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery
+
+It is important to look at specific behaviors and biological states that are central to these stages: impulsivity, positive reinforcement, negative reinforcement, tolerance, dependence, craving, withdrawal, compulsivity, and recurrence.
+
+Initial substance use usually involves an element of impulsivity or acting without foresight or regard for the consequences. For example, an adolescent may impulsively take a first drink, smoke a cigarette, begin experimenting with marijuana, or succumb to peer pressure to try a party drug. If the experience is pleasurable, this feeling positively reinforces the substance use, making the person more likely to take the substance again.
+
+Another person may take a substance to relieve negative feelings such as stress, anxiety, or depression. In this case, the temporary relief the substance brings from the negative feelings negatively reinforces substance use, increasing the likelihood that the person will use it again.
+
+Importantly, positive and negative reinforcement are not solely driven by the effects of the substance. Many other environmental and social stimuli can reinforce a behavior. For example, the approval of peers positively reinforces substance use for some individuals. Likewise, if drinking or using drugs with others provides relief from social isolation, substance use behavior could be negatively reinforced.
+
+The positively reinforcing effects of substances tend to diminish with repeated use. This is tolerance which is an alteration of the body’s responsiveness to alcohol, drugs, and other substances such that higher doses are required to produce the same effect achieved during initial use. When an individual develops tolerance, they require a larger dose of the substance to achieve the same effect that they previously experienced with a smaller dose. This physiological change often leads to increased consumption of the substance, which can contribute to the risk of developing an SUD. Tolerance is a key component in understanding SUDs and is indicative of the body’s adaptation to the presence of the substance.
+
+Cross-tolerance refers to a phenomenon where tolerance to one substance results in a diminished response to a second substance, often due to their similar pharmacological effects or mechanisms of action. In other words, there is a decrease in response to one substance due to exposure to another substance. For example, many different drugs in the same class of drugs, such as narcotic painkillers (e.g., Vicodin, OxyContin, morphine, heroin, etc.) are very similar in chemical structure and affect the same group of neurons in the brain. Because drugs in the same or similar classes work on the same aspects of the central nervous system, it is quite possible to develop a cross tolerance to drugs in the same class. For example, users with a high tolerance to the stimulant amphetamine may also exhibit a high tolerance to structurally similar methamphetamine or other amphetamine-like stimulants.
+
+Physical dependence is a body’s natural reaction when certain substances are used for an extended period. It encompasses specific physiological and biological changes in the body that occur as it adapts to the continuous presence of the substance. Craving - an intense and often overwhelming desire or urge to engage in a particular behavior or consume a substance - often occurs daily or with regular binges. The individual experiences intense psychological preoccupation with getting or using the substance and can develop negative emotional states marked by anxiety, depression, and restlessness. Except for recalling the euphoria of the substance, craving feels very bad.
+
+
+Impulsivity means to act without foresight or regard for the consequences.
+
+Positive reinforcement refers to the process by which presentation of a stimulus such as a drug increases the probability of a response like drug taking.
+
+Negative reinforcement refers to the process by which removal of a stimulus such as negative feelings or emotions increases the probability of a response like drug taking.
+
+Tolerance refers to a reduced response to a substance due to repeated use. It is an alteration of the body’s responsiveness to alcohol, drugs, and other substances such that higher doses are required to produce the same effect achieved during initial use.
+19
+
+
+20
+IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+Dependence refers to a physiological and psychological state that develops as a result of repeated substance use.
+
+Craving refers to the intense desire or urge to engage in a particular behavior or consume a substance.
+
+Compulsivity refers to repetitive behaviors in the face of adverse consequences, and repetitive behaviors that are inappropriate to a particular situation.
+
+Withdrawal refers to the physical, cognitive, and affective symptoms that occur after chronic use of a drug is reduced abruptly or stopped among individuals who have developed tolerance to a substance.
+
+The body gets used to a regular supply of the substance and, if the dose is lowered or stopped, a person can experience withdrawal – a set of symptoms which can include negative emotions such as stress, anxiety, or depression, as well as physical effects such as nausea, vomiting, muscle aches, and cramping, among others. Withdrawal symptoms often lead a person to use the substance again.
+
+As use becomes an ingrained behavior, impulsivity shifts to compulsivity. As such, the primary drivers of repeated substance use shift from positive reinforcement (feeling pleasure) to negative reinforcement (feeling relief), as the individual seeks to stop the negative feelings and physical illness that accompany withdrawal. Compulsive behaviors are actions that are engaged in repeatedly and consistently, even though they are experienced as aversive or troubling. Compulsive substance seeking is a key characteristic of an SUD, as is the loss of control over use. Compulsivity helps to explain why many people with an SUD experience a return to regular use after attempting to abstain from or reduce use.
+
+As individuals continue to have problematic use of alcohol, drugs, or other substances, progressive changes, called neuroadaptations, occur in the structure and function of the brain. These neuroadaptations compromise brain function and also drive the transition from controlled, occasional substance use to chronic use, which can be difficult to control. Moreover, these brain changes endure long after an individual stops using substances. They may produce continued, periodic craving for the substance that can lead to relapse – or a recurrence of substance use (a less stigmatizing term) – after an attempt to stop.
+
+Progression to an SUD is not an inevitable consequence of substance use. Whether an individual ever uses alcohol, drugs, or another substance, and whether that initial use progresses to a substance use disorder of any severity, depends on many factors. As previously discussed, these include: a person's genetic makeup and other individual biological factors; the age when use begins; psychological factors related to a person's unique history and personality; and environmental factors, such as the availability of drugs, family and peer dynamics, financial resources, cultural norms, exposure to stress, and access to social support. Some of these factors increase the risk for SUDs, whereas other factors provide buffers against those risks. Nonetheless, specific combinations of factors can drive the emergence and continuation of problematic substance use and the progression to an SUD.
+
+The Brain and Stages of Addiction –
+A More Advanced Neurobiological Perspective
+
+This section is largely supplemental. It discusses some newer and more detailed terminology and concepts underlying the neurobiology of addiction. At the heart of what has been presented thus far –
+
+>> The nature of addiction is that, in vulnerable individuals, substance use disorders are developed through the interaction of the substances themselves with genetic, environmental, psychosocial, behavioral, and other factors, which causes long-lived alterations in the biochemical and functional properties of selected groups of neurons in the brain.
+
+>> Addictive substances, when taken with adequate dose, frequency, and chronicity, appear to commandeer circuits intimately involved in the control of emotion and motivation, thus impairing the insight and voluntary control of the affected person. At the same time, the alterations produced by chronic substance use facilitate the formation of deeply ingrained emotional memories that influence drug craving and can lead to relapse.28
+
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery
+21
+
+A "deeper dive" into the neurobiology of addiction adds another level of understanding about the brain circuits that regulate reward and motivation, executive control, and emotional processing. This provides additional confirmations that certain biological processes affect a person's ability to choose long-term benefits over short-term "rewards" received through problematic substance use, even when these choices can lead to severe consequences. In addition, understanding the neurobiological mechanisms that underlie the addictive process has been and is important for guiding the refinement of behavioral treatment strategies.
+
+Let's begin... Recent advances in the neurobiology of addiction have clarified the link between addiction and brain function and to broaden the understanding of addiction as a brain disease.29 Brain imaging research has helped map the neuronal circuits that regulate the relapsing pattern of addictive behaviors, including rewarding responses during intoxication, conditioning to the substance and its cues, negative mood and increased stress during withdrawal, and craving during exposure to cues or stressors.30 A model of the stages of addiction from a neurobiological perspective divides the process of addiction into three recurring stages:
+1. Binge and Intoxication
+2. Withdrawal and Negative affect, and
+3. Preoccupation and Anticipation.31
+
+In this model, addiction is framed as a repeating cycle, within the three stages. Each stage is linked to and feeds on the others. The stages/domains are activated in three key regions of the brain: the **basal ganglia**, the **extended amygdala**, and the **prefrontal cortex**, respectively. An individual may go through this three-stage cycle over the course of weeks or months, or progress through it several times in a day. These stages primarily involve three domains of action:33,34
+1. Incentive Salience: This is a psychological and neurobiological concept that refers to the attractive and motivational properties of a stimulus, which make it desirable and sought-after - the "wanting." During the binge and intoxication stage, the brain associates the substance with a positive reward, making it highly "salient" or attractive. The basal ganglia play an important role in motivation as well as in the formation of habits and other routine behaviors.
+INCENTIVE SALIENCE
+BINGE/
+INTOXIFICATION
+Prefrontal Cortex
+Extended
+Amygdala
+Basal Ganglia
+WITHDRAWAL/
+NEGATIVE
+AFFECT
+REWARD DEFICIT
+& STRESS SURFEIT
+EXECUTIVE FUNCTION DEFECITS
+PREOCCUPATION/
+ANTICIPATION
+32
+
+
+22
+IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+This process is heavily influenced by dopamine, which not only signals pleasure but also enhances the incentive salience of substance-related cues, making them more attention-grabbing and desirable. The release of dopamine (along with activation of brain opioid systems) can eventually trigger changes that strengthen substance-seeking and substance-taking habits as addiction progresses. Repeated activation of the basal ganglia's reward system increases the likelihood of repeated consumption and compelling the individual to seek it out and consume it again.
+
+2. Negative Emotional States: This is the "withdrawal" phase. Negative emotional states, such as anxiety, depression, and irritability, are predominant during the withdrawal and negative effect stage. The absence of the substance leads to a decrease in dopamine levels, which is associated with the reward system's functioning. This reduction causes the brain's mood-regulating systems to become imbalanced, resulting in negative emotional states.
+
+The negative feelings associated with the diminished activation in the reward systems—or a reward deficit—of the basal ganglia makes it difficult for people to experience the pleasures of everyday living. The increased activation of the brain's stress systems in the extended amygdala contributes to anxiety, irritability, and unease. These unpleasant feelings can drive the individual to use the substance again to alleviate the discomfort, perpetuating the cycle of addiction.
+
+3. Executive Function: This is "the craving" stage. Executive function refers to a set of thought processes that include decision-making, impulse control, and planning. During the preoccupation and anticipation stage, these functions are compromised, making it difficult for the individual to resist cravings or think about the long-term consequences of substance use. The brain's prefrontal cortex, which is responsible for executive functions is often impaired in people with problematic substance use, leading to increased impulsivity and a strong focus on seeking immediate rewards. This impairment makes it challenging for individuals to resist the urge to return to substance use, thus fueling the addiction cycle.
+
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery
+23
+
+In short...
+
+» Progression through this cycle involves three major regions of the brain: the basal ganglia, the extended amygdala, and the prefrontal cortex, as well as multiple neurotransmitter systems. The power of addictive substances to produce positive feelings and relieve negative feelings fuels the development of compulsive use of substances.
+
+» The combination of increased incentive salience (binge/intoxication stage), decreased reward sensitivity and increased stress sensitivity (withdrawal/negative affect stage), and compromised executive function (preoccupation/anticipation stage) provides an often overwhelming and unrelenting drive for substance seeking.
+
+Medications used today to reduce cravings and moderate withdrawal symptoms are a result of this research, as well as new technologies that are under investigation (such as transcranial stimulation) that are being used to monitor, optimize, and personalize treatment for SUDs. Understanding the neurobiological actions underlying problematic substance use is important for many reasons.35
+
+1. Treatment Development: Knowledge of how different brain regions and neurotransmitter systems are involved in addiction can lead to the development of targeted treatments. For example, medications that modulate dopamine or other neurotransmitter systems can help manage withdrawal symptoms and reduce cravings.
+
+2. Personalized Medicine: Understanding individual differences in the neurobiology of addiction can lead to personalized treatment plans, optimizing the likelihood of successful recovery for each person.
+
+3. Prevention Strategies: Understanding the neurobiological basis of addiction can help in creating preventive measures, especially for individuals who are at a higher risk. Early intervention can prevent the progression of initial substance use to SUDs.
+
+4. Reducing Stigma: Recognizing addiction as a brain disorder rather than a moral failing can help reduce the stigma associated with it. This can encourage more individuals to seek help and support for their addiction issues.
+
+5. Policy and Education: A deeper understanding of the neurobiological processes can inform public health policies and educational programs, leading to more effective strategies for managing and preventing addiction at the community and population levels.
+
+
+24
+IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+COMMONLY USED SUBSTANCES
+
+Drugs, including alcohol and other substances, are categorized into several types based on their effects and the way they are used. The following categories represent the drugs most often used problematically.
+
+1. Opioids: These include prescription pain relievers (like oxycodone, hydrocodone, and morphine), as well as illegal drugs like heroin. Opioids are known for their pain-relieving properties and are highly addictive.
+
+2. Central Nervous System (CNS) Depressants: This category includes benzodiazepines (like Valium, Xanax, and Klonopin), which are prescribed for anxiety and sleep disorders, as well as barbiturates and sleep medications. They are used for their calming effects but can be addictive and dangerous, especially when combined with other substances like alcohol.
+
+3. Stimulants: These include prescription drugs like amphetamines (Adderall, Ritalin) used to treat ADHD, as well as illegal substances like cocaine and methamphetamine. MDMA (Ecstasy) is both a stimulant and a hallucinogen. Stimulants are used for their energy-boosting and focus-enhancing effects but are highly addictive and can have dangerous cardiovascular consequences.
+
+4. Cannabis: Marijuana and synthetic cannabinoids are used for their psychoactive effects. While marijuana is legal for medical or recreational use in many states, it can still be used to excess, leading to impaired cognitive functions and potential psychological dependence.
+
+5. Hallucinogens: LSD, psilocybin mushrooms, and PCP are examples of hallucinogens. They are known for causing altered perceptions and sensory experiences but can lead to unpredictable and risky behavior.
+
+6. Inhalants: Substances like solvents, aerosol sprays, gases, and nitrites are abused for their psychoactive effects. Inhalants are particularly dangerous due to their toxic nature and potential for immediate harm to the heart, brain, and lungs.
+
+7. Dissociatives: This category includes drugs like PCP and ketamine, which cause a sense of detachment from reality.
+
+8. Nicotine: Found in tobacco products, nicotine is highly addictive and harmful to health.
+
+9. Alcohol: Though legal, alcohol is one of the most used substances due to its widespread availability and social acceptance. Chronic problem use can lead to addiction and serious health issues.
+
+Appendix B of this publication contains detailed information (from the National Institute on Drug Abuse) about various drugs, including commercial and street names, common forms, common ways taken, possible health effects, withdrawal symptoms, and treatment options. This type of information is time sensitive; therefore it is important to note that the information is current from the time of access in January 2024, but can always be viewed subsequently for updates on the NIDA website page for Commonly Used Drug Charts at https://nida.nih.gov/research-topics/commonly-used-drugs-charts.
+
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery
+
+The Controlled Substances Act (CSA), passed in 1970 by the U.S. Federal Government, established a legal framework for regulating the manufacture, importation, possession, use, and distribution of certain substances. One of the key provisions under this Act was the establishment of drug schedules. The CSA created a system of five schedules (I through V) to classify drugs, substances, and certain chemicals used to make drugs. These schedules, updated and published regularly by the US Drug Enforcement Agency, are based on the substance's accepted medical use, potential for abuse, and safety or dependence liability.36
+
+**Schedule I**
+* The drug or other substance has a high potential for problematic use.
+* The drug or other substance has no currently accepted medical use in treatment in the US.
+* There is a lack of accepted safety for use of the drug or other substance under medical supervision.
+* Examples of Schedule I substances include heroin, gamma hydroxybutyric acid (GHB), lysergic acid diethylamide (LSD), marijuana, and methaqualone.
+
+**Schedule II**
+* The drug or other substance has a high potential for problematic use.
+* The drug or other substance has a currently accepted medical use in treatment in the US or a currently accepted medical use with severe restrictions.
+* Problematic use of the drug or other substance may lead to severe psychological or physical dependence.
+* Examples of Schedule II substances include morphine, phencyclidine (PCP), cocaine, methadone, hydrocodone, fentanyl, and methamphetamine.
+
+**Schedule III**
+* The drug or other substance has less potential for problematic use than the drugs or other substances in Schedules I and II.
+* The drug or other substance has a currently accepted medical use in treatment in the US.
+* Problematic use of the drug or other substance may lead to moderate or low physical dependence or high psychological dependence.
+* Anabolic steroids, codeine products with aspirin or acetaminophen, and some barbiturates are examples of Schedule III substances.
+
+**Schedule IV**
+* The drug or other substance has a low potential for problematic use relative to the drugs or other substances in Schedule III.
+* The drug or other substance has a currently accepted medical use in treatment in the US.
+* Problematic use of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in Schedule III.
+* Examples of drugs included in Schedule IV are alprazolam, clonazepam, and diazepam.
+
+**Schedule V**
+* The drug or other substance has a low potential for problematic use relative to the drugs or other substances in Schedule IV.
+* The drug or other substance has a currently accepted medical use in treatment in the U.S.
+* Cough medicines with codeine are examples of Schedule V drugs. The drug or other substance has a low potential for problematic use relative to the drugs or other substances in Schedule IV.
+
+
+**Importance for SUD Counselors**
+
+Knowledge of the signs and symptoms of commonly used drugs, including alcohol, is fundamental for SUD counselors to effectively assess, treat, and support individuals with problematic substance use or with SUDs. This knowledge can aid in:
+
+1. **Accurate Assessment and Diagnosis:** Understanding the specific effects and signs of various substances enables counselors to accurately assess and diagnose SUDs. This is crucial for developing an effective treatment plan tailored to the individual's needs.
+
+2. **Treatment Planning and Modification:** Knowledge of how different substances affect individuals enables counselors to create and adjust treatment plans. For example, the approach for treating alcohol use disorder may differ significantly from that for opioid use disorder.
+
+3. **Safety and Crisis Intervention:** Knowledge of signs and symptoms helps counselors recognize when a client is under the influence or experiencing a substance-related crisis, such as overdose or severe withdrawal. This awareness is vital for ensuring the safety of the client and providing timely intervention.
+
+4. **Effective Communication:** Being knowledgeable about substances and their effects allows counselors to communicate more effectively with clients. Effective communication fosters trust and rapport, as clients are more likely to feel understood and supported.
+
+5. **Education and Prevention:** Counselors often play a role in educating clients and their families about the risks associated with substance use. Understanding the signs and symptoms of substance use is essential for effective education and prevention efforts.
+
+6. **Relapse Prevention:** Recognizing the early signs of relapse/recurrence, which may include subtle changes in behavior or mood associated with substance use, is key in providing timely support and interventions.
+
+7. **Professional Competence and Ethics:** Maintaining a thorough understanding of substance use is part of the ethical and professional responsibility of SUD counselors. It ensures they provide the highest standard of care and stay updated with the latest trends and emerging substances in the field.
+
+8. **Collaboration with Healthcare Providers:** SUD counselors often work in multidisciplinary teams. Knowledge of substances aids in effective collaboration with healthcare providers, such as psychiatrists and physicians, especially when addressing co-occurring disorders or medical complications related to substance use.
+
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery
+27
+
+RECOVERY PERSPECTIVES AND PRINCIPLES
+Recovery from substance use-related problems involves a highly individualized journey toward wellness, satisfying relationships, engagement in community, and a sense of meaning and purpose. Despite setbacks that many face along the way, people can and do recover. This modern concept of recovery (which research and practice support) differs significantly from one that sees recovery only in terms of total abstinence and remission of symptoms. It also differs from the traditional approach to problematic substance use that emphasizes acute, episodic, clinician-driven, siloed treatments. A new recovery-oriented focus has given way to an approach that emphasizes longer term, person-driven, holistic, and integrated recovery-oriented care.
+
+Historically, there have been many definitions of *recovery*. Most definitions found in the behavioral health literature involve components of acceptance of illness, having a sense of hope about the future, and finding a renewed sense of self.<sup>37</sup> Advocates and national leaders, including individuals in recovery, family members, representatives of mutual-help organizations, treatment providers, and government officials, comprised a "recovery movement" that accelerated in the early 2000's. They paved the way for the development of a set of recovery values and beliefs that could be embraced by all. In 2012, these groups and individuals collaborated with the Substance Abuse and Mental Health Services Administration (SAMHSA) to create a modern definition of recovery for behavioral health conditions (substance use and mental health).
+
+"Recovery is a process of change whereby individuals improve their health and wellness, to live a self-directed life, and strive to reach their full potential."<sup>38</sup>
+
+This definition of recovery signals a dramatic shift in the expectation for positive outcomes for individuals who experience mental health and substance use conditions or the co-occurrence of the two. It acknowledges recovery as a complex and dynamic process.
+
+Distinctions have been made within the definition of recovery to address the various aspect of:
+
+>> clinical recovery (symptom remission or abstinence),
+>> functional recovery (getting a job and coping with daily life demands),
+>> personal recovery (improvements in wellbeing and life satisfaction, regaining a positive sense of identity) and,
+>> social recovery (developing strong and supportive social networks).<sup>39</sup>
+
+These yield a recovery process unique to each person. While recovery is often described as a "journey," this does not necessarily mean that it has an endpoint. Some people view recovery in terms of abstinence and remission of symptoms, whereas others may focus on controlling or reducing use. Some people may pursue multiple approaches to recovery at the same time or for overlapping periods; some may try different approaches in turn; and others may find a single approach that works for them and stick with it. Regardless, a person's recovery is built on their strengths, abilities, resources, and values, addressing the whole person and their community.
+
+
+28 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**RECOVERY-RELATED VALUES AND PRINCIPLES**
+
+There are several principles upon which the concept of recovery is based. SAMHSA, in collaboration with persons in recovery, has also created a set of guiding values and principles that have come to be commonly accepted as the standards for effective delivery of recovery-focused care.
+
+SAMHSA has delineated four major dimensions that support a life in recovery:
+
+*   **Health:** overcoming or managing one's disease(s) as well as living in a physically and emotionally healthy way
+*   **Home:** a stable and safe place to live
+*   **Purpose:** meaningful daily activities, such as a job, school, volunteerism, family caretaking, or creative endeavors, and the independence, income and resources to participate in society
+*   **Community:** relationships and social networks that provide support, friendship, love, and hope
+
+There are ten principles upon which the concept of recovery is based.
+
+*   **Recovery emerges from hope:** The belief that recovery is real provides the essential and motivating message of a better future—that people can and do overcome the internal and external challenges, barriers, and obstacles that confront them. Hope is internalized and can be fostered by peers, families, providers, allies, and others. Hope is the catalyst of the recovery process.
+*   **Recovery is person-centered:** Self-determination and self-direction are the foundations for recovery as individuals define their own life goals and design their unique path(s) towards those goals.
+*   **Recovery occurs via many pathways:** Recovery is built on the multiple capacities, strengths, talents, coping abilities, resources, and inherent value of each individual. Recovery pathways are highly personalized. Recovery is non-linear, characterized by continual growth and improved functioning that may involve setbacks.
+*   **Recovery is holistic:** Recovery encompasses an individual's whole life, including mind, body, spirit, and community. The array of services and supports available should be integrated and coordinated.
+*   **Recovery is supported by peers and allies:** Mutual support and mutual aid groups play an invaluable role in recovery. Peers encourage and engage other peers and provide each other with a vital sense of belonging, supportive relationships, valued roles, and community. Professionals also play an important role in the recovery process by providing clinical treatment and other services that support individuals in their chosen recovery paths.
+
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery 29
+
+» Recovery is supported through relationship and social networks: An important factor in the recovery process is the presence and involvement of people who believe in the person's ability to recover; who offer hope, support, and encouragement; and who also suggest strategies and resources for change. Family members, peers, providers, faith groups, community members, and other allies form vital support networks.
+
+» Recovery is culturally-based and influenced: Culture and cultural background in all of its diverse representations - including values, traditions, and beliefs - are keys in determining a person's journey and unique pathway to recovery. Services should be culturally grounded, attuned, sensitive, congruent, and competent, as well as personalized to meet each individual's unique needs.
+
+» Recovery is supported by addressing trauma: The experience of trauma (such as physical or sexual abuse, domestic violence, war, disaster, and others) is often a precursor to or associated with alcohol and drug use, mental health conditions, and related issues. Services and supports should be trauma-informed to foster safety (physical and emotional) and trust, as well as promote choice, empowerment, and collaboration.
+
+» Recovery involves individual, family, and community strengths and responsibility: Individuals, families, and communities have strengths and resources that serve as a foundation for recovery. Individuals have a personal responsibility for their own self-care and journeys of recovery. Families and significant others have responsibilities to support their loved ones, especially for children and youth in recovery.
+
+» Recovery is based on respect: Community, systems, and societal acceptance and appreciation for people affected by mental health and substance use disorders - including protecting their rights and eliminating discrimination - are crucial in achieving recovery. Self-acceptance, developing a positive and meaningful sense of identity, and regaining belief in oneself are particularly important.
+
+Recovery-Oriented System of Care (ROSC)
+
+A Recovery-Oriented System of Care (ROSC) focuses on the individual, emphasizing wellness and utilizing the strengths and resources of the person, their family, and community to enhance overall functioning. It's grounded in the key aspects and values of recovery, ensuring the care system is cohesive and comprehensive. Without such an integrated service network, individuals risk getting lost in a disjointed care system.42,43
+
+In a ROSC, the priority is the individual's recovery and resilience, incorporating accessible, fair services, and fostering hope in the community for those receiving help. It acknowledges that recovery might have ups and downs but aims to provide the necessary tools, knowledge, and support for individuals to improve their health and wellness, lead a self-directed life, and achieve their potential. ROSC offers a range of personalized, people-focused, and strength-based services within a network defined by the individual. It covers the full spectrum of care from prevention and early intervention to resource distribution and community support, ensuring people get the right help at the right time. It facilitates smooth transitions within the behavioral health system, making sure individuals get the needed services at any entry point through referrals and connections.45 This recovery orientation is interwoven throughout this study guide with examples of how an SUD counselor can incorporate the ROSC attitudes and principles in their various job tasks.
+
+
+Landmark Legislation and Policies Facilitating a Recovery Orientation
+
+The Americans with Disabilities Act of 1990 legislated that discrimination on the basis of disability, including mental disability, is not acceptable or legal (Senate (S.) Bill 933-101st Congress: The Americans with Disabilities Act of 1990, 1989).
+
+In the Olmstead Decision, the U.S. Supreme Court ruled in 1999 that people with disabilities have a right to live in communities rather than institutions (Olmstead, 1999).
+
+The 2006 Institute of Medicine report, Improving the Quality of Health Care for Mental and Substance-Use Conditions, endorsed recovery-based approaches including supporting patients' decision-making abilities and preferences (Institute of Medicine, 2006).
+
+The 2007 State Medicaid Director Letter on Peer Delivered Services established guidance on how to bill for peer-operated services (Smith, 2007).
+
+The Mental Health Parity and Addiction Equity Act of 2008 legislated equal insurance benefits for mental health and substance use and medical/surgical services (H.R. Bill 1424-110th Congress: Emergency Economic Stabilization Act of 2008, 2007).
+
+The Affordable Care Act of 2010 (Public Law 111-148 – 111th Congress: Patient Protection and Affordable Care Act, 2010) proposed the expansion of health insurance coverage and mandated further parity of mental health and substance use services.
+
+SAMHSA's 2011 Leading Change: A Plan for SAMHSA's Roles and Actions 2011–2014 which includes "Recovery Supports" as one of eight (8) agency initiatives and identifies the domains of "health, home, purpose, and community" as key for recovery (DHHS/SAMHSA, 2011).
+
+The Stages of Change (SOC) Model
+Substantial research in the behavioral health realm has focused on the determinants and mechanisms of change. By understanding better how people change, researchers and counselors have become better able to develop and apply interventions to facilitate changes in clients' substance use behaviors and recovery.
+
+Many adults in the United States resolve an SUD without assistance. This is considered natural recovery. "Natural recovery" (sometimes called unassisted recovery) refers to achieving recovery from problematic substance use through self-management. Recovery from SUDs can happen with limited treatment or participation in mutual-aid support groups such as Alcoholics Anonymous and Narcotics Anonymous. Behavior change is a process that occurs over time. Everyone must make decisions about important life changes, such as marriage or divorce or buying a house. Sometimes, individuals consult a counselor or other specialist to help with these ordinary decisions, but usually people decide on such changes without professional assistance.
+
+Prochaska and DiClemente theorized that the change process is a journey through stages in which people typically think about behavior change, initiate behavior change, and maintain new behaviors. This model emerged from an examination of 18 psychological and behavioral theories about how change occurs. In this sense, the model is "transtheoretical." This model has come to be known as the TTM of the Stages of Change (SOC). TTM is not the only SOC model, but it is the most widely researched.
+
+SOC is not a specific counseling method but a framework that can help counselors tailor specific counseling strategies to clients in different stages. Although results are mixed regarding its usefulness, in the past 30 years, TTM has demonstrated effectiveness in predicting positive SUD treatment outcomes and has shown value as an overarching theoretical framework for counseling. The diagram displays the relationship among the five
+
+
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery
+31
+stages (i.e., Precontemplation, Contemplation, Preparation, Action, and Maintenance) in the SOC approach in the original TTM.
+
+The associated features of the SOC approach are:
+
+» Precontemplation: People who use substances are not considering change and do not intend to change in the foreseeable future. They may be partly or completely unaware that a problem exists, that they have to make changes, and that they may need help to change. Alternatively, they may be unwilling or too discouraged to change their behavior. Individuals in this stage often are not convinced that their pattern of use is problematic.
+
+» Contemplation: As these individuals become aware that a problem exists, they begin to perceive that there may be cause for concern and reasons to change. Typically, they are ambivalent, simultaneously seeing reasons to change and reasons not to change. Individuals in this stage are still using substances, but they are considering the possibility of stopping or cutting back soon. At this point, they may seek relevant information, reevaluate their substance use behavior, or seek help to support the possibility of changing. They typically weigh the positive and negative aspects of making a change. It is common for individuals to remain in this stage for extended periods, often for years, vacillating between wanting and not wanting to change.
+
+» Preparation: Individuals in this stage start to confront their problem directly. They move beyond mere recognition of their issue and begin to actively seek solutions. With intent on changing, they research treatment options, perhaps engaging with support groups or exploring therapy. Though major changes are not yet made, small steps, like reducing substance use or setting a quit date, signal their commitment to change. Preparation also entails an examination of the individual's self-efficacy or confidence in their ability to change. However, despite this progress, they might still feel ambivalent, wrestling with the decision proceed. This stage is crucial, as it sets the stage for the actual implementation of change in their behavior and lifestyle.
+
+32 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+» Action: Here, individuals choose a strategy for change and begin to pursue it. They are actively engaged in changing substance use behaviors. They are making lifestyle changes and may face challenging situations (e.g., temptations to use, physiological effects of withdrawal). They may begin to reevaluate their self-image as they move from problematic substance use to nonuse or safe use. They are committed to the change process and are willing to follow the suggested change strategies.
+
+» Maintenance: This stage entails efforts to sustain gains made during the Action stage and to prevent recurrence. Extra precautions may be necessary to keep from reverting to health-risk behaviors. Individuals learn to identify situations that may trigger a return to substance use and develop coping skills to manage such situations. During Maintenance, individuals are building a new lifestyle that no longer includes the old substance use behaviors.
+
+Most people who have problematic substance use progress through the stages in a circular or spiral pattern, not a linear one. Individuals typically move back and forth between the stages and cycle through the stages at different rates, as shown in the bidirectional arrows in the image. As individuals progress through the stages, they often have setbacks. However, most people do not typically return to the Precontemplation stage to start over again and are unlikely to move from Precontemplation back to Maintenance.
+
+This movement through the stages can vary in relation to different behaviors or treatment goals. For example, a client might be in the Action stage regarding quitting drinking but be in Precontemplation regarding their use of cannabis. Recurrence of problematic substance use is a common part of the process as people cycle through the different stages (note the circular movement in the image).
+
+Although people might return to problematic substance use during any of the stages, a recurrence is most often discussed as a setback during the Maintenance stage. In this model, recurrence is viewed as a normal (not pathological) event because many people cycle through different stages several times before achieving stable change. Recurrence is not considered a failure, but rather a learning opportunity. Each time people have a setback, they are learning from the experience and applying whatever skills or knowledge they have gained to move forward in the process with greater understanding and awareness.
+
+SUMMARY
+
+Scientific breakthroughs have revolutionized the understanding of SUDs. Addiction to substances is recognized as a treatable, chronic medical/brain disease involving complex interactions among brain circuits, genetics, the environment, and an individual's life experiences. There is a progression from non-use to problematic use to SUDs that have a range of behaviors that become compulsive and often continue despite harmful consequences. This progression can be understood within the interplay of distinct neurobiological and behavioral changes. There are many substances that have addictive properties. Knowledge of the signs and symptoms of commonly used substances is fundamental for SUD counselors to effectively assess, treat, and support individuals with problematic substance use or with SUDs.
+
+The definition and hallmarks of recovery have evolved significantly in the last two decades. Recovery from problematic substance use is viewed as a highly personal journey toward wellness, satisfying relationships, engagement in community, and a sense of meaning and purpose. We know that people with problematic substance use benefit from a wide range of support and treatment. Attention to the principles of a recovery-oriented system of care helps to assure that providers of treatment, recovery support, and other services use a long-term, coordinated, and holistic approach to address the clinical, functional, personal, and social aspects of recovery.
+
+
+ENDNOTES
+
+1. NIDA (2021, Nov.). Words matter: Terms to use and avoid when talking about addiction. https://nida.nih.gov/nidamed-medical-health-professionals/health-professions-education/words-matter-terms-to-use-avoid-when-talking-about-addiction
+
+2. American Psychiatric Association (n.d.). Addiction and substance use disorders. https://www.psychiatry.org/patients-families/addiction-substance-use-disorders
+
+3. NIDA. (2024, January). Drug misuse and addiction. https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction/drug-misuse-addiction
+
+4. ASAM (2019, Sept.) Definition of addiction. Author. https://www.asam.org/quality-care/definition-of-addiction
+
+5. Halkjelsvik, R. J. (2019). Conceptualizations of addiction and moral responsibility. Frontiers in Psychology, 28, 10:1483. doi: 10.3389/fpsyg.2019.01483. PMID: 31316438; PMCID: PMC6610207. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6610207/
+
+6. Pickard, H. (2017). Responsibility without blame for addiction. Neuroethics, 10, 169–180. https://doi.org/10.1007/s12152-016-9295-2
+
+7. NIDA (2024, January). Drug misuse and addiction. https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction/drug-misuse-addiction
+
+8. Volkow, N. D., Michaelides, M., & Baler, R. (2019). The neuroscience of drug reward and addiction. Physiological Reviews, 99(4), 2115–2140. doi:10.1152/phys-rev.00014.2018 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6890985/
+
+9. Patrono, E., Gasbarri, A., Tomaz, C., & Nishijo, H. (2016). Transitionality in addiction: A "temporal continuum" hypotheses involving the aberrant motivation, the hedonic dysregulation, and the aberrant learning. Medical Hypotheses, 93, 62–70. ISSN 0306–9877, https://doi.org/10.1016/j.mehy.2016.05.015.
+
+10. Dingel, M. J., Hammer, R., et al. (2012). Chronic addiction, compulsion, and the empirical evidence. AJOB Neuroscience, 3(2): 58–59. https://doi.org/10.1080/21507740.2012.665411
+
+11. Hammer, R., Dingel, M., Ostergren, J., et al. (2013). Addiction: Current criticism of the brain disease paradigm. AJOB Neuroscience, 4(3): 27–32. doi: 10.1080/21507740.2013.796328. PMID: 24693488; PMCID: PMC3969751.
+
+12. Pickard, H. (2017). Responsibility without blame for addiction. Neuroethics, 10, 169–180. https://doi.org/10.1007/s12152-016-9295-2
+
+13. Volkow, N. D., Michaelides, M., & Baler, R. (2019). The neuroscience of drug reward and addiction. Physiological Reviews, 99(4), 2115–2140. doi:10.1152/phys-rev.00014.2018 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6890985/
+
+14. Deak, J. D. & Johnson, E.C. (2021, Oct.). Genetics of substance use disorders: a review. Psychological Medicine, Epub 2021 51(13): 2189–2200. doi: 10.1017/S0033291721000969. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8477224/
+
+15. Patrono, E., Gasbarri, A., Tomaz, C., & Nishijo, H. (2016). Transitionality in addiction: A "temporal continuum" hypotheses involving the aberrant motivation, the hedonic dysregulation, and the aberrant learning. Medical Hypotheses, 93, 62–70. ISSN 0306–9877, https://doi.org/10.1016/j.mehy.2016.05.015.
+
+16. NIDA (2022, May 4). Sex and gender differences in substance use. https://nida.nih.gov/publications/research-reports/substance-use-in-women/sex-gender-differences-in-substance-use
+
+17. Hammond, C. (2016). Early childhood traumatic events and adolescent-onset illicit drug use: Implications for prevention and treatment. Journal of the American Academy of Child and Adolescent Psychiatry, 55(8), 643–644. https://doi.org/10.1016/j.jaac.2016.05.013.
+
+18. Meyers, J., McCutheon, V., Pandey, A., Chorlian, D., et al. (2019). Early sexual assaultive trauma, polygenic risk for AUD-CUD, and neural response inhibition in adolescence and young adults: Trajectories of frontal oscillations during a go/nogo task. European Neuropsychopharmacology, 29, S951–S952. https://doi.org/10.1016/j.euroneuro.2017.08.303.
+
+19. Whitesell, M., Bachand, A., Peel, J. & Brown, M. (2013). Familial, social, and individual factors contributing to risk for adolescent substance use. Journal of Addiction. vol. 2013, Article ID 579310, 9 pages. https://doi.org/10.1155/2013/579310
+
+20. Jordan, C. J. & Andersen, S. L. (2017). Sensitive periods of substance abuse: Early risk for the transition to dependence. Developmental Cognitive Neuroscience, 25, 29–44. ISSN 1878–9293, https://doi.org/10.1016/j.dcn.2016.10.004.
+
+21. SAMHSA (2022, Sept.) Trauma and violence. https://www.samhsa.gov/trauma-violence
+
+22. Mehr, J, B, Bennett, E. R., Price, J. L., de Souza, N. L., et al. (2023). Intimate partner violence, substance use, and health comorbidities among women: A narrative review. Frontiers in Psychology, 27, 13:1028375. doi: 10.3389/fpsyg.2022.1028375. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9912846/
+
+34 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+23 Cotter, J., Drake, R., & Yung, A. (2016). Adulthood revictimization: looking beyond childhood trauma. Acta Psychiatrica Scandinavica, 134. https://doi.org/10.1111/acps.12602.
+
+24 Basirah, T. (2016). Managing substance use and emotions in the context of trauma: A case study. Journal of Doctoral Nursing Practice. 9(1). DOI: 10.1891/2380-9418.9.1.55.
+
+25 NIDA (2022), March 22. Drugs and the brain. Retrieved from https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction/drugs-brain
+
+26 SAMHSA, Office of the Surgeon General (2016, Nov.). Facing Addiction in America: The Surgeon General's Report on Alcohol, Drugs, and Health. Chapter 2. The Neurobiology of Substance Use, Misuse and Addiction. Washington (DC): US Department of Health and Human Services.
+
+27 SAMHSA, Office of the Surgeon General (2016, Nov.). Facing Addiction in America: The Surgeon General's Report on Alcohol, Drugs, and Health. Chapter 2. The Neurobiology of Substance Use, Misuse and Addiction. Washington (DC): US Department of Health and Human Services. https://www.ncbi.nlm.nih.gov/books/NBK424849/
+
+28 National Academies of Sciences, Engineering, and Medicine (1997). Dispelling the myths about addiction: Strategies to increase understanding and strengthen research. Washington, DC: The National Academies Press. https://doi.org/10.17226/5802.
+
+29 Volkow, N.D., Koob, G.F., & McLellan, A.T. (2016). Neurobiologic advances from the brain disease model of addiction. New England Journal of Medicine, 74(4), 363-71. doi: 10.1056/NEJMra1511480. PMID: 26816013; PMCID: PMC6135257.
+
+30 Ibid.
+
+31 Koob, G., & Volkow, N. (2012). Neurocircuitry of addiction. Neuropsychopharmacology, 35, 217-238. https://doi.org/10.1038/npp.2009.110
+
+32 SAMHSA, Office of the Surgeon General (2016, Nov.). Facing Addiction in America: The Surgeon General's Report on Alcohol, Drugs, and Health. Chapter 2. The Neurobiology of Substance Use, Misuse and Addiction. Washington (DC): US Department of Health and Human Services. https://www.ncbi.nlm.nih.gov/books/NBK424849/
+
+33 Ibid
+
+34 Volkow, N.D., Koob, G.F., & McLellan, A.T. (2016). Neurobiologic advances from the brain disease model of addiction. New England Journal of Medicine, 74(4), 363-71. doi: 10.1056/NEJMra1511480. PMID: 26816013; PMCID: PMC6135257.
+
+35 Volkow, N. D. & Boyle, M. (2018). Neuroscience of addiction: Relevance to prevention and treatment. Psychiatry, 175(8), 729-740. https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp.2018.17101174#:~:text=https%3A//doi.org/10.1176/appi.ajp.2018.17101174
+
+36 Drug Enforcement Administration (2022). Drugs of abuse. US Department of Justice. https://www.dea.gov/sites/default/files/2022-12/2022_DOA_eBook_File_Final.pdf
+
+37 Davidson, L., O'Connel, M. J., Staeheli, M., Weingarten, R. et al. (2001). Concepts of recovery in behavioral health: History, review of the evidence, and critique. Psychiatric Services, 52(4), 482-5.
+
+38 SAMHSA (2023, August). Recovery and recovery support. https://www.samhsa.gov/find-help/recovery
+
+39 Roosenschoon, B-J., Kamperman, A.M., Deen, M. L., et al. (2019). Determinants of clinical, functional and personal recovery for people with schizophrenia and other severe mental illnesses: A cross-sectional analysis. PLoS ONE 14(9): e0222378. https://doi.org/10.1371/journal.pone.022237
+
+40 SAMHSA (2023, August). Recovery and recovery support. https://www.samhsa.gov/find-help/recovery
+
+41 SAMHSA (2012). SAMHSA's working definition of recovery. Washington, DC: US Department of Health and Human Services, SAMHSA. https://store.samhsa.gov/product/samhsas-working-definition-recovery/pep12-recdef
+
+42 Kaplan, L. (2008). The role of recovery support services in recovery-oriented systems of care (DHHS Publication No. SMA 08-4315). Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+43 Laudet, A. B. (2010). SAMHSA Recovery Month Ask the Expert: Maintaining Resiliency and Sustaining Recovery: Ensuring That Recovery Lasts a Lifetime. Retrieved from: http://www.recoverymonth.gov/Resources-Catalog/2010/Web-cast/May-Maintaining-Resiliency.aspx
+
+44 del Vecchio, P., Nugent, C., Townsend, N., Torres, I., & Baker, M. (2012). Realizing recovery: The U.S. Substance Abuse and Mental Health Services Administration's efforts to foster social inclusion. Journal of Human Development, Disability, and Social Change, 20(2), 73-85. DOI: https://doi.org/10.7202/1086716ar
+
+45 Gumbley, S. J. (2016). Recovery in the 21st century: From shame to strength. Journal of Addiction Nursing, 27(2), 143-7. doi: 10.1097/JAN.0000000000000125. PMID: 27272998.
+
+46 SAMHSA (2019). Enhancing Motivation for Change in Substance Use Disorder Treatment. Treatment Improvement Protocol (TIP) Series No. 35. SAMHSA Publication No. PEP19-02-01-003. Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+
+47 Kelly, J. F., Bergman, B., Hoeppner, B. B., Vilsaint, C., & White, W. L. (2017). Prevalence and pathways of recovery from drug and alcohol problems in the United States population: Implications for practice, research, and policy. _Drug and Alcohol Dependence_, _181_, 162–169. DOI: 10.1016/j.drugalcdep.2017.09.028
+48 Prochaska, J. O., & DiClemente, C. C. (1984). _The transtheoretical approach: Crossing traditional boundaries of therapy_. Malabar, FL: R. E. Krieger.
+49 Connors, G. J., DiClemente, C. C., Velasquez, M. M., & Donovan, D. M. (2013). _Substance abuse treatment and the stages of change: Selecting and planning interventions_. New York, NY: Guilford Press.
+50 Harrell, P. T., Trenz, R., Scherer, M., Martins, S., & Latimer, W. (2013). A latent class approach to treatment readiness corresponds to a transtheoretical ("Stages of Change") model. _Journal of Substance Abuse Treatment_, _45_(3), 249–256. doi:10.1016/j.jsat.2013.04.004 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3968940/
+51 Connors, G. J., DiClemente, C. C., Velasquez, M. M., & Donovan, D. M. (2013). _Substance abuse treatment and the stages of change: Selecting and planning interventions_. New York, NY: Guilford Press. In, SAMHSA (2019). _Enhancing Motivation for Change in Substance Use Disorder Treatment. Treatment Improvement Protocol (TIP) Series No. 35_. SAMHSA Publication No. PEP19–02–01–003. Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+

@@ -1,0 +1,33 @@
+104 IC&RC Alcohol and Drug Counselor (ADC) Certification Examination Study Guide
+
+**Sexually Transmitted Diseases**
+
+Sexually transmitted diseases (STDs) and infections (STIs) represent a significant public health challenge globally, affecting individuals’ health, well-being, and social relationships. The most prevalent STDs include chlamydia, gonorrhea, syphilis, herpes, human papillomavirus (HPV), hepatitis B, HIV, and trichomoniasis, with varying incidences and impacts across different populations and geographical regions.
+
+[Layout: The page has a main text area on the left and a sidebar on the right. The main text area contains paragraphs and bullet points. The sidebar contains a text box with a heading.]
+
+The CDC’s report—**Sexually Transmitted Infections Surveillance, 2022**—provides the most current and complete U.S. national data for STIs. This report underscores that STIs must be a public health priority.⁶⁴
+
+» More than 2.5 million cases of syphilis, gonorrhea, and chlamydia were reported. Syphilis cases (all stages and congenital syphilis) have increased 80% in the past five years with more than 3,700 cases of congenital syphilis reported. Congenital syphilis is a serious, preventable condition transmitted from an infected mother to her baby during pregnancy. This disease can have severe outcomes, ranging from asymptomatic infection to multisystem disease or even death.
+
+» Chlamydia, gonorrhea, and syphilis are highly prevalent among young adults and adolescents in the U.S. These infections can lead to serious health consequences if untreated. Some declines in STIs were noted in the report—gonorrhea cases declined for the first time in at least a decade while reported chlamydia cases were level.
+
+» Viral STDs like HPV, herpes simplex virus (HSV), and HIV are also prevalent, with HPV being particularly noteworthy due to its asymptomatic nature and potential to cause genital warts and cervical cancer. Human papillomavirus (HPV) is a group of more than 200 related viruses, with more than 40 types easily spread through direct sexual contact, from the skin and mucous membranes of infected people to those of their partners. Herpes simplex virus type 2 (HSV-2) is associated with genital herpes and can increase susceptibility to other STDs, including HIV.
+
+This report also showed that there were significant disparities among population groups in reported STIs.
+
+» In 2022, half (49.8%) of reported cases of chlamydia, gonorrhea, and syphilis (all stages) were among adolescents and young adults aged 15–24 years.
+
+» Men who have sex with men (MSM) are disproportionally impacted by STIs, including gonorrhea and P&S syphilis. Co-infection with HIV is common; 36.4% of MSM who had P&S syphilis were also diagnosed with HIV.
+
+» Thirty-one percent (31.1%) of all cases of chlamydia, gonorrhea, and P&S syphilis were among non-Hispanic Black or African American people, even though they made up only 12.6% of the US population.
+
+The CDC suggests that the differences in STI rates are likely due to unequal access to quality sexual health care and variations in sexual network characteristics, not necessarily differences in sexual behavior. For instance, in areas with more STIs, people have a higher risk of encountering an infected partner during sexual activity, regardless of how similarly they behave compared to those in areas with fewer STIs. Recognizing these disparities and their underlying causes is essential for enabling affected groups and public health experts to work together to address these systemic issues, aiming to reduce the impact of STIs on individuals and communities.
+
+[Sidebar Text]
+**STD or STI?**
+
+A **sexually transmitted infection (STI)** is a virus, bacteria, fungus, or parasite people can get through sexual contact. Many STIs have no symptoms, so people can have an infection but not know it.
+
+A **sexually transmitted disease (STD)** develops because of an STI and the term implies that the infection has led to some symptom of disease. People sometimes use the terms in one another’s place, but the preferred term today is STI.
+[End Sidebar Text]

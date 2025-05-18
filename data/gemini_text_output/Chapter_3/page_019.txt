@@ -1,0 +1,21 @@
+CHAPTER 3: Co-Occurring Conditions and Special Populations 103
+
+half of persons who become infected with HCV, it becomes a long-term, chronic infection. Like chronic hepatitis B, chronic hepatitis C is a serious disease that can result in cirrhosis, liver cancer, and death. People might not be aware of their infection if they do not have symptoms. Since 2013, highly effective, well-tolerated curative treatments have been available for hepatitis C, but no vaccine for preventing hepatitis C is yet available.
+
+» **Hepatitis D Virus (HDV):** Hepatitis D, also known as “delta hepatitis,” is a liver infection caused by the hepatitis D virus (HDV). Hepatitis D only occurs in people who are also infected with the hepatitis B virus. Hepatitis D is spread when blood or other body fluids from a person infected with the virus enters the body of someone who is not infected. Hepatitis D can be an acute, short-term infection or become a long-term, chronic infection. Hepatitis D can cause severe symptoms and serious illness that can lead to life-long liver damage and even death. There is no vaccine to prevent hepatitis D. However, prevention of hepatitis B with hepatitis B vaccine also protects against future hepatitis D infection.
+
+» **Hepatitis E Virus (HEV)** is a liver infection caused by the hepatitis E virus (HEV). HEV is found in the stool of an infected person. It is spread when someone unknowingly ingests the virus – even in microscopic amounts. Symptoms of hepatitis E can include fatigue, poor appetite, stomach pain, nausea, and jaundice. However, many people with hepatitis E, especially young children, have no symptoms. Most people recover fully from the disease without any complications. No vaccine for hepatitis E is currently available in the U.S.
+
+**THE RELATIONSHIP BETWEEN SUBSTANCE USE AND VIRAL HEPATITIS**
+
+Drug and alcohol use places people at particular risk for contracting viral hepatitis. Engaging in risky sexual behavior that often accompanies substance use increases the risk of contracting HBV and, less frequently, HCV. People who inject drugs (PWID) are at high risk for contracting HBV and HCV from shared needles and other drug preparation equipment, which exposes them to bodily fluids from other infected people. Because substance use often impairs judgement, PWID repeatedly engage in these unsafe behaviors.63
+
+People with hepatitis who inject drugs often have several other health conditions at the same time, including MHDs and HIV/AIDS, thus requiring care from multiple healthcare providers. SUD counselors and other healthcare providers can play a crucial role in combating hepatitis among their clients through:
+
+1.  **Education and Awareness:** Educate clients about the risks of hepatitis, modes of transmission, and the importance of preventive measures. This includes information on safe injection practices, the risks of sharing needles, and the benefits of using sterile equipment.
+2.  **Screening and Testing:** Encourage and facilitate regular screening and testing for hepatitis B and C. Early detection can lead to timely treatment and reduce the risk of severe liver disease and other complications.
+3.  **Vaccination:** Advocate for and assist in obtaining vaccinations against hepatitis A and B for clients, as there is no vaccine for hepatitis C.
+4.  **Referral to Medical Care:** Connect clients with hepatitis to healthcare services for further evaluation, monitoring, and treatment. Effective antiviral treatments are available for both hepatitis B and C, which can manage the infection and reduce the risk of liver damage.
+5.  **Harm Reduction Services:** Provide or refer clients to harm reduction services, such as needle exchange programs and supervised injection facilities, to reduce the risk of hepatitis transmission.
+6.  **Supportive Services:** Offer or coordinate access to supportive services, such as mental health counseling, housing assistance, and job training, which can improve overall well-being and reduce behaviors that contribute to the risk of hepatitis.
+7.  **Integrated Care:** Work towards integrating SUD treatment with primary healthcare services to ensure a comprehensive approach to the client’s health, including the management of hepatitis and other comorbid conditions.

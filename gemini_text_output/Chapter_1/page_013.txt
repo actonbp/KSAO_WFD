@@ -1,0 +1,28 @@
+CHAPTER 1: Scientific Perspectives on Substance Use Disorders and Recovery
+21
+
+A "deeper dive" into the neurobiology of addiction adds another level of understanding about the brain circuits that regulate reward and motivation, executive control, and emotional processing. This provides additional confirmations that certain biological processes affect a person's ability to choose long-term benefits over short-term "rewards" received through problematic substance use, even when these choices can lead to severe consequences. In addition, understanding the neurobiological mechanisms that underlie the addictive process has been and is important for guiding the refinement of behavioral treatment strategies.
+
+Let's begin... Recent advances in the neurobiology of addiction have clarified the link between addiction and brain function and to broaden the understanding of addiction as a brain disease.29 Brain imaging research has helped map the neuronal circuits that regulate the relapsing pattern of addictive behaviors, including rewarding responses during intoxication, conditioning to the substance and its cues, negative mood and increased stress during withdrawal, and craving during exposure to cues or stressors.30 A model of the stages of addiction from a neurobiological perspective divides the process of addiction into three recurring stages:
+1. Binge and Intoxication
+2. Withdrawal and Negative affect, and
+3. Preoccupation and Anticipation.31
+
+In this model, addiction is framed as a repeating cycle, within the three stages. Each stage is linked to and feeds on the others. The stages/domains are activated in three key regions of the brain: the **basal ganglia**, the **extended amygdala**, and the **prefrontal cortex**, respectively. An individual may go through this three-stage cycle over the course of weeks or months, or progress through it several times in a day. These stages primarily involve three domains of action:33,34
+1. Incentive Salience: This is a psychological and neurobiological concept that refers to the attractive and motivational properties of a stimulus, which make it desirable and sought-after - the "wanting." During the binge and intoxication stage, the brain associates the substance with a positive reward, making it highly "salient" or attractive. The basal ganglia play an important role in motivation as well as in the formation of habits and other routine behaviors.
+INCENTIVE SALIENCE
+BINGE/
+INTOXIFICATION
+Prefrontal Cortex
+Extended
+Amygdala
+Basal Ganglia
+WITHDRAWAL/
+NEGATIVE
+AFFECT
+REWARD DEFICIT
+& STRESS SURFEIT
+EXECUTIVE FUNCTION DEFECITS
+PREOCCUPATION/
+ANTICIPATION
+32

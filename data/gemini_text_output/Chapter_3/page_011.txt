@@ -1,0 +1,24 @@
+[Layout: Single column main content on the left, with a header at the top. A sidebar text box is on the right side of the page. The page number "95" is in the top right corner of the header.]
+
+CHAPTER 3: Co-Occurring Conditions and Special Populations 95
+
+CIVIL COMMITMENT
+
+Many people with CODs arrive in the treatment system through civil commitment procedures which are most often involuntary. Civil commitment refers to legal processes by which people other than the person with a MHD and/or a SUD can initiate treatment. This involves initiation of civil commitment proceedings and court-ordered treatment, including inpatient or assisted outpatient treatment (AOT). This process is typically initiated when an individual poses a significant risk to themselves or others due to their mental health and substance-related behaviors.
+
+The specifics of the process can vary widely by jurisdiction but generally involve the following steps:
+
+1.  **Petition**: A family member, mental health professional, or law enforcement officer files a petition stating that the individual requires involuntary treatment due to their inability to make decisions regarding their care.
+2.  **Examination**: The individual is evaluated by one or more licensed mental health professionals who assess the severity of the mental health and substance use issues and the person’s capacity to consent to treatment.
+3.  **Hearing**: A legal hearing is conducted where evidence [Unclear small superscript-like mark above the first 'e' in "evidence", possibly "is" or an artifact.] is presented by both the petitioner and the individual. The court considers evidence related to the person’s behavior, psychiatric history, and the risk they pose to themselves or others.
+4.  **Judgment**: The judge decides whether involuntary treatment is necessary. If commitment is ordered, the individual may be placed in a treatment facility that can address both mental health and substance use needs.
+5.  **Review**: The commitment is subject to periodic review and continued treatment is contingent on ongoing assessments that determine the need for further intervention under the law.
+
+Rates of civil commitment among individuals with CODs tend to be higher than for those with a single type of disorder. This is largely because the combination of MHDs and SUDs can more severely impair judgment, increase the risk of harm to oneself or others, and diminish the capacity to seek or comply with treatment voluntarily. Studies suggest that individuals with CODs are more frequently encountered in emergency settings, where involuntary commitments often originate due to acute crises.17 Many states that had not previously enacted civil commitment laws for SUDs are turning to this type of law as a potential solution to address the recent rising rates of overdose deaths.
+
+All states in the U.S. have civil commitment laws for mental health crisis situations. These laws govern the detainment and treatment of individuals who pose risks to themselves or others due to their MHDs. Currently, 35 states and the District of Columbia have also enacted civil commitment laws for SUDs. The statutes governing such care vary widely between jurisdictions, although many include similar criteria. Such criteria include:
+
+[Text box on the right side of the page]
+In 2019, the U.S. Conference of Chief Justices and Conference of State Court Administrators¹⁹ established the National Judicial Task Force to Examine State Courts’ Response to Mental Illness. As part of its overall efforts, a Model Legal Processes Workgroup was convened to develop model statutory language for court-ordered mental health treatment, emergency psychiatric intervention, medication over objection, and criminal matters involving persons with MHDs.
+
+Their three-year undertaking produced a set of recommendations for legislative language that recognizes modern brain and behavioral research, while still being mindful of an individual’s rights to due process. The Workgroup issued its final report and recommendations in August 2022, which were then endorsed by the National Judicial Task Force in October 2022.

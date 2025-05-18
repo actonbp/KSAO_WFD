@@ -5,6 +5,8 @@ __pycache__/
 *.pyd
 *pip-wheel-metadata/
 .Python
+# Environment variables
+.env
 env/
 venv/
 ENV/

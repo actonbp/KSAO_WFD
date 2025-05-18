@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="quarto-1.7.30" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+<meta name="author" content="KSAO Workforce Development Project" />
+<meta name="dcterms.date" content="2025-05-17" />
+
+<title>Analysis of AI Thinking Traces in KSAO Extraction</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+<!-- htmldependencies:E3FAD763 -->
+
+
+</head>
+
+<body>
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <div id="quarto-toc-target"></div>
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Analysis of AI Thinking Traces in KSAO Extraction</h1>
+<p class="subtitle lead">Methodological Insights from Gemini 2.5 Pro’s Reasoning Processes</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>KSAO Workforce Development Project </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 17, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+<nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction"><span class="header-section-number">1</span> Introduction</a></li>
+  <li><a href="#methodology" id="toc-methodology"><span class="header-section-number">2</span> Methodology</a>
+  <ul>
+  <li><a href="#data-sources" id="toc-data-sources"><span class="header-section-number">2.1</span> Data Sources</a></li>
+  <li><a href="#analysis-approach" id="toc-analysis-approach"><span class="header-section-number">2.2</span> Analysis Approach</a></li>
+  </ul></li>
+  <li><a href="#thinking-process-analysis" id="toc-thinking-process-analysis"><span class="header-section-number">3</span> Thinking Process Analysis</a>
+  <ul>
+  <li><a href="#meta-analysis-of-ai-thinking-traces-for-ksao-identification" id="toc-meta-analysis-of-ai-thinking-traces-for-ksao-identification"><span class="header-section-number">3.1</span> Meta-Analysis of AI Thinking Traces for KSAO Identification</a>
+  <ul>
+  <li><a href="#common-themes-patterns-and-approaches-used-across-analyses" id="toc-common-themes-patterns-and-approaches-used-across-analyses"><span class="header-section-number">3.1.1</span> 1. Common Themes, Patterns, and Approaches Used Across Analyses</a></li>
+  <li><a href="#key-methodological-insights-about-how-the-ai-approached-ksao-extraction" id="toc-key-methodological-insights-about-how-the-ai-approached-ksao-extraction"><span class="header-section-number">3.1.2</span> 2. Key Methodological Insights About How the AI Approached KSAO Extraction</a></li>
+  <li><a href="#summarizes-the-reasoning-processes-that-were-most-effective" id="toc-summarizes-the-reasoning-processes-that-were-most-effective"><span class="header-section-number">3.1.3</span> 3. Summarizes the Reasoning Processes That Were Most Effective</a></li>
+  <li><a href="#variations-in-approach-between-different-chapters-and-why-they-might-occur" id="toc-variations-in-approach-between-different-chapters-and-why-they-might-occur"><span class="header-section-number">3.1.4</span> 4. Variations in Approach Between Different Chapters and Why They Might Occur</a></li>
+  <li><a href="#generalizable-principles-for-ksao-identification-in-professional-competency-mapping" id="toc-generalizable-principles-for-ksao-identification-in-professional-competency-mapping"><span class="header-section-number">3.1.5</span> 5. Generalizable Principles for KSAO Identification in Professional Competency Mapping</a></li>
+  <li><a href="#conclusion-and-best-practices-for-ksao-identification-and-competency-mapping" id="toc-conclusion-and-best-practices-for-ksao-identification-and-competency-mapping"><span class="header-section-number">3.1.6</span> Conclusion and Best Practices for KSAO Identification and Competency Mapping</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#applications-of-thinking-process-insights" id="toc-applications-of-thinking-process-insights"><span class="header-section-number">4</span> Applications of Thinking Process Insights</a></li>
+  <li><a href="#limitations-and-considerations" id="toc-limitations-and-considerations"><span class="header-section-number">5</span> Limitations and Considerations</a></li>
+  <li><a href="#conclusion" id="toc-conclusion"><span class="header-section-number">6</span> Conclusion</a></li>
+  </ul>
+</nav>
+<section id="introduction" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Introduction</h1>
+<p>This report presents a meta-analysis of the thinking traces generated by Google’s Gemini 2.5 Pro model during the process of KSAO extraction from CASAC textbook chapters. While the companion report “Integrated KSAO Framework” presents the results of this analysis, this document focuses on the process itself - examining how the AI approached the task, what patterns emerged in its reasoning, and what methodological insights can be gained.</p>
+<p>The analysis of thinking traces provides valuable insights into effective methods for competency extraction and offers transparency into how the AI-derived framework was developed. This meta-level understanding can inform both future AI-assisted competency mapping projects and traditional human-led curriculum development efforts.</p>
+</section>
+<section id="methodology" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Methodology</h1>
+<section id="data-sources" class="level2" data-number="2.1">
+<h2 data-number="2.1"><span class="header-section-number">2.1</span> Data Sources</h2>
+<p>The thinking traces analyzed in this report were generated during the analysis of:</p>
+<ol type="1">
+<li><strong>Chapter 1</strong>: Covering SUD terminology, neurobiology, models of addiction, risk factors, etc.</li>
+<li><strong>Chapter 2</strong>: Focusing on systems of care, telehealth, harm reduction, etc.</li>
+<li><strong>Appendices</strong>: Including commonly used drugs, mental health conditions, etc.</li>
+<li><strong>Integration Process</strong>: The trace from combining the individual chapter analyses</li>
+</ol>
+</section>
+<section id="analysis-approach" class="level2" data-number="2.2">
+<h2 data-number="2.2"><span class="header-section-number">2.2</span> Analysis Approach</h2>
+<p>The thinking traces themselves were analyzed using Gemini 2.5 Pro with a specialized prompt that asked the model to: - Identify common themes, patterns, and approaches used across analyses - Highlight key methodological insights about KSAO extraction - Summarize the most effective reasoning processes - Identify variations in approach between different chapters - Extract generalizable principles for KSAO identification</p>
+</section>
+</section>
+<section id="thinking-process-analysis" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Thinking Process Analysis</h1>
+<section id="meta-analysis-of-ai-thinking-traces-for-ksao-identification" class="level2" data-number="3.1">
+<h2 data-number="3.1"><span class="header-section-number">3.1</span> Meta-Analysis of AI Thinking Traces for KSAO Identification</h2>
+<p><strong>Document Purpose:</strong> This document provides a meta-analysis of AI thinking traces generated during the process of identifying Knowledge, Skills, Abilities, and Other Characteristics (KSAOs) from chapters of a Substance Use Disorder (SUD) counselor textbook. It aims to help curriculum developers understand effective KSAO identification methodologies and how AI reasoning can be leveraged for competency mapping.</p>
+<hr />
+<section id="common-themes-patterns-and-approaches-used-across-analyses" class="level3" data-number="3.1.1">
+<h3 data-number="3.1.1"><span class="header-section-number">3.1.1</span> 1. Common Themes, Patterns, and Approaches Used Across Analyses</h3>
+<p>Across the provided thinking traces, several common themes, patterns, and approaches employed by the AI for KSAO extraction are evident:</p>
+<ul>
+<li><p><strong>Systematic Phased Approach:</strong> The AI consistently breaks down the task into logical phases. This typically includes:</p>
+<ul>
+<li><strong>Initial Read-through/Skimming:</strong> Gaining a high-level understanding of the content and identifying broad themes.
+<ul>
+<li><em>Example (Appendices):</em> “Phase 1: Initial Read-through and Key Concept Noting… Here are my initial high-level observations and concepts related to KSAOs…”</li>
+<li><em>Example (Chapter 2):</em> “Step 1: Initial Read-through and Key Concept Noting… As I read, I’ll jot down phrases or concepts…”</li>
+<li><em>Example (textbook_ksao_analysis - Chapter on Scientific Perspectives):</em> “Phase 1: Initial Skim and Broad Theme Identification… This will help me anticipate the types of KSAOs I might find.”</li>
+</ul></li>
+<li><strong>Detailed Section-by-Section Analysis:</strong> A deeper dive into specific sections of the text to identify potential KSAOs.
+<ul>
+<li><em>Example (Appendices):</em> “Phase 2: Identifying Explicit and Implicit Competencies (KSAOs) per Section/Chapter Mapping from Appendix A.”</li>
+<li><em>Example (Chapter 2):</em> The AI goes through “Outpatient Programs,” “Telehealth,” “Mutual-Help Groups,” etc., listing observations.</li>
+<li><em>Example (textbook_ksao_analysis):</em> “Phase 2: Section-by-Section Deep Dive for Explicit and Implicit Competencies.”</li>
+</ul></li>
+<li><strong>KSAO Identification and Derivation:</strong> Extracting explicit mentions and inferring implicit KSAOs from the text. Verbs in job tasks or descriptive sentences are key.
+<ul>
+<li><em>Example (Appendices):</em> From Job Task “Recognize how addiction effects the brain,” AI derives “Explicit KSAO Idea 1: Knowledge of the neurobiology of addiction.”</li>
+</ul></li>
+<li><strong>Categorization (K, S, A, O):</strong> Assigning each identified competency to one of the KSAO categories.
+<ul>
+<li><em>Example (Appendices):</em> “Phase 3: Categorize Each KSAO (K, S, A, O) &amp; Consolidate.”</li>
+<li><em>Example (Chapter 1 - Hypothetical):</em> “Knowledge of addiction theories: K (Knowledge).”</li>
+</ul></li>
+<li><strong>Attribute Analysis:</strong> Defining further characteristics for each KSAO (e.g., specificity, malleability, explicit/tacit, O*NET codes, prerequisites).
+<ul>
+<li><em>Example (Appendices):</em> Each KSAO listed has fields for “Classification,” “Specificity,” “O*NET Categories,” “Stability/Malleability,” “Explicit/Tacit,” “Prerequisites.”</li>
+</ul></li>
+<li><strong>Relationship Mapping:</strong> Analyzing hierarchies, dependencies, and developmental sequences among KSAOs.
+<ul>
+<li><em>Example (Appendices):</em> “Phase 4: Analyze Relationships (Hierarchies, Dependencies).” The final output includes a section on “Hierarchical Structure and Developmental Relationships among KSAOs.”</li>
+</ul></li>
+<li><strong>Organization and Presentation:</strong> Structuring the findings into a systematic framework, often using tables and thematic groupings (e.g., by IC&amp;RC domains or logical categories).</li>
+</ul></li>
+<li><p><strong>Leveraging Text Structure:</strong> The AI uses the inherent structure of the textbook (chapters, sections, appendices, explicit lists like IC&amp;RC Job Tasks) to guide its analysis and organize findings.</p>
+<ul>
+<li><em>Example (Appendices):</em> The IC&amp;RC domains and chapter mappings from Appendix A form the backbone of the KSAO organization.</li>
+<li><em>Example (Chapter 2):</em> KSAOs are initially noted under headings from the chapter itself (e.g., “Telehealth,” “Harm Reduction”).</li>
+</ul></li>
+<li><p><strong>Distinction Between Explicit and Implicit KSAOs:</strong> The AI actively looks for competencies directly stated and those that are implied by the text.</p>
+<ul>
+<li><em>Example (Appendices):</em> “Explicit KSAO Idea…” vs. “Implicit KSAO Idea…” are common initial labels.</li>
+<li><em>Example (textbook_ksao_analysis):</em> “Explicit:” and “Implicit:” subheadings are used during the deep dive.</li>
+</ul></li>
+<li><p><strong>Focus on Action Verbs:</strong> The AI pays close attention to verbs in job tasks or descriptive sentences (e.g., “Recognize,” “Identify,” “Utilize,” “Collaborate,” “Demonstrate”) to help determine the nature of the KSAO (often distinguishing Knowledge from Skills).</p></li>
+<li><p><strong>Iterative Refinement:</strong> There’s evidence of self-correction and refinement as the AI processes information.</p>
+<ul>
+<li><em>Example (Appendices):</em> “(Self-correction: I’ve been labeling them ‘KSAO Idea X’. I will now formalize them into the KSAO list, merging duplicates and refining descriptions.)”</li>
+</ul></li>
+<li><p><strong>Handling Missing Information (Chapter 1 Trace):</strong> When faced with missing input, the AI demonstrated its capability by:</p>
+<ul>
+<li>Clearly identifying the problem (“Critical Issue: Missing Textbook Content”).</li>
+<li>Outlining its <em>intended</em> detailed thinking process.</li>
+<li>Using a <em>hypothetical example</em> to illustrate each step of its planned analysis. This shows a robust underlying methodology.</li>
+</ul></li>
+</ul>
+<hr />
+</section>
+<section id="key-methodological-insights-about-how-the-ai-approached-ksao-extraction" class="level3" data-number="3.1.2">
+<h3 data-number="3.1.2"><span class="header-section-number">3.1.2</span> 2. Key Methodological Insights About How the AI Approached KSAO Extraction</h3>
+<p>The AI’s approach to KSAO extraction reveals several methodological insights:</p>
+<ul>
+<li><p><strong>Top-Down and Bottom-Up Processing:</strong></p>
+<ul>
+<li><strong>Top-Down:</strong> When available (as in the Appendices trace with IC&amp;RC domains and Job Tasks), the AI uses pre-existing frameworks to guide extraction. Job tasks are high-level competencies that are then broken down or supported by detailed knowledge.</li>
+<li><strong>Bottom-Up:</strong> When analyzing narrative text (as in Chapter 2 or the hypothetical Chapter 1), the AI scans sentences and paragraphs to identify keywords, phrases, and concepts that signify KSAOs, then groups and categorizes them.</li>
+</ul></li>
+<li><p><strong>Decomposition of Competencies:</strong> The AI often breaks down broader competency statements or job tasks into more granular KSAOs.</p>
+<ul>
+<li><em>Example (Appendices):</em> The job task “Collaborate with multidisciplinary teams…” leads to “Skill in interprofessional collaboration,” “Knowledge of the roles of different professionals…,” and “Communication skills.”</li>
+</ul></li>
+<li><p><strong>Semantic Analysis (Implicit):</strong> The AI interprets the meaning of phrases to infer KSAOs. For instance, “empowerment of an individual to be an ‘agent’ in their own life” is interpreted as relating to “Understanding of Client Agency in Recovery.”</p></li>
+<li><p><strong>Cross-Referencing and Synthesis:</strong></p>
+<ul>
+<li>The AI connects information from different parts of the text. In the Appendices trace, content from Appendices B-F is used to flesh out or support KSAOs derived from Appendix A’s job tasks.
+<ul>
+<li><em>Example (Appendices):</em> “Appendix B (Commonly Used Drugs): This appendix provides extensive factual information. The KSAO here will be ‘Knowledge of…’ specific drug characteristics… This supports tasks in Domain 1.”</li>
+</ul></li>
+</ul></li>
+<li><p><strong>Use of Standard KSAO Attributes:</strong> The AI consistently attempts to define KSAOs using a standard set of attributes (Name, Description, Classification, Specificity, Malleability, Explicit/Tacit, Prerequisites). This provides a structured and comparable output.</p></li>
+<li><p><strong>Rule-Based Derivations (Inferred):</strong> While not explicitly stated as “rules,” the AI seems to follow patterns:</p>
+<ul>
+<li>“Recognize X” often translates to “Knowledge of X.”</li>
+<li>“Utilize Y technique” often translates to “Knowledge of Y technique” AND “Skill in applying Y technique.”</li>
+<li>“Demonstrate Z” often translates to “Skill in Z.”</li>
+<li>Statements about ethical conduct or necessary personal qualities translate to “Other Characteristics.”</li>
+</ul></li>
+<li><p><strong>Structured Output Generation:</strong> The AI is adept at organizing the extracted KSAOs into a clear, hierarchical, and detailed format, typically using tables and thematic groupings. This makes the complex information accessible.</p></li>
+</ul>
+<hr />
+</section>
+<section id="summarizes-the-reasoning-processes-that-were-most-effective" class="level3" data-number="3.1.3">
+<h3 data-number="3.1.3"><span class="header-section-number">3.1.3</span> 3. Summarizes the Reasoning Processes That Were Most Effective</h3>
+<p>The most effective reasoning processes demonstrated by the AI include:</p>
+<ul>
+<li><strong>Structured Decomposition from Job Tasks (Appendices Trace):</strong> When provided with explicit “Job Tasks” (as in Appendix A of the IC&amp;RC guide), the AI’s process of directly translating these tasks into KSAOs, and then further decomposing them into specific knowledge and skill components, was highly effective. This leveraged the existing professional competency framework.
+<ul>
+<li><em>Example (Appendices):</em> Job Task: “Utilize established interviewing techniques (Motivational Interviewing, probing, questioning).”
+<ul>
+<li>Effective Reasoning: Directly led to “Explicit KSAO Idea 13: Knowledge of established interviewing techniques (including MI)” and “Explicit KSAO Idea 14: Skill in applying established interviewing techniques (including MI).”</li>
+</ul></li>
+</ul></li>
+<li><strong>Inferential Reasoning from Descriptive Text:</strong> The AI effectively inferred KSAOs from descriptive statements about what counselors <em>need to understand</em> or <em>be able to do</em>.
+<ul>
+<li><em>Example (textbook_ksao_analysis):</em> Text: “functional changes to brain circuits involved in reward, stress, and self-control.”
+<ul>
+<li>Effective Reasoning: Led to “Knowledge of Basic Neurobiology of Addiction.”</li>
+</ul></li>
+<li><em>Example (Chapter 2):</em> Text describing harm reduction “PILLARS” and “PRINCIPLES.”
+<ul>
+<li>Effective Reasoning: Led to “Knowledge of harm reduction ‘PILLARS’” and “Knowledge of harm reduction ‘PRINCIPLES’,” which were later consolidated into a broader “Knowledge of Harm Reduction Principles and Strategies.”</li>
+</ul></li>
+</ul></li>
+<li><strong>Hierarchical Structuring and Dependency Identification:</strong> The AI’s ability to not just list KSAOs but also to analyze their relationships (e.g., foundational knowledge leading to applied skills) is a powerful reasoning process. This provides a deeper understanding of competency development.
+<ul>
+<li><em>Example (Appendices):</em> “Knowledge of a technique is a prerequisite for Skill in applying it. Foundational knowledge (Domain 1) underpins skills in Domains 2 &amp; 3.”</li>
+<li><em>Example (Chapter 2):</em> The “Hierarchical Structure Among KSAOs” section details how knowledge KSAOs often precede skill KSAOs.</li>
+</ul></li>
+<li><strong>Systematic Attribute Assignment:</strong> Assigning attributes like “Specificity,” “Malleability,” and “Explicit/Tacit” to each KSAO demonstrates a sophisticated level of analysis. This reasoning helps differentiate KSAOs and informs curriculum design (e.g., what is teachable vs. what is a more stable trait).
+<ul>
+<li><em>Example (textbook_ksao_analysis):</em> For “Knowledge of SUD Terminology and Concepts,” attributes like “Specificity: Specialized,” “Malleability: Developable,” “Explicit/Tacit: Explicit” are assigned.</li>
+</ul></li>
+<li><strong>Consolidation and Synthesis:</strong> The AI often identifies multiple related “ideas” or raw extractions and then consolidates them into more comprehensive KSAO statements. This avoids redundancy and creates a more coherent list.
+<ul>
+<li><em>Example (Appendices):</em> The AI notes, “I will now consolidate the list, refine the names, and assign KSAO types. I will also start thinking about the other attributes for each.”</li>
+</ul></li>
+</ul>
+<hr />
+</section>
+<section id="variations-in-approach-between-different-chapters-and-why-they-might-occur" class="level3" data-number="3.1.4">
+<h3 data-number="3.1.4"><span class="header-section-number">3.1.4</span> 4. Variations in Approach Between Different Chapters and Why They Might Occur</h3>
+<p>The primary variation in approach observed is dictated by <strong>the nature of the source material being analyzed</strong>:</p>
+<ul>
+<li><strong>Analysis of Structured Competency Lists (Appendices_ksao_analysis.txt):</strong>
+<ul>
+<li><strong>Approach:</strong> The AI heavily relied on the pre-defined “Job Tasks” from IC&amp;RC Appendix A. These tasks served as the primary source for KSAOs. Other appendices (B-F) were then used to provide detailed <em>content knowledge</em> that supported these job tasks or stood as distinct knowledge areas.</li>
+<li><strong>Why:</strong> This approach is logical because Appendix A explicitly outlines required competencies. The AI’s task becomes one of parsing these competencies into K, S, A, O categories and linking them to supporting information.</li>
+</ul></li>
+<li><strong>Analysis of Narrative/Descriptive Textbook Chapters (Chapter_2_ksao_analysis.txt, textbook_ksao_analysis.txt for the “Scientific Perspectives” chapter):</strong>
+<ul>
+<li><strong>Approach:</strong> The AI performed a more “bottom-up” extraction. It read through the narrative text section by section, identifying phrases, concepts, and implied requirements that suggested KSAOs. There wasn’t a pre-existing list of “tasks” to start from within the chapter itself.</li>
+<li><strong>Why:</strong> Narrative chapters describe concepts, explain principles, and discuss implications. The AI must infer the KSAOs needed to understand and apply this information.
+<ul>
+<li><em>Example (Chapter 2):</em> When analyzing the “Telehealth” section, the AI extracts KSAOs related to “readiness,” “knowledge of technology,” “ability to engage clients virtually,” etc., directly from the descriptive text.</li>
+<li><em>Example (textbook_ksao_analysis):</em> The section “Importance for SUD Counselors” directly stated functional requirements, which the AI effectively translated into skills (e.g., “Accurate Assessment and Diagnosis” -&gt; “Skill in SUD Assessment and Diagnosis”).</li>
+</ul></li>
+</ul></li>
+<li><strong>Handling Input Errors (Chapter_1_ksao_analysis.txt):</strong>
+<ul>
+<li><strong>Approach:</strong> When the primary input was missing, the AI shifted to outlining its <em>intended methodology</em> and demonstrating it with a <em>hypothetical example</em>. This is a different “mode” of operation, focused on showcasing capability rather than direct analysis of provided text.</li>
+<li><strong>Why:</strong> This occurs due to a technical failure in accessing the source text. The AI’s response is a fallback to demonstrate its underlying design and understanding of the task.</li>
+</ul></li>
+</ul>
+<p><strong>Summary of Variation:</strong> The AI demonstrates flexibility by adapting its KSAO extraction strategy based on whether the source material is a structured list of competencies or descriptive prose. Its core methodology (phased approach, categorization, attribute analysis) remains consistent, but the initial point of extraction shifts.</p>
+<hr />
+</section>
+<section id="generalizable-principles-for-ksao-identification-in-professional-competency-mapping" class="level3" data-number="3.1.5">
+<h3 data-number="3.1.5"><span class="header-section-number">3.1.5</span> 5. Generalizable Principles for KSAO Identification in Professional Competency Mapping</h3>
+<p>Based on the AI’s effective processes, several generalizable principles for KSAO identification emerge:</p>
+<ol type="1">
+<li><strong>Start with Existing Frameworks (If Available):</strong> If professional bodies or established standards (like IC&amp;RC Job Tasks) define core job tasks or competencies, these should be the starting point. Deconstruct these tasks into underlying KSAOs.</li>
+<li><strong>Systematic Textual Analysis:</strong> For narrative texts, a systematic, section-by-section (or even paragraph-by-paragraph) review is crucial. Identify verbs, nouns, and descriptive phrases that indicate required knowledge, skills, abilities, or characteristics.</li>
+<li><strong>Distinguish Explicit and Implicit Requirements:</strong> Actively look for what is directly stated versus what is implied. For example, a text describing complex problem-solving implies an “Ability for critical thinking” even if not explicitly stated.</li>
+<li><strong>Standardize KSAO Definitions:</strong> For each KSAO, create a clear:
+<ul>
+<li><strong>Name:</strong> Concise and descriptive.</li>
+<li><strong>Description:</strong> Explaining what the KSAO entails in the context of the profession.</li>
+<li><strong>Classification:</strong> K, S, A, or O.</li>
+</ul></li>
+<li><strong>Analyze KSAO Attributes:</strong> Go beyond basic classification. Consider attributes such as:
+<ul>
+<li><strong>Specificity:</strong> Is it general to many roles or specific to this profession?</li>
+<li><strong>Malleability/Developability:</strong> Can it be learned/developed, or is it more innate?</li>
+<li><strong>Explicit/Tacit Nature:</strong> Is it primarily learned through formal instruction or experience?</li>
+<li><strong>Prerequisites:</strong> What other KSAOs are foundational to this one?</li>
+</ul></li>
+<li><strong>Map Relationships and Hierarchies:</strong> Competencies are rarely isolated. Identify:
+<ul>
+<li><strong>Dependencies:</strong> e.g., Knowledge of a theory is often a prerequisite for the Skill to apply it.</li>
+<li><strong>Hierarchies:</strong> Broader competency domains comprising more specific KSAOs.</li>
+<li><strong>Developmental Sequences:</strong> How KSAOs might typically be acquired or built upon one another.</li>
+</ul></li>
+<li><strong>Iterate and Refine:</strong> KSAO identification is often an iterative process. Initial lists may be refined, KSAOs merged or split, and descriptions improved with further analysis.</li>
+<li><strong>Contextualize with Examples:</strong> When deriving KSAOs, linking them back to specific examples or statements in the source material strengthens the validity of the identification.</li>
+<li><strong>Focus on Actionable and Observable Elements:</strong> Especially for Skills and Abilities, frame them in terms of what a person <em>does</em> or <em>can do</em>.</li>
+</ol>
+<hr />
+</section>
+<section id="conclusion-and-best-practices-for-ksao-identification-and-competency-mapping" class="level3" data-number="3.1.6">
+<h3 data-number="3.1.6"><span class="header-section-number">3.1.6</span> Conclusion and Best Practices for KSAO Identification and Competency Mapping</h3>
+<p>This meta-analysis of AI thinking traces offers valuable insights for curriculum developers. The AI demonstrates a structured, analytical, and adaptable approach to KSAO identification that can inform and augment human-led efforts.</p>
+<p><strong>Best Practices for KSAO Identification and Competency Mapping:</strong></p>
+<ol type="1">
+<li><p><strong>Adopt a Multi-Phased Approach:</strong></p>
+<ul>
+<li><strong>Preparation:</strong> Understand the scope, purpose, and existing frameworks (e.g., professional standards, accreditation requirements).</li>
+<li><strong>Data Collection:</strong> Systematically review source materials (textbooks, job descriptions, expert interviews, regulations).</li>
+<li><strong>Initial Extraction:</strong> Identify potential KSAOs, noting explicit and implicit mentions.</li>
+<li><strong>Detailed Analysis:</strong> Define each KSAO (name, description, K/S/A/O classification) and analyze its attributes (specificity, malleability, prerequisites).</li>
+<li><strong>Relationship Mapping:</strong> Develop a competency model showing hierarchies and interdependencies.</li>
+<li><strong>Validation:</strong> Review and validate the identified KSAOs and competency model with subject matter experts.</li>
+<li><strong>Documentation:</strong> Create a comprehensive KSAO dictionary and competency framework.</li>
+</ul></li>
+<li><p><strong>Leverage Diverse Information Sources:</strong> Combine analysis of educational materials with job task analyses, input from practitioners, and professional competency models. The AI traces primarily focused on textbook analysis, which is one important piece of the puzzle.</p></li>
+<li><p><strong>Emphasize Clear Definitions and Behavioral Indicators:</strong> For each KSAO, especially Skills, strive for clear, concise definitions and, where possible, identify behavioral indicators that would demonstrate proficiency.</p></li>
+<li><p><strong>Differentiate Knowledge, Skills, Abilities, and Other Characteristics Clearly:</strong></p>
+<ul>
+<li><strong>Knowledge:</strong> Demonstrable understanding of facts, principles, theories.</li>
+<li><strong>Skills:</strong> Proficient application of knowledge to perform specific tasks; typically learnable and observable.</li>
+<li><strong>Abilities:</strong> More general, enduring capacities to perform; can be cognitive (e.g., problem-solving) or physical.</li>
+<li><strong>Other Characteristics:</strong> Personal traits, values, attitudes, or motivations (e.g., empathy, ethical integrity, self-awareness).</li>
+</ul></li>
+<li><p><strong>Use Technology as an Augmentation Tool:</strong></p>
+<ul>
+<li>AI can significantly accelerate the initial extraction and organization of KSAOs from large volumes of text, as demonstrated by the traces.</li>
+<li>AI can assist in identifying patterns, cross-referencing information, and maintaining consistency.</li>
+<li>Human expertise remains crucial for:
+<ul>
+<li>Interpreting nuanced text.</li>
+<li>Validating AI-generated KSAOs.</li>
+<li>Making complex judgments about tacit knowledge or highly contextual skills.</li>
+<li>Understanding the broader professional and ethical context.</li>
+<li>Resolving ambiguities.</li>
+</ul></li>
+</ul></li>
+<li><p><strong>Maintain a Focus on Curriculum Development Needs:</strong></p>
+<ul>
+<li>The identified KSAOs should directly inform learning objectives, content selection, teaching strategies, and assessment methods.</li>
+<li>Understanding KSAO attributes (like malleability and prerequisites) helps in sequencing curriculum and choosing appropriate instructional approaches.</li>
+</ul></li>
+<li><p><strong>Promote Collaboration:</strong> KSAO identification and competency mapping are best done collaboratively, involving curriculum developers, subject matter experts, educators, and potentially AI tools.</p></li>
+</ol>
+<p>By adopting these principles and best practices, curriculum developers can create more robust, relevant, and effective educational programs that are well-aligned with the competencies required for professional success in fields like SUD counseling. The AI’s systematic approach serves as a valuable model for structuring this complex endeavor.</p>
+</section>
+</section>
+</section>
+<section id="applications-of-thinking-process-insights" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Applications of Thinking Process Insights</h1>
+<p>The methodological insights extracted from the AI’s thinking processes can be applied in several ways:</p>
+<ol type="1">
+<li><p><strong>Curriculum Development</strong>: Human curriculum developers can adopt similar systematic approaches when analyzing educational content for competency mapping.</p></li>
+<li><p><strong>Prompt Engineering</strong>: Future AI-assisted KSAO extraction projects can benefit from refined prompts that incorporate the most effective reasoning structures identified here.</p></li>
+<li><p><strong>Validation Methods</strong>: The thinking processes reveal what sources and reasoning patterns provide the strongest evidence for including particular KSAOs, which can inform validation approaches.</p></li>
+<li><p><strong>Methodology Training</strong>: Educators and workforce development specialists can be trained in systematic approaches to competency identification using the patterns observed in the AI’s reasoning.</p></li>
+</ol>
+</section>
+<section id="limitations-and-considerations" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Limitations and Considerations</h1>
+<p>While the analysis of thinking traces provides valuable insights, several limitations should be noted:</p>
+<ol type="1">
+<li><p><strong>AI-Specific Reasoning</strong>: Some aspects of the AI’s thinking process may not directly translate to human reasoning approaches.</p></li>
+<li><p><strong>Limited Source Material</strong>: The analysis was conducted on only three sections of the textbook, which may not reflect the full range of reasoning patterns needed for comprehensive KSAO extraction.</p></li>
+<li><p><strong>Implicit Assumptions</strong>: The AI may make implicit assumptions or connection leaps that aren’t fully documented in the thinking traces.</p></li>
+<li><p><strong>Domain Specificity</strong>: The approaches documented here are specific to substance use disorder counseling and may need adaptation for other domains.</p></li>
+</ol>
+</section>
+<section id="conclusion" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Conclusion</h1>
+<p>The analysis of AI thinking traces reveals a rich, systematic methodology for KSAO extraction that combines close text analysis, inference, categorization, and relationship mapping. By documenting and analyzing these processes, we gain not only a better understanding of how the KSAO framework was developed but also valuable insights that can enhance human-led competency mapping efforts.</p>
+<p>The systematic, phase-based approach observed across analyses suggests a generalizable methodology that could be adapted for competency mapping in various professional domains beyond substance use disorder counseling. This represents a significant contribution to the field of workforce development, offering both process transparency and methodological advancement.</p>
+</section>
+
+</main>
+<!-- /main column -->
+<script id = "quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+</body>
+
+</html>

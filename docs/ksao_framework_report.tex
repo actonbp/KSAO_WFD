@@ -1,0 +1,2756 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrartcl}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{5}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Integrated KSAO Framework for Substance Use Disorder Counselors},
+  pdfauthor={KSAO Workforce Development Project},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{Integrated KSAO Framework for Substance Use Disorder Counselors}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{A Comprehensive Competency Map Derived from CASAC Textbook
+Analysis}
+\author{KSAO Workforce Development Project}
+\date{2025-05-17}
+\begin{document}
+\maketitle
+
+\renewcommand*\contentsname{Table of contents}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+
+\section{Introduction}\label{introduction}
+
+This document presents the integrated Knowledge, Skills, Abilities, and
+Other Characteristics (KSAOs) framework for substance use disorder
+counselors, derived from a comprehensive analysis of the CASAC
+(Credentialed Alcoholism and Substance Abuse Counselor) certification
+textbook. The analysis focused on Chapters 1-2 and Appendices, using
+Google's Gemini 2.5 Pro model to identify and categorize competencies.
+
+This framework is designed to serve as a foundation for evidence-based
+workforce development in addiction counseling, moving beyond traditional
+certification requirements to focus on actual competencies required for
+effective practice.
+
+\section{Methodology}\label{methodology}
+
+\subsection{Data Sources}\label{data-sources}
+
+The analysis was conducted on the following chapters from the CASAC
+textbook:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Chapter 1}: Covering SUD terminology, neurobiology, models of
+  addiction, risk factors, stages of addiction, common substances,
+  recovery principles, and the Stages of Change model.
+\item
+  \textbf{Chapter 2}: Focusing on systems of care, telehealth, harm
+  reduction, trauma-informed systems, social determinants of health, and
+  related topics.
+\item
+  \textbf{Appendices}: Including commonly used drugs, mental health
+  conditions, medications, and IC\&RC domains and job tasks.
+\end{enumerate}
+
+\subsection{Analysis Process}\label{analysis-process}
+
+The analysis followed a rigorous five-step process:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{OCR Text Extraction}: Used Gemini 2.5 Pro's multimodal
+  capabilities to extract text from TIFF images of textbook pages.
+\item
+  \textbf{Chapter-Level KSAO Analysis}: Each chapter was analyzed
+  individually to identify KSAOs, with documentation of the thinking
+  process.
+\item
+  \textbf{KSAO Integration}: Individual chapter analyses were integrated
+  into a comprehensive framework, resolving redundancies and
+  inconsistencies.
+\end{enumerate}
+
+For each KSAO, the analysis identified: - Clear name/title - Complete
+description - Classification (Knowledge, Skill, Ability, or Other
+characteristic) - Specificity level (general or specialized) - Related
+O*NET occupational categories - Stability/malleability (fixed
+vs.~developable) - Explicit/tacit orientation (explicitly taught
+vs.~tacitly acquired) - Prerequisites or developmental relationships
+
+\section{Integrated KSAO Framework}\label{integrated-ksao-framework}
+
+\subsection{THE COMPREHENSIVE INTEGRATED KSAO FRAMEWORK FOR SUD
+COUNSELORS}\label{the-comprehensive-integrated-ksao-framework-for-sud-counselors}
+
+This framework integrates KSAOs from the ``Appendices Analysis (AA),''
+``Chapter 2 Analysis (AC2),'' and ``Textbook (Chapter 1) Analysis
+(AT\_Ch1).''
+
+\subsubsection{Domain 1: Scientific Principles of Substance Use,
+Co-Occurring Disorders, and
+Recovery}\label{domain-1-scientific-principles-of-substance-use-co-occurring-disorders-and-recovery}
+
+This domain covers the foundational knowledge required to understand
+SUDs, related conditions, and the principles of recovery.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{KSAO Name:} Knowledge of SUD Terminology, Progression, and
+  Behavioral Patterns
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Comprehensive understanding and correct use of
+    current, accurate, and non-stigmatizing terminology in the SUD field
+    (e.g., ``SUD,'' ``problematic substance use,'' person-first
+    language). Understanding that substance use exists on a continuum
+    and the typical stages, common behaviors, patterns, and progressive
+    cycles involved in the development of an SUD (e.g., impulsivity,
+    reinforcement, tolerance, dependence, craving, withdrawal,
+    compulsivity).
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (terminology evolves;
+    concepts are learned)
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Basic literacy. Foundational for all other
+    SUD-specific KSAOs.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Addiction Models and Theories
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of various historical and
+    contemporary models explaining SUDs, including the disease model
+    (SUD as a chronic brain disorder impacting reward, stress,
+    self-control), moral model (and its critiques), and
+    blended/integrated models that incorporate biological,
+    psychological, social factors, and client agency.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 1 (Knowledge of SUD Terminology).
+    Foundational for conceptualizing treatment.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of the Neurobiology of SUDs
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} In-depth understanding of how addictive
+    substances affect brain structure and function. Includes basic
+    neuroanatomy/physiology (neurons, neurotransmitters, synapses,
+    receptors); key brain regions (basal ganglia, extended amygdala,
+    prefrontal cortex) and their roles in SUDs; role of key
+    neurotransmitters (e.g., dopamine); mechanisms of drug action;
+    neuroadaptations from chronic use; neurobiological basis of
+    tolerance, withdrawal, craving, and compulsion; and advanced
+    neurobiological models of addiction stages (Binge/Intoxication,
+    Withdrawal/Negative Affect, Preoccupation/Anticipation).
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (complex and evolving)
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 1, basic biology/chemistry.
+    Foundational for understanding SUD treatment and client experience.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of SUD Etiology, Risk, and Protective
+  Factors
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of the multifactorial etiology
+    of SUDs, including genetic predispositions, gender-related
+    differences, environmental influences (home, family, peers, school),
+    developmental factors (e.g., age of first use), method of substance
+    administration, impact of trauma (e.g., ACEs, violence, abuse) and
+    its neurobiological effects, and co-occurring mental health
+    conditions as risk factors. Understanding of protective factors that
+    mitigate risk.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 2 (Knowledge of Addiction Models).
+    Essential for assessment, prevention, and trauma-informed care.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Pharmacology, Drug Classifications,
+  and Characteristics of Common Substances of Abuse
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Familiarity with major categories of
+    psychoactive substances (e.g., opioids, CNS depressants, stimulants,
+    cannabis, hallucinogens, inhalants, dissociatives, nicotine, alcohol
+    \textless80\textgreater\textless93\textgreater{} as detailed in
+    Appendix B of textbook). Includes commercial/street names, forms,
+    methods of administration, intoxication effects, short/long-term
+    health effects, withdrawal syndromes, potential for
+    medication-assisted treatment (MAT), and understanding of the
+    Controlled Substances Act (CSA) and drug schedules.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (requires ongoing
+    learning)
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Basic pharmacology understanding. Critical
+    for assessment, crisis intervention, and client education.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Co-occurring Mental and Physical
+  Health Conditions
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of signs, symptoms, and basic
+    treatment approaches for mental health conditions frequently
+    co-occurring with SUDs (e.g., anxiety, mood disorders, personality
+    disorders, PTSD, ADHD
+    \textless80\textgreater\textless93\textgreater{} as detailed in
+    Appendix C of textbook). Awareness of common medical conditions
+    resulting from or exacerbated by substance use (e.g., cirrhosis,
+    respiratory deficits, cardiovascular issues, infectious diseases)
+    and the implications for integrated assessment and treatment.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Basic psychology and health literacy.
+    Foundational for holistic and integrated care.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Recovery Principles, Models, and
+  Pathways
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of contemporary recovery
+    concepts, including SAMHSA's definition and four dimensions (Health,
+    Home, Purpose, Community), the ten guiding principles of recovery
+    (hope, person-centered, many pathways, holistic, peer support,
+    etc.). Awareness of diverse approaches to recovery including
+    evidence-based treatments (e.g., MAT), mutual-help groups, holistic
+    health, faith-based approaches, and harm reduction.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Understanding of SUDs as chronic conditions.
+    Fosters a recovery-oriented mindset.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of NIDA Principles of Effective SUD
+  Treatment
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of research-based principles for
+    effective drug addiction treatment for adults and adolescents as
+    outlined by NIDA (e.g., treatment availability, individualized care,
+    duration, behavioral therapies, medications, co-occurring disorders,
+    monitoring \textless80\textgreater\textless93\textgreater{} as in
+    Appendix E of textbook).
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Foundational for evidence-based treatment
+    planning.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of the Transtheoretical Model (Stages of
+  Change - SOC)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding the principles of the SOC model
+    (Prochaska \& DiClemente), including the five stages
+    (Precontemplation, Contemplation, Preparation, Action, Maintenance),
+    the cyclical nature of change, processes of change, and
+    interpretation of recurrence/relapse as a learning opportunity.
+    Includes understanding of natural recovery.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} General (behavioral health) but applied
+    specifically in SUD.
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Basic understanding of behavior change.
+    Essential for tailoring interventions.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Trauma-Informed Care Principles
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Comprehensive understanding of trauma
+    (SAMHSA's ``Three Es'': Events, Experience, Effects), types of
+    trauma (acute, chronic, complex, ACEs), the strong connection
+    between trauma and SUDs, and the core principles of trauma-informed
+    care (safety, trustworthiness, peer support, collaboration,
+    empowerment, choice, cultural sensitivity) to avoid
+    re-traumatization and support healing.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized (increasingly general in
+    behavioral health)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 4 (Risk Factors, including trauma).
+    Foundational for Skill in Trauma-Informed Practices.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Stigma and Discrimination in SUD
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding the nature, pervasiveness, and
+    detrimental effects of prejudice, public stigma, self-stigma, and
+    discrimination faced by individuals with SUDs, including its impact
+    on treatment seeking, retention, outcomes, providers, research, and
+    policy.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (awareness can be
+    cultivated)
+  \item
+    \textbf{Explicit/Tacit:} Both (explicitly taught, tacitly understood
+    through client interactions)
+  \item
+    \textbf{Prerequisites:} General understanding of social justice.
+    Foundational for ethical and empathetic practice.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Social Determinants of Health (SDOH)
+  and SUD
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding the five domains of SDOH
+    (Healthcare access/quality, Education access/quality,
+    Social/community context, Economic stability, Neighborhood/built
+    environment) and their complex, interdependent relationship with
+    problematic substance use, health disparities, health outcomes, and
+    recovery.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Understanding of public health and social
+    systems. Important for holistic assessment and advocacy.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of SUD Treatment Systems, Levels of
+  Care, and Modalities
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Comprehensive understanding of the SUD
+    treatment service system, its evolution, the continuum of care
+    (detoxification, outpatient (standard, IOP, PHP), residential, MAT),
+    and criteria for client suitability. Includes knowledge of various
+    modalities like individual, group, family counseling, and
+    psychoeducation.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 1 (Terminology). Essential for
+    assessment of LOC and referral.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Harm Reduction Principles and
+  Strategies
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} In-depth understanding of the harm reduction
+    philosophy (evidence-based, person-centered, non-coercive, focused
+    on reducing negative impacts without requiring abstinence), its core
+    pillars and principles. Knowledge of specific strategies like
+    overdose education, naloxone distribution, fentanyl/xylazine test
+    strips, safer use practices, and syringe services programs (SSPs).
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 11 (Stigma), openness to
+    non-abstinence-only approaches.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Mutual-Help Groups
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding the nature, function,
+    principles, and variety of mutual-help groups (e.g., 12-Step
+    programs like AA/NA, SMART Recovery, Women for Sobriety), including
+    their member-led structure, focus on shared experience, and role in
+    the recovery process alongside professional treatment.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Awareness of support systems. Supports
+    referral and comprehensive recovery planning.
+  \end{itemize}
+\end{enumerate}
+
+\subsubsection{Domain 2: Evidence-Based Screening, Assessment, and
+Diagnosis}\label{domain-2-evidence-based-screening-assessment-and-diagnosis}
+
+This domain focuses on the competencies needed to evaluate clients'
+needs and formulate diagnoses.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{15}
+\tightlist
+\item
+  \textbf{KSAO Name:} Knowledge of Clinical Interviewing Techniques
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of established clinical
+    interviewing techniques, including Motivational Interviewing (MI),
+    active listening, probing, open/closed questioning, reflection,
+    summarizing, and stages of the clinical interview.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} General (core counseling), Specialized (MI in
+    SUD)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00, 21-1015.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit (principles taught)
+  \item
+    \textbf{Prerequisites:} Basic communication skills. Foundational for
+    Skill in Clinical Interviewing.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Clinical Interviewing and Information
+  Gathering
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Proficient application of various interviewing
+    techniques to gather comprehensive client information (substance use
+    history, mental/physical health, social context, strengths, etc.),
+    build rapport, explore ambivalence, assess risk, and facilitate
+    client engagement in the screening, assessment, and diagnostic
+    process.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00, 21-1015.00
+  \item
+    \textbf{Stability/Malleability:} Developable (through practice and
+    feedback)
+  \item
+    \textbf{Explicit/Tacit:} Both (techniques are explicit, empathetic
+    application is more tacit)
+  \item
+    \textbf{Prerequisites:} KSAO 16, KSAO 46 (Skill in Therapeutic
+    Communication), O6 (Empathy).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of SUD Screening and Assessment
+  Instruments
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Familiarity with established, valid, and
+    reliable evidence-based screening and assessment tools used in SUD
+    settings (e.g., AUDIT, DAST, ASSIST, ASI, ACE, SASSI). Includes
+    understanding their purpose, administration, scoring, psychometric
+    properties, and cultural considerations.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Foundational for Skill in Administering and
+    Interpreting Instruments.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Administering and Interpreting SUD
+  Screening/Assessment Instruments
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Proficiency in selecting, administering,
+    scoring, and interpreting appropriate screening and assessment
+    instruments to identify potential SUDs, assess severity, identify
+    co-occurring issues, and inform diagnostic formulation and treatment
+    planning, considering cultural factors.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit (administration/scoring), Tacit
+    (clinical interpretation in context)
+  \item
+    \textbf{Prerequisites:} KSAO 18.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Drug and Alcohol Testing Methods
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of various methods for drug and
+    alcohol testing (e.g., urine, breath, blood, saliva, hair),
+    including their detection windows, accuracy, reliability,
+    limitations, and potential for tampering or false
+    positives/negatives.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Basic understanding of biology/chemistry.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Interpreting and Utilizing Drug and
+  Alcohol Test Results
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to accurately interpret results from
+    drug and alcohol tests in the context of other client information
+    (self-report, clinical presentation), understand their implications
+    for treatment, and discuss results with clients therapeutically and
+    ethically.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit (understanding results), Tacit
+    (contextual interpretation, client communication)
+  \item
+    \textbf{Prerequisites:} KSAO 20.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Diagnostic Criteria for SUDs and
+  Co-occurring Disorders
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Thorough understanding of the Diagnostic and
+    Statistical Manual of Mental Disorders (DSM; currently DSM-5-TR) or
+    other relevant diagnostic criteria (e.g., ICD) for substance use
+    disorders and common co-occurring mental health disorders. This
+    includes criteria, specifiers for severity, course, and remission
+    (as supported by Appendix D of textbook).
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (criteria are updated)
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 1, KSAO 6.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in SUD Assessment, Diagnosis, and Case
+  Conceptualization
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to synthesize comprehensive client
+    information (biopsychosocial history, substance use patterns,
+    screening/assessment results, collateral information, cultural
+    context, strengths) and apply diagnostic criteria (DSM/ICD) to
+    formulate an accurate diagnosis and a holistic case
+    conceptualization that explains the client's presenting problems and
+    informs treatment.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (requires supervised
+    experience)
+  \item
+    \textbf{Explicit/Tacit:} Both (applying explicit criteria, tacit
+    integration and judgment)
+  \item
+    \textbf{Prerequisites:} KSAO 17, KSAO 19, KSAO 22, A1 (Ability to
+    Synthesize Complex Information).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Level of Care Placement Criteria
+  (e.g., ASAM)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of established multidimensional
+    criteria (e.g., ASAM Criteria) for determining the appropriate
+    intensity and level of care for individuals with SUDs based on
+    assessed needs, severity, risks, and resources.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 13.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Determining Level of Care and Service
+  Coordination
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to apply placement criteria and
+    clinical judgment to match clients to the appropriate level of care
+    that meets their immediate and ongoing needs, and to coordinate
+    services effectively within the system of care.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both (criteria application is explicit,
+    judgment and coordination are tacit)
+  \item
+    \textbf{Prerequisites:} KSAO 23, KSAO 24, KSAO 26 (Skill in Clinical
+    Decision-Making).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Clinical Decision-Making (Assessment \&
+  Initial Planning)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to analyze assessment data, identify
+    client strengths, needs, and stage of change, prioritize problems,
+    and determine an appropriate initial course of action, including
+    immediate safety needs and preliminary treatment goals.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (through experience and
+    supervision)
+  \item
+    \textbf{Explicit/Tacit:} Both (relies on explicit knowledge and
+    tacit experience/judgment)
+  \item
+    \textbf{Prerequisites:} All preceding KSAOs in Domain 1 \& 2, A2
+    (Ability for Critical Thinking).
+  \end{itemize}
+\end{enumerate}
+
+\subsubsection{Domain 3: Evidence-Based Treatment, Counseling, and
+Referral}\label{domain-3-evidence-based-treatment-counseling-and-referral}
+
+This domain covers the competencies related to providing direct client
+services and facilitating connections to other resources.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{26}
+\tightlist
+\item
+  \textbf{KSAO Name:} Knowledge of Evidence-Based Practices (EBPs) in
+  SUD Treatment
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of specific therapeutic
+    modalities, interventions, and relational stances (e.g., MI, CBT,
+    Contingency Management, MAT, community reinforcement approach,
+    family therapy models) that have been scientifically validated as
+    effective for treating SUDs and co-occurring disorders. Knowledge of
+    where to find EBP resources (e.g., NIDA, SAMHSA, as in Appendix F of
+    textbook).
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (requires ongoing
+    learning)
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Foundational scientific literacy, Domain 1
+    KSAOs.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Applying Evidence-Based Counseling
+  Practices
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Proficiency in selecting and implementing
+    evidence-based counseling techniques and interventions appropriate
+    to client needs, preferences, cultural background, stage of change,
+    and treatment goals, with fidelity to the model where applicable,
+    and adapting as necessary.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (through training and
+    supervised practice)
+  \item
+    \textbf{Explicit/Tacit:} Both (models are explicit, artful
+    application is tacit)
+  \item
+    \textbf{Prerequisites:} KSAO 27, relevant KSAOs for specific EBPs
+    (e.g., KSAO 16 for MI).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Treatment Planning Principles and
+  Components
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of best practices in developing
+    collaborative, client-centered, strengths-based, and culturally
+    responsive treatment plans. Includes identifying problems, setting
+    measurable goals and objectives (SMART goals), selecting appropriate
+    strategies/interventions, and planning for review and modification.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAOs from Domains 1 \& 2. Foundational for
+    Skill in Treatment Planning.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Collaborative Treatment Planning and Goal
+  Setting
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Proficiency in collaboratively creating,
+    implementing, monitoring, and modifying individualized treatment
+    plans that address client needs, strengths, goals, preferences, and
+    stage of change, incorporating evidence-based strategies, recovery
+    principles, and cultural considerations.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both (structure is explicit, collaboration
+    and individualization are tacit)
+  \item
+    \textbf{Prerequisites:} KSAO 29, KSAO 23, KSAO 26, KSAO 46
+    (Therapeutic Communication).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Relapse Prevention Strategies
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of theories, models (e.g.,
+    Marlatt's cognitive-behavioral model), and techniques for preventing
+    relapse, including identifying high-risk situations, triggers,
+    warning signs, developing coping strategies, managing cravings, and
+    addressing the abstinence violation effect.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 1, KSAO 3.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Coping Skills for SUD Recovery
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of a variety of cognitive,
+    behavioral, emotional regulation, and interpersonal skills that
+    support recovery from SUDs (e.g., stress management,
+    problem-solving, communication skills, mindfulness, distress
+    tolerance, anger management).
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Basic understanding of psychology.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Teaching Coping and Relapse Prevention
+  Skills
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to effectively teach, model,
+    role-play, and reinforce coping skills and relapse prevention
+    strategies with individuals and groups, tailoring approaches to
+    client learning styles and needs.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both (content is explicit, teaching methods
+    can be tacit)
+  \item
+    \textbf{Prerequisites:} KSAO 31, KSAO 32, KSAO 48 (Skill in
+    Psychoeducation).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Group Counseling Theories, Dynamics,
+  and Techniques
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of theories, models, stages of
+    group development, therapeutic factors, group dynamics (cohesion,
+    conflict, roles), and techniques specific to facilitating SUD group
+    counseling, including structured curricula and process-oriented
+    groups.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Foundational counseling knowledge. Essential
+    for Skill in Group Facilitation.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Group Facilitation and Management
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Proficiency in leading and managing SUD group
+    counseling sessions, fostering a safe/supportive/respectful
+    environment, managing group dynamics, promoting cohesiveness,
+    addressing challenging behaviors, and guiding the group towards
+    therapeutic goals.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (through training and
+    supervised experience)
+  \item
+    \textbf{Explicit/Tacit:} Both (techniques are explicit, managing
+    dynamics in real-time is tacit)
+  \item
+    \textbf{Prerequisites:} KSAO 34, KSAO 46 (Therapeutic
+    Communication).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Strategies for Addressing Client
+  Ambivalence and Resistance (Motivational Interviewing)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of theoretical frameworks (e.g.,
+    Stages of Change, Motivational Interviewing) and specific techniques
+    for working effectively with clients who are ambivalent or resistant
+    to change, including recognizing change talk and sustain talk.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 9, KSAO 16.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Addressing Client Ambivalence and
+  Resistance (Motivational Interviewing)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Proficiency in applying MI principles and
+    techniques (e.g., OARS, rolling with resistance, developing
+    discrepancy, supporting self-efficacy) to explore and resolve client
+    ambivalence and gently work through resistance to change.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both (techniques are explicit, fluid
+    application is tacit)
+  \item
+    \textbf{Prerequisites:} KSAO 36, KSAO 17.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Crisis Intervention and De-escalation
+  Principles
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of the signs of escalating
+    psychological or behavioral crisis situations (including those
+    related to acute intoxication, withdrawal, or psychiatric distress),
+    principles of crisis intervention, risk assessment
+    (suicide/homicide), and verbal/non-verbal de-escalation techniques.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized (high stakes in SUD settings)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 5, KSAO 6.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Crisis Intervention and De-escalation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to recognize, assess, and respond
+    effectively to emergency or crisis situations, including
+    implementing de-escalation techniques, ensuring safety for
+    clients/staff, and making appropriate referrals for higher-level
+    care or emergency services.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (through training and
+    simulation)
+  \item
+    \textbf{Explicit/Tacit:} Both (protocols are explicit, real-time
+    judgment is tacit)
+  \item
+    \textbf{Prerequisites:} KSAO 38, O1 (Self-Awareness/Composure).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Discharge, Continuing Care, and
+  Termination Processes
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of components of comprehensive
+    discharge planning (continuing care recommendations, relapse
+    prevention, referrals for ongoing support, coordination with
+    community resources) and ethical/clinical considerations for
+    terminating the counseling relationship.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 13, KSAO 42 (Knowledge of Community
+    Resources).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Discharge, Continuing Care Planning, and
+  Termination
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to collaboratively develop
+    comprehensive discharge and continuing care plans with clients, make
+    appropriate referrals, and ethically terminate the counseling
+    relationship, ensuring a smooth transition and support for sustained
+    recovery.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both
+  \item
+    \textbf{Prerequisites:} KSAO 40, KSAO 43 (Skill in Making
+    Referrals).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Community Resources and Referral
+  Processes
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of how to identify appropriate
+    community resources (e.g., for housing, employment, medical care,
+    mental health services, legal aid, mutual-help, harm reduction
+    services, primary care, FTCs) and the processes for making effective
+    referrals and facilitating client access. This includes knowledge of
+    systems integration and collaborative care models.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized (for SUD-relevant resources and
+    systems)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (requires ongoing
+    updating)
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 13.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Making Effective Client Referrals and
+  Care Coordination
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to identify client needs beyond the
+    scope of current services, match clients with appropriate community
+    resources, facilitate the referral process effectively, advocate for
+    client access, and coordinate care with other providers and systems
+    (e.g., primary care, criminal justice, child welfare).
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both (process is explicit, navigation and
+    advocacy can be tacit)
+  \item
+    \textbf{Prerequisites:} KSAO 42, KSAO 44 (Skill in Interprofessional
+    Collaboration).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Interprofessional and Interagency
+  Collaboration
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to work effectively, respectfully, and
+    communicatively with multidisciplinary teams, other healthcare
+    professionals (primary care, mental health), and human service
+    systems (e.g., criminal justice, child welfare, SMVF services), and
+    client support systems (e.g., family) to coordinate care, share
+    information appropriately (within confidentiality limits), and
+    achieve common treatment goals.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} General (important in most healthcare)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00, 21-1015.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both
+  \item
+    \textbf{Prerequisites:} KSAO 46 (Therapeutic Communication),
+    knowledge of roles of other professionals.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Specific Population Needs in SUD
+  Treatment
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding the unique challenges,
+    strengths, cultural factors, historical trauma, and treatment
+    considerations for diverse populations (e.g., based on
+    race/ethnicity, LGBTQ+, pregnant individuals, youth, older adults,
+    justice-involved, housing insecure, veterans/SMVF).
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (requires ongoing
+    learning)
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 55 (Knowledge of Multicultural
+    Counseling), O2 (Cultural Humility).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Therapeutic Communication and Rapport
+  Building
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Proficient use of verbal (e.g., active
+    listening, reflecting, questioning, summarizing, providing feedback,
+    reframing, clarifying) and non-verbal communication skills to
+    establish and maintain a strong therapeutic alliance (rapport)
+    characterized by trust, empathy, genuineness, and respect, thereby
+    fostering client engagement and positive outcomes. Includes ability
+    to instill hope.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} General (core counseling skill)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00, 21-1015.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both (techniques are explicit, empathetic
+    connection is tacit)
+  \item
+    \textbf{Prerequisites:} Basic communication ability, O6 (Empathy).
+    Foundational for all counseling interactions.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Applying Person-Centered and
+  Trauma-Informed Practices
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to tailor assessment, treatment, and
+    support services to the individual needs, preferences, goals, and
+    cultural background of the client (``meeting them where they are''),
+    respecting their autonomy. Ability to apply principles of
+    trauma-informed care in all interactions to create safety, build
+    trust, and empower clients.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} General (to counseling) but highly emphasized
+    in SUD
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both
+  \item
+    \textbf{Prerequisites:} KSAO 7, KSAO 10, KSAO 46, O6 (Empathy).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Psychoeducation Delivery
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to effectively provide clients,
+    families, and communities with information and education about SUDs,
+    neurobiology, risks, treatment options, recovery processes, harm
+    reduction, coping skills, and relapse prevention in a clear,
+    accessible, culturally sensitive, and engaging manner, individually
+    or in groups.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized (content is SUD-specific)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both (content is explicit, delivery methods
+    can be tacit)
+  \item
+    \textbf{Prerequisites:} Relevant Domain 1 KSAOs, KSAO 46
+    (Therapeutic Communication).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Harm Reduction Application and Education
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to collaboratively discuss and
+    implement harm reduction strategies with clients, educate them on
+    safer use practices (e.g., naloxone use, fentanyl test strips, safer
+    injection), and connect them with harm reduction resources and
+    services (e.g., SSPs), respecting client autonomy and goals.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both
+  \item
+    \textbf{Prerequisites:} KSAO 14, KSAO 47 (Person-Centered Approach).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Telehealth Service Delivery
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} The ability to effectively use chosen
+    telehealth technologies to provide counseling services, engage
+    clients virtually, adapt clinical skills (assessment,
+    individual/group therapy) to a virtual environment, and adhere to
+    relevant legal, ethical, and technological standards.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both (technical aspects are explicit,
+    virtual engagement is more tacit)
+  \item
+    \textbf{Prerequisites:} KSAO 46, Knowledge of Telehealth (KSAO 59),
+    A4 (Ability to Engage Clients Virtually), A5 (Technological
+    Adaptability).
+  \end{itemize}
+\end{enumerate}
+
+\subsubsection{Domain 4: Professional, Ethical, and Legal
+Responsibilities}\label{domain-4-professional-ethical-and-legal-responsibilities}
+
+This domain covers the competencies related to professional conduct,
+adherence to standards, and self-management.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{50}
+\tightlist
+\item
+  \textbf{KSAO Name:} Knowledge of Clinical Documentation Standards and
+  Practices
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of best practices, legal
+    requirements (e.g., related to 42 CFR Part 2, HIPAA), and ethical
+    guidelines for clinical documentation, including progress notes,
+    treatment plans, assessment summaries, and discharge summaries, as
+    well as record keeping, storage, and sharing protocols.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized (SUD documentation has unique
+    requirements)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Basic writing skills.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Clinical Documentation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Proficiency in creating accurate, objective,
+    concise, timely, and legally/ethically sound clinical documentation
+    that reflects client progress, services provided, treatment
+    rationale, and meets regulatory/agency standards.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} General (core professional skill) but applied
+    to SUD context.
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (through training and
+    practice)
+  \item
+    \textbf{Explicit/Tacit:} Explicit (formats, requirements), Tacit
+    (nuance of effective note writing)
+  \item
+    \textbf{Prerequisites:} KSAO 51.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Professional Ethics, Boundaries, and
+  Scope of Practice
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Comprehensive understanding of ethical codes
+    relevant to SUD counseling (e.g., NAADAC, state licensure board
+    codes), principles of professional conduct, maintaining appropriate
+    therapeutic boundaries, avoiding dual relationships, guidelines for
+    self-disclosure, recognizing and managing conflicts of interest, and
+    understanding the defined limits of an SUD counselor's scope of
+    practice.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized (for SUD counseling ethics and
+    scope)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Foundational for ethical practice.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Maintaining Professional Boundaries and
+  Adhering to Scope of Practice
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to establish and consistently maintain
+    appropriate professional boundaries with clients. Ability to
+    recognize issues or client needs that fall outside one's scope of
+    practice or competence and respond appropriately (e.g.,
+    consultation, referral). Skill in identifying and managing conflicts
+    of interest ethically.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} General (core professional skill) but applied
+    in SUD context.
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00, 21-1015.00
+  \item
+    \textbf{Stability/Malleability:} Developable (influenced by
+    self-awareness and supervision)
+  \item
+    \textbf{Explicit/Tacit:} Both (principles are explicit, application
+    involves judgment and self-regulation)
+  \item
+    \textbf{Prerequisites:} KSAO 53, O1 (Self-Awareness).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Multicultural Counseling Principles
+  and Cultural Humility
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of theories and principles of
+    multicultural counseling, the impact of culture, ethnicity, race,
+    religion, sexual orientation, gender identity, disability,
+    socioeconomic status, and other diversity factors on help-seeking,
+    treatment engagement, and recovery. Understanding cultural humility
+    as a lifelong process of self-reflection, learning, and redressing
+    power imbalances.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} General (essential for all counseling)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00, 21-1015.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit (principles), Tacit (humility
+    development)
+  \item
+    \textbf{Prerequisites:} O1 (Self-Awareness). Foundation for
+    culturally responsive practice.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Culturally Responsive and Inclusive
+  Practices
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to apply multicultural perspectives
+    and cultural humility in all aspects of counseling, adapting
+    communication and interventions to be congruent with clients'
+    cultural backgrounds, values, and beliefs. This includes using
+    non-stigmatizing language, identifying, responding to, and
+    advocating for diversity, equity, and inclusion (DEI) in care, and
+    addressing systemic barriers.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} General (essential for all counseling) but
+    with specific SUD considerations.
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00, 21-1015.00
+  \item
+    \textbf{Stability/Malleability:} Developable (requires ongoing
+    effort and self-reflection)
+  \item
+    \textbf{Explicit/Tacit:} Both (knowledge is explicit, application is
+    nuanced and tacit)
+  \item
+    \textbf{Prerequisites:} KSAO 55, O2 (Cultural Humility), O6
+    (Empathy).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Confidentiality, Privacy Laws, and
+  Informed Consent
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Comprehensive understanding of federal and
+    state laws/regulations governing client confidentiality and privacy
+    in SUD treatment (e.g., HIPAA, 42 CFR Part 2). Understanding
+    ethical/legal requirements for obtaining informed consent, including
+    disclosure of services, risks/benefits, alternatives,
+    confidentiality limits, and client rights.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized (42 CFR Part 2 is highly specific
+    to SUD)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (laws are updated)
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Basic understanding of legal principles.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Applying Confidentiality, Privacy, and
+  Informed Consent Procedures
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to consistently adhere to
+    confidentiality/privacy laws in all aspects of practice. Proficiency
+    in clearly explaining necessary information to clients, ensuring
+    their understanding, and obtaining/documenting voluntary informed
+    consent.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both (procedures are explicit,
+    communication is nuanced)
+  \item
+    \textbf{Prerequisites:} KSAO 57, KSAO 46 (Therapeutic
+    Communication).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Telehealth Legal, Ethical, and
+  Technological Standards
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding the specific legal (licensure,
+    scope of practice across jurisdictions), ethical (privacy, security,
+    informed consent, boundaries, equity of access), and technological
+    considerations (platform choice, troubleshooting) relevant to
+    delivering SUD services via telehealth.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (rapidly evolving
+    field)
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} KSAO 53, KSAO 57.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Client Rights and Grievance Processes
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding of fundamental client/patient
+    rights in SUD treatment and established procedures for clients to
+    file grievances, and how counselors should respond.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} Specialized (agency/system specific for
+    grievances)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Ethical and legal knowledge.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Upholding Client Rights and Responding to
+  Grievances
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to consistently respect, protect, and
+    advocate for client rights. Ability to address client grievances
+    professionally, ethically, and timely, following established
+    procedures.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} General (core ethical practice)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both
+  \item
+    \textbf{Prerequisites:} KSAO 60, O3 (Ethical Integrity).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Clinical Supervision and Consultation
+  Processes
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding the purpose, benefits, models,
+    and processes of engaging in clinical supervision and consultation
+    for professional development, ethical decision-making, quality
+    client care, and management of secondary trauma.
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} General (professional development)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} Understanding of professional roles.
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Utilizing Clinical Supervision and
+  Consultation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Ability to proactively seek, prepare for, and
+    effectively use clinical supervision and consultation to enhance
+    counseling skills, address challenging cases, ensure ethical
+    practice, and manage personal/professional impact of the work.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} General (professional development skill)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Both (process is explicit, effective
+    engagement is tacit)
+  \item
+    \textbf{Prerequisites:} KSAO 62, O1 (Self-Awareness).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Knowledge of Secondary Trauma, Burnout, and
+  Self-Care Strategies
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} Understanding the concepts of secondary
+    traumatic stress (STS), compassion fatigue, burnout, and vicarious
+    traumatization, including their risks, symptoms, and a range of
+    evidence-informed self-care strategies (e.g., mindfulness, peer
+    support, work-life balance, seeking therapy).
+  \item
+    \textbf{Classification:} Knowledge
+  \item
+    \textbf{Specificity:} General (for helping professions) but crucial
+    for SUD.
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable
+  \item
+    \textbf{Explicit/Tacit:} Explicit
+  \item
+    \textbf{Prerequisites:} O1 (Self-Awareness).
+  \end{itemize}
+\item
+  \textbf{KSAO Name:} Skill in Professional Self-Care and Burnout
+  Prevention
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Description:} The ability to actively and consistently
+    engage in practices that promote mental, emotional, physical, and
+    spiritual well-being to mitigate the risks of secondary trauma and
+    burnout, and to seek support when needed.
+  \item
+    \textbf{Classification:} Skill
+  \item
+    \textbf{Specificity:} General (for helping professions)
+  \item
+    \textbf{O*NET:} 21-1011.00, 21-1018.00
+  \item
+    \textbf{Stability/Malleability:} Developable (requires ongoing
+    commitment and practice)
+  \item
+    \textbf{Explicit/Tacit:} Both (strategies are explicit, consistent
+    application is more tacit/habitual)
+  \item
+    \textbf{Prerequisites:} KSAO 64, O7 (Commitment to Professional
+    Self-Care).
+  \end{itemize}
+\end{enumerate}
+
+\subsubsection{Cross-Cutting Abilities
+(A)}\label{cross-cutting-abilities-a}
+
+These are more general, enduring capacities that underpin successful
+performance across domains.
+
+A1. \textbf{KSAO Name:} Ability to Synthesize and Integrate Complex
+Information * \textbf{Description:} Capacity to integrate diverse and
+complex information (e.g., neurobiological, psychological, social,
+cultural, historical, and personal factors) into a cohesive
+understanding of SUDs and individual client presentations for
+assessment, diagnosis, and treatment planning. *
+\textbf{Classification:} Ability * \textbf{Specificity:} General *
+\textbf{O*NET:} 21-1011.00, 21-1018.00 *
+\textbf{Stability/Malleability:} Developable (can be improved with
+practice and critical thinking) * \textbf{Explicit/Tacit:} Tacit (how
+one processes and connects information) * \textbf{Prerequisites:}
+Foundational knowledge KSAOs, A2 (Critical Thinking).
+
+A2. \textbf{KSAO Name:} Ability for Critical Thinking and Clinical
+Reasoning * \textbf{Description:} Capacity to analyze different models,
+theories, assessment data, and research findings related to SUDs,
+considering their strengths, limitations, and implications for practice.
+Ability to engage in sound clinical reasoning to make informed decisions
+about client care. * \textbf{Classification:} Ability *
+\textbf{Specificity:} General * \textbf{O*NET:} 21-1011.00, 21-1018.00 *
+\textbf{Stability/Malleability:} Developable * \textbf{Explicit/Tacit:}
+Both (critical thinking skills can be taught, application becomes more
+tacit) * \textbf{Prerequisites:} Foundational knowledge, logical
+reasoning skills.
+
+A3. \textbf{KSAO Name:} Ability to Individualize Treatment Approaches *
+\textbf{Description:} Capacity to tailor interventions and support
+strategies to meet the unique needs, preferences, strengths, cultural
+background, stage of change, and circumstances of each client, rather
+than applying a one-size-fits-all approach. * \textbf{Classification:}
+Ability * \textbf{Specificity:} General (core to effective counseling) *
+\textbf{O*NET:} 21-1011.00, 21-1018.00 *
+\textbf{Stability/Malleability:} Developable * \textbf{Explicit/Tacit:}
+Tacit (involves clinical judgment, creativity, and empathy) *
+\textbf{Prerequisites:} Comprehensive knowledge and skills KSAOs, O6
+(Empathy).
+
+A4. \textbf{KSAO Name:} Ability to Engage Clients Virtually *
+\textbf{Description:} The capacity to establish and maintain a
+therapeutic connection, effectively communicate, and facilitate
+therapeutic processes with clients when services are delivered through a
+telehealth modality. * \textbf{Classification:} Ability *
+\textbf{Specificity:} Specialized (in the context of telehealth) *
+\textbf{O*NET:} 21-1011.00, 21-1018.00 *
+\textbf{Stability/Malleability:} Developable (can be enhanced with
+training and experience) * \textbf{Explicit/Tacit:} Tacit (though
+strategies can be taught explicitly) * \textbf{Prerequisites:} KSAO 46
+(Therapeutic Communication), interpersonal skills.
+
+A5. \textbf{KSAO Name:} Ability for Technological Adaptability *
+\textbf{Description:} The capacity to learn and effectively use chosen
+telehealth technologies, electronic health records, and other relevant
+software or devices necessary for service delivery, documentation, and
+professional practice. * \textbf{Classification:} Ability *
+\textbf{Specificity:} General (in modern workplace) but applied to SUD
+counseling context. * \textbf{O*NET:} 21-1011.00, 21-1018.00 *
+\textbf{Stability/Malleability:} Developable * \textbf{Explicit/Tacit:}
+Tacit (learning new tech often involves trial and error beyond explicit
+instructions) * \textbf{Prerequisites:} Basic comfort with technology,
+O8 (Positive Attitude Towards Telehealth).
+
+\subsubsection{Cross-Cutting Other Characteristics
+(O)}\label{cross-cutting-other-characteristics-o}
+
+These are traits, values, or orientations that influence professional
+behavior and effectiveness.
+
+O1. \textbf{KSAO Name:} Self-Awareness (Professional Context) *
+\textbf{Description:} The capacity for introspection and understanding
+of one's own beliefs, values, biases, emotional reactions, cultural
+worldview, and professional limitations, and how these may impact the
+therapeutic process, particularly concerning boundaries,
+self-disclosure, countertransference, and vicarious trauma. *
+\textbf{Classification:} Other Characteristic * \textbf{Specificity:}
+General (essential for all helping professions) * \textbf{O*NET:}
+21-1011.00, 21-1018.00, 21-1015.00 * \textbf{Stability/Malleability:}
+Developable (through reflection, supervision, experience) *
+\textbf{Explicit/Tacit:} Tacit (developed through experience and
+reflection, though concepts can be taught explicitly) *
+\textbf{Prerequisites:} Foundational for ethical practice, cultural
+humility, and personal well-being.
+
+O2. \textbf{KSAO Name:} Cultural Humility * \textbf{Description:} A
+lifelong commitment to self-evaluation and self-critique, to redressing
+power imbalances in the therapeutic relationship, and to developing
+mutually respectful partnerships with communities and individuals from
+diverse cultural backgrounds. Involves recognizing that the counselor is
+not the expert on the client's cultural experience. *
+\textbf{Classification:} Other Characteristic * \textbf{Specificity:}
+General (essential for ethical and effective practice) * \textbf{O*NET:}
+21-1011.00, 21-1018.00 * \textbf{Stability/Malleability:} Developable
+(an ongoing process of learning and reflection) *
+\textbf{Explicit/Tacit:} Both (concept is explicit, embodiment is tacit
+and ongoing) * \textbf{Prerequisites:} O1 (Self-Awareness), openness to
+learning.
+
+O3. \textbf{KSAO Name:} Ethical Integrity and Commitment to Ethical
+Practice * \textbf{Description:} A consistent adherence to strong moral
+and ethical principles and values in professional conduct, including a
+commitment to non-maleficence, beneficence, autonomy, justice, and
+fidelity. This includes a commitment to non-stigmatizing practice. *
+\textbf{Classification:} Other Characteristic * \textbf{Specificity:}
+General (core for all professions, esp.~helping professions) *
+\textbf{O*NET:} 21-1011.00, 21-1018.00, 21-1015.00 *
+\textbf{Stability/Malleability:} Developable/Reinforceable (through
+education, commitment, and reflection), but also reflects character. *
+\textbf{Explicit/Tacit:} Tacit (demonstrated through behavior), though
+ethical principles are explicit. * \textbf{Prerequisites:} Moral
+reasoning, KSAO 53 (Knowledge of Professional Ethics).
+
+O4. \textbf{KSAO Name:} Recovery-Oriented Mindset *
+\textbf{Description:} A fundamental belief in the potential for
+individuals to achieve self-defined recovery from SUDs and a commitment
+to supporting person-centered, strengths-based, holistic, and hopeful
+recovery journeys, recognizing multiple pathways. *
+\textbf{Classification:} Other Characteristic * \textbf{Specificity:}
+Specialized (though principles are spreading in behavioral health) *
+\textbf{O*NET:} 21-1011.00, 21-1018.00 *
+\textbf{Stability/Malleability:} Developable (through education,
+experience, and exposure to recovery stories) * \textbf{Explicit/Tacit:}
+Both (principles are explicit, internal adoption and conveyance are
+tacit) * \textbf{Prerequisites:} KSAO 7 (Knowledge of Recovery
+Principles).
+
+O5. \textbf{KSAO Name:} Commitment to Lifelong Learning and Professional
+Development * \textbf{Description:} Recognition that the field of SUDs
+is constantly evolving (new research, substances, treatment approaches,
+terminology, policies) and a proactive dedication to continuous
+learning, skill enhancement, and staying current with EBPs to maintain
+professional competence and improve client outcomes. *
+\textbf{Classification:} Other Characteristic (Professionalism,
+Motivation) * \textbf{Specificity:} General (expected in most
+professions) * \textbf{O*NET:} 21-1011.00, 21-1018.00 *
+\textbf{Stability/Malleability:} Developable (can be cultivated and is
+often required for licensure/certification) * \textbf{Explicit/Tacit:}
+Both (explicit expectation via CEUs, tacit drive to learn and improve) *
+\textbf{Prerequisites:} Intrinsic motivation, awareness of field
+dynamics.
+
+O6. \textbf{KSAO Name:} Empathy * \textbf{Description:} The ability to
+understand, accurately perceive, and sensitively respond to the client's
+feelings, thoughts, and experiences from their frame of reference, and
+to communicate that understanding effectively. *
+\textbf{Classification:} Other Characteristic (with Ability components)
+* \textbf{Specificity:} General (core for helping professions) *
+\textbf{O*NET:} 21-1011.00, 21-1018.00, 21-1015.00 *
+\textbf{Stability/Malleability:} Can be developed/enhanced through
+training and self-reflection, though some innate capacity may exist. *
+\textbf{Explicit/Tacit:} Tacit (experienced and expressed), though
+components (e.g., reflective listening) can be explicitly taught. *
+\textbf{Prerequisites:} O1 (Self-Awareness). Foundational for
+therapeutic alliance and effective communication.
+
+O7. \textbf{KSAO Name:} Commitment to Professional Self-Care *
+\textbf{Description:} An ongoing dedication to monitoring one's own
+well-being and actively engaging in practices that prevent or mitigate
+compassion fatigue, secondary trauma, and burnout, thereby maintaining
+capacity for ethical and effective practice. * \textbf{Classification:}
+Other Characteristic (Attitude, Value) * \textbf{Specificity:} General
+(for helping professions) * \textbf{O*NET:} 21-1011.00, 21-1018.00 *
+\textbf{Stability/Malleability:} Developable (requires conscious effort
+and can be learned) * \textbf{Explicit/Tacit:} Both (importance can be
+explicitly taught, development as a habit is tacit) *
+\textbf{Prerequisites:} KSAO 64 (Knowledge of Secondary
+Trauma/Self-Care), O1 (Self-Awareness).
+
+O8. \textbf{KSAO Name:} Positive Attitude Towards Telehealth (if
+applicable) * \textbf{Description:} Possessing personal motivation and
+favorable attitudes regarding the use and efficacy of telehealth as a
+service delivery modality, when ethically and clinically appropriate. *
+\textbf{Classification:} Other Characteristic (Attitude) *
+\textbf{Specificity:} Specialized (relevant for telehealth providers) *
+\textbf{O*NET:} 21-1011.00, 21-1018.00 *
+\textbf{Stability/Malleability:} Developable (can be influenced by
+experience, education, and outcomes) * \textbf{Explicit/Tacit:} Tacit
+(though can be explicitly encouraged) * \textbf{Prerequisites:} Openness
+to new technologies and service delivery models.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{Hierarchical Structure and Developmental Relationships
+Among
+KSAOs}\label{hierarchical-structure-and-developmental-relationships-among-ksaos}
+
+\textbf{I. Dimensions and Sub-dimensions:}
+
+The KSAO framework can be broadly organized into the following
+interacting dimensions, largely aligning with the IC\&RC Performance
+Domains, with the addition of overarching abilities and characteristics:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Dimension: Foundational Scientific and Contextual Knowledge
+  (Domain 1 derived)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions (Examples):} KSAOs 1-15 (Knowledge of SUD
+    Terminology, Neurobiology, Pharmacology, Co-occurring Conditions,
+    Recovery Principles, Trauma, Stigma, SDOH, Harm Reduction, Treatment
+    Systems, etc.)
+  \end{itemize}
+\item
+  \textbf{Dimension: Clinical Assessment and Diagnostic Competencies
+  (Domain 2 derived)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions (Examples):} KSAOs 16-26 (Knowledge and Skills
+    in Interviewing, Screening/Assessment Instruments, Diagnostic
+    Criteria Application, Case Conceptualization, Level of Care
+    Determination, Clinical Decision-Making).
+  \end{itemize}
+\item
+  \textbf{Dimension: Therapeutic Interventions and Service Delivery
+  (Domain 3 derived)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions (Examples):} KSAOs 27-50 (Knowledge and Skills
+    in EBPs, Treatment Planning, Relapse Prevention, Coping Skills,
+    Group Counseling, Motivational Interviewing, Crisis Intervention,
+    Discharge/Continuing Care, Referral/Care Coordination,
+    Interprofessional Collaboration, Culturally Responsive Practice,
+    Person-Centered/Trauma-Informed Approaches, Psychoeducation, Harm
+    Reduction Application, Telehealth Delivery).
+  \end{itemize}
+\item
+  \textbf{Dimension: Professional, Ethical, and Legal Practice (Domain 4
+  derived)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions (Examples):} KSAOs 51-65 (Knowledge and Skills
+    in Documentation, Ethics/Boundaries/Scope of Practice, Multicultural
+    Counseling, Confidentiality/Informed Consent, Client
+    Rights/Grievances, Supervision/Consultation, Self-Care/Burnout
+    Prevention).
+  \end{itemize}
+\item
+  \textbf{Dimension: Core Cognitive and Professional Abilities
+  (Cross-Cutting Abilities A1-A5)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These abilities (e.g., Synthesize Complex Info, Critical Thinking,
+    Individualize Treatment, Virtual Engagement, Tech Adaptability)
+    underpin performance across all other dimensions.
+  \end{itemize}
+\item
+  \textbf{Dimension: Foundational Professional Characteristics
+  (Cross-Cutting Other Characteristics O1-O8)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These characteristics (e.g., Self-Awareness, Cultural Humility,
+    Ethical Integrity, Recovery-Oriented Mindset, Lifelong Learning,
+    Empathy, Commitment to Self-Care) shape the counselor's approach and
+    effectiveness.
+  \end{itemize}
+\end{enumerate}
+
+\textbf{II. Developmental Sequence:}
+
+The acquisition and development of these KSAOs generally follow a
+sequence:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Foundational Stage:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Development of core \textbf{Other Characteristics} (O1-O8,
+    especially Empathy, Ethical Integrity, Self-Awareness, Cultural
+    Humility).
+  \item
+    Acquisition of fundamental \textbf{Knowledge} (Domain 1 KSAOs:
+    Terminology, basic SUD concepts, Stigma, Recovery Principles).
+  \item
+    Development of basic \textbf{Abilities} like A2 (Critical Thinking).
+  \end{itemize}
+\item
+  \textbf{Knowledge Expansion Stage:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Deeper understanding of specialized \textbf{Knowledge} (Domain 1:
+    Neurobiology, Pharmacology, Co-occurring conditions, specific models
+    like SOC, Trauma-Informed Care, Harm Reduction; Domain 4: Ethics,
+    Laws, Client Rights). This requires A1 (Ability to Synthesize
+    Complex Info).
+  \end{itemize}
+\item
+  \textbf{Core Clinical Skills Development Stage:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Learning and practicing foundational \textbf{Skills} for client
+    engagement (Domain 3: KSAO 46 - Therapeutic Communication/Rapport
+    Building).
+  \item
+    Developing \textbf{Skills} in assessment and diagnosis (Domain 2:
+    KSAO 17 - Clinical Interviewing; KSAO 19 - Using Assessment
+    Instruments; KSAO 23 - Assessment, Diagnosis, Case
+    Conceptualization; KSAO 26 - Clinical Decision-Making). This relies
+    heavily on Domain 1 knowledge and A1/A2 abilities.
+  \end{itemize}
+\item
+  \textbf{Intervention Skills Application Stage:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Acquiring \textbf{Knowledge} of various EBPs and intervention
+    strategies (Domain 3: KSAO 27 - Knowledge of EBPs, KSAO 31 - Relapse
+    Prevention, KSAO 34 - Group Counseling, KSAO 36 - MI).
+  \item
+    Developing \textbf{Skills} in applying these interventions (Domain
+    3: KSAO 28 - Applying EBPs, KSAO 30 - Treatment Planning, KSAO 33 -
+    Teaching Coping Skills, KSAO 35 - Group Facilitation, KSAO 37 - MI
+    Skills, KSAO 39 - Crisis Intervention, KSAO 47 -
+    Person-Centered/Trauma-Informed Practices). This stage involves A3
+    (Ability to Individualize Treatment).
+  \end{itemize}
+\item
+  \textbf{Professional Practice and Systems Navigation Stage:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Mastering \textbf{Skills} related to documentation, referrals,
+    collaboration, and ethical practice in complex situations (Domain 3:
+    KSAO 43 - Referrals/Care Coordination, KSAO 44 - Interprofessional
+    Collaboration; Domain 4: KSAO 52 - Documentation, KSAO 54 -
+    Boundaries/Scope, KSAO 56 - Culturally Responsive Practice, KSAO 58
+    - Confidentiality/Informed Consent, KSAO 63 - Utilizing Supervision,
+    KSAO 65 - Self-Care).
+  \item
+    If applicable, developing specialized skills like KSAO 50
+    (Telehealth Delivery), supported by A4/A5 abilities and O8.
+  \end{itemize}
+\item
+  \textbf{Continuous Refinement Stage:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Ongoing commitment to O5 (Lifelong Learning), O1 (Self-Awareness),
+    O2 (Cultural Humility), and O7 (Self-Care) to maintain and enhance
+    competence throughout one's career.
+  \end{itemize}
+\end{enumerate}
+
+\textbf{III. KSAOs Serving as Foundations for Others (Examples):}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{O1 (Self-Awareness), O3 (Ethical Integrity), O6 (Empathy):}
+  Foundational for almost all client-facing skills and professional
+  conduct.
+\item
+  \textbf{KSAO 1 (Knowledge of SUD Terminology):} Prerequisite for
+  understanding nearly all other SUD-specific knowledge and for
+  effective communication.
+\item
+  \textbf{Domain 1 KSAOs (Scientific Knowledge):} Collectively provide
+  the theoretical and empirical basis for assessment (Domain 2) and
+  treatment (Domain 3) KSAOs.
+\item
+  \textbf{KSAO 46 (Skill in Therapeutic Communication and Rapport
+  Building):} Essential foundation for effective interviewing,
+  assessment, all counseling interventions, and collaboration.
+\item
+  \textbf{KSAO 23 (Skill in SUD Assessment, Diagnosis, and Case
+  Conceptualization):} Prerequisite for effective KSAO 30 (Treatment
+  Planning) and selection of appropriate interventions.
+\item
+  \textbf{KSAO 53 (Knowledge of Professional Ethics, Boundaries, and
+  Scope of Practice):} Underpins all professional actions and skills in
+  Domain 4.
+\item
+  \textbf{KSAO 55 (Knowledge of Multicultural Counseling/Cultural
+  Humility):} Foundational for KSAO 56 (Skill in Culturally Responsive
+  Practice) and influences the application of all other clinical skills.
+\end{itemize}
+
+This comprehensive framework provides a robust map of the KSAOs required
+for competent SUD counseling, based on the integration of the provided
+analyses. It highlights the multifaceted nature of the profession,
+blending deep knowledge, refined skills, critical abilities, and
+essential personal characteristics.
+
+\section{Hierarchical Structure and Developmental
+Relationships}\label{hierarchical-structure-and-developmental-relationships}
+
+This section presents the hierarchical organization of KSAOs, showing
+how they relate to each other in terms of:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Dimensions vs.~Sub-dimensions}: Major competency domains and
+  their components
+\item
+  \textbf{Developmental Sequences}: The logical progression for
+  acquiring competencies
+\item
+  \textbf{Foundational Relationships}: Which KSAOs serve as
+  prerequisites for others
+\end{enumerate}
+
+\subsubsection{Hierarchical Structure and Developmental Relationships
+Among
+KSAOs}\label{hierarchical-structure-and-developmental-relationships-among-ksaos-1}
+
+\textbf{I. Dimensions and Sub-dimensions:}
+
+The KSAO framework can be broadly organized into the following
+interacting dimensions, largely aligning with the IC\&RC Performance
+Domains, with the addition of overarching abilities and characteristics:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Dimension: Foundational Scientific and Contextual Knowledge
+  (Domain 1 derived)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions (Examples):} KSAOs 1-15 (Knowledge of SUD
+    Terminology, Neurobiology, Pharmacology, Co-occurring Conditions,
+    Recovery Principles, Trauma, Stigma, SDOH, Harm Reduction, Treatment
+    Systems, etc.)
+  \end{itemize}
+\item
+  \textbf{Dimension: Clinical Assessment and Diagnostic Competencies
+  (Domain 2 derived)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions (Examples):} KSAOs 16-26 (Knowledge and Skills
+    in Interviewing, Screening/Assessment Instruments, Diagnostic
+    Criteria Application, Case Conceptualization, Level of Care
+    Determination, Clinical Decision-Making).
+  \end{itemize}
+\item
+  \textbf{Dimension: Therapeutic Interventions and Service Delivery
+  (Domain 3 derived)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions (Examples):} KSAOs 27-50 (Knowledge and Skills
+    in EBPs, Treatment Planning, Relapse Prevention, Coping Skills,
+    Group Counseling, Motivational Interviewing, Crisis Intervention,
+    Discharge/Continuing Care, Referral/Care Coordination,
+    Interprofessional Collaboration, Culturally Responsive Practice,
+    Person-Centered/Trauma-Informed Approaches, Psychoeducation, Harm
+    Reduction Application, Telehealth Delivery).
+  \end{itemize}
+\item
+  \textbf{Dimension: Professional, Ethical, and Legal Practice (Domain 4
+  derived)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Sub-dimensions (Examples):} KSAOs 51-65 (Knowledge and Skills
+    in Documentation, Ethics/Boundaries/Scope of Practice, Multicultural
+    Counseling, Confidentiality/Informed Consent, Client
+    Rights/Grievances, Supervision/Consultation, Self-Care/Burnout
+    Prevention).
+  \end{itemize}
+\item
+  \textbf{Dimension: Core Cognitive and Professional Abilities
+  (Cross-Cutting Abilities A1-A5)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These abilities (e.g., Synthesize Complex Info, Critical Thinking,
+    Individualize Treatment, Virtual Engagement, Tech Adaptability)
+    underpin performance across all other dimensions.
+  \end{itemize}
+\item
+  \textbf{Dimension: Foundational Professional Characteristics
+  (Cross-Cutting Other Characteristics O1-O8)}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These characteristics (e.g., Self-Awareness, Cultural Humility,
+    Ethical Integrity, Recovery-Oriented Mindset, Lifelong Learning,
+    Empathy, Commitment to Self-Care) shape the counselor's approach and
+    effectiveness.
+  \end{itemize}
+\end{enumerate}
+
+\textbf{II. Developmental Sequence:}
+
+The acquisition and development of these KSAOs generally follow a
+sequence:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Foundational Stage:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Development of core \textbf{Other Characteristics} (O1-O8,
+    especially Empathy, Ethical Integrity, Self-Awareness, Cultural
+    Humility).
+  \item
+    Acquisition of fundamental \textbf{Knowledge} (Domain 1 KSAOs:
+    Terminology, basic SUD concepts, Stigma, Recovery Principles).
+  \item
+    Development of basic \textbf{Abilities} like A2 (Critical Thinking).
+  \end{itemize}
+\item
+  \textbf{Knowledge Expansion Stage:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Deeper understanding of specialized \textbf{Knowledge} (Domain 1:
+    Neurobiology, Pharmacology, Co-occurring conditions, specific models
+    like SOC, Trauma-Informed Care, Harm Reduction; Domain 4: Ethics,
+    Laws, Client Rights). This requires A1 (Ability to Synthesize
+    Complex Info).
+  \end{itemize}
+\item
+  \textbf{Core Clinical Skills Development Stage:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Learning and practicing foundational \textbf{Skills} for client
+    engagement (Domain 3: KSAO 46 - Therapeutic Communication/Rapport
+    Building).
+  \item
+    Developing \textbf{Skills} in assessment and diagnosis (Domain 2:
+    KSAO 17 - Clinical Interviewing; KSAO 19 - Using Assessment
+    Instruments; KSAO 23 - Assessment, Diagnosis, Case
+    Conceptualization; KSAO 26 - Clinical Decision-Making). This relies
+    heavily on Domain 1 knowledge and A1/A2 abilities.
+  \end{itemize}
+\item
+  \textbf{Intervention Skills Application Stage:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Acquiring \textbf{Knowledge} of various EBPs and intervention
+    strategies (Domain 3: KSAO 27 - Knowledge of EBPs, KSAO 31 - Relapse
+    Prevention, KSAO 34 - Group Counseling, KSAO 36 - MI).
+  \item
+    Developing \textbf{Skills} in applying these interventions (Domain
+    3: KSAO 28 - Applying EBPs, KSAO 30 - Treatment Planning, KSAO 33 -
+    Teaching Coping Skills, KSAO 35 - Group Facilitation, KSAO 37 - MI
+    Skills, KSAO 39 - Crisis Intervention, KSAO 47 -
+    Person-Centered/Trauma-Informed Practices). This stage involves A3
+    (Ability to Individualize Treatment).
+  \end{itemize}
+\item
+  \textbf{Professional Practice and Systems Navigation Stage:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Mastering \textbf{Skills} related to documentation, referrals,
+    collaboration, and ethical practice in complex situations (Domain 3:
+    KSAO 43 - Referrals/Care Coordination, KSAO 44 - Interprofessional
+    Collaboration; Domain 4: KSAO 52 - Documentation, KSAO 54 -
+    Boundaries/Scope, KSAO 56 - Culturally Responsive Practice, KSAO 58
+    - Confidentiality/Informed Consent, KSAO 63 - Utilizing Supervision,
+    KSAO 65 - Self-Care).
+  \item
+    If applicable, developing specialized skills like KSAO 50
+    (Telehealth Delivery), supported by A4/A5 abilities and O8.
+  \end{itemize}
+\item
+  \textbf{Continuous Refinement Stage:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Ongoing commitment to O5 (Lifelong Learning), O1 (Self-Awareness),
+    O2 (Cultural Humility), and O7 (Self-Care) to maintain and enhance
+    competence throughout one's career.
+  \end{itemize}
+\end{enumerate}
+
+\textbf{III. KSAOs Serving as Foundations for Others (Examples):}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{O1 (Self-Awareness), O3 (Ethical Integrity), O6 (Empathy):}
+  Foundational for almost all client-facing skills and professional
+  conduct.
+\item
+  \textbf{KSAO 1 (Knowledge of SUD Terminology):} Prerequisite for
+  understanding nearly all other SUD-specific knowledge and for
+  effective communication.
+\item
+  \textbf{Domain 1 KSAOs (Scientific Knowledge):} Collectively provide
+  the theoretical and empirical basis for assessment (Domain 2) and
+  treatment (Domain 3) KSAOs.
+\item
+  \textbf{KSAO 46 (Skill in Therapeutic Communication and Rapport
+  Building):} Essential foundation for effective interviewing,
+  assessment, all counseling interventions, and collaboration.
+\item
+  \textbf{KSAO 23 (Skill in SUD Assessment, Diagnosis, and Case
+  Conceptualization):} Prerequisite for effective KSAO 30 (Treatment
+  Planning) and selection of appropriate interventions.
+\item
+  \textbf{KSAO 53 (Knowledge of Professional Ethics, Boundaries, and
+  Scope of Practice):} Underpins all professional actions and skills in
+  Domain 4.
+\item
+  \textbf{KSAO 55 (Knowledge of Multicultural Counseling/Cultural
+  Humility):} Foundational for KSAO 56 (Skill in Culturally Responsive
+  Practice) and influences the application of all other clinical skills.
+\end{itemize}
+
+This comprehensive framework provides a robust map of the KSAOs required
+for competent SUD counseling, based on the integration of the provided
+analyses. It highlights the multifaceted nature of the profession,
+blending deep knowledge, refined skills, critical abilities, and
+essential personal characteristics.
+
+\section{Applications for Workforce
+Development}\label{applications-for-workforce-development}
+
+The integrated KSAO framework presented in this document can be applied
+in multiple ways to enhance workforce development in the field of
+substance use disorder counseling:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Curriculum Design}: Educational institutions can use this
+  framework to design comprehensive training programs that
+  systematically address all required competencies.
+\item
+  \textbf{Certification Standards}: Certification bodies can align
+  requirements with evidence-based KSAOs rather than solely focusing on
+  knowledge or hours of training.
+\item
+  \textbf{Professional Development}: Practitioners can identify gaps in
+  their skill set and target specific areas for improvement.
+\item
+  \textbf{Supervision Focus}: Clinical supervisors can use the framework
+  to provide structured guidance for developing counselors.
+\item
+  \textbf{Assessment Tools}: The framework provides a foundation for
+  developing assessment instruments to measure counselor competency.
+\end{enumerate}
+
+\section{Conclusion}\label{conclusion}
+
+This integrated KSAO framework represents a significant advancement in
+understanding the competencies required for effective substance use
+disorder counseling. By systematically extracting and organizing KSAOs
+from authoritative textbook material, this project demonstrates how
+AI-assisted analysis can support evidence-based workforce development.
+
+The framework highlights the complex, multifaceted nature of SUD
+counseling, requiring a diverse set of knowledge areas, clinical and
+interpersonal skills, cognitive abilities, and professional
+characteristics. It also reveals the developmental nature of these
+competencies, with clear progression pathways and foundational
+relationships.
+
+Future work should extend this analysis to the remaining textbook
+chapters to create a truly comprehensive framework, followed by
+validation studies with subject matter experts and practicing
+counselors.
+
+
+
+
+\end{document}
